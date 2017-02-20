@@ -14,5 +14,5 @@ city_state: "Portland, OR"
 zip: "97214"
 applemap: https://maps.apple.com/?q=2044%20E%20Burnside%20St,%20Portland,%20OR
 googlemap: https://www.google.com/maps/place/2044+E+Burnside+St,+Portland,+OR/
-tel: "<!--sse--><a href='tel:+1-503-928-4182'>(503) 928-4182</a><!--/sse-->"
-email: "<a href='mailto:info@CDavidMaxey.com'>info@CDavidMaxey.com</a>"
+tel: '<!--sse--><a href="tel:+1-503-928-4182">+1 (503) 928-4182</a><!--/sse-->'
+mailto: '<a href="mailto:info@CDavidMaxey.com">info@CDavidMaxey.com</a>'
