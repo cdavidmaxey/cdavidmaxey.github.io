@@ -1,0 +1,32 @@
+/* humanstxt.org */
+
+/* PROGRAMMER */
+
+Programmer: C. David Maxey
+Contact: CDavidMaxey.com
+Location: Portland, Oregon, USA
+
+/* CREATIVE COMMONS ATTRIBUTIONS */
+/* All content used via Creative Commons SA (ShareAlike) licenses are distributed under the same license as the original. */
+
+/* Credits for media used in blog posts are displayed under the blog post's first image when hovering or clicking on the first image. */
+
+love-makes-a-family.jpg is an unendorsed adaptation of "Families are made with hearts filled with love" by Purple Sherbet Photography [CC-BY-2.0 (creativecommons.org/licenses/by/2.0)] via flickr.com/photos/purplesherbet/11997048715
+equality-peace-and-love.jpg is an unendorsed adaptation of "We must teach the children of the world equality, peace, and love" by Purple Sherbet Photography [CC-BY-2.0 (creativecommons.org/licenses/by/2.0)] via flickr.com/photos/purplesherbet/10713802043
+Handmade-Paper.png is "Handmade paper" by Le Marquis [CC-BY-SA-3.0 (creativecommons.org/licenses/by-sa/3.0)] via SubtlePatterns.com/handmade-paper
+email.svg is an unendorsed adaptation of "email" by Ron Hogue [CC-BY-3.0-US (creativecommons.org/licenses/by/3.0/us)] via TheNounProject.com/term/email/1550
+signature.svg is an unendorsed adaptation of "signature" by riyazali [CC-BY-3.0-US (creativecommons.org/licenses/by/3.0/us)] via TheNounProject.com/term/signature/150755 
+cash.svg is an unendorsed adaptation of "Money" by Aha-Soft [CC-BY-3.0-US (creativecommons.org/licenses/by/3.0/us)] via TheNounProject.com/term/money/165534/
+check.svg is an unendorsed adaptation of "Check" by Nick Dominguez [CC-BY-3.0-US (creativecommons.org/licenses/by/3.0/us)] via TheNounProject.com/term/check/162531/
+
+/* THANKS */
+
+W3Schools.com
+
+/* SITE TECHNOLOGY */
+
+Language: English
+Standards: HTML5, CSS3, Schema.org, SSL
+Components: HTML5Boilerplate.com, Semantic-UI.com, FontAwesome.io, jQuery.com, LunrJS.com
+Services: Pages.GitHub.com, favicomatic.com
+Software: Brackets.io, CyberDuck.io, Mac.GitHub.com, JekyllRB.com, IcoMoon.io, Pixelmator.com, ImageOptim.com, SVGo

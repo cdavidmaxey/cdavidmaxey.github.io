@@ -1,0 +1,13 @@
+---
+---
+User-agent: *
+Disallow: /404.html
+Disallow: /CNAME
+Disallow: /humans.txt
+Disallow: /README.md
+Disallow: /secret/
+Disallow: /email/
+Disallow: /consent.pdf
+Disallow: /privacy.pdf
+Disallow: /release.pdf
+Sitemap: {{site.url}}/sitemap.xml
