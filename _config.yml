@@ -9,10 +9,10 @@ url: https://cdavidmaxey.com
 cache: https://cache.cdmaxey.com
 video: https://d21zrsmzxdylmx.cloudfront.net
 author: C. David Maxey
-address: "715 NW Hoyt St #5611"
+address: "2044 E Burnside St"
 city_state: "Portland, OR"
-zip: "97228"
-apple: http://maps.apple.com/?q=715%20NW%20Hoyt%20St,%20Portland,%20OR
-google: https://www.google.com/maps/place/715+NW+Hoyt+St,+Portland,+OR/
+zip: "97214"
+applemap: https://maps.apple.com/?q=2044%20E%20Burnside%20St,%20Portland,%20OR
+googlemap: https://www.google.com/maps/place/2044+E+Burnside+St,+Portland,+OR/
 tel: "<!--sse--><a href='tel:+1-503-928-4182'>(503) 928-4182</a><!--/sse-->"
 email: "<a href='mailto:info@CDavidMaxey.com'>info@CDavidMaxey.com</a>"
