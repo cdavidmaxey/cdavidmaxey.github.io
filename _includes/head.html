@@ -2,9 +2,12 @@
 		<meta charset="utf-8">
 		<script async src="https://cdn.ampproject.org/v0.js"></script>
 		<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>{% if page.youtube %}
-		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}
+		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}{% if page.video %}
+		<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>{% endif %}
 		<title>{{page.title}}</title>
-		<link rel="canonical" href="https://cdavidmaxey.com/amp.html" />
+		<link rel="canonical" href="{{site.url}}{{page.url}}" />{% if page.url contains '/blog/' %}{% if paginator.previous_page %}
+		<link rel="prev" href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}">{% endif %}{% if paginator.next_page %}
+		<link rel="next" href="{{site.url}}{{paginator.next_page_path}}">{% endif %}{% endif %}
 		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">{{page.schema}}
 		<style amp-custom>
 			html{background-color:gray}
@@ -152,6 +155,7 @@
 		<meta name="keywords" content="{{page.keywords}}">{% endif %}
 		<meta name="robots" content="noarchive">
 		<meta name="author" content="{{site.author}}">
+		<link rel="author" href="{{site.url}}/humans.txt">
 		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdavidmaxey.com/apple-touch-icon-57x57.png" />
 		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdavidmaxey.com/apple-touch-icon-114x114.png" />
 		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdavidmaxey.com/apple-touch-icon-72x72.png" />
