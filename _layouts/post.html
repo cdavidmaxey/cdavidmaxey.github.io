@@ -1,7 +1,7 @@
 ---
 ---
 <!doctype html>{% capture mercury %}{% for tag in site.tags %}{% if tag[1].size > 9 %}{{tag[1].size}}{% else %}{{tag[1].size | prepend: '0'}}{% endif %}|{{tag[0]}}^{% endfor %}{% endcapture %}{% assign size_tag = mercury | split:'^' | sort %}
-<html ⚡ lang="en">{% capture venus %}{% for waldo in size_tag reversed %}{{waldo}}|{% cycle 'size_tag_color_cycle': 'red', 'orange', 'yellow', 'olive', 'green', 'teal', 'blue', 'violet', 'purple', 'pink' %}^{% endfor %}{% endcapture %}{% assign size_tag_color = venus | split:'^' | sort %}
+<html ⚡ lang="en">{% capture venus %}{% for odlaw in size_tag reversed %}{{odlaw}}|{% cycle 'size_tag_color_cycle': 'red', 'orange', 'yellow', 'olive', 'green', 'teal', 'blue', 'violet', 'purple', 'pink' %}^{% endfor %}{% endcapture %}{% assign size_tag_color = venus | split:'^' | sort %}
 {% include head.html %}
 	<body>
 {% include navbar.html %}
@@ -17,7 +17,7 @@
 					<div class="credits">{{page.credits}}</div>{% endif %}
 					<h4>{{page.title}}</h4>
 					{{content}}
-					{% for tag in page.tags %}{% for waldo in size_tag %}{% if waldo[1] == tag %}{% if waldo[0] > 1 %}<a class="tag" href="{{site.url}}/search/#{{tag | slugify}}">{{tag}} {{waldo[0]}}</a>{% else %}<div class="tag">{{tag}} {{waldo[0]}}</div>{% endif %}{% endif %}{% endfor %}{% endfor %}
+					{% for tag in page.tags %}{% for wenda in size_tag %}{% if wenda[1] == tag %}{% if wenda[0] > 1 %}<a class="tag" href="{{site.url}}/search/#{{tag | slugify}}">{{tag}} {{wenda[0]}}</a>{% else %}<div class="tag">{{tag}} {{wenda[0]}}</div>{% endif %}{% endif %}{% endfor %}{% endfor %}
 					<nav class="pagination">{% if page.next.url %}
 						<a class="item" href="{{site.url}}{{page.next.url}}">Newer Post</a>{% endif %}{% if page.previous.url %}
 						<a class="item" href="{{site.url}}{{page.previous.url}}">Older Post</a>{% endif %}
