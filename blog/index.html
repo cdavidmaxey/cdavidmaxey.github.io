@@ -13,7 +13,7 @@ description: ""
 {% include navbar.html %}
 		<main>
 			<section class="blog">{% for post in paginator.posts %}
-				<a class="card" href="#">
+				<a class="card" href="{{site.url}}{{post.url}}">
 					<amp-img src="{{site.cache}}/320/{{post.thumb}}" srcset="{{site.cache}}/320/{{post.thumb}} 320w,{{site.cache}}/640/{{post.thumb}} 640w,{{site.cache}}/1280/{{post.thumb}} 1280w" width="thumbX" height="thumbY" layout="responsive"></amp-img>
 					<header>{{post.title}}</header>
 					<p>{{post.description}}</p>
