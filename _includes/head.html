@@ -1,7 +1,7 @@
 	<head>
 		<meta charset="utf-8">
 		<script async src="https://cdn.ampproject.org/v0.js"></script>
-		<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>{% if page.youtube.id %}
+		<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>{% if page.youtube | map: "id" %}
 		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}
 		<title>{{page.title}}</title>
 		<link rel="canonical" href="https://cdavidmaxey.com/amp.html" />
