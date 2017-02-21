@@ -7,9 +7,9 @@ alt: "anger disgust fear joy and sadness from inside out"
 thumb: "anger-disgust-fear-joy-and-sadness-from-inside-out.jpg"
 thumbX: 1
 thumbY: 1
-image: "anger-disgust-fear-joy-and-sadness-from-inside-out.jpg"
-imageX: 1
-imageY: 1
+image: 
+imageX: 
+imageY: 
 video:
 videoX:
 videoY:
