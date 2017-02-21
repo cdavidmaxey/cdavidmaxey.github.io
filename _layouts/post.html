@@ -7,13 +7,13 @@
 {% include navbar.html %}
 		<main>
 			<section class="post">
-				<div>{% if page.video.src %}
-					<amp-video width="{{page.video.x}}" height="{{page.video.y}}" src="{{site.cache}}/videos/{{page.video.src}}" poster="{{site.cache}}/1280/{{page.image.src}}">
+				<div>{% if page.video | map: 'src' %}
+					<amp-video width="{{page.video | map: 'x'}}" height="{{page.video | map: 'y'}}" src="{{site.cache}}/videos/{{page.video | map: 'src'}}" poster="{{site.cache}}/1280/{{page.image | map: 'src'}}">
 						<div fallback><p>Your browser doesn’t support this modern feature. Check your browser version and upgrade options at <a rel="nofollow" href="https://whatbrowser.org/">WhatBrowser.org</a></p></div>
-						<source type="video/mp4" src="{{site.cache}}/video/{{page.video.src}}">
-					</amp-video>{% elsif page.image.src %}
-					<amp-img alt="{{page.alt}}" src="{{site.cache}}/320/{{page.image.src}}" srcset="{{site.cache}}/320/{{page.image.src}} 320w,{{site.cache}}/640/{{page.image.src}} 640w,{{site.cache}}/1280/{{page.image.src}} 1280w,{{site.cache}}/1920/{{page.image.src}} 1920w" layout="responsive" width="{{page.image.x}}" height="{{page.image.y}}"></amp-img>{% endif %}{% if page.youtube.id %}
-					<amp-youtube data-videoid="{{page.youtube.id}}" layout="responsive" width="{{page.youtube.x}}" height="{{page.youtube.y}}"{% for variable in page.variables %} data-param-{{variable}}{% endfor %}></amp-youtube>{% endif %}{% if page.credits %}
+						<source type="video/mp4" src="{{site.cache}}/video/{{page.video | map: 'src'}}">
+					</amp-video>{% elsif page.image | map: 'src' %}
+					<amp-img alt="{{page.alt}}" src="{{site.cache}}/320/{{page.image | map: 'src'}}" srcset="{{site.cache}}/320/{{page.image | map: 'src'}} 320w,{{site.cache}}/640/{{page.image | map: 'src'}} 640w,{{site.cache}}/1280/{{page.image | map: 'src'}} 1280w,{{site.cache}}/1920/{{page.image | map: 'src'}} 1920w" layout="responsive" width="{{page.image | map: 'x'}}" height="{{page.image | map: 'y'}}"></amp-img>{% endif %}{% if page.youtube.id %}
+					<amp-youtube data-videoid="{{page.youtube | map: 'id'}}" layout="responsive" width="{{page.youtube | map: 'x'}}" height="{{page.youtube | map: 'y'}}"{% for variable in page.variables %} data-param-{{variable}}{% endfor %}></amp-youtube>{% endif %}{% if page.credits %}
 					<div class="credits">{{page.credits}}</div>{% endif %}
 					<h4>{{page.title}}</h4>
 					{{content}}
