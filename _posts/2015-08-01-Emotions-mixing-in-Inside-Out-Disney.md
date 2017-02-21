@@ -30,5 +30,6 @@ title: "Emotions mixing in Disney’s Inside Out"
 description: "A mix of emotions."
 tags:
 - Media
+- ETC
 ---
 A mix of emotions.

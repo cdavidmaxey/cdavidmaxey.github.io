@@ -17,6 +17,7 @@ title: "Helping with school projects as your child takes charge"
 description: "School projects"
 tags:
 - School
+- ETC
 ---
 <blockquote cite="http://parenting.blogs.nytimes.com/2015/11/11/when-a-childs-project-shows-a-parental-hand-at-work/"><div>
 	<p>We’ve all been there, usually around 11 on the night before a child’s project is due, reluctantly stepping over the line between helping and taking over. It starts out innocently enough, as, “Here, let me help you cut those last pieces out so you can get to bed,” and quickly snowballs into a lie, a Ph.D. dissertation in third-grade handwriting.</p>

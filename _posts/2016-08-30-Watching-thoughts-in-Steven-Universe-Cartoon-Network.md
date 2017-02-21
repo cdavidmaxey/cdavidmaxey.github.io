@@ -27,6 +27,7 @@ title: "Watching thoughts in Steven Universe (Cartoon Network)"
 description: "Mindfulness"
 tags:
 - Mindfulness
+- ETC
 ---
 Steven Universe is an animated coming-of-age television series about the youngest member of a team of magical guardians of the universe. The “Mindful Education” episode that aired on August 25<sup>th</sup>, 2016 shows Steven and Connie having difficulty making training progress because they are struggling with and running away from unpleasant thoughts and feelings. Garnet uses the song, “Here Comes a Thought” (embedded above), to help them learn that it’s okay to watch painful thoughts and feelings instead of trying to avoid them&mdash;this frees them to do what they need to do to make training progress. Cartoon Network subscribers can stream the full 11-minute episode on <a rel='nofollow' href='http://www.cartoonnetwork.com/video/steven-universe/mindful-education-episode.html'>CartoonNetwork.com</a>.
 
