@@ -28,7 +28,7 @@
 						<a class="card" href="#">
 							<amp-img src="{{site.cache}}/320/{{post.thumb.src}}" width="{{post.thumb.x}}" height="{{post.thumb.y}}" layout="responsive"></amp-img>
 							<header>{{post.title}}</header>
-							<p>{{post.excerpt}}</p>
+							<p>{{post.description}}</p>
 						</a>{% break %}{% endif %}{% endfor %}{% if counter >= site.paginate %}{% break %}{% endif %}{% endfor %}
 					</div>
 				</nav>
