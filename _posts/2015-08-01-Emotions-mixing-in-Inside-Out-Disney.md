@@ -14,8 +14,8 @@ video:
 videoX:
 videoY:
 youtube: "yRUAzGQ3nSY"
-youtubeX: 
-youtubeY:
+youtubeX: 16
+youtubeY: 9
 variables:
 - rel=0
 - showinfo=0
