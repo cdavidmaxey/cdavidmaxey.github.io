@@ -1,0 +1,39 @@
+---
+---
+<!doctype html>{% capture mercury %}{% for tag in site.tags %}{% if tag[1].size > 9 %}{{tag[1].size}}{% else %}{{tag[1].size | prepend: '0'}}{% endif %}|{{tag[0]}}^{% endfor %}{% endcapture %}{% assign size_tag = mercury | split:'^' | sort %}
+<html ⚡ lang="en">{% capture venus %}{% for waldo in size_tag reversed %}{{waldo}}|{% cycle 'size_tag_color_cycle': 'red', 'orange', 'yellow', 'olive', 'green', 'teal', 'blue', 'violet', 'purple', 'pink' %}^{% endfor %}{% endcapture %}{% assign size_tag_color = venus | split:'^' | sort %}
+{% include head.html %}
+	<body>
+{% include navbar.html %}
+		<main>
+			<section class="post">
+				<div>{% if page.video %}
+					<amp-video width="{{page.video.x}}" height="{{page.video.y}}" src="{{site.cache}}/videos/{{page.video.src}}" poster="{{site.cache}}/1280/{{page.image.src}}">
+						<div fallback><p>Your browser doesn’t support this modern feature. Check your browser version and upgrade options at <a rel="nofollow" href="https://whatbrowser.org/">WhatBrowser.org</a></p></div>
+						<source type="video/mp4" src="{{site.cache}}/video/{{page.video.src}}">
+					</amp-video>{% elsif page.image %}
+					<amp-img alt="{{page.alt}}" src="{{site.cache}}/320/{{page.image.src}}" srcset="{{site.cache}}/320/{{page.image.src}} 320w,{{site.cache}}/640/{{page.image.src}} 640w,{{site.cache}}/1280/{{page.image.src}} 1280w,{{site.cache}}/1920/{{page.image.src}} 1920w" layout="responsive" width="{{page.image.x}}" height="{{page.image.y}}"></amp-img>{% endif %}{% if page.youtube %}
+					<amp-youtube data-videoid="{{page.youtube.id}}" layout="responsive" width="{{page.youtube.x}}" height="{{page.youtube.y}}"{% for variable in page.variables %} data-param-{{variable}}{% endfor %}></amp-youtube>{% endif %}{% if page.credits %}
+					<div class="credits">{{page.credits}}</div>{% endif %}
+					<h4>{{page.title}}</h4>
+					{{content}}
+					{% for tag in page.tags %}{% for waldo in size_tag %}{% if waldo[1] == tag %}{% if waldo[0] > 1 %}<a class="tag" href="{{site.url}}/search/#{{tag | slugify}}">{{tag}} {{waldo[0]}}</a>{% else %}<div class="tag">{{tag}} {{waldo[0]}}</div>{% endif %}{% endif %}{% endfor %}{% endfor %}
+					<nav class="pagination">{% if page.next.url %}
+						<a class="item" href="{{site.url}}{{page.next.url}}">Newer Post</a>{% endif %}{% if page.previous.url %}
+						<a class="item" href="{{site.url}}{{page.previous.url}}">Older Post</a>{% endif %}
+					</nav>
+				</div>
+				<nav class="related">
+					<div>{% assign counter = 0 %}{% for post in site.posts %}{% if post.id == page.id %}{% continue %}{% endif %}{% for tag in page.tags %}{% if post.tags contains tag %}{% assign counter = counter | plus: 1 %}
+						<a class="card" href="#">
+							<amp-img src="{{site.cache}}/320/{{post.thumb.src}}" width="{{post.thumb.x}}" height="{{post.thumb.y}}" layout="responsive"></amp-img>
+							<header>{{post.title}}</header>
+							<p>{{post.excerpt}}</p>
+						</a>{% break %}{% endif %}{% endfor %}{% if counter >= site.paginate %}{% break %}{% endif %}{% endfor %}
+					</div>
+				</nav>
+			</section>
+		</main>
+{% include footer.html %}
+	</body>
+</html>
