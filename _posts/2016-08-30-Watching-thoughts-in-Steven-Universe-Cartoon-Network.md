@@ -3,22 +3,18 @@ updated:
 layout: post
 published: TRUE
 alt: "Here comes a thought on Mindful Education episode of Steven Universe on Cartoon Network"
-thumb:
-- src: "here-comes-a-thought-on-mindful-education-episode-of-steven-universe-on-cartoon-network.jpg"
-- x: 320
-- y: 160
-image:
-- src: 
-- x: 
-- y: 
-video:
-- src: 
-- x: 
-- y: 
-youtube:
-- id: "dHg50mdODFM"
-- x: 16
-- y: 9
+thumb: "here-comes-a-thought-on-mindful-education-episode-of-steven-universe-on-cartoon-network.jpg"
+thumbX: 320
+thumbY: 160
+image: 
+imageX: 
+imageY: 
+video: 
+videoX: 
+videoY: 
+youtube: "dHg50mdODFM"
+youtubeX: 16
+youtubeY: 9
 variables: 
 - rel=0
 - showinfo=0
