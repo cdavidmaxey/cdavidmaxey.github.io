@@ -4,11 +4,11 @@ layout: post
 published: TRUE
 alt: "girl working on science project with parent"
 thumb: "girl working on science project with parent"
-thumb_width: 
-thumb_height: 
+thumbX: 1
+thumbY: 1
 image: "girl working on science project with parent"
-image_width: 
-image_height: 
+imageX: 1
+imageY: 1
 video:
 youtube:
 variables: 

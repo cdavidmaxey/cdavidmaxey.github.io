@@ -4,14 +4,18 @@ layout: post
 published: TRUE
 redirect_from: "/A-mix-of-emotions/"
 alt: "anger disgust fear joy and sadness from inside out"
-thumb: "anger disgust fear joy and sadness from inside out"
-thumb_width: 
-thumb_height: 
-image:
-image_width: 
-image_height: 
+thumb: "anger-disgust-fear-joy-and-sadness-from-inside-out.jpg"
+thumbX: 1
+thumbY: 1
+image: "anger-disgust-fear-joy-and-sadness-from-inside-out.jpg"
+imageX: 1
+imageY: 1
 video:
+videoX:
+videoY:
 youtube: "yRUAzGQ3nSY"
+youtubeX: 
+youtubeY:
 variables:
 - rel=0
 - showinfo=0
