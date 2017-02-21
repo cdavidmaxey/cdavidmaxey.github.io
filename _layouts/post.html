@@ -26,7 +26,7 @@
 				<nav class="related">
 					<div>{% assign counter = 0 %}{% for post in site.posts %}{% if post.id == page.id %}{% continue %}{% endif %}{% for tag in page.tags %}{% if post.tags contains tag %}{% assign counter = counter | plus: 1 %}
 						<a class="card" href="#">
-							<amp-img src="{{site.cache}}/320/{{post.thumb.src}}" width="{{post.thumb.x}}" height="{{post.thumb.y}}" layout="responsive"></amp-img>
+							<amp-img src="{{site.cache}}/390/{{post.thumb}}" width="{{post.thumbX}}" height="{{post.thumbY}}" layout="responsive"></amp-img>
 							<header>{{post.title}}</header>
 							<p>{{post.description}}</p>
 						</a>{% break %}{% endif %}{% endfor %}{% if counter >= site.paginate %}{% break %}{% endif %}{% endfor %}
