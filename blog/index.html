@@ -21,7 +21,7 @@ description: ""
 			</section>{% if paginator.total_pages > 1 %}
 			<nav>{% if paginator.previous_page %}
 				<a href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}">Newer</a>{% endif %}{% for page in (1..paginator.total_pages) %}{% if page == paginator.page %}
-				<div class="active">{{page}}</div>{% elsif page == 1 %}
+				<span class="active">{{page}}</span>{% elsif page == 1 %}
 				<a class="hide-mobile" href="{{site.url}}/blog/">{{page}}</a>{% else %}
 				<a class="hide-mobile" href="{{site.url}}/blog/page{{page}}/">{{page}}</a>{% endif %}{% endfor %}{% if paginator.next_page %}
 				<a href="{{site.url}}{{paginator.next_page_path}}">Older</a>{% endif %}

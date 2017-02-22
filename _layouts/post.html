@@ -11,9 +11,9 @@
 					<amp-video width="{{page.videoX}}" height="{{page.videoY}}" src="{{site.cache}}/videos/{{page.video}}" poster="{{site.cache}}/1280/{{page.image}}">
 						<div fallback><p>Your browser doesn’t support this modern feature. Check your browser version and upgrade options at <a rel="nofollow" href="https://whatbrowser.org/">WhatBrowser.org</a></p></div>
 						<source type="video/mp4" src="{{site.cache}}/video/{{page.video}}">
-					</amp-video>{% elsif page.image %}
-					<amp-img alt="{{page.alt}}" src="{{site.cache}}/320/{{page.image}}" srcset="{{site.cache}}/320/{{page.image}} 320w,{{site.cache}}/640/{{page.image}} 640w,{{site.cache}}/1280/{{page.image}} 1280w,{{site.cache}}/1920/{{page.image}} 1920w" layout="responsive" width="{{page.imageX}}" height="{{page.imageY}}"></amp-img>{% endif %}{% if page.youtube %}
-					<amp-youtube data-videoid="{{page.youtube}}" layout="responsive" width="{{page.youtubeX}}" height="{{page.youtubeY}}"{% for variable in page.variables %} data-param-{{variable}}{% endfor %}></amp-youtube>{% endif %}{% if page.credits %}
+					</amp-video>{% elsif page.youtube %}
+					<amp-youtube data-videoid="{{page.youtube}}" layout="responsive" width="{{page.youtubeX}}" height="{{page.youtubeY}}"{% for variable in page.variables %} data-param-{{variable}}{% endfor %}></amp-youtube>{% elsif page.image %}
+					<amp-img alt="{{page.alt}}" src="{{site.cache}}/320/{{page.image}}" srcset="{{site.cache}}/320/{{page.image}} 320w,{{site.cache}}/640/{{page.image}} 640w,{{site.cache}}/1280/{{page.image}} 1280w,{{site.cache}}/1920/{{page.image}} 1920w" layout="responsive" width="{{page.imageX}}" height="{{page.imageY}}"></amp-img>{% endif %}{% if page.credits %}
 					<div class="credits">{{page.credits}}</div>{% endif %}
 					<h4>{{page.title}}</h4>
 					{{content}}
