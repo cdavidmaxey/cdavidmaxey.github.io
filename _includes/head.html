@@ -114,7 +114,8 @@
 			.input{display:flex}
 			
 			/* .buttons */
-			.buttons>a,.buttons>span{border-radius:0}
+			.buttons{display:flex}
+			.buttons>a,.buttons>span{border:1px solid black;border-radius:0;padding:.5em}
 			.buttons>:first-child{border-radius:.25em 0 0 .25em}
 			.buttons>:last-child{border-radius:0 .25em .25em 0}
 			.colored.buttons>a,.colored.buttons>span{border:inherit 0}
@@ -124,25 +125,24 @@
 			/* .contact & .map */
 			.contact{margin:0 auto;display:flex;flex-flow:row wrap;justify-content:flex-start;max-width:640px;padding:0 .625rem;font-size:6vw;align-items:center}
 			@media(min-width:400px){.contact{font-size:24px}}
-			.contact>div{flex-grow:1;margin:.625rem 0;text-decoration:none;color:black;line-height:1.25}
-			.contact nav{display:flex;margin:.625rem 0;}
-			.contact a,.forms nav>div>a{border:1px solid black;padding:.5em}
+			.contact>div{flex-grow:1;margin:.625rem 0;line-height:1.25}
+			.contact .buttons{margin:.625rem 0}
 			.contact a:first-of-type{background:#999;fill:#fff}
 			.contact a:first-of-type:hover{background:#eee;fill:#999}
 			.contact a:last-of-type{background:#fff}
 			.contact a:last-of-type:hover{background:#eee}
-			.contact a>svg{height:7.5vw;width:7.5vw;vertical-align:text-bottom}
+			.contact svg{height:7.5vw;width:7.5vw;vertical-align:text-bottom}
+			@media(min-width:640px){.contact svg{height:48px;width:48px}}
 			.map{background:url('https://maps.googleapis.com/maps/api/staticmap?zoom=17&size=640x320&scale=2&markers=anchor:center%7Cicon:https://cdavidmaxey.com/favicon-32x32.png%7C2044+E+Burnside+St,Portland,OR&key=AIzaSyDCxo9x_qGwB3DbswOdJaEqbsMxEcalTgA') center center/auto 320px no-repeat local;height:320px}
-			@media(min-width:640px){.contact a>svg{height:48px;width:48px}}
 
 			/* .forms */
-			.forms{text-align:center;margin:0 auto;max-width:700px}
-			.forms nav{text-align:right;display:inline-block}
-			.forms nav>div{display:flex;flex-flow:row wrap;justify-content:flex-end;align-items:flex-end;text-align:center;margin:1rem 0}
-			.forms nav>div>a:first-of-type{background:#fff;color:black}
-			.forms nav>div>a:first-of-type:hover{background:#eee}
-			.forms nav>div>a:last-of-type{background:#9c27b0;color:white}
-			.forms nav>div>a:last-of-type:hover{background:#4a148c}
+			.forms{text-align:center}
+			.forms nav{display:inline-block}
+			.forms .buttons{margin:1rem 0;justify-content:flex-end}
+			.forms .buttons>:first-child{background:#fff;color:black}
+			.forms .buttons>:first-child:hover{background:#eee}
+			.forms .buttons>:last-child{background:#9c27b0;color:white}
+			.forms .buttons>:last-child:hover{background:#4a148c}
 			
 			/* .subscribe */
 			
