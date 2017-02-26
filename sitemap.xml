@@ -1,0 +1,16 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for post in site.posts %}<url>
+	<loc>{{site.url}}{{post.url}}</loc>
+	<lastmod>{% if post.updated %}{{post.updated | date_to_xmlschema}}{% else %}{{post.date | date_to_xmlschema}}{% endif %}</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>{% endfor %}
+{% for page in site.pages %}{% if page.sitemap.priority %}<url>
+	<loc>{{site.url}}{{page.url | remove: 'index.html'}}</loc>
+	<changefreq>{% if page.sitemap.changefreq %}{{page.sitemap.changefreq}}{% else %}monthly{% endif %}</changefreq>
+	<priority>{{page.sitemap.priority}}</priority>
+</url>{% endif %}{% endfor %}
+</urlset>
