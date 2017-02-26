@@ -19,7 +19,7 @@ description: ""
 					<p>{{post.description}}</p>
 				</a>{% endfor %}
 			</section>{% if paginator.total_pages > 1 %}
-			<nav class="buttons">{% if paginator.previous_page %}
+			<nav class="pager buttons">{% if paginator.previous_page %}
 				<a href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}">Newer</a>{% endif %}{% for page in (1..paginator.total_pages) %}{% if page == paginator.page %}
 				<a class="active">{{page}}</a>{% elsif page == 1 %}
 				<a class="hide-mobile" href="{{site.url}}/blog/">{{page}}</a>{% else %}
