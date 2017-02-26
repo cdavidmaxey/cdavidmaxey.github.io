@@ -16,8 +16,8 @@
 					<amp-img alt="{{page.alt}}" src="{{site.cache}}/320/{{page.image}}" srcset="{{site.cache}}/320/{{page.image}} 320w,{{site.cache}}/640/{{page.image}} 640w,{{site.cache}}/1280/{{page.image}} 1280w,{{site.cache}}/1920/{{page.image}} 1920w" layout="responsive" width="{{page.imageX}}" height="{{page.imageY}}"></amp-img>{% endif %}{% if page.credits %}
 					<div class="credits">{{page.credits}}</div>{% endif %}
 					<h4>{{page.title}}</h4>
-					{{content}}
-					{% for tag in page.tags %}{% for wenda in size_tag %}{% assign wilma = wenda | split:'|' %}{% if tag == wilma[1] %}{% if wilma[0] == "01" %}<div class="tag">{{tag}} {{wilma[0] | plus:0}}</div>{% else %}<a class="tag" href="{{site.url}}/search/#{{tag | slugify}}">{{tag}} {{wilma[0] | plus:0}}</a>{% endif %}{% endif %}{% endfor %}{% endfor %}
+					{{content}}{% if page.tags %}
+					<div class="tags">{% for tag in page.tags %}{% for wenda in size_tag %}{% assign wilma = wenda | split:'|' %}{% if tag == wilma[1] %}{% if wilma[0] == "01" %}<div class="tag">{{tag}} {{wilma[0] | plus:0}}</div>{% else %}<a class="tag" href="{{site.url}}/search/#{{tag | slugify}}">{{tag}} {{wilma[0] | plus:0}}</a>{% endif %}{% endif %}{% endfor %}{% endfor %}</div>{% endif %}
 					<nav class="pager buttons">{% if page.next.url %}
 						<a href="{{site.url}}{{page.next.url}}">Newer Post</a>{% endif %}{% if page.previous.url %}
 						<a href="{{site.url}}{{page.previous.url}}">Older Post</a>{% endif %}
