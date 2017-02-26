@@ -113,13 +113,16 @@
 			footer .notices{margin:1.5rem 0 0}
 			.input{display:flex}
 			
+			/* .buttons */
+			.buttons{border-radius:0}
+			.buttons>:first-child{border-radius:.25em 0 0 .25em}
+			.buttons>:last-child{border-radius:0 .25em .25em 0}
+			
 			/* .contact & .map */
 			.contact{margin:0 auto;display:flex;flex-flow:row wrap;justify-content:flex-start;max-width:640px;padding:0 .625rem;font-size:6vw;align-items:center}
 			@media(min-width:400px){.contact{font-size:24px}}
 			.contact>div{flex-grow:1;margin:.625rem 0;text-decoration:none;color:black;line-height:1.25}
 			.contact nav{display:flex;margin:.625rem 0;}
-			.contact a,.input input,.forms nav>div>a:first-of-type{border-radius:.25em 0 0 .25em}
-			.contact a+a,.input button,.forms nav>div>a:last-of-type{border-radius:0 .25em .25em 0}
 			.contact a,.forms nav>div>a{border:1px solid black;padding:.5em}
 			.contact a:first-of-type{background:#999;fill:#fff;border-right:0}
 			.contact a:first-of-type:hover{background:#eee;fill:#999}
