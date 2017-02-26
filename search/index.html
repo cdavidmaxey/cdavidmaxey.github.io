@@ -1,0 +1,17 @@
+---
+layout: page
+sitemap:
+  priority: 0.9
+  changefreq: monthly
+published: TRUE
+title: "Search | C. David Maxey, M.A."
+description: ""
+---
+<main>{% capture mercury %}{% for tag in site.tags %}{% if tag[1].size > 9 %}{{tag[1].size}}{% else %}{{tag[1].size | prepend: '0'}}{% endif %}|{{tag[0]}}^{% endfor %}{% endcapture %}{% assign size_tag = mercury | split:'^' | sort %}
+	<section class="text" id="search">{% capture venus %}{% for odlaw in size_tag reversed %}{{odlaw}}|{% cycle 'size_tag_color_cycle': 'red', 'orange', 'yellow', 'olive', 'green', 'teal', 'blue', 'violet', 'purple', 'pink' %}^{% endfor %}{% endcapture %}{% assign size_tag_color = venus | split:'^' | sort %}{% if page.tags %}
+		<div>{% for tag in size_tag_color reversed %}{% assign wenda = tag | split:'|' %}{% for post in site.posts %}{% if post.tags contains wenda[1] %}
+			<a href="{{site.url}}{{post.url}}">{{post.title}}</a>{% endif %}{% endfor %}
+		</div>
+		<div class="tags">{% for tag in size_tag_color reversed %}{% assign wilma = tag | split:'|' %}{% if wilma[0] == "01" %}<div class="tag">{{tag}} {{wilma[0] | plus:0}}</div>{% else %}<a class="tag" href="{{site.url}}/search/#{{tag | slugify}}">{{tag}} {{wilma[0] | plus:0}}</a>{% endif %}{% endfor %}</div>{% endif %}
+	</section>
+</main>
