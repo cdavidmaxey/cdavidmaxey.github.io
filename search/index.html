@@ -12,6 +12,6 @@ description: ""
 		<div>{% for tag in size_tag_color reversed %}{% assign wenda = tag | split:'|' %}{% for post in site.posts %}{% if post.tags contains wenda[1] %}
 			<a href="{{site.url}}{{post.url}}">{{post.title}}</a>{% endif %}{% endfor %}{% endfor %}
 		</div>
-		<div class="tags">{% for tag in size_tag_color reversed %}{% assign wilma = tag | split:'|' %}<a class="tag{% unless wilma[0] == '01' %} {{wilma[2]}}{% endif %}" href="{{site.url}}/search/#{{wilma[1] | slugify}}">{{wilma[1]}} {{wilma[0] | plus:0}}</a>{% endfor %}</div>{% endif %}
+		<div class="tags">{% for tag in size_tag_color reversed %}{% assign wilma = tag | split:'|' %}<a class="tag{% unless wilma[0] == '01' %} {{wilma[2]}}{% endunless %}" href="{{site.url}}/search/#{{wilma[1] | slugify}}">{{wilma[1]}} {{wilma[0] | plus:0}}</a>{% endfor %}</div>{% endif %}
 	</section>
 </main>
