@@ -3,14 +3,22 @@ updated:
 layout: post
 published: TRUE
 alt: "Girl working on science project with parent"
-thumb: "girl-working-on-science-project-with-parent.jpg"
-thumbX: 1
-thumbY: 1
-image: "girl-working-on-science-project-with-parent.jpg"
-imageX: 1
-imageY: 1
+thumb:
+  src: "girl-working-on-science-project-with-parent.jpg"
+  X: 1
+  Y: 1
+image:
+  src: "girl-working-on-science-project-with-parent.jpg"
+  X: 1
+  Y: 1
 video:
+  src: 
+  X: 
+  Y: 
 youtube:
+  id: 
+  X: 
+  Y: 
 variables: 
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.adobe.com/legal/terms.html'>&copy;</a>&nbsp;<a rel='nofollow' href='https://stock.adobe.com/stock-photo/teacher-overseeing-chemical-experiment-in-science-class/94589182'>Ilike</a>"
 title: "Helping with school projects as your child takes charge"
