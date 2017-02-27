@@ -13,8 +13,8 @@ description: ""
 			<amp-img src="{{site.cache}}/320/{{post.thumb.src}}" srcset="{{site.cache}}/320/{{post.thumb.src}} 320w,{{site.cache}}/640/{{post.thumb.src}} 640w,{{site.cache}}/1280/{{post.thumb.src}} 1280w" width="{{post.thumb.X}}" height="{{post.thumb.Y}}" layout="responsive"></amp-img>
 			<header>{{post.title}}</header>
 			<p>{{post.description}}</p>
-		</a>{% endif %}{% endfor %}{% endfor %}
-	</section>
+		</a>{% endif %}{% endfor %}
+	</section>{% endfor %}
 	<section class="text">
 		<div class="tags">{% for tag in size_tag_color reversed %}{% assign wilma = tag | split:'|' %}<a class="tag{% unless wilma[0] == '01' %} {{wilma[2]}}{% endunless %}" href="{{site.url}}/search/#{{wilma[1] | slugify}}">{{wilma[1]}} {{wilma[0] | plus:0}}</a>{% endfor %}</div>{% endif %}
 	</section>
