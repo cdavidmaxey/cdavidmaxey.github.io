@@ -1,7 +1,7 @@
 ---
 updated:
 layout: post
-published: TRUE
+published: FALSE
 alt: "Here comes a thought on Mindful Education episode of Steven Universe on Cartoon Network"
 thumb:
   src: "here-comes-a-thought-on-mindful-education-episode-of-steven-universe-on-cartoon-network.jpg"

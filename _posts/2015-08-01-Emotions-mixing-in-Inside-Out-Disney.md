@@ -1,7 +1,7 @@
 ---
 updated:
 layout: post
-published: TRUE
+published: FALSE
 redirect_from: "/A-mix-of-emotions/"
 alt: "anger disgust fear joy and sadness from inside out"
 thumb:
