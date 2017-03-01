@@ -31,8 +31,11 @@ redirect_from:
 <style amp-custom>
 body{background:black;font-family:"Open Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",Helvetica,Arial,Tahoma,sans-serif;font-size:16px;}
 main{margin:0 auto;padding:1rem 1rem .25rem;background:white url(https://cache.cdmaxey.com/x/Handmade-Paper.png) top/100px repeat}
-#web,#email,#tel{float:right}
-@media(min-width:54rem){main{margin:2rem auto;padding:3rem 3rem 2.25rem;max-width:44rem}#tel{float:left}#email{clear:both}}
+#webcv,#web,#email,#tel{text-align:right}
+@media(min-width:54rem){main{margin:2rem auto;padding:3rem 3rem 2.25rem;max-width:44rem}#tel{float:left}#email{float:right}}
+.print{display:none}
+@media print{.print{display:block}}
+#education{clear:both;}
 .center{text-align:center;}
 .hidden,[type="checkbox"]{display:none;}
 a{color:black;text-decoration:none;}
@@ -52,9 +55,6 @@ aside footer{font-size:.75em;}
 #name .suffix{font-size:19px;}
 #name [itemprop="honorificSuffix"]{color:#737373;}
 [type="checkbox"]:checked+aside{display:none;}
-.print{display:none;float:left}
-@media print{.print{display:block}}
-#education{clear:both;}
 </style>
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
 <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
@@ -91,7 +91,7 @@ aside footer{font-size:.75em;}
 <div class="center">
 	<div>Curriculum Vit&aelig;</div>
 	<p id="name" itemscope itemtype="http://schema.org/Person"><span itemprop="additionalName">C.</span>&nbsp;<span itemprop="alternateName"><span itemprop="givenName">David</span> <span itemprop="familyName">Maxey</span></span><span class="suffix">,&nbsp;<span itemprop="honorificSuffix">M.A.</span></span></p>
-	<p class="print"><a href="https://cdavidmaxey.com/cv/">CDavidMaxey.com/cv</a></p>
+	<p id="webcv" class="print"><a href="https://cdavidmaxey.com/cv/">CDavidMaxey.com/cv</a></p>
 	<p id="web"><a href="https://cdavidmaxey.com/">CDavidMaxey.com</a></p>
 	<p id="email"><a href="mailto:info@CDavidMaxey.com">info@CDavidMaxey.com</a></p>
 	<p id="tel"><a href="tel:+1-503-928-4182">+1 (503) 928-4182</a></p>
