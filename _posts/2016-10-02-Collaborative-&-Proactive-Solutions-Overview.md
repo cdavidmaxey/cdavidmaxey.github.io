@@ -33,7 +33,7 @@ credits: "<a rel='nofollow' href='https://youtu.be/jvzQQDfAL-Q'><em>Kids Do Well
 title: "Collaborative & Proactive Solutions: Overview"
 description: "Collaborative & Proactive Solutions is an empirically-supported, non-punitive, non-adversarial model for solving challenging behavior problems with kids."
 tags:
-- Collaborative & Proactive Solutions (CPS)
+- Collaborative & Proactive Solutions
 - Behaviorally Challenging Kids
 ---
 <blockquote><div>
