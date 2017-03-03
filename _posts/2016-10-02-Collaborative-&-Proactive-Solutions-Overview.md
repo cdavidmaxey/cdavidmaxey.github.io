@@ -1,4 +1,8 @@
 ---
+redirect_from:
+- "/CPS/"
+- "/cps/"
+- "/Cps/"
 updated:
 layout: post
 published: TRUE
