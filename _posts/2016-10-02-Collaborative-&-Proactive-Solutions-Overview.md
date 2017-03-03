@@ -2,13 +2,13 @@
 updated:
 layout: post
 published: TRUE
-alt: "The Explosive Child by Ross W. Green"
+alt: "The Explosive Child and L’enfant explosif by Ross W. Greene, Ph.D."
 thumb:
-  src: "The-Explosive-Child-by-Ross-W-Greene.jpg"
+  src: "The-Explosive-Child-and-Lenfant-explosif-by-Ross-W-Greene.jpg"
   X: 1525
   Y: 739
 image:
-  src: "The-Explosive-Child-by-Ross-W-Greene.jpg"
+  src: "The-Explosive-Child-and-Lenfant-explosif-by-Ross-W-Greene.jpg"
   X: 1525
   Y: 739
 video:
@@ -37,6 +37,12 @@ tags:
 	<div class="citation"><small><cite>Walking Tour for Parents</cite> on <a rel="nofollow" href="http://www.livesinthebalance.org/walking-tour-parents" title="LivesInTheBalance.org Walking Tour for Parents">LivesInTheBalance.org</a><br>3 March 2017 &copy; Ross Greene</small></div></div>
 </blockquote>
 Collaborative & Proactive Solutions (CPS), formerly known as Collaborative Problem Solving, is a research-based, empirically-supported, non-punitive, non-adversarial, trauma-informed approach to understanding and helping behaviorally challenging kids. This is in contrast to many of the interventions that are commonly applied to kids, which are applied unilaterally by adults and emergently as behaviors happen. In the CPS model, challenging behavior in kids occurs when the demands and expectations being placed on kids exceed their capacity to respond adaptively, and challenging behavior is best understood as the result of lagging cognitive skills (in the general domains of flexibility/adaptability, frustration tolerance, and problem solving), rather than as the result of passive, permissive, inconsistent, noncontingent parenting. So the emphasis isn’t on kids’ challenging behavior or psychiatric diagnoses, which are simply categories of challenging behaviors. Whining, pouting, sulking, withdrawing, crying, screaming, swearing, hitting, spitting, biting, and worse are all just manners in which kids express that there are expectations they’re having difficulty meeting. This approach aims to reduce challenging episodes by working together with children to solve the problems setting challenging behavior in motion in the first place, rather than trying to modify their behavior through application of rewards and punishments. The goal is to foster a collaborative partnership between adults and kids to engage kids in solving the problems that affect their lives, enhance relationships, improve communication, and help kids and adults learn and display the skills on the more positive side of human nature: empathy, appreciating how one’s behavior is affecting others, resolving disagreements in ways that do not involve conflict, taking another’s perspective, and honesty. 
+
+<div class="float right credits">
+	<amp-img alt="The Explosive Child by Ross W. Greene, Ph.D." width="8.625rem" height="8.625rem" src="https://cache.cdmaxey.com/320/The-Explosive-Child-by-Ross-W-Greene.jpg" srcset="https://cache.cdmaxey.com/320/equality-peace-and-love.jpg 320w,https://cache.cdmaxey.com/640/equality-peace-and-love.jpg 640w" sizes="8.625rem"></amp-img>
+	<a rel="nofollow" href="#">Amazon</a>
+	<a rel="nofollow" href="#">Powell's</a>
+</div>
 
 CPS was originated by Ross Greene, Ph.D., and his non-profit <a rel="nofollow" href="http://www.livesinthebalance.org">Lives in the Balance</a> outlines and advances CPS, which is explained in detail in his books, <i>The Explosive Child</i>, <i>Lost at School</i>, and <i>Raising Human Beings</i>. CPS has been implemented in countless families, schools, inpatient psychiatry units, therapeutic group homes, and residential and juvenile detention facilities. It has been extensively researched. Since 2005, the Oregon Collaborative Problem Solving Project at OHSU has widely disseminated the Think:Kids version of Collaborative Problem Solving, which is a simular offshoot of the original model by Ross Greene, now called Collaborative & Proactive Solutions. If you’re particularly interested, Ross Greene explains the name change on his <a rel="nofollow" href="http://cpsconnection.com/interview-dr-ross-greene">website</a>.
 
