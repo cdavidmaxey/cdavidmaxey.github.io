@@ -26,7 +26,7 @@ variables:
 - modestbranding=1
 - disablekb=1
 credits: "<a rel='nofollow' href='https://youtu.be/jvzQQDfAL-Q'><em>Kids Do Well if They Can</em></a> by <a rel='nofollow' href='https://youtube.com/user/DrRossGreene'>Ross Greene</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
-title: "CPS: An approach unlike rewards and punishments"
+title: "CPS: Overview of Ross Greene’s Approach to Behavior Problems"
 description: "Collaborative & Proactive Solutions is an empirically-supported, non-punitive, non-adversarial model for problem solving with behaviorally challenging kids."
 tags:
 - Collaborative & Proactive Solutions (CPS)
