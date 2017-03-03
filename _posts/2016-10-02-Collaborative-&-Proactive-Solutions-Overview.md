@@ -37,7 +37,7 @@ tags:
 - Behaviorally Challenging Kids
 ---
 <blockquote><div>
-	<p>Kids do well if they can</p>
+	<p><strong>Kids do well if they can</strong></p>
 	<div class="citation"><small><cite>Walking Tour for Parents</cite> on <a rel="nofollow" href="http://www.livesinthebalance.org/walking-tour-parents" title="LivesInTheBalance.org Walking Tour for Parents">LivesInTheBalance.org</a><br>3 March 2017 &copy; Ross Greene</small></div></div>
 </blockquote>
 
