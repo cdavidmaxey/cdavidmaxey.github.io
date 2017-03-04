@@ -35,10 +35,16 @@ tags:
 		<a class="ui green button" href="{{site.url}}/chores.pdf" download="CDavidMaxey-Self-Care-and-Family-Chores.pdf">Download</a>
 	</div>
 </div>
-<div class="ui red tertiary inverted segment">
+<ul style="list-style-type:square">
+	<li>Put your dirty clothes in hamper</li>
+	<li>Pick up your playthings and bedroom</li>
+	<li>Get dressed and tie your shoes</li>
+</ul>
+
+<div>
 	<h3>Self-care</h3>
-	<div class="ui list t-l">
-		<div class="item"><i class="square icon"></i><div class="content">Put your dirty clothes in hamper</div></div>
+	<div>
+		<div>▢<div class="content">Put your dirty clothes in hamper</div></div>
 		<div class="item"><i class="square icon"></i><div class="content">Pick up your playthings and bedroom</div></div>
 		<div class="item"><i class="square icon"></i><div class="content">Get dressed and tie your shoes</div></div>
 		<div class="item"><i class="square icon"></i><div class="content">Wash your hands</div></div>
