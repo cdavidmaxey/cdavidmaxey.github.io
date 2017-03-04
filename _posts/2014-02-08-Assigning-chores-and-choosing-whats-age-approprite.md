@@ -58,31 +58,31 @@ tags:
 </ul>
 <h3>Family Chores</h3>
 <ul class="circle">
-	<ul>Feed pet<ul>
-	<ul>Sort colors for the laundry</ul>
-	<ul>Match clean socks and fold towels</ul>
-	<ul>Set and clear the table</ul>
-	<ul>Bring in mail, newspaper, or groceries</ul>
-	<ul>Prepare a cold meal for the family</ul>
-	<ul>Use handheld vacuum</ul>
-	<ul>Dust home</ul>
-	<ul>Empty wastebaskets</ul>
-	<ul>Put groceries away</ul>
-	<ul>Care for plants (weed, water etc.)</ul>
-	<ul>Sort clean silverware</ul>
-	<ul>Wash and dry dishes or load and unload dishwasher</ul>
-	<ul>Sweep or vacuum</ul>
-	<ul>Clean the inside of the refrigerator</ul>
-	<ul>Care for a younger sibling or family member either while a parent is busy or independently</ul>
-	<ul>Care for pet (e.g., wash and walk the dog)</ul>
-	<ul>Clean bathroom</ul>
-	<ul>Take out garbage and recycling</ul>
-	<ul>Sort, fold and put laundry away</ul>
-	<ul>Pick up shared areas of home</ul>
-	<ul>Prepare a hot meal</ul>
-	<ul>Sweep garage, patio or porch</ul>
-	<ul>Wash and clean out car</ul>
-	<ul>Yard and garden work</ul>
-	<ul>Run errands</ul>
-	<ul>Wash and dry laundry</ul>
+	<li>Feed pet</li>
+	<li>Sort colors for the laundry</li>
+	<li>Match clean socks and fold towels</li>
+	<li>Set and clear the table</li>
+	<li>Bring in mail, newspaper, or groceries</li>
+	<li>Prepare a cold meal for the family</li>
+	<li>Use handheld vacuum</li>
+	<li>Dust home</li>
+	<li>Empty wastebaskets</li>
+	<li>Put groceries away</li>
+	<li>Care for plants (weed, water etc.)</li>
+	<li>Sort clean silverware</li>
+	<li>Wash and dry dishes or load and unload dishwasher</li>
+	<li>Sweep or vacuum</li>
+	<li>Clean the inside of the refrigerator</li>
+	<li>Care for a younger sibling or family member either while a parent is busy or independently</li>
+	<li>Care for pet (e.g., wash and walk the dog)</li>
+	<li>Clean bathroom</li>
+	<li>Take out garbage and recycling</li>
+	<li>Sort, fold and put laundry away</li>
+	<li>Pick up shared areas of home</li>
+	<li>Prepare a hot meal</li>
+	<li>Sweep garage, patio or porch</li>
+	<li>Wash and clean out car</li>
+	<li>Yard and garden work</li>
+	<li>Run errands</li>
+	<li>Wash and dry laundry</li>
 </ul>
