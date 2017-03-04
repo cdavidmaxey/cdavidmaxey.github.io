@@ -35,64 +35,54 @@ tags:
 		<a class="ui green button" href="{{site.url}}/chores.pdf" download="CDavidMaxey-Self-Care-and-Family-Chores.pdf">Download</a>
 	</div>
 </div>
-<ul style="list-style-image:url({{site.cache}}/x/square.svg)">
+<h3>Self-care</h3>
+<ul class="square">
 	<li>Put your dirty clothes in hamper</li>
 	<li>Pick up your playthings and bedroom</li>
 	<li>Get dressed and tie your shoes</li>
+	<li>Wash your hands</li>
+	<li>Comb your hair</li>
+	<li>Brush your teeth</li>
+	<li>Choose your outfit</li>
+	<li>Make yourself a snack or cold meal</li>
+	<li>Write thank you notes and invitations</li>
+	<li>Put your clean clothes and laundry away</li>
+	<li>Make your bed</li>
+	<li>Prepare belongings for school and after-school activities</li>
+	<li>Make and pack your lunch for school</li>
+	<li>Follow a morning and bedtime routine (brush teeth, etc.)</li>
+	<li>Change your bedsheets</li>
+	<li>Dust, sweep and vacuum your room</li>
+	<li>Wash, dry and fold your laundry</li>
+	<li>Make yourself a hot meal</li>
 </ul>
-
-<div>
-	<h3>Self-care</h3>
-	<div>
-		<div>▢<div class="content">Put your dirty clothes in hamper</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Pick up your playthings and bedroom</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Get dressed and tie your shoes</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Wash your hands</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Comb your hair</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Brush your teeth</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Choose your outfit</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Make yourself a snack or cold meal</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Write thank you notes and invitations</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Put your clean clothes and laundry away</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Make your bed</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Prepare belongings for school and after-school activities</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Make and pack your lunch for school</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Follow a morning and bedtime routine (brush teeth, etc.)</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Change your bedsheets</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Dust, sweep and vacuum your room</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Wash, dry and fold your laundry</div></div>
-		<div class="item"><i class="square icon"></i><div class="content">Make yourself a hot meal</div></div>
-	</div>
-</div>
-<div class="ui blue inverted segment">
-	<h3>Family Chores</h3>
-	<div class="ui list t-l">
-		<div class="item"><i class="circle icon"></i><div class="content">Feed pet</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Sort colors for the laundry</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Match clean socks and fold towels</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Set and clear the table</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Bring in mail, newspaper, or groceries</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Prepare a cold meal for the family</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Use handheld vacuum</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Dust home</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Empty wastebaskets</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Put groceries away</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Care for plants (weed, water etc.)</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Sort clean silverware</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Wash and dry dishes or load and unload dishwasher</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Sweep or vacuum</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Clean the inside of the refrigerator</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Care for a younger sibling or family member either while a parent is busy or independently</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Care for pet (e.g., wash and walk the dog)</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Clean bathroom</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Take out garbage and recycling</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Sort, fold and put laundry away</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Pick up shared areas of home</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Prepare a hot meal</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Sweep garage, patio or porch</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Wash and clean out car</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Yard and garden work</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Run errands</div></div>
-		<div class="item"><i class="circle icon"></i><div class="content">Wash and dry laundry</div></div>
-	</div>
-</div>
+<h3>Family Chores</h3>
+<ul class="circle">
+	<ul>Feed pet<ul>
+	<ul>Sort colors for the laundry</ul>
+	<ul>Match clean socks and fold towels</ul>
+	<ul>Set and clear the table</ul>
+	<ul>Bring in mail, newspaper, or groceries</ul>
+	<ul>Prepare a cold meal for the family</ul>
+	<ul>Use handheld vacuum</ul>
+	<ul>Dust home</ul>
+	<ul>Empty wastebaskets</ul>
+	<ul>Put groceries away</ul>
+	<ul>Care for plants (weed, water etc.)</ul>
+	<ul>Sort clean silverware</ul>
+	<ul>Wash and dry dishes or load and unload dishwasher</ul>
+	<ul>Sweep or vacuum</ul>
+	<ul>Clean the inside of the refrigerator</ul>
+	<ul>Care for a younger sibling or family member either while a parent is busy or independently</ul>
+	<ul>Care for pet (e.g., wash and walk the dog)</ul>
+	<ul>Clean bathroom</ul>
+	<ul>Take out garbage and recycling</ul>
+	<ul>Sort, fold and put laundry away</ul>
+	<ul>Pick up shared areas of home</ul>
+	<ul>Prepare a hot meal</ul>
+	<ul>Sweep garage, patio or porch</ul>
+	<ul>Wash and clean out car</ul>
+	<ul>Yard and garden work</ul>
+	<ul>Run errands</ul>
+	<ul>Wash and dry laundry</ul>
+</ul>
