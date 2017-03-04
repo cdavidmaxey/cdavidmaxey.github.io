@@ -21,7 +21,7 @@ tags:
 <strong>Consider your child.</strong> Your child might find it easier to do a chore that you'd consider more difficult. When assigning chores, think about how specific your child needs you to be.
 
 <blockquote cite="http://www.flandersfamily.info/web/age-appropriate-chores-for-children/"><div>
-	<p><a rel="nofollow" href="{{site.url_static}}/Age-Appropriate-Chore-Chart-for-Children.pdf"><amp-img src="{{site.url_static}}/320/Age-Appropriate-Chore-Chart-for-Children.jpg" srcset="{{site.url_static}}/320/Age-Appropriate-Chore-Chart-for-Children.jpg 320w,{{site.url_static}}/640/Age-Appropriate-Chore-Chart-for-Children.jpg 640w,{{site.url_static}}/1280/Age-Appropriate-Chore-Chart-for-Children.jpg 1280w,{{site.url_static}}/1920/Age-Appropriate-Chore-Chart-for-Children.jpg 1920w"></amp-img></a></p>
+	<p><a rel="nofollow" href="{{site.cache}}/Age-Appropriate-Chore-Chart-for-Children.pdf"><amp-img src="{{site.cache}}/320/Age-Appropriate-Chore-Chart-for-Children.jpg" srcset="{{site.cache}}/320/Age-Appropriate-Chore-Chart-for-Children.jpg 320w,{{site.cache}}/640/Age-Appropriate-Chore-Chart-for-Children.jpg 640w,{{site.cache}}/1280/Age-Appropriate-Chore-Chart-for-Children.jpg 1280w,{{site.cache}}/1920/Age-Appropriate-Chore-Chart-for-Children.jpg 1920w"></amp-img></a></p>
 	<p class="citation"><small><a rel="nofollow" href="http://www.flandersfamily.info/web/age-appropriate-chores-for-children/" target="_blank">&copy; FlandersFamily.info</a></small></p>
 	<p>Don’t underestimate your child&mdash;independence can start early at home!</p>
 	<div class="citation"><a rel="nofollow" href="https://www.facebook.com/mariamontessori/posts/10151850817851345" target="_blank">Maria Montessori on Facebook</a></div>
