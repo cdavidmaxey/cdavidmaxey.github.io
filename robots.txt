@@ -1,12 +1,9 @@
 ---
 ---
 User-agent: *
-Disallow: /404.html
 Disallow: /CNAME
 Disallow: /humans.txt
+Disallow: /LeMonde/
 Disallow: /README.md
 Disallow: /secret/
-Disallow: /consent.pdf
-Disallow: /privacy.pdf
-Disallow: /release.pdf
 Sitemap: {{site.url}}/sitemap.xml
