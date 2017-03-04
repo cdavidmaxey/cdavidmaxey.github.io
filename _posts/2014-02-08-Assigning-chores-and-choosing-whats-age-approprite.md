@@ -35,7 +35,7 @@ tags:
 		<a class="ui green button" href="{{site.url}}/chores.pdf" download="CDavidMaxey-Self-Care-and-Family-Chores.pdf">Download</a>
 	</div>
 </div>
-<ul style="list-style-type:square">
+<ul style="list-style-image:url({{site.cache}}/x/square.svg)">
 	<li>Put your dirty clothes in hamper</li>
 	<li>Pick up your playthings and bedroom</li>
 	<li>Get dressed and tie your shoes</li>
