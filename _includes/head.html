@@ -91,11 +91,11 @@
 			.book>amp-img{display:block}
 			.book>div{display:flex}
 			.book a.product{display:flex;justify-content:center;padding:.5em;}
-			.book a.amazon{background:black;fill:white}
-			.book a.amazon:hover{background:#eee;fill:black}
-			.book a.powells{background:#db3c26;fill:white}
+			.book a.powells{background:#db3c26;fill:white;border-right:white solid 1px;border-bottom-left-radius:.25em}
 			.book a.powells:hover{background:#eee;fill:#db3c26}
-			a.product svg{height:1em;width:3.3125em}
+			.book a.amazon{background:black;fill:white;border-left:white solid 1px;border-bottom-right-radius:.25em}
+			.book a.amazon:hover{background:#eee;fill:black}
+			a.product svg{height:1em;width:calc(3.3125em - 1px)}
 			
 			/* .float */
 			.float{margin-bottom:1rem}
