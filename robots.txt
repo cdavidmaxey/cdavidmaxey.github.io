@@ -2,8 +2,6 @@
 ---
 User-agent: *
 Disallow: /CNAME
-Disallow: /humans.txt
-Disallow: /LeMonde/
 Disallow: /README.md
 Disallow: /secret/
 Sitemap: {{site.url}}/sitemap.xml
