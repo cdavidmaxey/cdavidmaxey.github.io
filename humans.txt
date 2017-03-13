@@ -14,6 +14,10 @@ equality-peace-and-love.jpg is an unendorsed adaptation of "We must teach the ch
 love-makes-a-family.jpg is an unendorsed adaptation of "Families are made with hearts filled with love" by Purple Sherbet Photography [CC-BY-2.0 (creativecommons.org/licenses/by/2.0)] via flickr.com/photos/purplesherbet/11997048715
 Handmade-Paper.png is "Handmade paper" by Le Marquis [CC-BY-SA-3.0 (creativecommons.org/licenses/by-sa/3.0)] via SubtlePatterns.com/handmade-paper
 
+/* DISCLAIMER NOTICE */
+
+Information on this website is of a general nature and is designed for information and educational purposes only and does not constitute medical or legal advice.
+
 /* THANKS */
 
 W3Schools.com
