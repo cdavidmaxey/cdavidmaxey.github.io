@@ -46,7 +46,7 @@ tags:
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/wma/pubs/proceduralsafeguards/k21/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education: K‑21:&nbsp;2016‑2017</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
 
-<p>Parents are important members of teams that determine Special Education eligibility and create Individualized Education Plans (IEPs); it’s important that you’re able to participate meaningfully in meetings about your child. You have many rights, including the ones quoted above, and I encourage you to exercise your rights <i>in writing</i> with clear requests, your signature, and the date so there are no misunderstandings (see example below).</p>
+<p>Parents are important members of teams that determine Special Education eligibility and create Individualized Education Plans (IEPs); it’s important that you’re able to participate meaningfully in meetings about your child. You have many rights, including the ones quoted above. I encourage you to know your rights, and exercise them <i>in writing</i> with clear requests, your signature, and the date so there are no misunderstandings (see example below).</p>
 
 <section class="paper">
 <p>[full name of parent]<br>[address of parent]</p>
