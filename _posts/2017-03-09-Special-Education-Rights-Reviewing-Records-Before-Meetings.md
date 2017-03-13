@@ -28,12 +28,12 @@ tags:
 ---
 <blockquote><div>
 <p>[Schools must comply] with requests from a parent&hellip;to inspect and review any education records without unnecessary delay and before any meeting relating to the identification, evaluation, or placement of the student or regarding an IEP, hearing, or resolution session&hellip;.</p>
-<div class="citation"><a rel="nofollow" href="http://www.ode.state.or.us/policy/federal/idea/policyproced/08recordsfinal.doc" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Policies&nbsp;and&nbsp;Procedures for&nbsp;Special&nbsp;Education: 2007-2008: Section&nbsp;8: Student&nbsp;Education&nbsp;Records, Access,&nbsp;and&nbsp;Confidentiality</cite><br><small>Oregon&nbsp;Department of&nbsp;Education<br>2016-2017</small></a></div>
+<div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/policy/federal/idea/policyproced/08recordsfinal.doc" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Policies&nbsp;and&nbsp;Procedures for&nbsp;Special&nbsp;Education: 2007-2008: Section&nbsp;8: Student&nbsp;Education&nbsp;Records, Access,&nbsp;and&nbsp;Confidentiality</cite><br>Oregon&nbsp;Department of&nbsp;Education<br>2016-2017</a></small></div>
 </div></blockquote>
 
 <blockquote><div>
 <p>It is&hellip;important to ensure that parents have the information they need to participate meaningfully in IEP Team meetings, which may include reviewing their child’s records.&hellip;It would be appropriate for parents to review documents related to the determination of eligibility prior to the eligibility determination&hellip;.</p>
-<div class="citation"><a rel="nofollow" href="http://idea-b.ed.gov/explore/view/p/,root,regs,preamble2,prepart2,D,1992,.html" title="Building the Legacy: IDEA 2004" target="_blank"><cite>Building the Legacy: IDEA 2004</cite><br><small>U.S. Department of Education</small></a></div>
+<div class="citation"><small><a rel="nofollow" href="http://idea-b.ed.gov/explore/view/p/,root,regs,preamble2,prepart2,D,1992,.html" title="Building the Legacy: IDEA 2004" target="_blank"><cite>Building the Legacy: IDEA 2004</cite><br>U.S. Department of Education</a></small></div>
 </div></blockquote>
 
 <blockquote><div>
@@ -43,10 +43,10 @@ tags:
 <li>Your right to request that the school district provide copies of the records if you cannot effectively inspect and review the records unless you receive those copies; <strong class="underline">and</strong></li>
 <li>Your right to have your representative inspect and review the records.</li>
 </ol>
-<div class="citation"><a rel="nofollow" href="http://www.ode.state.or.us/wma/pubs/proceduralsafeguards/k21/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education: K-21: 2016-2017</cite><br><small>Oregon&nbsp;Department of&nbsp;Education</small></a> from </div>
+<div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/wma/pubs/proceduralsafeguards/k21/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education:<br>K-21: 2016-2017</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
 
-<p>Parents are important members of teams that determine eligibility for Special Education and create an Individualized Education Plan (IEP), and it is important that you are able to participate meaningfully in meetings about your child. You have many rights, including the ones above, and I recommend that you exercise your rights <i>in writing</i> with your signature and a date so there’s no misunderstanding.</p>
+<p>Parents are important members of teams that determine eligibility for Special Education and create an Individualized Education Plan (IEP), and it is important that you are able to participate meaningfully in meetings about your child. You have many rights, including the ones quoted above, and I encourage you to consider exercising your rights <i>in writing</i> with your signature and a date so there’s no misunderstanding.</p>
 
 <section class="paper">
 <p>[full name of parent]<br>[address of parent]</p>
