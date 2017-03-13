@@ -58,5 +58,3 @@ tags:
 <p>[signature of parent]</p>
 <p>[full name of parent]</p>
 </section>
-
-<p><small>This information of a general nature and is designed for information and educational purposes only and does not constitute medical or legal advice.</small></p>
