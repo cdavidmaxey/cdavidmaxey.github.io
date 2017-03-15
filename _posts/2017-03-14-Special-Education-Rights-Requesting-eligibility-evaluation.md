@@ -28,7 +28,7 @@ tags:
 ---
 <blockquote><div>
 <ol type="A">
-	<li>&hellip;[Schools must respond] promptly to requests initiated by a parent or public agency for an initial evaluation to determine [Special Education eligibility].</li>
+	<li>[Schools must respond] promptly to requests initiated by a parent or public agency for an initial evaluation to determine [Special Education eligibility].</li>
 	<li>Upon receiving a request from a parent or public agency for an initial evaluation, [schools must designate] a team to determine whether an initial evaluation will be conducted.</li>
 	<ol type="1">
 		<li>The&hellip;team includes the parent and at least two professionals&hellip;.</li>
