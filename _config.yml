@@ -2,7 +2,7 @@ gems:
   - jekyll-redirect-from
 timezone: America/Los_Angeles
 permalink: /:title/
-paginate: 2
+paginate: 18
 paginate_path: blog/page:num/
 markdown: kramdown
 url: https://cdavidmaxey.com
