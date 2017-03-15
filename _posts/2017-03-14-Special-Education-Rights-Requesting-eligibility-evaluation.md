@@ -57,7 +57,7 @@ tags:
 
 <blockquote><div>
 <p>Your school&hellip;cannot conduct an initial evaluation&hellip;to determine eligibility&hellip;to receive special education&hellip;without first providing you with prior written notice&hellip;and obtaining your consent&hellip;.</p>
-<p>Your school district must make reasonable efforts to obtain your informed consent for an initial evaluation to decide whether your child is a child with a disability.</p>
+<p>Your school district must make reasonable efforts to obtain your informed consent for an initial evaluation&hellip;.</p>
 <p>Your consent for initial evaluation does not mean that you have also given your consent for the school&hellip;to start providing special education&hellip;.</p>
 <p>If&hellip;you have refused consent&hellip;for an initial evaluation, your school&hellip;may, but is not required to, seek to conduct an initial evaluation of your child by using the&hellip;mediation or due process complaint, resolution meeting, and impartial due process hearing procedures.</p>
 <p>Your school&hellip;must get your informed consent before providing special education&hellip;for the first time.</p>
