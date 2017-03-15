@@ -56,11 +56,11 @@ tags:
 </div></blockquote>
 
 <blockquote><div>
-<p>[Schools must provide] notice and [obtain] informed written consent from the parent&hellip;before conducting an initial evaluation&hellip;. Consent for initial evaluation is not consent for&hellip;special education and related services.</p>
+<p>[Schools must provide] notice and [obtain] informed written consent from the parent&hellip;before conducting an initial evaluation&hellip;. Consent for initial evaluation is not consent for&hellip;special education&hellip;.</p>
 <p>If a parent does not provide consent for an initial evaluation&hellip;, the school&hellip;may, but is not required to, pursue the initial evaluation&hellip;through mediation or due process hearing procedures.</p>
-<p>[Schools must obtain] informed consent from the parent before the initial provision of special education and related services.</p>
-<p>If a parent&hellip;refuses consent for initial provision of special education and related services, the [school must] not convene an IEP meeting, develop an IEP, or seek to provide special education and related services through mediation or due process hearing procedures.</p>
-<p>The [school must stand] ready to serve the student if the parent or adult student later consents.</p>
+<p>[Schools must obtain] informed consent from the parent before the initial provision of special education&hellip;.</p>
+<p>If a parent&hellip;refuses consent for initial provision of special education&hellip;, the [school must] not convene an IEP meeting, develop an IEP, or seek to provide special education&hellip;through mediation or due process hearing procedures.</p>
+<p>The [school must stand] ready to serve the student if the parent&hellip;later consents.</p>
 <p>A parent&hellip;may revoke consent at any time before the completion of the activity or action for which they have given consent.</p>
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/policy/federal/idea/policyproced/07proceduralsafeguards.doc" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Policies&nbsp;and&nbsp;Procedures for&nbsp;Special&nbsp;Education: 2007‑2008: Section&nbsp;7: Procedural&nbsp;Safeguards</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
