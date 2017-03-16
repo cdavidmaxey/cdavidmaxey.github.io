@@ -35,7 +35,7 @@ tags:
 		<ol type="a">
 			<li>The team may make the decision to evaluate with or without a meeting.</li>
 			<li>[Schools must document] team member’s input, including parents, whether or not the [school] convenes a meeting.</li>
-			<li>If a meeting is held, [schools must invite] parents to participate.</li>
+			<li>If a meeting is held, [the school must invite] parents to participate.</li>
 			<li>If [a school] refuses an evaluation requested by the parent, the [school must provide] the parent with prior written notice of its refusal to conduct an evaluation.</li>
 			<li>[Schools must acknowledge] the parent’s right to challenge its refusal to conduct an evaluation.</li>
 		</ol>
