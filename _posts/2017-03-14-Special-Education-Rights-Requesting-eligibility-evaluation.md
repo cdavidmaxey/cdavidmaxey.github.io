@@ -28,7 +28,7 @@ tags:
 ---
 <blockquote><div>
 <ol type="A">
-	<li>[Schools must respond] promptly to requests initiated by a parent or public agency for an initial evaluation to determine [Special Education eligibility].</li>
+	<li>[Schools must respond] promptly to requests initiated by a parent or public agency for an initial evaluation to determine [special education eligibility].</li>
 	<li>Upon receiving a request from a parent or public agency for an initial evaluation, [schools must designate] a team to determine whether an initial evaluation will be conducted.</li>
 	<ol type="1">
 		<li>The&hellip;team includes the parent and at least two professionals&hellip;.</li>
@@ -54,14 +54,13 @@ tags:
 </ol>
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/policy/federal/idea/policyproced/03evaluationelig.doc" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Policies&nbsp;and&nbsp;Procedures for&nbsp;Special&nbsp;Education: 2007‑2008: Section&nbsp;3: Evaluation&nbsp;and&nbsp;Eligibility</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
-
 <blockquote><div>
 <p>Your school&hellip;cannot conduct an initial evaluation&hellip;to determine eligibility&hellip;to receive special education&hellip;without first providing you with prior written notice&hellip;and obtaining your consent&hellip;.</p>
 <p>Your school district must make reasonable efforts to obtain your informed consent for an initial evaluation&hellip;.</p>
 <p>Your consent for initial evaluation does not mean that you have also given your consent for the school&hellip;to start providing special education&hellip;.</p>
 <p>If&hellip;you have refused consent&hellip;for an initial evaluation, your school&hellip;may, but is not required to, seek to conduct an initial evaluation of your child by using the&hellip;mediation or due process complaint, resolution meeting, and impartial due process hearing procedures.</p>
 <p>Your school&hellip;must get your informed consent before providing special education&hellip;for the first time.</p>
-<p>If you do not respond to a request to provide your consent for your child to receive special education and related services for the first time, or if you refuse to give such consent or later revoke (cancel) your consent in writing, your school&hellip;may not use the procedural safeguards (i.e., mediation, due process complaint, resolution meeting, or an impartial due process hearing) in order to obtain agreement or a ruling that the special education&hellip;may be provided to your child without your consent.</p>
+<p>If you do not respond to a request to provide your consent for&hellip;special education&hellip;for the first time, or if you refuse&hellip;consent or later revoke (cancel) your consent in writing, your school&hellip;may not use the procedural safeguards (i.e., mediation, due process complaint, resolution meeting, or an impartial due process hearing)&hellip;to obtain&hellip;a ruling that the special education&hellip;may be provided&hellip;without your consent.</p>
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/wma/pubs/proceduralsafeguards/k21/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education: K‑21:&nbsp;2016‑2017</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
 <p>It can take a long time to get an evaluation for Special Education eligibility from your school. In Oregon, schools have 60 school days to complete an evaluation after a parent consents, and the school has to decide to offer an evaluation before a parent can consent to an evaluation. If you add up the time it takes a school to decide if they’ll offer an evaluation plus 60 school days plus weekends and holidays, that’s quite likely well over 3 months. I encourage you to make your request for an evaluation <i>in writing</i> with clear requests, your signature, and the date, so there are no misunderstandings that might delay the process (see example below).</p>
