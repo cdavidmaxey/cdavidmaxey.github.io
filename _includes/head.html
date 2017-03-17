@@ -151,19 +151,32 @@
 			
 			/* .buttons */
 			.buttons{display:flex}
-			.buttons.telehealth{display:block}
 			.buttons>a{border:1px solid black;padding:.5em;text-align:center;min-width:1rem}
 			.buttons>:first-child{border-top-left-radius:.25em;border-bottom-left-radius:.25em}
 			.buttons>:last-child{border-top-right-radius:.25em;border-bottom-right-radius:.25em}
-			.colored.buttons>:first-child{border-right:0}
-			.colored.buttons>:last-child{border-left:0}
+			
+			/* .telehealth */
+			.telehealth h4{font-size:1.25rem;margin-bottom:0}
+			.telehealth .buttons{justify-content:center}
+			
+			/* .mapapps */
+			.buttons.mapapps>:first-child{border-right:0}
+			.buttons.mapapps>:last-child{border-left:0}
 			
 			/* .pager */
-			.pager{margin:2rem 0}
-			.pager.buttons{justify-content:center}
-			.pager.buttons>a+a{border-left:0}
-			.pager.buttons>a:hover{background:#9c27b0;color:white}
-			.pager.buttons>a.active{background:#eee;color:inherit}
+			.pager{margin:2rem 0;justify-content:center}
+			.pager>a+a{border-left:0}
+			.pager>a:hover{background:#9c27b0;color:white}
+			.pager>a.active{background:#eee;color:inherit}
+			
+			/* .forms */
+			.forms{text-align:center}
+			.forms nav{display:inline-block}
+			.forms .buttons{margin:1rem 0;justify-content:flex-end}
+			.forms .buttons>:first-child{background:#fff;color:black}
+			.forms .buttons>:first-child:hover{background:#eee}
+			.forms .buttons>:last-child{background:#9c27b0;color:white}
+			.forms .buttons>:last-child:hover{background:#4a148c}
 			
 			/* .contact & .map */
 			.contact{display:flex;max-width:640px;margin:0 auto;padding:0 .625rem;font-size:6vw;align-items:center}
@@ -178,15 +191,6 @@
 			@media(min-width:640px){.contact svg{height:48px;width:48px}}
 			.map{background:url('https://maps.googleapis.com/maps/api/staticmap?zoom=17&size=640x320&scale=2&markers=anchor:center%7Cicon:{{site.url}}/favicon-32x32.png%7C2044+E+Burnside+St,Portland,OR&key=AIzaSyDCxo9x_qGwB3DbswOdJaEqbsMxEcalTgA') center center/auto 320px no-repeat local;height:320px}
 
-			/* .forms */
-			.forms{text-align:center}
-			.forms nav{display:inline-block}
-			.forms .buttons{margin:1rem 0;justify-content:flex-end}
-			.forms .buttons>:first-child{background:#fff;color:black}
-			.forms .buttons>:first-child:hover{background:#eee}
-			.forms .buttons>:last-child{background:#9c27b0;color:white}
-			.forms .buttons>:last-child:hover{background:#4a148c}
-			
 			/* .input */
 			.subscription{margin:1rem auto;max-width:288px}
 			.input input{border:1px solid black;border-right:0;font-size:1rem;height:2em;flex-grow:1;padding:0 .375em;outline:none}
