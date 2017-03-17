@@ -115,11 +115,13 @@
 			
 			/* .tag */
 			.tags{margin-bottom:-10px}
-			.tag{background:#eee;border-radius:3px 0 0 3px;color:#999;display:inline-block;height:26px;line-height:26px;padding:0 20px 0 23px;position:relative;margin:0 10px 10px 0}
+			.tag{background:#ddd;border-radius:3px 0 0 3px;color:#000;display:inline-block;height:26px;line-height:26px;padding:0 20px 0 23px;position:relative;margin:0 10px 10px 0}
 			.tag::before{background:#fff;border-radius:10px;box-shadow:inset 0 1px rgba(0, 0, 0, 0.25);content:'';height:6px;left:10px;position:absolute;width:6px;top:10px;}
-			.tag::after{background: #fff;border-bottom:13px solid transparent;border-left:10px solid #eee;border-top:13px solid transparent;content:'';position:absolute;right:0;top:0}
-			a.tag:hover{background-color:crimson;color:white}
-			a.tag:hover::after{border-left-color:crimson}
+			.tag::after{background: #fff;border-bottom:13px solid transparent;border-left:10px solid #ddd;border-top:13px solid transparent;content:'';position:absolute;right:0;top:0}
+			a.tag:hover{background-color:#9c27b0;color:white}
+			a.tag:hover::after{border-left-color:#9c27b0}
+			a.tag span{background:#666;color:white;padding:0 .35rem;border-radius:.35rem}
+			a.tag:hover span{background:white;color:#4a148c}
 			
 			/* #search */
 			#search .tags{padding:2rem 0}

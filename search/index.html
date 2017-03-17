@@ -16,6 +16,6 @@ description: "blog articles sorted by topic tags"
 		</a>{% endif %}{% endfor %}
 	</section>{% endfor %}{% unless site.tags == empty %}
 	<section class="text">
-		<div class="tags">{% for tag in size_tag_color reversed %}{% assign wilma = tag | split:'|' %}<a class="tag{% unless wilma[0] == '01' %} {{wilma[2]}}{% endunless %}" href="{{site.url}}/search/#{{wilma[1] | slugify}}">{{wilma[1]}} {{wilma[0] | plus:0}}</a>{% endfor %}</div>
+		<div class="tags">{% for tag in size_tag_color reversed %}{% assign wilma = tag | split:'|' %}<a class="tag{% unless wilma[0] == '01' %} {{wilma[2]}}{% endunless %}" href="{{site.url}}/search/#{{wilma[1] | slugify}}">{{wilma[1]}} <span>{{wilma[0] | plus:0}}</span></a>{% endfor %}</div>
 	</section>{% endunless %}
 </main>
