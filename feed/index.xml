@@ -1,8 +1,9 @@
 ---
+published: FALSE
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>{{site.Organization.name}}</title>
+<title>{{site.feedTitle}}</title>
 <updated>{{site.time | date_to_xmlschema}}</updated>
 <id>{{site.url}}/</id>
 <link href="{{site.url}}/"/>

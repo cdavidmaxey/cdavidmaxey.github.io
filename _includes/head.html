@@ -261,9 +261,16 @@
 				"address": {"@type":"PostalAddress","addressLocality":"{{site.Person.addressLocality}}","addressRegion": "{{site.Person.addressRegion}}","postalCode":"{{site.Person.postalCode}}","streetAddress":"{{site.Person.streetAddress}}"}},
 			"publisher": {
 				"@type": "Organization",
-				"name": "{{site.Organization.name}}",
-				"logo": {"@type":"ImageObject","url":"{{site.url}}/{{site.Organization.logo.src}}","width":{{site.Organization.logo.X}},"height":{{site.Organization.logo.Y}}}
+				"name": "{{site.Publisher.name}}",
+				"logo": {"@type":"ImageObject","url":"{{site.url}}/{{site.Publisher.logo.src}}","width":{{site.Publisher.logo.X}},"height":{{site.Publisher.logo.Y}}}
 			},
-			"description": "{{page.description}}"
+			"description": "{{page.description}}",
+		}</script>
+		<script type="application/ld+json">{
+			"@context": "http://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement":[
+				{"@type":"ListItem","position":1,"item":{"@id":"https://cdavidmaxey.com/","name":"C. David Maxey, M.A."}},
+				{"@type":"ListItem","position":2,"item":{"@id":"https://cdavidmaxey.com/blog/","name":"blog"}}]
 		}</script>{% endif %}
 	</head>

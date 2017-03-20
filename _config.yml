@@ -24,12 +24,13 @@ Person:
   addressRegion: OR
   postalCode: 97228
   streetAddress: PO Box 5611
-Organization:
+Publisher:
   name: CDavidMaxey.com
   logo:
     src: "wordmark.png"
     X: 408
     Y: 60
+feedTitle: "C. David Maxey, M.A."
 address: "PO Box 5611"
 city_state: "Portland, OR"
 zip: "97228"
