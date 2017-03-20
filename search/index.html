@@ -5,7 +5,7 @@ sitemap:
   changefreq: yearly
 published: TRUE
 title: "Search | C. David Maxey, M.A."
-description: "blog articles sorted by topic tags"
+description: "Topic tags organizing blog articles about evidence-based practices, psychological services, and school-based supports for children and youth"
 ---
 <main id="search">{% capture mercury %}{% for tag in site.tags %}{% if tag[1].size > 9 %}{{tag[1].size}}{% else %}{{tag[1].size | prepend: '0'}}{% endif %}|{{tag[0]}}^{% endfor %}{% endcapture %}{% assign size_tag = mercury | split:'^' | sort %}{% capture venus %}{% for odlaw in size_tag reversed %}{{odlaw}}|{% cycle 'size_tag_color_cycle': 'red', 'orange', 'yellow', 'olive', 'green', 'teal', 'blue', 'violet', 'purple', 'pink' %}^{% endfor %}{% endcapture %}{% assign size_tag_color = venus | split:'^' | sort %}{% for tag in size_tag_color reversed %}{% assign wenda = tag | split:'|' %}
 	<section class="blog" id="{{wenda[1] | slugify}}">{% for post in site.posts %}{% if post.tags contains wenda[1] %}
