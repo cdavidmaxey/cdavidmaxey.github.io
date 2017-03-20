@@ -243,7 +243,8 @@
 			"headline": "{{page.title}}",
 			"image": {"@type":"ImageObject","url":"{{site.cache}}/1280/{{page.thumb.src}}","height":{{page.thumb.Y | times: 1280 | divided_by: page.thumb.X | round}},"width":1280},
 			"datePublished": "{{page.date | date_to_xmlschema}}",{% if page.updated %}
-			"dateModified": "{{page.updated | date_to_xmlschema}}",{% endif %}
+			"dateModified": "{{page.updated | date_to_xmlschema}}",{% else %}
+			"dateModified": "{{page.date | date_to_xmlschema}}",{% endif %}
 			"author": {
 				"@type": "Person",
 				"name": "{{site.Person.name}}",
