@@ -214,7 +214,7 @@
 		<noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 		<meta name="description" content="{{page.description}}">
 		<meta name="robots" content="noarchive{{page.robots}}">
-		<meta name="author" content="{{site.author}}">
+		<meta name="author" content="{{site.Person.name}}">
 		<link rel="author" href="{{site.url}}/humans.txt">
 		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{site.url}}/apple-touch-icon-57x57.png" />
 		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.url}}/apple-touch-icon-114x114.png" />
@@ -235,5 +235,34 @@
 		<meta name="msapplication-square70x70logo" content="{{site.url}}/mstile-70x70.png" />
 		<meta name="msapplication-square150x150logo" content="{{site.url}}/mstile-150x150.png" />
 		<meta name="msapplication-wide310x150logo" content="{{site.url}}/mstile-310x150.png" />
-		<meta name="msapplication-square310x310logo" content="{{site.url}}/mstile-310x310.png" />
+		<meta name="msapplication-square310x310logo" content="{{site.url}}/mstile-310x310.png" />{% if page.layout == 'post' %}
+		<script type="application/ld+json">{
+			"@context": "http://schema.org",
+			"@type": "BlogPosting",
+			"mainEntityOfPage": {"@type":"WebPage","@id":"{{site.url}}{{page.url}}"},
+			"headline": "{{page.title}}",
+			"image": {"@type":"ImageObject","url":"{{site.cache}}/1280/{{page.thumb.src}}","height":{{page.thumb.Y | times: 1280 | divided_by: page.thumb.X | round}},"width":1280},
+			"datePublished": "{{post.date | date_to_xmlschema}}",{% if post.updated %}
+			"dateModified": "{{post.updated | date_to_xmlschema}}",{% endif %}
+			"author": {
+				"@type": "Person",
+				"name": "{{site.Person.name}}",
+				"givenName": "{{site.Person.givenName}}",
+				"familyName": "{{site.Person.familyName}}",
+				"additionalName": "{{site.Person.additionalName}}",
+				"honorificSuffix": "{{site.Person.honorificSuffix}}",
+				"disambiguatingDescription": "{{site.Person.disambiguatingDescription}}",
+				"jobTitle": "{{site.Person.jobTitle}}",
+				"naics": "{{site.Person.naics}}",
+				"telephone": "{{site.Person.telephone}}",
+				"email": "{{site.Person.email}}",
+				"image": "{{site.url}}/{{site.Person.image}}",
+				"address": {"@type":"PostalAddress","addressLocality":"{{site.Person.addressLocality}}","addressRegion": "{{site.Person.addressRegion}}","postalCode":"{{site.Person.postalCode}}","streetAddress":"{{site.Person.streetAddress}}"}},
+			"publisher": {
+				"@type": "Organization",
+				"name": "{{site.Organization.name}}",
+				"logo": {"@type":"ImageObject","url":"{{site.url}}/{{site.Organization.logo.src}}","width":{{site.Organization.logo.X}},"height":{{site.Organization.logo.Y}}}
+			},
+			"description": "{{page.description}}"
+		}</script>{% endif %}
 	</head>
