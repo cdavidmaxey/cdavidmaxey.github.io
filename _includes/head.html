@@ -242,8 +242,8 @@
 			"mainEntityOfPage": {"@type":"WebPage","@id":"{{site.url}}{{page.url}}"},
 			"headline": "{{page.title}}",
 			"image": {"@type":"ImageObject","url":"{{site.cache}}/1280/{{page.thumb.src}}","height":{{page.thumb.Y | times: 1280 | divided_by: page.thumb.X | round}},"width":1280},
-			"datePublished": "{{post.date | date_to_xmlschema}}",{% if post.updated %}
-			"dateModified": "{{post.updated | date_to_xmlschema}}",{% endif %}
+			"datePublished": "{{page.date | date_to_xmlschema}}",{% if page.updated %}
+			"dateModified": "{{page.updated | date_to_xmlschema}}",{% endif %}
 			"author": {
 				"@type": "Person",
 				"name": "{{site.Person.name}}",
