@@ -27,30 +27,13 @@ tags:
 - Special Education & 504
 ---
 <blockquote><div>
-<ol type="A">
-	<li>[Schools must respond] promptly to requests initiated by a parent or public agency for an initial evaluation to determine [special education eligibility].</li>
-	<li>Upon receiving a request from a parent or public agency for an initial evaluation, [schools must designate] a team to determine whether an initial evaluation will be conducted.</li>
-	<ol type="1">
-		<li>The&hellip;team includes the parent and at least two professionals&hellip;.</li>
-		<ol type="a">
-			<li>The team may make the decision to evaluate with or without a meeting.</li>
-			<li>[Schools must document] team member’s input, including parents, whether or not the [school] convenes a meeting.</li>
-			<li>If a meeting is held, [the school must invite] parents to participate.</li>
-			<li>If [a school] refuses an evaluation requested by the parent, the [school must provide] the parent with prior written notice of its refusal to conduct an evaluation.</li>
-			<li>[Schools must acknowledge] the parent’s right to challenge its refusal to conduct an evaluation.</li>
-		</ol>
-		<li>The initial evaluation consists of procedures</li>
-		<ol type="a">
-			<li>To determine if the child has a disability; and,</li>
-			<li>To identify the child’s educational needs.</li>
-		</ol>
-	</ol>
-	<li>[Schools must conduct] the initial evaluation within 60 school days of receiving parental consent for evaluation, unless:</li>
-	<ol type="1">
-		<li>The [school] and the parents agree in writing to extend the timeline for an evaluation to determine eligibility for specific learning disabilities;</li>
-		<li>The child moves from another school district during the evaluation, the [school] is making sufficient progress to ensure a prompt completion of the evaluation, and the parent and the [school] agree in writing to a specific time when the evaluation will be completed.</li>
-		<li>The parent repeatedly fails or refuses to produce the child for the evaluation.</li>
-	</ol>
+<p>[Schools must respond] promptly to requests initiated by a parent or public agency for an initial evaluation to determine [special education eligibility].</p>
+<p>Upon receiving a request from a parent or public agency for an initial evaluation, [schools must designate] a team to determine whether an initial evaluation will be conducted.&hellip;</p>
+<p>[Schools must conduct] the initial evaluation within 60 school days of receiving parental consent for evaluation, unless:</p>
+<ol type="1">
+	<li>The [school] and the parents agree in writing to extend the timeline for an evaluation to determine eligibility for specific learning disabilities;</li>
+	<li>The child moves from another school district during the evaluation, the [school] is making sufficient progress to ensure a prompt completion of the evaluation, and the parent and the [school] agree in writing to a specific time when the evaluation will be completed.</li>
+	<li>The parent repeatedly fails or refuses to produce the child for the evaluation.</li>
 </ol>
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/policy/federal/idea/policyproced/03evaluationelig.doc" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Policies&nbsp;and&nbsp;Procedures for&nbsp;Special&nbsp;Education: 2007‑2008: Section&nbsp;3: Evaluation&nbsp;and&nbsp;Eligibility</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
