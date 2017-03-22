@@ -60,4 +60,4 @@ tags:
 <p>Sincerely,</p>
 <p class="blue">[signature of parent]</p>
 </section>
-<amp-img alt="IEP Roadmap: How to seek out special education services for your child (Infographic)" width="2985" height="10876" src="{{site.cache}}/320/IEP-Roadmap-Infographic.jpg" srcset="{{site.cache}}/320/IEP-Roadmap-Infographic.jpg 320w,{{site.cache}}/640/IEP-Roadmap-Infographic.jpg 640w,{{site.cache}}/1280/IEP-Roadmap-Infographic.jpg 1280w,{{site.cache}}/1920/IEP-Roadmap-Infographic.jpg 1920w,"layout="responsive"></amp-img>
+<amp-img alt="IEP Roadmap: How to seek out special education services for your child (Infographic)" width="2985" height="10876" src="{{site.cache}}/320/IEP-Roadmap-Infographic.jpg" srcset="{{site.cache}}/320/IEP-Roadmap-Infographic.jpg 320w,{{site.cache}}/640/IEP-Roadmap-Infographic.jpg 640w,{{site.cache}}/1280/IEP-Roadmap-Infographic.jpg 1280w,{{site.cache}}/1920/IEP-Roadmap-Infographic.jpg 1920w" layout="responsive"></amp-img>
