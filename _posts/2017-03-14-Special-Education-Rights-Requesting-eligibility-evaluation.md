@@ -62,4 +62,4 @@ tags:
 <p class="blue">[signature of parent]</p>
 </section>
 <div><amp-img alt="IEP Roadmap: How to seek out special education services for your child (Infographic)" width="2985" height="10876" src="{{site.cache}}/320/IEP-Roadmap-Infographic.jpg" srcset="{{site.cache}}/320/IEP-Roadmap-Infographic.jpg 320w,{{site.cache}}/640/IEP-Roadmap-Infographic.jpg 640w,{{site.cache}}/1280/IEP-Roadmap-Infographic.jpg 1280w,{{site.cache}}/1920/IEP-Roadmap-Infographic.jpg 1920w" layout="responsive"></amp-img></div>
-<p class="credits">&copy; <a rel="nofollow" href="https://www.understood.org/en/school-learning/special-services/ieps/iep-roadmap-how-to-seek-out-special-education-services-for-your-child" target="_blank">Understood.org</a> | Used by invitation to download and embed</p>
+<p class="credits">&copy; <a rel="nofollow" href="https://www.understood.org/en/school-learning/special-services/ieps/iep-roadmap-how-to-seek-out-special-education-services-for-your-child" target="_blank">Understood.org</a> | used by invitation to download and embed</p>
