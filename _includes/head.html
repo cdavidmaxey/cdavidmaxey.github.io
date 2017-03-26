@@ -21,8 +21,9 @@
 			#name{font-size:48px;color:#000;line-height:1;margin:2rem auto}
 			#name .tangerine{font-family:Tangerine,sans-serif;font-weight:700}
 			#name .gray{color:#737373}
-			#name .suffix{font-size:19px}
+			#name .suffix{font-size:.395em}
 			#name .title{font-size:1rem;margin-top:.35rem}
+			@media(max-width:360px){#name{font-size:42px}}
 			
 			/* hr */
 			hr{border:0;height:1px;margin:2rem 0;background:linear-gradient(to left,#fff,#000,#fff)}
@@ -44,8 +45,8 @@
 			nav.bar a.center{flex:1;text-align:center}
 			nav.bar a.right{margin-left:auto}
 			nav.bar a.menu{display:none}
-			@media all and (max-width: 525px){nav.bar a.link,nav.bar a.logo{display:none}nav.bar a.menu{display:block}}
-			@media all and (max-width: 360px){nav.bar .logo amp-img{display:none}nav.bar a.logo>div{margin:0 1rem 0 .5rem}}
+			@media all and (max-width:525px){nav.bar a.link,nav.bar a.logo{display:none}nav.bar a.menu{display:block}}
+			@media all and (max-width:360px){nav.bar .logo amp-img{display:none}nav.bar a.logo>div{margin:0 1rem 0 .5rem}}
 
 			/* .digits */
 			.digits{background:#9c27b0;color:white}
