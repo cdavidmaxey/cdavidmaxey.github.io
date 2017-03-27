@@ -20,7 +20,8 @@ Information on this website is of a general nature and is designed for informati
 
 /* THANKS */
 
-W3Schools.com
+W3Schools.com for HTML/CSS/JS reference
+Forebears.io for frequency of simular surnames
 
 /* SITE TECHNOLOGY */
 
