@@ -8,7 +8,10 @@ title: "Search blog Articles by Topic | C. David Maxey, M.A."
 description: "Topic tags organizing blog articles about evidence-based practices, psychological services, and school-based supports for children and youth"
 ---
 <main id="search">{% capture mercury %}{% for tag in site.tags %}{% if tag[1].size > 9 %}{{tag[1].size}}{% else %}{{tag[1].size | prepend: '0'}}{% endif %}|{{tag[0]}}^{% endfor %}{% endcapture %}{% assign size_tag = mercury | split:'^' | sort %}{% capture venus %}{% for odlaw in size_tag reversed %}{{odlaw}}|{% cycle 'size_tag_color_cycle': 'red', 'orange', 'yellow', 'olive', 'green', 'teal', 'blue', 'violet', 'purple', 'pink' %}^{% endfor %}{% endcapture %}{% assign size_tag_color = venus | split:'^' | sort %}{% for tag in size_tag_color reversed %}{% assign wenda = tag | split:'|' %}
-	<section class="blog" id="{{wenda[1] | slugify}}">{% for post in site.posts %}{% if post.tags contains wenda[1] %}
+	<section class="blog" id="{{wenda[1] | slugify}}">
+		<div class="center">
+			<a class="tag{% unless wilma[0] == '01' %} {{wilma[2]}}{% endunless %}" href="{{site.url}}/search/#{{wenda[1] | slugify}}">{{wenda[1]}} <span>{{wenda[0] | plus:0}}</span></a>
+		</div>{% for post in site.posts %}{% if post.tags contains wenda[1] %}
 		<a class="card" href="{{site.url}}{{post.url}}">
 			<!--<amp-img src="{{site.cache}}/320/{{post.thumb.src}}" srcset="{{site.cache}}/320/{{post.thumb.src}} 320w,{{site.cache}}/640/{{post.thumb.src}} 640w,{{site.cache}}/1280/{{post.thumb.src}} 1280w" width="{{post.thumb.X}}" height="{{post.thumb.Y}}" layout="responsive"></amp-img>-->
 			<header>{{post.title}}</header>
