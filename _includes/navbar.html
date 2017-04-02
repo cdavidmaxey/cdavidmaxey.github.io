@@ -2,6 +2,7 @@
 			<ul>
 				<li on="tap:sidebar.close" role="button" tabindex="0"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96"><path d="M96 14l-14-14-34 34-34-34-14 14 34 34-34 34 14 14 34-34 34 34 14-14-34-34z"/></svg></li>
 				<li><a {% if page.url == '/' %} class="active"{% endif %}href="{{site.url}}/">CDavidMaxey.com</a></li>
+				<li><a {% if page.url == '/about/' %} class="active"{% endif %}href="{{site.url}}/about/">About</a></li>
 				<li><a {% if page.url == '/contact/' %} class="active"{% endif %}href="{{site.url}}/contact/">Contact</a></li>
 <!--			<li><a {% if page.url == '/forms/' %} class="active"{% endif %}href="{{site.url}}/forms/">Forms</a></li>-->
 				<li><a {% if page.url contains '/blog/' or page.layout == 'post' %} class="active"{% endif %}href="{{site.url}}/blog/{% for post in site.posts %}{% if page.id == post.id and forloop.index > site.paginate %}page{{forloop.index0 | divided_by:site.paginate | plus:1}}/{% break %}{% endif %}{% endfor %}">blog</a></li>
@@ -17,6 +18,7 @@
 						<div><small>Psychologist Associate Resident</small></div>
 					</div>
 				</a>
+				<a class="link{% if page.url == '/about/' %} active{% endif %}" href="{{site.url}}/about/">About</a>
 				<a class="link{% if page.url == '/contact/' %} active{% endif %}" href="{{site.url}}/contact/">Contact</a>
 <!--			<a class="link{% if page.url == '/forms/' %} active{% endif %}" href="{{site.url}}/forms/">Forms</a>-->
 				<a class="link{% if page.url contains '/blog/' or page.layout == 'post' %} active{% endif %}" href="{{site.url}}/blog/{% for post in site.posts %}{% if page.id == post.id and forloop.index > site.paginate %}page{{forloop.index0 | divided_by:site.paginate | plus:1}}/{% break %}{% endif %}{% endfor %}">blog</a>
