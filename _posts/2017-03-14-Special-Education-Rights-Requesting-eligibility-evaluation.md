@@ -2,6 +2,7 @@
 updated:
 layout: post
 published: TRUE
+cursif: TRUE
 alt: "Time to get the flock out of here"
 thumb:
   src: "time-to-get-the-flock-out-of-here.jpg"
@@ -48,7 +49,7 @@ tags:
 <p>Therefore, I am writing to formally request that my child be evaluated for special education services under the Child Find obligations of the Individuals with Disabilities Education Act (IDEA).</p>
 <p>I look forward to working with you within the next <span class="blue">[15 days]</span> to develop an assessment plan to begin the evaluation process. Please ensure that I receive copies of assessment results <span class="blue">[7 days]</span> prior to any meeting. Thank you very much for your help.</p>
 <p>Sincerely,</p>
-<p class="blue">[signature of parent]</p>
+<p class="blue cursif">Signature of Parent</p>
 </section>
 <blockquote><div>
 <p>Your school&hellip;cannot conduct an initial evaluation&hellip;to determine eligibility&hellip;to receive special education&hellip;without first providing you with prior written notice&hellip;and obtaining your consent&hellip;.</p>
