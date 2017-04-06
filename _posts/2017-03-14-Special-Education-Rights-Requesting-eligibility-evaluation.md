@@ -37,21 +37,7 @@ tags:
 </ol>
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/policy/federal/idea/policyproced/03evaluationelig.doc" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Policies&nbsp;and&nbsp;Procedures for&nbsp;Special&nbsp;Education: 2007‑2008: Section&nbsp;3: Evaluation&nbsp;and&nbsp;Eligibility</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
-<blockquote><div>
-<p>Your school&hellip;cannot conduct an initial evaluation&hellip;to determine eligibility&hellip;to receive special education&hellip;without first providing you with prior written notice&hellip;and obtaining your consent&hellip;.</p>
-<p>Your school district must make reasonable efforts to obtain your informed consent for an initial evaluation&hellip;.</p>
-<p>Your consent for initial evaluation does not mean that you have also given your consent for&hellip;special education&hellip;.</p>
-<p>If&hellip;you have refused consent&hellip;for an initial evaluation, your school&hellip;may, but is not required to, seek to conduct an initial evaluation of your child by using the&hellip;mediation or due process complaint, resolution meeting, and impartial due process hearing procedures.</p>
-<p>Your school&hellip;must get your informed consent before providing special education&hellip;for the first time.</p>
-<p>If you do not respond to a request to provide your consent for&hellip;special education&hellip;for the first time, or if you refuse&hellip;consent or later revoke (cancel) your consent in writing, your school&hellip;may not use the procedural safeguards (i.e., mediation, due process complaint, resolution meeting, or an impartial due process hearing)&hellip;to obtain&hellip;a ruling that the special education&hellip;may be provided&hellip;without your consent.&hellip;</p>
-<p>If you revoke (cancel) your consent in writing at any point after your child is first
-provided special education&hellip;, then the school&hellip;may not
-continue to provide such services&hellip;.</p>
-<div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/wma/pubs/proceduralsafeguards/k21/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education: K‑21:&nbsp;2016‑2017</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
-</div></blockquote>
 <p>It can take a long time to get an evaluation for Special Education eligibility from your school. In Oregon, schools have 60 school days to complete an evaluation after a parent consents, and the school has to decide to offer an evaluation before a parent can consent to an evaluation. If you add up the time it takes a school to decide if they’ll offer an evaluation plus 60 school days plus weekends and holidays, that’s quite likely well over 3 months. I encourage you to make your request for an evaluation <i>in writing</i> with clear requests, your signature, and the date, so there are no misunderstandings that might delay the process (see example below).</p>
-<p>Sometimes parents are concerned that if they consent to a full evaluation, they might be also consenting to special education&mdash;the Oregon Department of Education explains above that “consent for initial evaluation does not mean that you have also given your consent for&hellip;special education”, and you may revoke your consent. I encourage you to know your rights, and consider the value of a full evaluation so that you can make a well-informed decision about your child’s education.</p>
-<p>You can follow the typical paths from an evaluation to an Individualized Education Program (IEP) in the infographic below from <a rel="nofollow" href="https://www.understood.org/en/school-learning/special-services/ieps/iep-roadmap-how-to-seek-out-special-education-services-for-your-child" target="_blank">Understood.org</a> and titled <i>IEP Roadmap: How to Seek Out Special Education Services for Your Child</i>.</p>
 <section class="paper">
 <p class="blue">[full name of parent]<br>[address of parent]</p>
 <p class="blue">[date]</p>
@@ -64,6 +50,20 @@ continue to provide such services&hellip;.</p>
 <p>Sincerely,</p>
 <p class="blue">[signature of parent]</p>
 </section>
+<blockquote><div>
+<p>Your school&hellip;cannot conduct an initial evaluation&hellip;to determine eligibility&hellip;to receive special education&hellip;without first providing you with prior written notice&hellip;and obtaining your consent&hellip;.</p>
+<p>Your school district must make reasonable efforts to obtain your informed consent for an initial evaluation&hellip;.</p>
+<p>Your consent for initial evaluation does not mean that you have also given your consent for&hellip;special education&hellip;.</p>
+<p>If&hellip;you have refused consent&hellip;for an initial evaluation, your school&hellip;may, but is not required to, seek to conduct an initial evaluation of your child by using the&hellip;mediation or due process complaint, resolution meeting, and impartial due process hearing procedures.</p>
+<p>Your school&hellip;must get your informed consent before providing special education&hellip;for the first time.</p>
+<p>If you do not respond to a request to provide your consent for&hellip;special education&hellip;for the first time, or if you refuse&hellip;consent or later revoke (cancel) your consent in writing, your school&hellip;may not use the procedural safeguards (i.e., mediation, due process complaint, resolution meeting, or an impartial due process hearing)&hellip;to obtain&hellip;a ruling that the special education&hellip;may be provided&hellip;without your consent.&hellip;</p>
+<p>If you revoke (cancel) your consent in writing at any point after your child is first
+provided special education&hellip;, then the school&hellip;may not
+continue to provide such services&hellip;.</p>
+<div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/wma/pubs/proceduralsafeguards/k21/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education: K‑21:&nbsp;2016‑2017</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
+</div></blockquote>
+<p>Sometimes parents are concerned that if they consent to a full evaluation, they might be also consenting to special education&mdash;the Oregon Department of Education explains above that “consent for initial evaluation does not mean that you have also given your consent for&hellip;special education”, and you may revoke your consent. I encourage you to know your rights, and consider the value of a full evaluation so that you can make a well-informed decision about your child’s education.</p>
+<p>You can follow the typical paths from an evaluation to an Individualized Education Program (IEP) in the infographic below from <a rel="nofollow" href="https://www.understood.org/en/school-learning/special-services/ieps/iep-roadmap-how-to-seek-out-special-education-services-for-your-child" target="_blank">Understood.org</a> and titled <i>IEP Roadmap: How to Seek Out Special Education Services for Your Child</i>.</p>
 <hr>
 <p><amp-img alt="IEP Roadmap: How to seek out special education services for your child (Infographic)" width="2985" height="9918" src="{{site.cache}}/320/IEP-Roadmap-Infographic.jpg" srcset="{{site.cache}}/320/IEP-Roadmap-Infographic.jpg 320w,{{site.cache}}/640/IEP-Roadmap-Infographic.jpg 640w,{{site.cache}}/1280/IEP-Roadmap-Infographic.jpg 1280w,{{site.cache}}/1920/IEP-Roadmap-Infographic.jpg 1920w" layout="responsive"></amp-img></p>
 <p class="credits">&copy; <a rel="nofollow" href="https://www.understood.org/en/school-learning/special-services/ieps/iep-roadmap-how-to-seek-out-special-education-services-for-your-child" target="_blank">Understood.org</a> | unendorsed cropped infographic used by invitation to download and embed</p>
