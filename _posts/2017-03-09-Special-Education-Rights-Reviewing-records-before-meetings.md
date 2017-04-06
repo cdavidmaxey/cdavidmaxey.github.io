@@ -31,14 +31,8 @@ tags:
 <blockquote><div>
 <p>[Schools must comply] with requests from a parent&hellip;to inspect and review any education records without unnecessary delay and before any meeting relating to the identification, evaluation, or placement of the student or regarding an IEP, hearing, or resolution session&hellip;.</p>
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/policy/federal/idea/policyproced/08recordsfinal.doc" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Policies&nbsp;and&nbsp;Procedures for&nbsp;Special&nbsp;Education: 2007‑2008: Section&nbsp;8: Student&nbsp;Education&nbsp;Records, Access,&nbsp;and&nbsp;Confidentiality</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
-</div></blockquote>
-
-<blockquote><div>
 <p>It is&hellip;important to ensure that parents have the information they need to participate meaningfully in IEP Team meetings, which may include reviewing their child’s records.&hellip;It would be appropriate for parents to review documents related to the determination of eligibility prior to the eligibility determination&hellip;.</p>
 <div class="citation"><small><a rel="nofollow" href="http://idea-b.ed.gov/explore/view/p/,root,regs,preamble2,prepart2,D,1992,.html" title="Building the Legacy: IDEA 2004" target="_blank"><cite>Building&nbsp;the&nbsp;Legacy: IDEA&nbsp;2004</cite><br>U.S. Department of Education</a></small></div>
-</div></blockquote>
-
-<blockquote><div>
 <p>Your right to inspect and review education records includes:</p>
 <ol>
 <li>Your right to a response from the school&hellip;to your reasonable requests for explanations and interpretations of the records;</li>
@@ -47,9 +41,7 @@ tags:
 </ol>
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/wma/pubs/proceduralsafeguards/k21/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education: K‑21:&nbsp;2016‑2017</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
-
 <p>Parents are important members of teams that determine Special Education eligibility and create Individualized Education Plans (IEPs); it’s important that you’re able to participate meaningfully in meetings about your child. You have many rights. I encourage you to know your rights, and exercise them <i>in writing</i> with clear requests, your signature, and the date so there are no misunderstandings (see example below).</p>
-
 <section class="paper">
 <p class="blue">[full name of parent]<br>[address of parent]</p>
 <p class="blue">[date]</p>
