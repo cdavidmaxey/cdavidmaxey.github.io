@@ -47,7 +47,7 @@ tags:
 <p class="blue">[date]</p>
 <p class="blue">[name of school]<br>[address of school]</p>
 <p>To whom it may concern,</p>
-<p>I am <span class="blue">[full name of your child]</span>’s parent. I am requesting you provide me and <span class="blue">[full name of someone you’d like to review the records]</span> with copies of all evaluation records <span class="blue">[7 days]</span> before any meeting because I cannot effectively inspect and review the records unless I receive those copies. Thank you in advance for providing me with the information I need to participate meaningfully in meetings.</p>
+<p>I am <span class="blue">[full name of your child]</span>’s parent. I am requesting you provide me and <span class="blue">[full name of someone you’d like to review the records]</span> with copies of all evaluation records <span class="blue">[5 school days]</span> before any meeting because I cannot effectively inspect and review the records unless I receive those copies. Thank you in advance for providing me with the information I need to participate meaningfully in meetings.</p>
 <p>Sincerely,</p>
 <p class="blue">[signature of parent]</p>
 </section>

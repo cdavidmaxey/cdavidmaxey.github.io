@@ -46,7 +46,7 @@ tags:
 <p>I am <span class="blue">[full name of your child]</span>’s parent. My child has been struggling at school. <span class="blue">[Provide detailed information about your concerns, using supporting evidence such as test scores, teacher communications, work samples, etc.]</span></p>
 <p>I have been working with <span class="blue">[name of your child’s teacher(s)]</span>, and <span class="blue">[I have not seen any improvement or the problems have been getting worse]</span>, despite having tried the following things. <span class="blue">[Describe any interventions that were tried, including response to intervention (RtI) and informal accommodations in the classroom]</span></p>
 <p>Therefore, I am writing to formally request that my child be evaluated for special education services under the Child Find obligations of the Individuals with Disabilities Education Act (IDEA).</p>
-<p>I look forward to working with you within the next <span class="blue">[15 days]</span> to develop an assessment plan to begin the evaluation process. Please ensure that I receive copies of assessment results <span class="blue">[7 days]</span> prior to any meeting. Thank you very much for your help.</p>
+<p>I look forward to working with you within the next <span class="blue">[10 school days]</span> to develop an assessment plan to begin the evaluation process. Please ensure that I receive copies of assessment results <span class="blue">[5 school days]</span> prior to any meeting. Thank you very much for your help.</p>
 <p>Sincerely,</p>
 <p class="blue">[signature of parent]</p>
 </section>
