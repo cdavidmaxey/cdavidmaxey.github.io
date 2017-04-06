@@ -45,7 +45,7 @@ tags:
 <p>Your school&hellip;must get your informed consent before providing special education&hellip;for the first time.</p>
 <p>If you do not respond to a request to provide your consent for&hellip;special education&hellip;for the first time, or if you refuse&hellip;consent or later revoke (cancel) your consent in writing, your school&hellip;may not use the procedural safeguards (i.e., mediation, due process complaint, resolution meeting, or an impartial due process hearing)&hellip;to obtain&hellip;a ruling that the special education&hellip;may be provided&hellip;without your consent.&hellip;</p>
 <p>If you revoke (cancel) your consent in writing at any point after your child is first
-provided special education and related services, then the school district may not
+provided special education&hellip;, then the school&hellip;may not
 continue to provide such services&hellip;.</p>
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/wma/pubs/proceduralsafeguards/k21/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education: K‑21:&nbsp;2016‑2017</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
