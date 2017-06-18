@@ -22,7 +22,7 @@ youtube:
 variables:
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/royalty-free-stock-photos-primary-school-children-cutting-out-shapes-image15539128' target='_blank'>&copy;</a>&nbsp;Monkey Business Images Ltd"
 title: "Grade Retention: Should my child repeat a grade?"
-description: "Decisions about repeating a grade or hold your child back should be made considering the research leading experts to caution against grade retention."
+description: "Decisions about repeating a grade or holding your child back should be made considering the research leading experts to caution against grade retention."
 tags:
 - Special Education & 504
 ---
