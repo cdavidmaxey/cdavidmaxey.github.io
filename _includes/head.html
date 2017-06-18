@@ -117,14 +117,15 @@
 			.float.book{width:8.625rem;margin-bottom:.5rem}
 			.book>amp-img{display:block}
 			.book>div{display:flex}
-			.book a.product{display:flex;justify-content:center;padding:.5em;}
+			.book a.product{display:flex;justify-content:center;padding:.5em}
 			.book a.powells{background:#db3c26;fill:white;border-right:white solid 1px;border-bottom-left-radius:.25em}
 			.book a.powells:hover{background:#eee;fill:#db3c26}
 			.book a.amazon{background:black;fill:white;border-left:white solid 1px;border-bottom-right-radius:.25em}
 			.book a.amazon:hover{background:#eee;fill:black}
-			.book a.download{background:#9c27b0;fill:white;border-bottom-left-radius:.25em;border-bottom-right-radius:.25em}
-			.book a.download:hover{background:#eee;fill:#9c27b0}
-			a.product svg{height:1em;width:calc(3.3125em - 1px)}
+			.book a.download{background:#9c27b0;fill:white;color:white;border-bottom-left-radius:.25em;border-bottom-right-radius:.25em}
+			.book a.download:hover{background:#eee;fill:#9c27b0;color:#9c27b0}
+			a.product>svg,a.product>span{width:calc(3.3125em - 1px)}
+			a.product svg{height:1em}
 			
 			/* .float */
 			.float{margin-bottom:1rem}
@@ -154,7 +155,7 @@
 			#search .blog:target a.tag span{background:white;color:black}
 			
 			/* blockquote */
-			blockquote{margin:1rem 0;padding:1rem 0;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 41.015 28' width='41.015' height='28' fill='#e1bee7' stroke='#4a148c'><path d='M17.137 4.053c.286-.095.239-.384.239-.384l-.429-2.972s-.048-.24-.429-.192c-10.208 1.102-17.077 8.916-15.885 18.408 1.24 6.615 6.392 9.156 11.067 8.485 4.723-.767 7.966-5.177 7.203-9.923-.62-4.218-3.842-7.378-7.896-7.522-.049-2.615 3.816-5.189 6.13-5.9z'/><path d='M38.637 4.053c.286-.095.239-.384.239-.384l-.429-2.972s-.048-.24-.429-.192c-10.208 1.102-17.077 8.916-15.885 18.408 1.24 6.615 6.392 9.156 11.067 8.485 4.723-.767 7.966-5.177 7.203-9.923-.62-4.218-3.842-7.378-7.896-7.522-.049-2.615 3.816-5.189 6.13-5.9z'/></svg>") 12px top no-repeat,url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 41.015 28' width='41.015' height='28' fill='#e1bee7' stroke='#4a148c'><path d='M23.877 23.947c-.286.095-.239.384-.239.384l.429 2.972s.048.24.429.192c10.208-1.102 17.077-8.916 15.885-18.408-1.24-6.615-6.392-9.156-11.067-8.485-4.723.767-7.966 5.177-7.203 9.923.62 4.218 3.842 7.378 7.896 7.522.049 2.615-3.816 5.189-6.13 5.9z'/><path d='M2.377 23.947c-.286.095-.239.384-.239.384l.429 2.972s.048.24.429.192c10.208-1.102 17.077-8.916 15.885-18.408-1.24-6.615-6.392-9.156-11.067-8.485-4.723.767-7.966 5.177-7.203 9.923.62 4.218 3.842 7.378 7.896 7.522.049 2.615-3.816 5.189-6.13 5.9z'/></svg>") calc(100% - 8px) bottom no-repeat,#f3e5f5;background-clip:padding-box,padding-box,content-box}
+			blockquote{clear:both;margin:1rem 0;padding:1rem 0;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 41.015 28' width='41.015' height='28' fill='#e1bee7' stroke='#4a148c'><path d='M17.137 4.053c.286-.095.239-.384.239-.384l-.429-2.972s-.048-.24-.429-.192c-10.208 1.102-17.077 8.916-15.885 18.408 1.24 6.615 6.392 9.156 11.067 8.485 4.723-.767 7.966-5.177 7.203-9.923-.62-4.218-3.842-7.378-7.896-7.522-.049-2.615 3.816-5.189 6.13-5.9z'/><path d='M38.637 4.053c.286-.095.239-.384.239-.384l-.429-2.972s-.048-.24-.429-.192c-10.208 1.102-17.077 8.916-15.885 18.408 1.24 6.615 6.392 9.156 11.067 8.485 4.723-.767 7.966-5.177 7.203-9.923-.62-4.218-3.842-7.378-7.896-7.522-.049-2.615 3.816-5.189 6.13-5.9z'/></svg>") 12px top no-repeat,url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 41.015 28' width='41.015' height='28' fill='#e1bee7' stroke='#4a148c'><path d='M23.877 23.947c-.286.095-.239.384-.239.384l.429 2.972s.048.24.429.192c10.208-1.102 17.077-8.916 15.885-18.408-1.24-6.615-6.392-9.156-11.067-8.485-4.723.767-7.966 5.177-7.203 9.923.62 4.218 3.842 7.378 7.896 7.522.049 2.615-3.816 5.189-6.13 5.9z'/><path d='M2.377 23.947c-.286.095-.239.384-.239.384l.429 2.972s.048.24.429.192c10.208-1.102 17.077-8.916 15.885-18.408-1.24-6.615-6.392-9.156-11.067-8.485-4.723.767-7.966 5.177-7.203 9.923.62 4.218 3.842 7.378 7.896 7.522.049 2.615-3.816 5.189-6.13 5.9z'/></svg>") calc(100% - 8px) bottom no-repeat,#f3e5f5;background-clip:padding-box,padding-box,content-box}
 			blockquote>div{padding:1.25rem;border-left:6px solid #4a148c}
 			blockquote p{margin-top:0}
 			blockquote .citation{text-align:right;line-height:1;}
