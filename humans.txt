@@ -22,6 +22,7 @@ Information on this website is of a general nature and is designed for informati
 
 W3Schools.com for HTML/CSS/JS reference
 Forebears.io for frequency of simular surnames
+Christophe Beaumale for Cursif freeware fonts from FontSpace.com/christophe-beaumale/cursif
 
 /* SITE TECHNOLOGY */
 
