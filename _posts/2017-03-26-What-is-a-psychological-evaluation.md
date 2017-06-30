@@ -25,17 +25,65 @@ title: "What’s a psychological evaluation and is it worth the cost?"
 description: "Psychological evaluations can often cost $1000 and up, depending upon the complexity of the questions and the assessments necessary to answer them."
 tags:
 - Psychological Evaluation
+- Special Education & 504
 ---
-A psychological evaluation starts with your questions, and ends with a discussion of information in a written report that helps you make more informed decisions about your questions. A psychological evaluation is one of many ways to learn about your child. Often parents and teachers complete checklists (with response choices such as never, sometimes and often) as part of screening assessments, which are designed to provide much less information than a psychlogical evaluation. Screening assessment are relatively easy to administer, with the goal of helping you decide if more comprehensive assessment makes sense. 
+<blockquote><div>
+<p></p>
+<div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/policy/federal/idea/policyproced/03evaluationelig.doc" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Policies&nbsp;and&nbsp;Procedures for&nbsp;Special&nbsp;Education: 2007‑2008: Section&nbsp;3: Evaluation&nbsp;and&nbsp;Eligibility</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
+</div></blockquote>
+<p>A psychological evaluation starts with questions, and ends with a discussion of information in a written report that helps you make more informed decisions about your questions.</p>
 
-Comprehensive psychological assessments are individually-tailored, and go beyond just identifying a specific disorder or disability. Utilizing scientifically-grounded and sensitively-delivered psychological testing procedures, your evaluator can gain a better sense of how your child’s mind works in-the-moment. These are some components common to most psychological assessments:
-<ul>
-	<li>About 1-hour meeting to discuss your current concerns, as well as your child's developmental history and strengths.</li>
-	<li>Several longer meetings to complete psychological testing.</li>
-	<li>Interviews with teachers, therapists, or other important people in your child’s life, if indicated.</li>
-	<li>Review of any relevant medical, mental health, and school records.</li>
-	<li>One or more meetings to review the results.</li>
-	<li>Consultation with school personnel, treatment providers, or other people in your child’s life, if requested.</li>
-</ul>
+The goals of an assessment are (1) to gain a richer, deeper, and/or different understanding of a person’s thoughts, emotions, processing, behavior, and learning; and (2) to use that understanding to help the person be more comfortable, successful, and/or untroubled in daily life.
 
-By integrating information from so many different sources, your assessor is often able to gain a robust and sophisticated understanding of your child’s needs, gifts, and struggles. The primary goal is to help you better understand your child’s needs and appreciate their psychological strengths. The “product” you receive from a comprehensive psychological assessment is information. This is given both verbally and in the form of a detailed written report.
+A psychological assessment (also called a psychological evaluation) is one of many ways to learn about a person. Client-centered and individually-tailored, these assessments go beyond just identifying a specific disorder or disability. Utilizing scientifically-grounded and sensitively-delivered psychological testing procedures, we can gain a better sense of how a person’s mind works in-the-moment. The primary goal is to help people better understand a person’s needs and appreciate their psychological strengths.
+
+The primary “product” people receive from a comprehensive psychological assessment is information. This is given both verbally and in the form of a detailed written report.
+
+There are some components common to most psychological assessments we complete. These include:
+
+A meeting between one of our psychologists and the person (or his/her parents), to discuss the developmental history, strengths, and the nature of current concerns [approximately 60 minutes].
+Meetings between the psychologist and the person participating in the assessment, to complete psychological testing. This involves two (or more) sessions, each about three hours in length.
+Interviews with teachers, therapists and/or other important people in the person’s life, if indicated.
+Review of any relevant medical, mental health, and/or school records.
+One or more debriefing meetings with the person participating in the assessment and/or with his/her parents.
+Consultation with school personnel, treatment providers, or other people in the person’s life, if requested.
+By integrating information from so many different sources, we are often able to gain a robust and sophisticated understanding of a person’s needs, gifts, and/or struggles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MindSights offers a wide array of psychological testing, assessment, and consultation services. We aim to help young people and/or their families gain a much more robust and practical understanding of the unique ways in which any neurodevelopmental, cognitive, emotional, and/or behavioral differences affect a specific individual’s adjustment, adaptation, success, and comfort in the world.
+
+Although we certainly assist with clarifying which, if any, diagnosis best describes the challenges affecting an individual’s life, one of our central goals is to go beyond diagnosis alone. Instead, we work to help develop solutions based on a more complex understanding of the young person’s developmental and psychological worlds.
+
+What we do: Some of the conditions or issues we help people identify, understand, and plan for include the following:
+
+Intellectual/academic giftedness, along with the educational and emotional implications thereof.
+School readiness.
+Learning disabilities and learning challenges (such as dyslexia, dysgraphia, and dyscalculia), along with accommodations/services to facilitate success.
+Person-specific strengths and challenges associated with attention-deficit/hyperactivity disorders (ADHD).
+Processing speed disorders, nonverbal learning disorders, and other concerns that may be “invisible” to the casual observer.
+The unique psychological, neurodevelopmental, learning, and emotional issues associated with Autism-spectrum disorders.
+Complicated experiences of psychological trauma and its developmental impact.
+Complex situations in which a young person may be affected by multiple emotional and/or neurodevelopmental conditions, and for whom treatment has become difficult to plan.
+Various developmental disabilities and the unique needs they create for the child.
+Assessments in which many of the preceding issues need to be considered.
+What we don’t do: There are some psychological assessment services we don’t provide. For example:
+
+We do not provide Custody Evaluations or related assessments for family-court proceedings. For such needs, we strongly recommend you consult with a psychologist who specializes in these evaluations.
+We don’t provide specific forensic evaluations, such as determining legal competency in criminal or delinquency cases.
+We do not provide medically-focused Neuropsychological Evaluations. If you need to better understand things like the cognitive effects of concussion or other head trauma, the psychological impact of certain medical treatments, or the developmental effects of a metabolic disorder, then we recommend you work with a board-certified neuropsychologist.
