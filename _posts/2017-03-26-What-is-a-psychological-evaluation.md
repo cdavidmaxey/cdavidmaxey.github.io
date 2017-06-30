@@ -38,4 +38,6 @@ Comprehensive psychological assessments are individually-tailored, and go beyond
 	<li>consultation with school personnel, treatment providers, or other people in your child’s life, if requested.</li>
 </ul>
 
-By integrating information from so many different sources, your assessor is often able to gain a robust and sophisticated understanding of your child’s needs, gifts, and struggles. The primary goal is to help you better understand your child’s needs and appreciate their psychological strengths. Psychological evaluations can often cost $1000 and up, depending upon the complexity of the questions and the assessments necessary to answer them. The “product” you receive from a comprehensive psychological assessment is information. This is given both verbally and in the form of a detailed written report.
+By integrating information from so many different sources, your assessor is often able to gain a robust and sophisticated understanding of your child’s needs, gifts, and struggles. The primary goal is to help you better understand your child’s needs and appreciate their psychological strengths. 
+
+Psychological evaluations can often cost $1000 and up, depending upon the complexity of the questions and the assessments necessary to answer them. The “product” you receive from a comprehensive psychological assessment is information. This is given both verbally and in the form of a detailed written report.
