@@ -5,8 +5,8 @@ published: TRUE
 alt: "Here comes a thought on Mindful Education episode of Steven Universe on Cartoon Network"
 thumb:
   src: "here-comes-a-thought-on-mindful-education-episode-of-steven-universe-on-cartoon-network.jpg"
-  X: 320
-  Y: 160
+  X: 2707
+  Y: 1409
 image:
   src: 
   X: 
@@ -34,86 +34,82 @@ tags:
 ---
 Steven Universe is an animated coming-of-age television series about the youngest member of a team of magical guardians of the universe. The “Mindful Education” episode that aired on August 25<sup>th</sup>, 2016 shows Steven and Connie having difficulty making training progress because they are struggling with and running away from unpleasant thoughts and feelings. Garnet uses the song, “Here Comes a Thought” (embedded above), to help them learn that it’s okay to watch painful thoughts and feelings instead of trying to avoid them&mdash;this frees them to do what they need to do to make training progress. This is a super kid-friendly way to introduce kids to mindfulness. Cartoon Network subscribers can stream the full 11-minute episode on <a rel='nofollow' href='http://www.cartoonnetwork.com/video/steven-universe/mindful-education-episode.html'>CartoonNetwork.com</a>.
 
-<table class="ui inverted very compact collapsing blue striped table">
-<thead><tr><th><h5>Here Comes a Thought<br><small>by Rebecca Sugar</small></h5></th></tr></thead>
-<tbody class="lyrics">
-<tr><td>
-		<div>[Garnet] Take a moment to think of just</div>
-		<div>Flexibility, love, and trust</div>
-		<div>Take a moment to think of just</div>
-		<div>Flexibility, love, and trust</div>
-</td></tr>
-<tr><td>
-		<div>Here comes a thought</div>
-		<div>That might alarm you</div>
-		<div>What someone said</div>
-		<div>And how it harmed you</div>
-</td></tr>
-<tr><td>
-		<div>Something you did</div>
-		<div>That failed to be charming</div>
-		<div>Things that you said are</div>
-		<div>Suddenly swarming</div>
-</td></tr>
-<tr><td>
-		<div>And, oh, you’re losing sight, you’re losing touch</div>
-		<div>All these little things seem to matter so much</div>
-		<div>That they confuse you</div>
-		<div>That I might lose you</div>
-</td></tr>
-<tr><td>
-		<div>Take a moment, remind yourself to</div>
-		<div>Take a moment and find yourself</div>
-		<div>Take a moment to ask yourself if</div>
-		<div>This is how we fall apart</div>
-</td></tr>
-<tr><td>
-		<div><i>But it’s not,</i><sup>(x5)</sup></div>
-		<div><i>It’s okay,</i><sup>(x5)</sup></div>
-		<div>You’ve <i>got nothing,</i><sup>(x4)</sup> to fear</div>
-		<div><i>I’m here,</i><sup>(x3)</sup></div>
-</td></tr>
-<tr><td>
-		<div>[Stevonnie] Here comes a thought</div>
-		<div>That might alarm me</div>
-		<div>What someone said</div>
-		<div>And how it harmed me</div>
-</td></tr>
-<tr><td>
-		<div>Something I did</div>
-		<div>That failed to be charming</div>
-		<div>Things that I said are</div>
-		<div>Suddenly swarming</div>
-</td></tr>
-<tr><td>
-		<div>And, oh, I’m losing sight, I’m losing touch</div>
-		<div>All these little things seem to matter so much</div>
-		<div>That they confuse me</div>
-		<div>[Both] That I might lose me</div>
-</td></tr>
-<tr><td>
-		<div>Take a moment, remind yourself to</div>
-		<div>Take a moment and find yourself</div>
-		<div>Take a moment and ask yourself if</div>
-		<div>This is how we fall apart</div>
-</td></tr>
-<tr><td>
-		<div><i>But it’s not,</i><sup>(x5)</sup></div>
-		<div><i>It’s okay,</i><sup>(x5)</sup></div>
-		<div>I’ve <i>got nothing,</i><sup>(x4)</sup> to fear</div>
-		<div><i>I’m here,</i><sup>(x3)</sup></div>
-</td></tr>
-<tr><td>
-		<div>And it was <i>just a thought,</i><sup>(x5)</sup></div>
-		<div><i>It’s okay,</i><sup>(x5)</sup></div>
-		<div><i>We can watch,</i><sup>(x4)</sup> them go by</div>
-		<div><i>From here,</i><sup>(x3)</sup></div>
-</td></tr>
-<tr><td>
-		<div>[Stevonnie] Take a moment to think of just</div>
-		<div>Flexibility, love, and trust</div>
-		<div>Take a moment to think of just</div>
-		<div>Flexibility, love, and trust</div>
-</td></tr>
-</tbody>
-</table>
+<h5>Here Comes a Thought<br><small>by Rebecca Sugar</small></h5>
+<p>
+	[Garnet] Take a moment to think of just<br>
+	Flexibility, love, and trust<br>
+	Take a moment to think of just<br>
+	Flexibility, love, and trust
+</p>
+<p>
+	Here comes a thought<br>
+	That might alarm you<br>
+	What someone said<br>
+	And how it harmed you
+</p>
+<p>
+	Something you did<br>
+	That failed to be charming<br>
+	Things that you said are<br>
+	Suddenly swarming
+</p>
+<p>
+	And, oh, you’re losing sight, you’re losing touch<br>
+	All these little things seem to matter so much<br>
+	That they confuse you<br>
+	That I might lose you
+</p>
+<p>
+	Take a moment, remind yourself to<br>
+	Take a moment and find yourself<br>
+	Take a moment to ask yourself if<br>
+	This is how we fall apart
+</p>
+<p>
+	<i>But it’s not,</i><sup>(x5)</sup><br>
+	<i>It’s okay,</i><sup>(x5)</sup><br>
+	You’ve <i>got nothing,</i><sup>(x4)</sup> to fear<br>
+	<i>I’m here,</i><sup>(x3)</sup>
+</p>
+<p>
+	[Stevonnie] Here comes a thought<br>
+	That might alarm me<br>
+	What someone said<br>
+	And how it harmed me
+</p>
+<p>
+	Something I did<br>
+	That failed to be charming<br>
+	Things that I said are<br>
+	Suddenly swarming
+</p>
+<p>
+	And, oh, I’m losing sight, I’m losing touch<br>
+	All these little things seem to matter so much<br>
+	That they confuse me<br>
+	[Both] That I might lose me
+</p>
+<p>
+	Take a moment, remind yourself to<br>
+	Take a moment and find yourself<br>
+	Take a moment and ask yourself if<br>
+	This is how we fall apart
+</p>
+<p>
+	<i>But it’s not,</i><sup>(x5)</sup><br>
+	<i>It’s okay,</i><sup>(x5)</sup><br>
+	I’ve <i>got nothing,</i><sup>(x4)</sup> to fear<br>
+	<i>I’m here,</i><sup>(x3)</sup>
+</p>
+<p>
+	And it was <i>just a thought,</i><sup>(x5)</sup><br>
+	<i>It’s okay,</i><sup>(x5)</sup><br>
+	<i>We can watch,</i><sup>(x4)</sup> them go by<br>
+	<i>From here,</i><sup>(x3)</sup>
+</p>
+<p>
+	[Stevonnie] Take a moment to think of just<br>
+	Flexibility, love, and trust<br>
+	Take a moment to think of just<br>
+	Flexibility, love, and trust
+</p>
