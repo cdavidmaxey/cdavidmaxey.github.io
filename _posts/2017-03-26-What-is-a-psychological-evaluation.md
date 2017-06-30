@@ -30,12 +30,12 @@ A psychological evaluation starts with your questions, and ends with a discussio
 
 Comprehensive psychological assessments are individually-tailored, and go beyond just identifying a specific disorder or disability. Utilizing scientifically-grounded and sensitively-delivered psychological testing procedures, your evaluator can gain a better sense of how your child’s mind works in-the-moment. These are some components common to most psychological assessments:
 <ul>
-	<li>About 1-hour meeting to discuss your current concerns, as well as your child's developmental history and strengths.</li>
-	<li>Several longer meetings to complete psychological testing.</li>
-	<li>Interviews with teachers, therapists, or other important people in your child’s life, if indicated.</li>
-	<li>Review of any relevant medical, mental health, and school records.</li>
-	<li>One or more meetings to review the results.</li>
-	<li>Consultation with school personnel, treatment providers, or other people in your child’s life, if requested.</li>
+	<li>about 1-hour meeting to discuss your current concerns, as well as your child's developmental history and strengths;</li>
+	<li>several longer meetings to complete psychological testing;</li>
+	<li>interviews with teachers, therapists, or other important people in your child’s life, if indicated;</li>
+	<li>review of any relevant medical, mental health, and school records;</li>
+	<li>one or more meetings to review the results; and</li>
+	<li>consultation with school personnel, treatment providers, or other people in your child’s life, if requested.</li>
 </ul>
 
 By integrating information from so many different sources, your assessor is often able to gain a robust and sophisticated understanding of your child’s needs, gifts, and struggles. The primary goal is to help you better understand your child’s needs and appreciate their psychological strengths. The “product” you receive from a comprehensive psychological assessment is information. This is given both verbally and in the form of a detailed written report.
