@@ -33,7 +33,7 @@ tags:
 Sun exposure is a major well-established health risk, and there are a lot of resources for learning about how to be safe in the sun. This article is <i>not</i> advice about sun protection; discuss sun protection decisions and reports from sources such as the <a rel="nofollow" href="https://www.ewg.org/sunscreen/" data-inverted data-position="bottom center" data-tooltip="Enviromental Working Group">EWG</a>, <a rel="nofollow" href="https://www.healthychildren.org/" data-inverted data-position="bottom center" data-tooltip="American Academy of Pediatrics">AAP</a>, <a rel="nofollow" href="http://www.fda.gov/" data-inverted data-position="bottom center" data-tooltip="U.S. Food and Drug Administration">FDA</a> and <a rel="nofollow" href="http://www.consumerreports.org/cro/sunscreens.htm">Consumer Reports</a>, with your child’s primary medical provider. This article helps you consider ways to apply the information they provide&mdash;to think flexibly about making a habit of sun safety in your family. 
 
 As children approach the teen years, they become more independant, and need to think for themselves about sun safety when you’re not around. Start the conversations early so you can prepare them to make healthy choices on their own. Here are some ways to start a conversation:
-<aside class="ui raised segment">
+<aside class="float right side">
 	<div><a rel="nofollow" href="http://darksky.net"><img class="ui rounded image" width="100" height="100" src="{{site.url_static}}/x/darksky.jpg">Dark Sky</a><br>$4</div>
 	<div><a rel="nofollow" href="https://www.epa.gov/enviro/uv-index-mobile-app"><img class="ui rounded image" width="100" style="background-color:#369;padding:7.96px 5px;" src="{{site.url_static}}/x/epa.svg">EPA Sunwise</a><br>FREE</div>
 </aside>
@@ -47,15 +47,15 @@ As children approach the teen years, they become more independant, and need to t
 </ul>
 
 Sunscreen & Sunblock Tips:
-<aside>
-	<table class="ui very compact unstackable striped inverted orange table">
-		<thead><tr><th class="right aligned">SPF</th><th class="center aligned">UVB Rays<br>Blocked</th></tr></thead>
+<aside class="float right side">
+	<table>
+		<thead><tr><th class="right">SPF</th><th class="center">UVB Rays<br>Blocked</th></tr></thead>
 		<tbody>
-			<tr><td class="right aligned">8</td><td class="center aligned">~87%</td></tr>
-			<tr><td class="right aligned">15</td><td class="center aligned">~93%</td></tr>
-			<tr><td class="right aligned">30</td><td class="center aligned">~97%</td></tr>
-			<tr><td class="right aligned">50</td><td class="center aligned">~98%</td></tr>
-			<tr><td class="right aligned">100</td><td class="center aligned">~99%</td></tr>
+			<tr><td class="right">8</td><td class="center">~87%</td></tr>
+			<tr><td class="right">15</td><td class="center">~93%</td></tr>
+			<tr><td class="right">30</td><td class="center">~97%</td></tr>
+			<tr><td class="right">50</td><td class="center">~98%</td></tr>
+			<tr><td class="right">100</td><td class="center">~99%</td></tr>
 		</tbody>
 	</table>
 </aside>
