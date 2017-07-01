@@ -34,8 +34,8 @@ Sun exposure is a major well-established health risk, and there are a lot of res
 
 As children approach the teen years, they become more independant, and need to think for themselves about sun safety when you’re not around. Start the conversations early so you can prepare them to make healthy choices on their own. Here are some ways to start a conversation:
 <aside class="float right side">
-	<div><a rel="nofollow" href="http://darksky.net"><img class="ui rounded image" width="100" height="100" src="{{site.url_static}}/x/darksky.jpg">Dark Sky</a><br>$4</div>
-	<div><a rel="nofollow" href="https://www.epa.gov/enviro/uv-index-mobile-app"><img class="ui rounded image" width="100" style="background-color:#369;padding:7.96px 5px;" src="{{site.url_static}}/x/epa.svg">EPA Sunwise</a><br>FREE</div>
+	<div><a rel="nofollow" href="http://darksky.net"><img class="ui rounded image" width="100" height="100" src="{{site.cache}}/x/darksky.jpg">Dark Sky</a><br>$4</div>
+	<div><a rel="nofollow" href="https://www.epa.gov/enviro/uv-index-mobile-app"><img class="ui rounded image" width="100" style="background-color:#369;padding:7.96px 5px;" src="{{site.cache}}/x/epa.svg">EPA Sunwise</a><br>FREE</div>
 </aside>
 <ul class="compact paragraph tail">
 	<li>Talk about scheduling outdoor activities to avoid the peak sun hours during the middle of the day, and brainstorm indoor activities to do in the middle of the day.</li>
