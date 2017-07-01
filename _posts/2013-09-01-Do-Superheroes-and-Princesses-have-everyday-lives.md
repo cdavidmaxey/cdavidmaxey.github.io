@@ -43,11 +43,11 @@ tags:
 		<div class="credits"><a rel='nofollow' href='http://limpan.org/superstrong/'>&copy;&nbsp;Linnéa Johansson</a></div>
 	</div>
 </div>
-<p class="fontawesomelist">
+<div class="fontawesomelist">
 <div><svg class="fontawesome" viewBox="0 0 2048 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1728 640q0-80-56-136t-136-56h-64v384h64q80 0 136-56t56-136zm-1664 768h1792q0 106-75 181t-181 75h-1280q-106 0-181-75t-75-181zm1856-768q0 159-112.5 271.5t-271.5 112.5h-64v32q0 92-66 158t-158 66h-704q-92 0-158-66t-66-158v-736q0-26 19-45t45-19h1152q159 0 271.5 112.5t112.5 271.5z"/></svg>Do superheroes take a break from their busy lives to have tea or coffee with their families?</div>
 <div><svg class="fontawesome" viewBox="0 0 2048 1792" xmlns="http://www.w3.org/2000/svg"><path d="M896 1088v-128q0-14-9-23t-23-9h-192v-192q0-14-9-23t-23-9h-128q-14 0-23 9t-9 23v192h-192q-14 0-23 9t-9 23v128q0 14 9 23t23 9h192v192q0 14 9 23t23 9h128q14 0 23-9t9-23v-192h192q14 0 23-9t9-23zm576 64q0-53-37.5-90.5t-90.5-37.5-90.5 37.5-37.5 90.5 37.5 90.5 90.5 37.5 90.5-37.5 37.5-90.5zm256-256q0-53-37.5-90.5t-90.5-37.5-90.5 37.5-37.5 90.5 37.5 90.5 90.5 37.5 90.5-37.5 37.5-90.5zm256 128q0 212-150 362t-362 150q-192 0-338-128h-220q-146 128-338 128-212 0-362-150t-150-362 150-362 362-150h896q212 0 362 150t150 362z"/></svg>Do princesses play guitar or video games?</div>
 <div><svg class="fontawesome" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1024 1375v-190q0-14-9.5-23.5t-22.5-9.5h-192q-13 0-22.5 9.5t-9.5 23.5v190q0 14 9.5 23.5t22.5 9.5h192q13 0 22.5-9.5t9.5-23.5zm-2-374l18-459q0-12-10-19-13-11-24-11h-220q-11 0-24 11-10 7-10 21l17 457q0 10 10 16.5t24 6.5h185q14 0 23.5-6.5t10.5-16.5zm-14-934l768 1408q35 63-2 126-17 29-46.5 46t-63.5 17h-1536q-34 0-63.5-17t-46.5-46q-37-63-2-126l768-1408q17-31 47-49t65-18 65 18 47 49z"/></svg>Do they have to stop from time to time to go to the bathroom?</div>
-</p>
+</div>
 
 Superheroes and princesses are often one-dimensional characters, and children can be especially prone to thinking these characters act only according to their stereotypes. Children who idolize and imitate these characters might believe there’s only one way to act like a superhero or princess. This kind of rigid thinking can be unworkable in everyday life, which often requires adapting flexibly to situations.
 
