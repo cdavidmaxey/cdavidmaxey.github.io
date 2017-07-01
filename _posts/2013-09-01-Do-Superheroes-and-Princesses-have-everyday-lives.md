@@ -25,7 +25,7 @@ svg:
 title: "Do Superheroes and Princesses have everyday lives?"
 description: "Linnéa Johansson has created a series of coloring books that can be the start of a conversation exploring questions about the everyday lives of heros."
 tags:
-- Diversity
+- Media
 ---
 <div class="float right side">
 	<div>
