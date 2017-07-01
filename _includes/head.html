@@ -18,7 +18,7 @@
 			address{font-style:normal}
 			.fontawesome{vertical-align:text-bottom;width:1.2857em;height:1.125em}
 			.fontawesomelist .fontawesome{width:2em}
-			.fontawesomelist{padding-left:2em;text-indent:-2em}
+			.fontawesomelist{padding-left:2em;text-indent:-2em;line-height:1.25;margin:0 0 1.25em}
 			a{text-decoration:none;color:inherit}
 			sup{vertical-align:text-top;font-size:x-small}
 			
@@ -83,29 +83,26 @@
 			@media(min-width:796px){.blog{justify-content:flex-start;margin:1rem -0.5rem 0}.blog .card{flex:0 1 calc((100% - 3rem) / 3);margin:0 0.5rem 1rem}}
 			@media(min-width:1041px){.blog .card{flex:0 1 calc((100% - 4rem) / 4)}}
 
+			/* .text */
+			.left{text-align:left}.center{text-align:center}.right{text-align:right}
+			.underline{text-decoration:underline}
+			.allcaps{text-transform:uppercase}
+			p{margin:0 0 1.25em}
+			.text{margin:0 auto;padding:0 1rem;max-width:700px;text-align:justify;line-height:1.25em}
+
 			/* .post */
 			.post{display:flex;flex-flow:row wrap;justify-content:space-around;margin-top:1rem}
 			@media(min-width:796px){.post{margin-top:2%}}
-			
 			.post>div{flex:0 1 100%;max-width:640px;margin:0 1rem 0}
 			@media(min-width:796px){.post>div{flex:0 1 calc(85% / 3 * 2);margin:0 5% 0}}
-			
 			.post h1{font-size:1.75rem;margin:1.5rem 0;color:#4a148c}
-			.post p,.post li,.post .fontawesomelist{text-align:justify;line-height:1.25}
+			.post p,.post li{text-align:justify;line-height:1.25}
 			
 			nav.related{flex:0 1 100%}
 			nav.related>div{display:flex;flex-flow:row wrap;justify-content:flex-start;align-items:stretch}
 			@media(min-width:525px){nav.related>div{justify-content:space-between}}	
 			@media(min-width:796px){nav.related{flex:0 1 calc(100% / 3);max-width:300px}nav.related .card{flex:0 1 100%;margin:0 0 1.125rem}}
 			
-			/* .text */
-			.left{text-align:left}.center{text-align:center}.right{text-align:right}
-			.underline{text-decoration:underline}
-			.allcaps{text-transform:uppercase}
-			p{margin:0 0 1rem}
-			.text{margin:0 auto;padding:0 1rem;max-width:700px;text-align:justify;line-height:1.25em}
-			.text p{margin:0 0 1.25em}
-
 			/* .paper */
 			.paper{padding:2rem 2rem 0;margin:2rem 0;background:white url(https://cache.cdmaxey.com/x/Handmade-Paper.png) top/100px repeat}
 			.paper p{margin:0 0 1rem}
