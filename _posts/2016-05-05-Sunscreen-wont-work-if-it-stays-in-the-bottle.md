@@ -30,7 +30,7 @@ tags:
 - Play
 - Health
 ---
-Sun exposure is a major well-established health risk, and there are a lot of resources for learning about how to be safe in the sun. This article is <i>not</i> advice about sun protection; discuss sun protection decisions and reports from sources such as the <a rel="nofollow" href="https://www.ewg.org/sunscreen/"><abbr title="Enviromental Working Group">EWG</abbr></a>, <a rel="nofollow" href="https://www.healthychildren.org/"><abbr title="American Academy of Pediatrics">AAP</abbr></a>, <a rel="nofollow" href="http://www.fda.gov/"><abbr title="U.S. Food and Drug Administration">FDA</abbr></a> and <a rel="nofollow" href="http://www.consumerreports.org/cro/sunscreens.htm">Consumer Reports</a>, with your child’s primary medical provider. This article helps you consider ways to apply the information they provide&mdash;to think about making a habit of sun safety in your family. 
+Sun exposure is a major well-established health risk, and there are a lot of resources for learning about how to be safe in the sun. Talk to your child’s primary medical provider about sun protection decisions and reports from sources such as the <a rel="nofollow" href="https://www.ewg.org/sunscreen/"><abbr title="Enviromental Working Group">EWG</abbr></a>, <a rel="nofollow" href="https://www.healthychildren.org/"><abbr title="American Academy of Pediatrics">AAP</abbr></a>, <a rel="nofollow" href="http://www.fda.gov/"><abbr title="U.S. Food and Drug Administration">FDA</abbr></a> and <a rel="nofollow" href="http://www.consumerreports.org/cro/sunscreens.htm">Consumer Reports</a>.
 
 As children approach the teen years, they become more independant, and need to think for themselves about sun safety when you’re not around. Start the conversations early so you can prepare them to make healthy choices on their own. Here are some ways to start a conversation:
 <aside class="float right side">
@@ -38,7 +38,7 @@ As children approach the teen years, they become more independant, and need to t
 	<div><a rel="nofollow" href="https://www.epa.gov/enviro/uv-index-mobile-app"><img class="ui rounded image" width="100" style="background-color:#369;padding:7.96px 5px;" src="{{site.cache}}/x/epa.svg">EPA Sunwise</a><br>FREE</div>
 </aside>
 <ul class="compact paragraph tail">
-	<li>Talk about scheduling outdoor activities to avoid the peak sun hours during the middle of the day, and brainstorm indoor activities to do in the middle of the day.</li>
+	<li>Talk about scheduling outdoor activities to avoid the peak sun hours, and brainstorm indoor activities to do in the middle of the day.</li>
 	<li>Ask your child to check the UV index using a weather app&mdash;let them see that the UV index can be high on cold or cloudy days.</li>
 	<li>Try on a rash guard swim shirt, “shorty” wetsuit, or hat to reduce the amount of exposed skin.</li>
 	<li>Pack a beach umbrella or tent to bring some shade along with you.</li>
