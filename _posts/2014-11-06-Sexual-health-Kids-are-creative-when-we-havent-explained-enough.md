@@ -2,15 +2,15 @@
 updated:
 layout: post
 published: TRUE
-alt:
+alt: "Pump up the volume by John Wilhelm"
 thumb:
   src: "pump-up-the-volume.jpg"
-  X: XXX
-  Y: YYY
+  X: 7440
+  Y: 5031
 image:
   src: "pump-up-the-volume.jpg"
-  X: XXX
-  Y: YYY
+  X: 7440
+  Y: 5031
 video:
   src: 
   X: 
@@ -20,8 +20,9 @@ youtube:
   X:
   Y:
 variables:
-credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://us.fotolia.com/id/89405292'>&copy;</a>&nbsp;<a rel='nofollow' href='https://us.fotolia.com/id/89405292'>John&nbsp;Wilhelm</a>"
+credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://us.fotolia.com/id/89405292'>&copy;</a>&nbsp;John&nbsp;Wilhelm</a>"
 credits_full: "<a rel='nofollow' href='https://vimeo.com/70414395'><em>The Human Body by Tinybop</em></a> by <a rel='nofollow' href='https://vimeo.com/tinybop'>Tinybop</a> is embeded under <a rel='nofollow' href='https://vimeo.com/terms'>Vimeo Terms of Service</a>.<br><a rel='nofollow' href='https://youtu.be/lC3jImrtioY'><em>My Incredible Body: Amazing Anatomy Just for Kids (iPad/iPhone)</em></a> by <a rel='nofollow' href='https://www.youtube.com/user/VisibleBody'>Visible Body</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
+trash: "<div class='clear'></div><div class='embed-responsive-16by9-16by9'><iframe allowfullscreen src='https://player.vimeo.com/video/70414395?color=3f51b5&title=0&byline=0&portrait=0'></iframe><iframe allowfullscreen src='https://www.youtube-nocookie.com/embed/lC3jImrtioY?rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&disablekb=1'></iframe></div>"
 title: "Sexual health: Kids are creative when we haven’t explained enough"
 description: "Kids need parents to share accurate age-approprite information about anatomy, sex, and pregnancy."
 tags:
@@ -33,10 +34,6 @@ style: ".humanbody,.incrediblebody{border-radius:1em}"
 	<div><a rel="nofollow" href="http://tinybop.com/apps/the-human-body"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg">The Human<br>Body</a><br><small>$4+$1<sup>*</sup><br><sup>*</sup>In-App Purchase for Urogenital System</small></div>
 	<div><a rel="nofollow" href="http://www.visiblebody.com/mib_overview/"><amp-img class="incrediblebody" src="{{site.cache}}/x/incrediblebody.jpg" width="100" height="100">My Incredible<br>Body</a><br><small>$25+$1<sup>*</sup><br><sup>*</sup>In-App Purchase for Reproductive System</small></div>
 </aside>
-<div class="clear"></div><div class="embed-responsive-16by9-16by9">
-	<iframe allowfullscreen src="https://player.vimeo.com/video/70414395?color=3f51b5&title=0&byline=0&portrait=0"></iframe>
-	<iframe allowfullscreen src="https://www.youtube-nocookie.com/embed/lC3jImrtioY?rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&disablekb=1"></iframe>
-</div>
 Tinybop's The Human Body
 Visible Body's My Incredible Body
 
