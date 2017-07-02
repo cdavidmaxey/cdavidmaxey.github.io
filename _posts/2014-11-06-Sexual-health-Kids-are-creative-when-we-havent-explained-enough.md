@@ -39,6 +39,7 @@ Tinybop’s The Human Body
 
 Visible Body’s My Incredible Body
 
+<div class="clear"></div>
 <div class="float right side">
 	<amp-img alt="It’s Not the Stork!: A Book About Girls, Boys, Babies, Bodies, Families and Friends by Robie H. Harris and Michael Emberley" width="3071" height="3425" src="{{site.cache}}/books/Its-Not-The-Stork.jpg" sizes="8.625rem"></amp-img>
 	<div class="merchants">
@@ -49,6 +50,7 @@ Visible Body’s My Incredible Body
 
 It’s Not the Stork!: A Book About Girls, Boys, Babies, Bodies, Families and Friends is recommended for ages 4 and up by its authors, Robie Harris and Michael Emberley.
 
+<div class="clear"></div>
 <div class="float right side">
 	<amp-img alt="It’s So Amazing!: A Book about Eggs, Sperm, Birth, Babies, and Families by Robie H. Harris and Michael Emberley" width="3004" height="3638" src="{{site.cache}}/books/Its-So-Amazing.jpg" sizes="8.625rem"></amp-img>
 	<div class="merchants">
@@ -59,6 +61,7 @@ It’s Not the Stork!: A Book About Girls, Boys, Babies, Bodies, Families and Fr
 
 It’s So Amazing!: A Book about Eggs, Sperm, Birth, Babies, and Families is recommended for ages 7 and up by its authors, Robie Harris and Michael Emberley.
 
+<div class="clear"></div>
 <div class="float right side">
 	<amp-img alt="It's Perfectly Normal: Changing Bodies, Growing Up, Sex, and Sexual Health by Robie H. Harris and Michael Emberley" width="2621" height="3165" src="{{site.cache}}/books/Its-Perfectly-Normal.jpg" sizes="8.625rem"></amp-img>
 	<div class="merchants">
