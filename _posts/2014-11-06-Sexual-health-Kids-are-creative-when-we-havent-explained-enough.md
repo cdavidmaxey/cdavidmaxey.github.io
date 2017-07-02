@@ -31,11 +31,12 @@ tags:
 style: ".humanbody,.incrediblebody{border-radius:1em}"
 ---
 <aside class="float right side center">
-	<div><a rel="nofollow" href="http://tinybop.com/apps/the-human-body"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg"></amp-img>The Human<br>Body</a><br><small>$4+$1<sup>*</sup><br><sup>*</sup>In-App Purchase for Urogenital System</small></div>
-	<div><a rel="nofollow" href="http://www.visiblebody.com/mib_overview/"><amp-img class="incrediblebody" src="{{site.cache}}/x/incrediblebody.jpg" width="100" height="100"></amp-img>My Incredible<br>Body</a><br><small>$25+$1<sup>*</sup><br><sup>*</sup>In-App Purchase for Reproductive System</small></div>
+	<div><a rel="nofollow" href="http://tinybop.com/apps/the-human-body"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg"></amp-img><br>The Human Body</a><br><small>$4+$1<sup>*</sup><br><sup>*</sup>In-App Purchase for Urogenital System</small></div>
+	<div><a rel="nofollow" href="http://www.visiblebody.com/mib_overview/"><amp-img class="incrediblebody" src="{{site.cache}}/x/incrediblebody.jpg" width="100" height="100"></amp-img><br>My Incredible Body</a><br><small>$25+$1<sup>*</sup><br><sup>*</sup>In-App Purchase for Reproductive System</small></div>
 </aside>
 
 Tinybop’s The Human Body
+
 Visible Body’s My Incredible Body
 
 <div class="float right side">
