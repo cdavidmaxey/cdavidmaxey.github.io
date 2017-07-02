@@ -5,12 +5,12 @@ published: TRUE
 alt: "Pump up the volume by John Wilhelm"
 thumb:
   src: "pump-up-the-volume.jpg"
-  X: 7440
-  Y: 5031
+  X: 7297
+  Y: 3963
 image:
   src: "pump-up-the-volume.jpg"
-  X: 7440
-  Y: 5031
+  X: 7297
+  Y: 3963
 video:
   src: 
   X: 
