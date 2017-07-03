@@ -30,6 +30,8 @@ tags:
 - Books
 style: ".humanbody,.incrediblebody{border-radius:1em}"
 ---
+Kids have lots of questions, and they need parents to provide accurate age-appropriate information. These apps and books are resources that you can review to decide if they are appropriate for your child.
+
 <h2>Apps</h2>
 <aside class="float right side center">
 	<div><a rel="nofollow" href="http://tinybop.com/apps/the-human-body"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg"></amp-img><br>The Human Body</a><br><small>$4 (+$1 In-App)<sup>*</sup></small></div>
