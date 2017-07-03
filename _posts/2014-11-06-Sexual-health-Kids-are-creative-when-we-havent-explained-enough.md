@@ -39,7 +39,9 @@ Kids have lots of questions, and they need parents to provide accurate age-appro
 	<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
-Tinybop’s <i>The Human Body</i> and Visible Body’s <i>My Incredible Body</i> apps provide parents with a way to introduce kids to puberty and the urogenital system in a matter-of-fact way, comparable to the way these apps provide information about the nervous system, respiration, the circulatory system, digestion, the skeletomuscular system, etc. Note that as of the writing of this article, both of these apps require a one-time $1 in-app purchase to include the urogenital/reproductive system.
+Tinybop’s <i>The Human Body</i> and Visible Body’s <i>My Incredible Body</i> apps provide parents with a way to introduce kids to puberty and the urogenital system in a matter-of-fact way, comparable to the way these apps provide information about the nervous system, respiration, the circulatory system, digestion, the skeletomuscular system, etc. Tinybop, creator of <i>The Human Body</i>, offers many science-oriented apps for kids, and Visible Body, creator of <i>My Incredible Body</i>, makes a variety of other anatomy apps for high school and university biology students. 
+
+Note that as of the writing of this article, both of these apps require a one-time $1 in-app purchase to include the urogenital/reproductive system.
 
 <div class="clear"></div>
 <h2>Encyclopedic Reference Books for Kids</h2>
