@@ -30,7 +30,7 @@ tags:
 - Books
 style: ".humanbody,.incrediblebody{border-radius:1em}"
 ---
-Kids have lots of questions, and they need parents to provide accurate age-appropriate information. These apps and books are resources that you can review to decide if they are appropriate for your child.
+Kids have lots of questions, and they need parents to provide accurate age-appropriate information. These apps and books are resources that you can review to decide if they are appropriate for your child. If your child has had unhealthly sexual experiences, discuss these decisions with a mental health professional.
 
 <h2>Apps</h2>
 <aside class="float right side center">
