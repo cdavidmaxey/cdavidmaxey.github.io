@@ -5,11 +5,11 @@
 		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}{% if page.video.src %}
 		<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>{% endif %}
 		<title>{{page.title}}</title>
-		<link rel="canonical" href="{{site.url}}{{page.url}}" />{% if page.url contains '/blog/' %}{% if paginator.previous_page %}
-		<link rel="prev" href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}">{% endif %}{% if paginator.next_page %}
-		<link rel="next" href="{{site.url}}{{paginator.next_page_path}}">{% endif %}{% endif %}
+		<link href="{{site.url}}{{page.url}}" rel="canonical">{% if page.url contains '/blog/' %}{% if paginator.previous_page %}
+		<link href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}" rel="prev">{% endif %}{% if paginator.next_page %}
+		<link href="{{site.url}}{{paginator.next_page_path}}" rel="next">{% endif %}{% endif %}
 		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">{{page.head}}{% if page.url == '/' or page.url == '/about/' %}
-		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine:700">{% endif %}
+		<link href="https://fonts.googleapis.com/css?family=Tangerine:700" rel="stylesheet" type="text/css">{% endif %}
 		<style amp-custom>{% if page.cursif %}
 			@font-face{font-family:"Cursif";src:url("{{site.url}}/cursif.ttf")}.cursif{font-family:Cursif,cursive,sans-serif}{% endif %}
 			html{background-color:gray}
@@ -255,21 +255,20 @@
 		<meta name="description" content="{{page.description}}">
 		<meta name="robots" content="noarchive{{page.robots}}">
 		<meta name="author" content="{{site.Person.name}}">
-		<link rel="author" href="{{site.url}}/humans.txt">
-		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{site.url}}/apple-touch-icon-57x57.png" />
-		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.url}}/apple-touch-icon-114x114.png" />
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.url}}/apple-touch-icon-72x72.png" />
-		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.url}}/apple-touch-icon-144x144.png" />
-		<link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{site.url}}/apple-touch-icon-60x60.png" />
-		<link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{site.url}}/apple-touch-icon-120x120.png" />
-		<link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{site.url}}/apple-touch-icon-76x76.png" />
-		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{site.url}}/apple-touch-icon-152x152.png" />
-		<link rel="icon" type="image/png" href="{{site.url}}/favicon-196x196.png" sizes="196x196" />
-		<link rel="icon" type="image/png" href="{{site.url}}/favicon-96x96.png" sizes="96x96" />
-		<link rel="icon" type="image/png" href="{{site.url}}/favicon-32x32.png" sizes="32x32" />
-		<link rel="icon" type="image/png" href="{{site.url}}/favicon-16x16.png" sizes="16x16" />
-		<link rel="icon" type="image/png" href="{{site.url}}/favicon-128.png" sizes="128x128" />
-		<meta name="application-name" content="C. David Maxey, M.A."/>
+		<link href="{{site.url}}/humans.txt" rel="author">
+		<link href="{{site.url}}/apple-touch-icon-57x57.png" rel="apple-touch-icon-precomposed" sizes="57x57">
+		<link href="{{site.url}}/apple-touch-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+		<link href="{{site.url}}/apple-touch-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+		<link href="{{site.url}}/apple-touch-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+		<link href="{{site.url}}/apple-touch-icon-60x60.png" rel="apple-touch-icon-precomposed" sizes="60x60">
+		<link href="{{site.url}}/apple-touch-icon-120x120.png" rel="apple-touch-icon-precomposed" sizes="120x120">
+		<link href="{{site.url}}/apple-touch-icon-76x76.png" rel="apple-touch-icon-precomposed" sizes="76x76">
+		<link href="{{site.url}}/apple-touch-icon-152x152.png" rel="apple-touch-icon-precomposed" sizes="152x152">
+		<link href="{{site.url}}/favicon-196x196.png" sizes="196x196" rel="icon" type="image/png">
+		<link href="{{site.url}}/favicon-96x96.png" sizes="96x96" rel="icon" type="image/png">
+		<link href="{{site.url}}/favicon-32x32.png" sizes="32x32" rel="icon" type="image/png">
+		<link href="{{site.url}}/favicon-16x16.png" sizes="16x16" rel="icon" type="image/png">
+		<link href="{{site.url}}/favicon-128.png" sizes="128x128" rel="icon" type="image/png">
 		<meta name="msapplication-TileColor" content="#FFFFFF" />
 		<meta name="msapplication-TileImage" content="{{site.url}}/mstile-144x144.png" />
 		<meta name="msapplication-square70x70logo" content="{{site.url}}/mstile-70x70.png" />
