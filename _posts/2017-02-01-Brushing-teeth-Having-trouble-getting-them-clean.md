@@ -34,12 +34,12 @@ style: ".myteeth{border-radius:1em}"
 	<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
+It’s common for children, especially younger children, to have difficulties mastering this important life skill, and it can come to feel like a chore, for both you and your child.
+
 Brushing teeth well requires:
 - concentration on the task so that it does not take an inordinate amount of time from start to finish,
 - awareness of the passage of time so that the right amount of time brushing is devoted to each tooth, and
 - attention to detail so that each tooth is brushed well enough to get it clean.
-
-It’s common for children, especially younger children, to have difficulties mastering this important life skill, and it can come to feel like a chore, for both you and your child.
 
 There are a number of apps that aim to help kids focus on brushing their teeth, attend to the amount of time they’ve spend brushing each tooth, and learn good brushing technique. Consult your dentist or dental hygenist about your child’s teeth brushing and how apps could help. 
 
