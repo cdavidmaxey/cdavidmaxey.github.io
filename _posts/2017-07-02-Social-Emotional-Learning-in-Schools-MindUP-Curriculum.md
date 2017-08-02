@@ -74,6 +74,8 @@ A brain break is a short three-minute break when children are asked to quiet the
 
 Built on positive psychology research, MindUP promotes pro-social behavior to help children transition from a “me-centric” orientation into a “we-centric” mindset. MindUP encourages children to explore their world with a sharpened sense of seeing, smelling, tasting and movement. MindUP’s pro-social currriculum includes encouraging acts of kindness to others, exploring different perspectives to gain deeper insight, and expressing gratitude for what we are thankful for.
 
+As founder of the Hawn Foundation, Goldie Hawn brought together XXX for the development of the MindUP curriculum, which is supported by the Hawn Foundation. In the TEDMED below, Goldie Hawn talks about MindUP with researcher and psychiatrist Dan Siegal, M.D., author of the New York Times bestselling books, <i>The Whole-Brain Child</i> and <i>No-Drama Discipline</i>. 
+
 {::nomarkdown}
 <amp-youtube data-videoid='1OdBXGHwNCk' layout='responsive' width='16' height='9' data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
