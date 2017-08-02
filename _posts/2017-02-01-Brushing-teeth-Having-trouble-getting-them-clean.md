@@ -30,7 +30,7 @@ tags:
 style: ".myteeth{border-radius:1em}"
 ---
 <aside class="float right side center">
-	<div><a rel="nofollow" href="http://thekeptpromise.com/MyTeeth/"><amp-img class="myteeth" width="100" height="100" src="{{site.cache}}/x/myteeth.jpg"></amp-img><br>MyTeeth</a><br><small>FREE<sup>*</sup></small></div>
+	<div><a rel="nofollow" href="http://thekeptpromise.com/MyTeeth/"><amp-img class="myteeth" width="100" height="100" src="{{site.cache}}/x/myteeth.jpg"></amp-img><br>MyTeeth</a><br><small>$5<sup>*</sup></small></div>
 	<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
