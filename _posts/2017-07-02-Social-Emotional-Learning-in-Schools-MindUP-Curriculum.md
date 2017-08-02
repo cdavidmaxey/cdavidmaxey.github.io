@@ -11,12 +11,12 @@ published: TRUE
 alt: "Students practicing mindful meditation at school"
 thumb:
   src: "students-practicing-mindful-meditation-at-school.jpg"
-  X: XXX
-  Y: YYY
+  X: 5760
+  Y: 2882
 image:
   src: "students-practicing-mindful-meditation-at-school.jpg"
-  X: XXX
-  Y: YYY
+  X: 5760
+  Y: 2882
 video:
   src: 
   X: 
