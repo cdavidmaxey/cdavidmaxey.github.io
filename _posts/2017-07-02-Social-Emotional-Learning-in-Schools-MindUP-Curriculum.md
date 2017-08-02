@@ -25,6 +25,7 @@ youtube:
   id:
   X:
   Y:
+  body: TRUE
 variables:
 - rel=0
 - showinfo=0
