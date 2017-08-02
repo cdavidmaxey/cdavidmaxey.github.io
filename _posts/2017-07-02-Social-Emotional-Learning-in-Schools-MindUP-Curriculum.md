@@ -74,8 +74,8 @@ A brain break is a short three-minute break when children are asked to quiet the
 
 Built on positive psychology research, MindUP promotes pro-social behavior to help children transition from a “me-centric” orientation into a “we-centric” mindset. MindUP encourages children to explore their world with a sharpened sense of seeing, smelling, tasting and movement. MindUP’s pro-social currriculum includes encouraging acts of kindness to others, exploring different perspectives to gain deeper insight, and expressing gratitude for what we are thankful for.
 
-<div>
-	<amp-youtube data-videoid='1OdBXGHwNCk' layout='responsive' width='16' height='9' data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
-</div>
+{::nomarkdown}
+<amp-youtube data-videoid='1OdBXGHwNCk' layout='responsive' width='16' height='9' data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
 
 <div class="credits"><a rel='nofollow' href='https://youtu.be/1OdBXGHwNCk' target='_blank'><em>Goldie Hawn and Dan Siegel at TEDMED 2009</em></a> by <a rel='nofollow' href='https://youtube.com/user/tedmed' target='_blank'>TEDMED</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms' target='_blank'>Standard YouTube License</a>.</div>
