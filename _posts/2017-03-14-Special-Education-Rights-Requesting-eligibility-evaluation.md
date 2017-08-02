@@ -55,7 +55,7 @@ tags:
 <p>Your school&hellip;cannot conduct an initial evaluation&hellip;to determine eligibility&hellip;to receive special education&hellip;without first&hellip;obtaining your consent&hellip;.</p>
 <p>Your school district must make reasonable efforts to obtain your informed consent for an initial evaluation&hellip;.</p>
 <p>Your consent for initial evaluation does not mean that you have also given your consent for&hellip;special education&hellip;.</p>
-<p>If&hellip;you have refused consent&hellip;for an initial evaluation, your school&hellip;may, but is not required to, seek to conduct an initial evaluation of your child by using the&hellip;mediation or due process complaint, resolution meeting, and impartial due process hearing procedures.</p>
+<p>If&hellip;you have refused consent&hellip;for an initial evaluation, your school&hellip;may, but is not required to, seek to conduct an initial evaluation of your child by using&hellip;mediation or due process complaint, resolution meeting, and impartial due process hearing procedures.</p>
 <p>Your school&hellip;must get your informed consent before providing special education&hellip;for the first time.</p>
 <p>If you do not respond to a request to provide your consent for&hellip;special education&hellip;for the first time, or if you refuse&hellip;consent or later revoke (cancel) your consent in writing, your school&hellip;may not use the procedural safeguards (i.e., mediation, due process complaint, resolution meeting, or an impartial due process hearing)&hellip;to obtain&hellip;a ruling that the special education&hellip;may be provided&hellip;without your consent.&hellip;</p>
 <p>If you revoke (cancel) your consent in writing at any point after your child is first
