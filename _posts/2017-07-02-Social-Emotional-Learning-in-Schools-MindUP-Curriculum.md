@@ -72,9 +72,9 @@ A brain break is a short three-minute break when children are asked to quiet the
 
 <h2>MindUP encourages mindful action in the world</h2>
 
-Built on positive psychology research, MindUP promotes pro-social behavior to help children transition from a “me-centric” orientation into a “we-centric” mindset. MindUP encourages children to explore their world with a sharpened sense of seeing, smelling, tasting and movement. MindUP’s pro-social currriculum includes encouraging acts of kindness to others, exploring different perspectives to gain deeper insight, and expressing gratitude for what we are thankful for.
+Built on positive psychology research, MindUP promotes pro-social behavior to help children transition from a “me-centric” orientation into a “we-centric” mindset. MindUP encourages children to explore their world with a sharpened sense of seeing, smelling, tasting and movement. MindUP’s pro-social curriculum includes encouraging acts of kindness to others, exploring different perspectives to gain deeper insight, and expressing gratitude for what we are thankful for.
 
-In the TEDMED below, Goldie Hawn talks about MindUP with Dan Siegal, M.D., one of the MindUP curriculum developers, which also include neuroscientists, positive psychologists, teachers, and mindfulness practitioners. 
+In the TEDMED below, Goldie Hawn talks about MindUP with Dan Siegel, M.D., one of the MindUP curriculum developers, which also include neuroscientists, positive psychologists, teachers, and mindfulness practitioners. 
 
 {::nomarkdown}
 <amp-youtube data-videoid='1OdBXGHwNCk' layout='responsive' width='16' height='9' data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
