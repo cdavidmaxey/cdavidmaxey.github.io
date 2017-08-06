@@ -5,11 +5,11 @@ published: TRUE
 alt: "girl brushing teeth in the bath"
 thumb:
   src: "girl-brushing-teeth-in-the-bath.jpg"
-  X: 5712
+  X: 6500
   Y: 3515
 image:
   src: "girl-brushing-teeth-in-the-bath.jpg"
-  X: 5712
+  X: 6500
   Y: 3515
 video:
   src: 
