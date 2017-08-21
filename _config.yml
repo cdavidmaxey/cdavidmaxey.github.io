@@ -8,6 +8,9 @@ markdown: kramdown
 url: https://cdavidmaxey.com
 cache: https://cache.cdmaxey.com
 video: https://d21zrsmzxdylmx.cloudfront.net
+email: "info@CDavidMaxey.com"
+telephone: "+1 (503) 928-4182"
+tel: "+1-503-928-4182"
 Person:
   name: C. David Maxey
   givenName: David
@@ -16,9 +19,7 @@ Person:
   additionalName: Charles David Maxey
   jobTitle: Psychologist Associate Resident
   naics: 621330
-  disambiguatingDescription: "C. David Maxey’s full name is Charles David Maxey, and he goes by David"
-  telephone: "+1-503-928-4182"
-  email: "mailto:info@CDavidMaxey.com"
+  disambiguatingDescription: "C. David Maxey’s full name is Charles David Maxey, and he goes by David. Maxey is sometimes misspelled Maxcy, Maxi, Maxcey, Macksey, Maxe, or Maxie."
   image: "CDavidMaxey.jpg"
   addressLocality: Portland
   addressRegion: OR

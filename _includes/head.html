@@ -9,7 +9,35 @@
 		<link href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}" rel="prev">{% endif %}{% if paginator.next_page %}
 		<link href="{{site.url}}{{paginator.next_page_path}}" rel="next">{% endif %}{% endif %}
 		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">{{page.head}}{% if page.url == '/' or page.url == '/about/' %}
-		<link href="https://fonts.googleapis.com/css?family=Tangerine:700" rel="stylesheet" type="text/css">{% endif %}
+		<link href="https://fonts.googleapis.com/css?family=Tangerine:700" rel="stylesheet" type="text/css">
+		<script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "C. David Maxey, M.A.",
+		"alternateName": "CDavidMaxey.com",
+		"url": "{{site.url}}",
+		"logo": "{{site.url}}/favicon.png",
+		"naics": "{{site.Person.naics}}",
+		"contactPoint": {"@type":"ContactPoint","telephone": "{{site.tel}}","contactType":"customer service"},
+		"telephone": "{{site.tel}}",
+		"email": "mailto:{{site.email}}",
+		"address": {
+			"@type": "PostalAddress",
+			"addressLocality": "{{site.Person.addressLocality}}",
+			"addressRegion": "{{site.Person.addressRegion}}",
+			"postalCode": "{{site.Person.postalCode}}",
+			"streetAddress": "{{site.Person.streetAddress}}"},
+		"founder": {
+			"@type": "Person",
+			"name": "{{site.Person.name}}",
+			"additionalName": "{{site.Person.additionalName}}",
+			"givenName": "{{site.Person.givenName}}",
+			"familyName": "{{site.Person.familyName}}",
+			"disambiguatingDescription": "{{site.Person.disambiguatingDescription}}",
+			"honorificSuffix": "{{site.Person.honorificSuffix}}",
+			"jobTitle": "{{site.Person.jobTitle}}",
+			"image": "{{site.url}}/{{site.Person.image}}"}
+		}</script>{% endif %}
 		<style amp-custom>{% if page.cursif %}
 			@font-face{font-family:"Cursif";src:url("{{site.url}}/cursif.ttf")}.cursif{font-family:Cursif,cursive,sans-serif}{% endif %}
 			html{background-color:gray}
