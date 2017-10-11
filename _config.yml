@@ -23,8 +23,8 @@ Person:
   image: "CDavidMaxey.jpg"
   addressLocality: Portland
   addressRegion: OR
-  postalCode: 97228
-  streetAddress: PO Box 5611
+  postalCode: 97281
+  streetAddress: PO Box 23931
 Publisher:
   name: CDavidMaxey.com
   logo:
@@ -32,8 +32,8 @@ Publisher:
     X: 408
     Y: 60
 feedTitle: "C. David Maxey, M.A."
-address: "PO Box 5611"
+address: "PO Box 23931"
 city_state: "Portland, OR"
-zip: "97228"
+zip: "97281"
 applemap: https://maps.apple.com/?q=2044%20E%20Burnside%20St,%20Portland,%20OR
 googlemap: https://www.google.com/maps/place/2044+E+Burnside+St,+Portland,+OR/
