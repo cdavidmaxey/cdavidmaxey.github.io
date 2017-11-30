@@ -6,7 +6,7 @@ paginate: 18
 paginate_path: blog/page:num/
 markdown: kramdown
 url: https://cdavidmaxey.com
-cache: https://cache.cdmaxey.com
+cache: https://cda.vidmaxey.com
 video: https://d21zrsmzxdylmx.cloudfront.net
 email: "info@CDavidMaxey.com"
 telephone: "+1 (503) 928-4182"
