@@ -117,10 +117,6 @@ continue to provide such services&hellip;.</p>
 			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2180">Vision Impairment</a></td>
 			<td class="left">residual visual acuity of 20/70 or less in the better eye with correction, visual field restricted to 20 degrees or less in the better eye, eye pathology or progressive eye disease expected to reduce residual acuity or visual field, or inadequate use of residual vision</td>
 		</tr>
-		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2140">Deaf-Blindness</a></td>
-			<td class="left">both hearing and vision impairment</td>
-		</tr>
 	</tbody>
 </table>
 <p class="credits">Oregon Disability Category and Description Table is adapted from Oregon Administrative Rules, Chapter 581, Division 15 and is not intended to be a primary source of information.</p>
