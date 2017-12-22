@@ -43,7 +43,7 @@ tags:
 </ol>
 <div class="citation"><small><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2110" title="Oregon Administrative Rules: Chapter 581 (Department of Education): Division 15 (Special Education): Rule 581-015-2110 (General Evaluation and Reevaluation Procedures)" target="_blank"><cite>Rule 581-015-2110 General Evaluation and Reevaluation Procedures</cite><br>Oregon Administrative Rules<br>Chapter 581 (Department of Education)<br>Division 15 (Special Education)</a></small></div>
 </div></blockquote>
-<p>I encourage you to know your rights, which the Oregon Department of Education reviews in their <a rel="nofollow" href="http://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank">Procedural Safeguards Notice</a>. I recommend you to make your request for an evaluation <i>in writing</i> with clear requests, your signature, and the date, so there are no misunderstandings that might delay the process (see example below).</p>
+<p>I encourage you to know your rights, which the Oregon Department of Education reviews in their <a rel="nofollow" href="http://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank">Procedural Safeguards Notice</a>. I recommend you make your request for an evaluation <i>in writing</i> with clear requests, your signature, and the date, so there are no misunderstandings that might delay the process (see example below).</p>
 <section class="paper">
 <p class="blue">[full name of parent]<br>[address of parent]</p>
 <p class="blue">[date]</p>
