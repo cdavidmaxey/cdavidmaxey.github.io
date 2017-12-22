@@ -33,7 +33,7 @@ tags:
 <p>Upon receiving a request from a parent or public agency for an initial evaluation, [schools must designate] a team to determine whether an initial evaluation will be conducted.&hellip;</p>
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/policy/federal/idea/policyproced/03evaluationelig.doc" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Policies&nbsp;and&nbsp;Procedures for&nbsp;Special&nbsp;Education: 2007‑2008: Section&nbsp;3: Evaluation&nbsp;and&nbsp;Eligibility</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
-<p>It can take a long time to get an evaluation for Special Education eligibility from your school. In Oregon, schools have 60 school days to complete an evaluation after a parent consents. If a parent requests an evaluation, they have to wait for the school to decide to offer an evaluation, which they might not offer right away. Once the school decides to offer an evaluation, they schedule a meeting to obtain your consent. Then, the school has 60 <i>school</i> days to complete the evalation. That’s quite likely well over 3 months.</p>
+<p>It can take a long time to get an evaluation for Special Education eligibility from your school. In Oregon, schools have 60 school days to complete an evaluation after a parent consents. If a parent requests an evaluation, they have to wait for the school to decide to offer an evaluation, which they might not offer right away. Once the school decides to offer an evaluation, they schedule a meeting to obtain your consent. Then, the school has 60 <i>school</i> days to complete the evaluation. That’s quite likely well over 3 months.</p>
 <blockquote><div>
 <p>An initial evaluation must be completed within 60 school days from written parent consent to the date of the meeting to consider eligibility.&hellip; An evaluation may be completed in more than 60 school days under the following circumstances&hellip;:</p>
 <ol type="A">
@@ -83,7 +83,7 @@ tags:
 		</tr>
 		<tr>
 			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2165">Other Health Impairment</a></td>
-			<td class="left">limited strength, vitality or alertness (including a heightened alertness to environmental stimuli that results in limited alertness with respect to the educational environment) that is due to a chronic or acute health problem (that is permanent or expected to last for more than 60 calendar days). Children with Attention-Deficit/Hyperactivity Disorder (ADHD) might qualify for Special Education under this category or for accommidations and modifications under Section 504.</td>
+			<td class="left">limited strength, vitality or alertness (including a heightened alertness to environmental stimuli that results in limited alertness with respect to the educational environment) that is due to a chronic or acute health problem (that is permanent or expected to last for more than 60 calendar days). Children with Attention-Deficit/Hyperactivity Disorder (ADHD) might qualify for Special Education under this category or for accommodations and modifications under Section 504.</td>
 		</tr>
 		<tr>
 			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2130">Autism Spectrum Disorder</a></td>
