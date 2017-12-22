@@ -7,11 +7,11 @@ alt: "KEEP CALM AND REVOKE CONSENT as a KEEP CALM AND CARRY ON Poster"
 thumb:
   src: "keep-calm-and-revoke-consent.jpg"
   X: 1920
-  Y: 1200
+  Y: 1000
 image:
   src: "keep-calm-and-revoke-consent.jpg"
   X: 1920
-  Y: 1200
+  Y: 1000
 video:
   src: 
   X: 
