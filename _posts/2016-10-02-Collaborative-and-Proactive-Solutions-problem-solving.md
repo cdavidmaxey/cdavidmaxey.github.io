@@ -30,7 +30,7 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: ".bookborder{border-right:black solid 1px;border-left:black solid 1px;border-top:black solid 1px}
+style: ".bookborder{border-right:black solid 1px;border-left:black solid 1px;border-top:black solid 1px}"
 credits: "<a rel='nofollow' href='https://youtu.be/jvzQQDfAL-Q' target='_blank'><em>Kids Do Well if They Can</em></a> by <a rel='nofollow' href='https://youtube.com/user/DrRossGreene' target='_blank'>Ross Greene</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms' target='_blank'>Standard YouTube License</a>."
 title: "Collaborative & Proactive Solutions: Problem-solving with your child"
 description: "Collaborative & Proactive Solutions is an empirically-supported, non-punitive, non-adversarial model for problem solving challenging behavior with kids."
