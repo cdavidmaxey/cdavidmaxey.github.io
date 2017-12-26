@@ -35,6 +35,8 @@ credits: "<a rel='nofollow' href='https://youtu.be/jvzQQDfAL-Q' target='_blank'>
 title: "Collaborative & Proactive Solutions: Problem-solving with your child"
 description: "Collaborative & Proactive Solutions is an empirically-supported, non-punitive, non-adversarial model for problem solving challenging behavior with kids."
 tags:
+- Collaborative & Proactive Solutions
+- Collaborative Problem-Solving
 - Books for Parents
 - Books for Teachers
 ---

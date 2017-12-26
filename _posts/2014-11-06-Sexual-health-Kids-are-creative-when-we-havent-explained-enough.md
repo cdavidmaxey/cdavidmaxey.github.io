@@ -26,6 +26,7 @@ trash: "<div class='clear'></div><div class='embed-responsive-16by9-16by9'><ifra
 title: "Sexual health: Kids are creative when we haven’t explained enough"
 description: "Kids need parents to share accurate age-approprite information about anatomy, sex, and pregnancy."
 tags:
+- Sexual Health
 - Apps for Kids
 - Books for Kids
 style: ".humanbody,.incrediblebody{border-radius:1em}"
