@@ -25,7 +25,7 @@ credits: "Stock&nbsp;Photo <a rel='nofollow' href='http://www.dreamstime.com/roy
 title: "Brushing teeth: Having trouble getting them clean?"
 description: "Your dentist or dental hygenist can teach proper teeth-brushing, and advise you about apps for helping your child make a healthy habit of brushing their teeth."
 tags:
-- Apps
+- Apps for Kids
 style: ".myteeth{border-radius:1em}"
 ---
 <aside class="float right side center">

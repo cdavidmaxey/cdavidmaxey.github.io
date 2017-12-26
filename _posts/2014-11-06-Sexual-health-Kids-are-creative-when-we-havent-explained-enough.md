@@ -26,8 +26,8 @@ trash: "<div class='clear'></div><div class='embed-responsive-16by9-16by9'><ifra
 title: "Sexual health: Kids are creative when we haven’t explained enough"
 description: "Kids need parents to share accurate age-approprite information about anatomy, sex, and pregnancy."
 tags:
-- Apps
-- Books
+- Apps for Kids
+- Books for Kids
 style: ".humanbody,.incrediblebody{border-radius:1em}"
 ---
 Kids have lots of questions, and they need parents to provide accurate age-appropriate information. These apps and books are resources that you can review to decide if they are appropriate for your child. If your child has had unhealthly sexual experiences, discuss these decisions with a mental health professional.
