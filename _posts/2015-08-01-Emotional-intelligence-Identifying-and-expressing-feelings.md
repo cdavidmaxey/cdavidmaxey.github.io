@@ -8,8 +8,8 @@ redirect_from:
 alt: "anger disgust fear joy and sadness from inside out"
 thumb:
   src: "anger-disgust-fear-joy-and-sadness-from-inside-out.jpg"
-  X: 1
-  Y: 1
+  X: 2500
+  Y: 814
 image:
   src: 
   X: 
