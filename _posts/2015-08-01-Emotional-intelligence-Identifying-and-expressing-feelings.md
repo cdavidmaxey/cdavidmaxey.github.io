@@ -5,6 +5,8 @@ published: TRUE
 redirect_from: 
 - "/A-mix-of-emotions/"
 - "/Emotions-mixing-in-Inside-Out-Disney/"
+- "/feelings/"
+- "/feeling/"
 alt: "anger disgust fear joy and sadness from inside out"
 thumb:
   src: "anger-disgust-fear-joy-and-sadness-from-inside-out.jpg"
@@ -32,7 +34,7 @@ variables:
 - end=135
 credits: "<a rel='nofollow' href='http://movies.disney.com/inside-out'>Inside Out &copy;&nbsp;Disney/Pixar</a>"
 credits_full: "<a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b884038ffb941b24bbe7d'>Anger</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546aa33b41d2423ab9c7241a'>Disgust</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b8887dd72e44a743b1cb7'>Fear</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b88cf3109eb3fe545c0d5'>Joy</a>, and <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=5466b5bfdd72e44a7a3b5172'>Sadness</a> images are under &copy; by <a rel='nofollow' href='http://movies.disney.com/inside-out'>Disney/Pixar</a> and used by invitation to <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery'>share</a>.<br><a rel='nofollow' href='https://youtu.be/yRUAzGQ3nSY'><em>Inside Out - Official US Trailer</em></a> by <a rel='nofollow' href='https://youtube.com/user/DisneyPixar'>Disney-Pixar</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
-style: "h4#emoji{font-size:2rem;margin:3rem 0 .5rem;}table{border-collapse:collapse;margin:0 auto}td{padding:0 .25em}tr:nth-child(2n-1)>td{font-size:7rem}tr:nth-child(2n)>td{padding-bottom:1.5rem;font-size:1.25rem}@media(max-width:672px){tr:nth-child(2n-1)>td{font-size:calc((100vw - 5em) / 5)}}"
+style: "h4#emoji{font-size:2rem;margin:3rem 0 .5rem;}table{border-collapse:collapse;margin:0 auto}td{padding:0 .25em;line-height:1}tr:nth-child(2n-1)>td{font-size:7rem}tr:nth-child(2n)>td{padding-bottom:1.5rem;font-size:1.25rem}@media(max-width:672px){tr:nth-child(2n-1)>td{font-size:calc((100vw - 5em) / 5)}}"
 title: "Emotional intelligence: Identifying and expressing feelings"
 description: "Emotional intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
