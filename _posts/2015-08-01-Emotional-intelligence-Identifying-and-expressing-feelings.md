@@ -42,6 +42,14 @@ tags:
 - Media
 ---
 <amp-img alt="Plutchik's Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
+<div class="float right side">
+	<div>
+		<a class="download" rel="nofollow" href="{{site.url}}/Emoji-Feelings.pdf" target="_blank">
+			<amp-img alt="Emoji Feelings" width="414" height="555" src="{{site.cache}}/books/Emoji-Feelings.jpg" sizes="8.625rem"></amp-img>
+			<div><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><path d="M1344 928q0-14-9-23t-23-9h-224v-352q0-13-9.5-22.5t-22.5-9.5h-192q-13 0-22.5 9.5t-9.5 22.5v352h-224q-13 0-22.5 9.5t-9.5 22.5q0 14 9 23l352 352q9 9 23 9t23-9l351-351q10-12 10-24zm640 224q0 159-112.5 271.5t-271.5 112.5h-1088q-185 0-316.5-131.5t-131.5-316.5q0-130 70-240t188-165q-2-30-2-43 0-212 150-362t362-150q156 0 285.5 87t188.5 231q71-62 166-62 106 0 181 75t75 181q0 76-41 138 130 31 213.5 135.5t83.5 238.5z"/></svg>&ensp;Download</div>
+		</a>
+	</div>
+</div>
 <h4 id="emoji" class="center">Emoji Feelings</h4>
 <table class="center">
 	<tr>
