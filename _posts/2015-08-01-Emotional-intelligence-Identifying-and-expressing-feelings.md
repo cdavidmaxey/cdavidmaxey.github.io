@@ -45,7 +45,8 @@ tags:
 - Social Emotional Learning
 - Media
 ---
-<amp-img alt="Plutchik's Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
+<amp-img alt="Plutchik’s Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
+<p class="credits">&copy; <a rel="nofollow" href="http://www.copypress.com/blog/your-fragile-emotions-illustrated/" target="_blank">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>
 <div class="float right side">
 	<div>
 		<a class="download" rel="nofollow" href="{{site.url}}/Emoji-Feelings.pdf" target="_blank">
@@ -54,6 +55,7 @@ tags:
 		</a>
 	</div>
 </div>
+<p>Having extensive vocabulary is essential for communicating emotions&mdash;if your child usually expresses their feelings simplistically (e.g., often saying happy or mad), expanding your child’s vocabulary might help them communicate more effectively. There are many charts of feelings available (e.g., Jim Borgman’s How are you feeling today? posters). Emoji feelings and a coloring page are available below.</p>
 <h4 id="emoji" class="center">Emoji Feelings</h4>
 <table class="center">
 	<tr>
