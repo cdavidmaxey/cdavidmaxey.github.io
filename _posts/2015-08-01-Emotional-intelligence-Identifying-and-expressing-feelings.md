@@ -7,6 +7,10 @@ redirect_from:
 - "/Emotions-mixing-in-Inside-Out-Disney/"
 - "/feelings/"
 - "/feeling/"
+- "/Feelings/"
+- "/Feeling/"
+- "/FEELINGS/"
+- "/FEELING/"
 alt: "anger disgust fear joy and sadness from inside out"
 thumb:
   src: "anger-disgust-fear-joy-and-sadness-from-inside-out.jpg"
