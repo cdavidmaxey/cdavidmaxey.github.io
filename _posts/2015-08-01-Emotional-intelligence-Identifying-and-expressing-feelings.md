@@ -45,6 +45,9 @@ tags:
 - Social Emotional Learning
 - Media
 ---
+<amp-img alt="anger disgust fear joy and sadness from inside out" src="{{site.cache}}/320/anger-disgust-fear-joy-and-sadness-from-inside-out.jpg" srcset="{{site.cache}}/320/anger-disgust-fear-joy-and-sadness-from-inside-out.jpg 320w,{{site.cache}}/640/anger-disgust-fear-joy-and-sadness-from-inside-out.jpg 640w,{{site.cache}}/1280/anger-disgust-fear-joy-and-sadness-from-inside-out.jpg 1280w,{{site.cache}}/1920/anger-disgust-fear-joy-and-sadness-from-inside-out.jpg 1920w" layout="responsive" width="2500" height="814"></amp-img>
+<p class="credits"><a rel='nofollow' href='http://movies.disney.com/inside-out'>Inside Out &copy;&nbsp;Disney/Pixar</a></p>
+
 <amp-img alt="Plutchik’s Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
 <p class="credits">&copy; <a rel="nofollow" href="http://www.copypress.com/blog/your-fragile-emotions-illustrated/" target="_blank">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>
 <div class="float right side">
