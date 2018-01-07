@@ -41,10 +41,10 @@ credits: "<a rel='nofollow' href='http://movies.disney.com/inside-out'>Inside Ou
 credits_full: "<a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b884038ffb941b24bbe7d'>Anger</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546aa33b41d2423ab9c7241a'>Disgust</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b8887dd72e44a743b1cb7'>Fear</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b88cf3109eb3fe545c0d5'>Joy</a>, and <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=5466b5bfdd72e44a7a3b5172'>Sadness</a> images are under &copy; by <a rel='nofollow' href='http://movies.disney.com/inside-out'>Disney/Pixar</a> and used by invitation to <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery'>share</a>.<br><a rel='nofollow' href='https://youtu.be/yRUAzGQ3nSY'><em>Inside Out - Official US Trailer</em></a> by <a rel='nofollow' href='https://youtube.com/user/DisneyPixar'>Disney-Pixar</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
 style: "h4#emoji{font-size:2rem;margin:3rem 0 .5rem;clear:both}
 #emojitable{display:flex;flex-wrap:wrap;justify-content:center}
-#emojitable>div{flex-basis:calc(100% / 3);line-height:1;}
+#emojitable>div{flex:0 1 calc(100% / 3);line-height:1;}
 #emojitable>div>div:first-child{font-size:7rem}
-#emojitable>div>div:last-child{padding-bottom:1.5rem;font-size:1.25rem}
 @media(max-width:672px){#emojitable>div>div:first-child{font-size:calc((100vw - 5em) / 5)}}
+#emojitable>div>div:last-child{padding-bottom:1.5rem;font-size:1.25rem}
 @media(max-width:400px){#emojitable>div>div:last-child{font-size:.875rem}}"
 title: "Emotional intelligence: Identifying and expressing feelings"
 description: "Emotional intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
