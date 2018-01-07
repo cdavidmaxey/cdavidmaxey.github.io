@@ -32,7 +32,7 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: ".bookborder{border:black solid 1px}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' href='http://www.dreamstime.com/royalty-free-stock-images-sun-protection-image9977129'>&copy;</a>&nbsp;Monika&nbsp;Adamczyk"
+credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-pleasant-family-having-lively-conversation-emotional-boy-his-sitting-table-breakfast-image89633567'>&copy;</a>&nbsp;Viacheslav&nbsp;Iacobchuk"
 title: "Collaborative & Proactive Solutions: Problem-solving with your child"
 description: "Collaborative & Proactive Solutions is an empirically-supported, non-punitive, non-adversarial model for problem solving challenging behavior with kids."
 tags:
