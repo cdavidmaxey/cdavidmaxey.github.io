@@ -219,9 +219,10 @@
 			/* .buttons */
 			.buttons{display:flex}
 			.buttons>a{border:1px solid black;padding:.5em;text-align:center;min-width:1rem}
-			.buttons>:first-child{border-top-left-radius:.25em;border-bottom-left-radius:.25em;border-right-width:.5px}
-			.buttons>:last-child{border-top-right-radius:.25em;border-bottom-right-radius:.25em;border-left-width:.5px}
-			
+			.buttons>:first-child{border-top-left-radius:.25em;border-bottom-left-radius:.25em}
+			.buttons>:last-child{border-top-right-radius:.25em;border-bottom-right-radius:.25em}
+			.buttons>a+a{border-left:0 solid black}
+
 			/* .contact */
 			.contact h4{font-size:1.5rem;margin-bottom:0}
 			.contact h4+p{line-height:1;margin: 0 0 .4rem}
@@ -235,7 +236,6 @@
 			
 			/* .pager */
 			.pager{margin:2rem 0;justify-content:center;clear:both}
-			.pager>a+a{border-left:0 solid black}
 			.pager>a:hover{background:#9c27b0;color:white}
 			.pager>a.active{background:#eee;color:inherit}
 			
