@@ -44,7 +44,8 @@ style: "h4#emoji{font-size:2rem;margin:3rem 0 .5rem;clear:both}
 #emojitable>div{flex-basis:calc(100% / 3);line-height:1;}
 #emojitable>div>div:first-child{font-size:7rem}
 #emojitable>div>div:last-child{padding-bottom:1.5rem;font-size:1.25rem}
-@media(max-width:672px){#emojitable>div>div:first-child{font-size:calc((100vw - 5em) / 5)}#emojitable>div>div:last-child{font-size:1rem}}"
+@media(max-width:672px){#emojitable>div>div:first-child{font-size:calc((100vw - 5em) / 5)}}
+@media(max-width:400px){#emojitable>div>div:last-child{font-size:.875rem}}"
 title: "Emotional intelligence: Identifying and expressing feelings"
 description: "Emotional intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
