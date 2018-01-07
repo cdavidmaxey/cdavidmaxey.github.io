@@ -111,4 +111,4 @@ tags:
 		</tr>
 	</tbody>
 </table>
-<p class="credits">Oregon Disability Category and Description Table is adapted from Oregon Administrative Rules, Chapter 581, Division 15 and is not intended to be a primary source of information.</p>
+<div class="credits">Oregon Disability Category and Description Table is adapted from Oregon Administrative Rules, Chapter 581, Division 15 and is not intended to be a primary source of information.</div>
