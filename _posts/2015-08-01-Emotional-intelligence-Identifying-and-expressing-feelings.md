@@ -39,7 +39,12 @@ variables:
 - end=135
 credits: "<a rel='nofollow' href='http://movies.disney.com/inside-out'>Inside Out &copy;&nbsp;Disney/Pixar</a>"
 credits_full: "<a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b884038ffb941b24bbe7d'>Anger</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546aa33b41d2423ab9c7241a'>Disgust</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b8887dd72e44a743b1cb7'>Fear</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b88cf3109eb3fe545c0d5'>Joy</a>, and <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=5466b5bfdd72e44a7a3b5172'>Sadness</a> images are under &copy; by <a rel='nofollow' href='http://movies.disney.com/inside-out'>Disney/Pixar</a> and used by invitation to <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery'>share</a>.<br><a rel='nofollow' href='https://youtu.be/yRUAzGQ3nSY'><em>Inside Out - Official US Trailer</em></a> by <a rel='nofollow' href='https://youtube.com/user/DisneyPixar'>Disney-Pixar</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
-style: "h4#emoji{font-size:2rem;margin:3rem 0 .5rem;clear:both}table{border-collapse:collapse;margin:0 auto}td{padding:0 .25em;line-height:1;font-size:7rem}td>div{padding-bottom:1.5rem;font-size:1.25rem}@media(max-width:672px){td{font-size:calc((100vw - 5em) / 5)}}"
+style: "h4#emoji{font-size:2rem;margin:3rem 0 .5rem;clear:both}
+#emojitable{display:flex}
+#emojitable>div{padding:0 .25em;line-height:1;}
+#emojitable>div>div:first-child{font-size:7rem}
+#emojitable>div>div:last-child{padding-bottom:1.5rem;font-size:1.25rem}
+@media(max-width:672px){#emojitable>div>div:first-child{font-size:calc((100vw - 5em) / 5)}}"
 title: "Emotional intelligence: Identifying and expressing feelings"
 description: "Emotional intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
@@ -61,40 +66,26 @@ tags:
 </div>
 <p>Having extensive vocabulary is essential for communicating emotions&mdash;if your child usually expresses their feelings simplistically (e.g., often saying happy or mad), expanding your child’s vocabulary might help them communicate more effectively. There are many charts of feelings available (e.g., Jim Borgman’s How are you feeling today? posters). Emoji feelings and a coloring page are available below.</p>
 <h4 id="emoji" class="center">Emoji Feelings</h4>
-<table class="center">
-	<tr>
-		<td>&#x1f60a;<div>Happy</div></td>
-		<td>&#x1f60e;<div>Relaxed</div></td>
-		<td>&#x1f60c;<div>Calm</div></td>
-	</tr>
-	<tr>
-		<td>&#x1f622;<div>Sad</div></td>
-		<td>&#x1f61f;<div>Worried</div></td>
-		<td>&#x1f615;<div>Confused</div></td>
-	</tr>
-	<tr>
-		<td>&#x1f620;<div>Angry</div></td>
-		<td>&#x1f62c;<div>Scared</div></td>
-		<td>&#x1f928;<div>Skeptical</div></td>
-	</tr>
-	<tr>
-		<td>&#x1f612;<div>Annoyed</div></td>
-		<td>&#x1f62f;<div>Surprised</div></td>
-		<td>&#x1f632;<div>Shocked</div></td>
-	</tr>
-	<tr>
-		<td>&#x1f636;<div>Shy</div></td>
-		<td>&#x1f633;<div>Embarrassed</div></td>
-		<td>&#x1f60f;<div>Proud</div></td>
-	</tr>
-	<tr>
-		<td>&#x1f634;<div>Sleepy</div></td>
-		<td>&#x1f635;<div>Dizzy</div></td>
-		<td>&#x1f915;<div>Hurt</div></td>
-	</tr>
-	<tr>
-		<td>&#x1f61c;<div>Silly</div></td>
-		<td>&#x1f921;<div>Ridiculous</div></td>
-		<td>&#x1f912;<div>Sick</div></td>
-	</tr>
-</table>
+<div id="emojitable" class="center">
+	<div><div>&#x1f60a;</div><div>Happy</div></div>
+	<div><div>&#x1f60e;</div><div>Relaxed</div></div>
+	<div><div>&#x1f60c;</div><div>Calm</div></div>
+	<div><div>&#x1f622;</div><div>Sad</div></div>
+	<div><div>&#x1f61f;</div><div>Worried</div></div>
+	<div><div>&#x1f615;</div><div>Confused</div></div>
+	<div><div>&#x1f620;</div><div>Angry</div></div>
+	<div><div>&#x1f62c;</div><div>Scared</div></div>
+	<div><div>&#x1f928;</div><div>Skeptical</div></div>
+	<div><div>&#x1f612;</div><div>Annoyed</div></div>
+	<div><div>&#x1f62f;</div><div>Surprised</div></div>
+	<div><div>&#x1f632;</div><div>Shocked</div></div>
+	<div><div>&#x1f636;</div><div>Shy</div></div>
+	<div><div>&#x1f633;</div><div>Embarrassed</div></div>
+	<div><div>&#x1f60f;</div><div>Proud</div></div>
+	<div><div>&#x1f634;</div><div>Sleepy</div></div>
+	<div><div>&#x1f635;</div><div>Dizzy</div></div>
+	<div><div>&#x1f915;</div><div>Hurt</div></div>
+	<div><div>&#x1f61c;</div><div>Silly</div></div>
+	<div><div>&#x1f921;</div><div>Ridiculous</div></div>
+	<div><div>&#x1f912;</div><div>Sick</div></div>
+</div>
