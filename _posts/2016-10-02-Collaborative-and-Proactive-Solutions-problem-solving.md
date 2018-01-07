@@ -71,7 +71,7 @@ tags:
 </div>
 
 {::nomarkdown}
-<amp-youtube data-videoid="jvzQQDfAL-Q" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+<div><amp-youtube data-videoid="jvzQQDfAL-Q" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube></div>
 {:/nomarkdown}
 
 <div class="credits"><a rel="nofollow" href="https://youtu.be/jvzQQDfAL-Q" target="_blank"><em>Kids Do Well if They Can</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
