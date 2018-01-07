@@ -65,7 +65,7 @@ tags:
 		</a>
 	</div>
 </div>
-<p>Having extensive vocabulary is essential for communicating emotions&mdash;if your child usually expresses their feelings simplistically (e.g., often saying happy or mad), expanding your child’s vocabulary might help them communicate more effectively. There are many charts of feelings available (e.g., Jim Borgman’s How are you feeling today? posters). Emoji feelings and a coloring page are available below.</p>
+<p>Communicating emotions effectively requires adequate vocabulary&mdash;if your child usually expresses their feelings simplistically (e.g., often saying happy or mad), expanding your child’s vocabulary might help them communicate more effectively. There are many feelings charts. Jim Borgman’s popular <i>How are you feeling today?</i> posters are available from <a rel="nofollow" href="http://www.ctherapy.com/feelings/">CTherapy.com</a>. Emoji feelings are shown below, and they’re downloadable as a coloring page on the right.</p>
 <h4 id="emoji" class="center">Emoji Feelings</h4>
 <div id="emojitable" class="center">
 	<div><div>&#x1f60a;</div><div>Happy</div></div>
