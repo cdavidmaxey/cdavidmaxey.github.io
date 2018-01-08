@@ -18,6 +18,16 @@ description: "Topic tags organizing blog articles about evidence-based practices
 			<header>{{post.title}}</header>
 			<p>{{post.description}}</p>
 		</a>{% endif %}{% endfor %}
+	</section>{% endfor %}{% for tag in singletags %}
+	<section class="blog" id="{{tag | slugify}}">
+		<div class="center">
+			<a class="tag" href="{{site.url}}/search/#{{tag | slugify}}">{{tag}}</a>
+		</div>{% for post in site.posts %}{% if post.tags contains tag %}
+		<a class="card" href="{{site.url}}{{post.url}}">
+			<!--<amp-img src="{{site.cache}}/320/{{post.thumb.src}}" srcset="{{site.cache}}/320/{{post.thumb.src}} 320w,{{site.cache}}/640/{{post.thumb.src}} 640w,{{site.cache}}/1280/{{post.thumb.src}} 1280w" width="{{post.thumb.X}}" height="{{post.thumb.Y}}" layout="responsive"></amp-img>-->
+			<header>{{post.title}}</header>
+			<p>{{post.description}}</p>
+		</a>{% endif %}{% endfor %}		
 	</section>{% endfor %}{% unless site.tags == empty %}
 	<section class="text">
 		<div class="tags">{% for tag in size_tag_color reversed %}{% assign wilma = tag | split:'|' %}
