@@ -8,18 +8,22 @@ style: "hr{margin:22px 0 32px}"
 title: "Search blog Articles by Topic | C. David Maxey, M.A."
 description: "Topic tags organizing blog articles about evidence-based practices, psychological services, and school-based supports for children and youth"
 ---
-<main id="search">{% capture mercury %}{% for tag in site.tags %}{% if tag[1].size > 9 %}{{tag[1].size}}{% else %}{{tag[1].size | prepend: '0'}}{% endif %}|{{tag[0]}}^{% endfor %}{% endcapture %}{% assign size_tag = mercury | split:'^' | sort %}{% capture venus %}{% for odlaw in size_tag reversed %}{{odlaw}}|{% cycle 'size_tag_color_cycle': 'red', 'orange', 'yellow', 'olive', 'green', 'teal', 'blue', 'violet', 'purple', 'pink' %}^{% endfor %}{% endcapture %}{% assign size_tag_color = venus | split:'^' | sort %}{% for tag in size_tag_color reversed %}{% assign wenda = tag | split:'|' %}
+<main id="search">{% capture mercury %}{% for tag in site.tags %}{% if tag[1].size > 9 %}{{tag[1].size}}{% elsif tag[1].size > 1 %}{{tag[1].size | prepend: '0'}}{% endif %}|{{tag[0]}}^{% endfor %}{% endcapture %}{% assign size_tag = mercury | split:'^' | sort %}{% capture venus %}{% for odlaw in size_tag reversed %}{{odlaw}}|{% cycle 'size_tag_color_cycle': 'red', 'orange', 'yellow', 'olive', 'green', 'teal', 'blue', 'violet', 'purple', 'pink' %}^{% endfor %}{% endcapture %}{% assign size_tag_color = venus | split:'^' | sort %}
+	{% capture earth %}{% for tag in site.tags %}{% if tag[1].size == 1 %}{{tag[0]}}^{% endif %}{% endfor %}{% endcapture %}{% assign singletags = earth | split:'^' | sort %}{% for tag in size_tag_color reversed %}{% assign wenda = tag | split:'|' %}
 	<section class="blog" id="{{wenda[1] | slugify}}">
 		<div class="center">
-			<a class="tag{% unless wilma[0] == '01' %} {{wilma[2]}}{% endunless %}" href="{{site.url}}/search/#{{wenda[1] | slugify}}">{{wenda[1]}} <span>{{wenda[0] | plus:0}}</span></a>
+			<a class="tag {{wilma[2]}}" href="{{site.url}}/search/#{{wenda[1] | slugify}}">{{wenda[1]}} <span>{{wenda[0] | plus:0}}</span></a>
 		</div>{% for post in site.posts %}{% if post.tags contains wenda[1] %}
 		<a class="card" href="{{site.url}}{{post.url}}">
 			<!--<amp-img src="{{site.cache}}/320/{{post.thumb.src}}" srcset="{{site.cache}}/320/{{post.thumb.src}} 320w,{{site.cache}}/640/{{post.thumb.src}} 640w,{{site.cache}}/1280/{{post.thumb.src}} 1280w" width="{{post.thumb.X}}" height="{{post.thumb.Y}}" layout="responsive"></amp-img>-->
 			<header>{{post.title}}</header>
 			<p>{{post.description}}</p>
 		</a>{% endif %}{% endfor %}
-	</section>{% endfor %}{% unless site.tags == empty %}{% assign seperatesingles = 0 %}
+	</section>{% endfor %}{% unless site.tags == empty %}
 	<section class="text">
-		<div class="tags">{% for tag in size_tag_color reversed %}{% assign wilma = tag | split:'|' %}{% if seperatesingles == 0 and wilma[0] == '01' %}{% assign seperatesingles = 1 %}<hr>{% endif %}<a class="tag{% unless wilma[0] == '01' %} {{wilma[2]}}{% endunless %}" href="{{site.url}}/search/#{{wilma[1] | slugify}}">{{wilma[1]}}{% unless wilma[0] == '01' %} <span>{{wilma[0] | plus:0}}</span>{% endunless %}</a>{% endfor %}</div>
+		<div class="tags">
+			{% for tag in size_tag_color reversed %}{% assign wilma = tag | split:'|' %}<a class="tag {{wilma[2]}}" href="{{site.url}}/search/#{{wilma[1] | slugify}}">{{wilma[1]}} <span>{{wilma[0] | plus:0}}</span></a>{% endfor %}
+			{% for tag in singletags %}<a class="tag" href="{{site.url}}/search/#{{singletag | slugify}}">{{singletag}}</a>{% endfor %}
+		</div>
 	</section>{% endunless %}
 </main>
