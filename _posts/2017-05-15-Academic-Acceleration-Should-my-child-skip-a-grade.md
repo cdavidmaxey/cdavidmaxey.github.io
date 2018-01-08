@@ -25,6 +25,7 @@ title: "Academic Acceleration: Should my child skip a grade?"
 description: "Talented and Gifted (TAG) plans can include grade-skipping or many other options. Completing the Iowa Acceleration Scale can help with grade-skipping decisions."
 tags:
 - Academic Acceleration
+- Grade Placement
 ---
 TAG is the acronym commonly used in Oregon for talented and gifted students. The excerpt below from <a rel="nofollow" href="http://nationempowered.org" title="A Nation Empowered: Evidence Trumps the Excuses Holding Back America’s Brightest Students" target="_blank"><i>A Nation Empowered</i></a> describes many of the options for these students who need academic acceleration. Language immersion programs are widely available in the Portland area, and the challenges of learning another lanugage can provide some students with the academic acceleration they need.
 

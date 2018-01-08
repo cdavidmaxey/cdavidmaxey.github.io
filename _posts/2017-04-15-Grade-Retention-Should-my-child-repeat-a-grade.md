@@ -25,6 +25,7 @@ title: "Grade Retention: Should my child repeat a grade?"
 description: "Decisions about repeating a grade or holding your child back should be made considering the research leading experts to caution against grade retention."
 tags:
 - Special Education & 504
+- Grade Placement
 ---
 <blockquote><div>
 <p>NASP urges educators to use methods other than grade retention and social promotion&hellip;. When retained and promoted peers are compared in the same grade, retained students experience a short-term boost that dissipates within 4 years&hellip;. Except in very rare circumstances when a student has missed a large number of school days, grade retention and social promotion are not recommended. Instead, students whose performance is substantially below their grade level peers need an intensive individualized intervention plan with frequent progress monitoring and involvement with specialists and related services providers&hellip;.</p>
