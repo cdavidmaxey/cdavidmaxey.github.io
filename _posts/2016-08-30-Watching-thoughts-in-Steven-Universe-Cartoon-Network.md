@@ -27,6 +27,8 @@ variables:
 - disablekb=1
 - end=194
 credits: "<a rel='nofollow' href='http://www.cartoonnetwork.com/video/steven-universe/mindful-education-episode.html'>Steven Universe &copy;&nbsp;Cartoon&nbsp;Network</a>"
+style: ".lyrics{text-align:center}
+.lyrics>div{display:inline-block}"
 title: "Watching thoughts in Steven Universe (Cartoon Network)"
 description: "Steven and Connie learn from Garnet to change their relationship with unpleasant thoughts and feelings, instead of trying to get rid of them."
 tags:

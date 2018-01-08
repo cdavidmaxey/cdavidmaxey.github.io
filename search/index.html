@@ -4,7 +4,15 @@ sitemap:
   priority: 0.0
   changefreq: yearly
 published: TRUE
-style: "hr{margin:22px 0 32px}"
+style: "hr{margin:22px 0 32px}
+.tags{padding:2rem 0;margin-top:0;text-align:left}
+@media(max-width:374px){.tags{font-size:12px}}
+.blog{display:none}
+.blog:target{display:flex}
+.blog>div.center{width:100%;margin:0 auto 1rem}
+.blog:target a.tag{background-color:#9c27b0;color:white;margin:0}
+.blog:target a.tag::after{border-left-color:#9c27b0}
+.blog:target a.tag span{background:white;color:black}"
 title: "Search blog Articles by Topic | C. David Maxey, M.A."
 description: "Topic tags organizing blog articles about evidence-based practices, psychological services, and school-based supports for children and youth"
 ---
