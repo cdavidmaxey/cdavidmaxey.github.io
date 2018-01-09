@@ -1,5 +1,6 @@
 ---
 updated:
+redirect_from: "/Can-I-revoke-consent-to-services-evaluations-or-special-education/"
 layout: post
 published: TRUE
 cursif: TRUE
@@ -22,7 +23,7 @@ youtube:
   Y:
 variables:
 credits:
-title: "Can I revoke consent to services, evaluations or special education?"
+title: "Can I revoke consent to services, evaluations or Special Education?"
 description: "Consent is usually voluntary, so parents can typically revoke consent to some or all services, treatments, evaluations or special education at anytime."
 tags:
 - Special Education & 504
