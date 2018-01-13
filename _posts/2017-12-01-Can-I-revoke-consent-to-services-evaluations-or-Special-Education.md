@@ -24,11 +24,11 @@ youtube:
 variables:
 credits:
 title: "Can I revoke consent to services, evaluations or Special Education?"
-description: "Consent is usually voluntary, so parents can typically revoke consent to some or all services, treatments, evaluations or special education at anytime."
+description: "Consent is usually voluntary, so parents can typically revoke consent to some or all services, treatments, evaluations or Special Education at anytime."
 tags:
 - Special Education & 504
 ---
-<p>Usually consent to mental health services, medical treatments, evaluations, or special education is voluntary. Typically, parents (of children under 18 years) can revoke consent at anytime. If you become dissatisfied with whatever you’ve consented to your child receiving, a simple written letter revoking consent is often all it takes to end it (see example below). I recommend being specific about what you want to end. Do you want to revoke consent to mental health services, medical treatment, an evaluation, special education, etc.? Do you want to revoke consent to some or all of it?</p>
+<p>Usually consent to mental health services, medical treatments, evaluations, or Special Education is voluntary. Typically, parents (of children under 18 years) can revoke consent at anytime. If you become dissatisfied with whatever you’ve consented to your child receiving, a simple written letter revoking consent is often all it takes to end it (see example below). I recommend being specific about what you want to end. Do you want to revoke consent to mental health services, medical treatment, an evaluation, Special Education, etc.? Do you want to revoke consent to some or all of it?</p>
 <section class="paper">
 <p class="blue">[full name of parent]<br>[address of parent]</p>
 <p class="blue">[date]</p>
@@ -38,7 +38,8 @@ tags:
 <p>Sincerely,</p>
 <p class="blue cursif">Signature of Parent</p>
 </section>
-<p>Sometimes parents are concerned that if they consent to an evaluation for special education eligibility, they might be also consenting to their child getting special education&mdash;the Oregon Department of Education explains below that “consent for initial evaluation does not mean that you have also given your consent for&hellip;special education”, and that you can revoke your consent. I encourage you to know your rights, which the Oregon Department of Education reviews in their <a rel="nofollow" href="http://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank">Procedural Safeguards Notice</a>. I also suggest you consider the value of a full evaluation that should help you make a more informed decision about your child’s education.</p>
+<h2>If I consent to an evaluation for Special Education eligibility, am I also consenting to my child getting Special Education?</h2>
+<p>Sometimes parents are concerned that if they consent to an evaluation for Special Education eligibility, they might be also consenting to their child getting Special Education&mdash;the Oregon Department of Education explains below that “consent for initial evaluation does not mean that you have also given your consent for&hellip;special education”, and that you can revoke your consent. I encourage you to know your rights, which the Oregon Department of Education reviews in their <a rel="nofollow" href="http://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank">Procedural Safeguards Notice</a>. I also suggest you consider the value of a full evaluation that should help you make a more informed decision about your child’s education.</p>
 <blockquote><div>
 <p>Your school&hellip;cannot conduct an initial evaluation&hellip;to determine eligibility&hellip;to receive special education&hellip;without first&hellip;obtaining your consent&hellip;.</p>
 <p>Your school district must make reasonable efforts to obtain your informed consent for an initial evaluation&hellip;.</p>
