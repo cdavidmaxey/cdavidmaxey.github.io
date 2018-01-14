@@ -102,4 +102,4 @@ tags:
 	<li>invites children to discover how capable they are and to use their personal power in constructive ways.</li>
 </ul>
 
-Sometimes Positive Discipline is misunderstood as permissiveness. Actually, positive discipline is about finding long-term solutions that help children develop their own self-discipline over time.
+Sometimes Positive Discipline is misunderstood as permissiveness. Actually, Positive Discipline is about finding long-term solutions that help children develop their own self-discipline over time.
