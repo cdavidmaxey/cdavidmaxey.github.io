@@ -35,7 +35,7 @@ variables:
 - modestbranding=1
 - disablekb=1
 credits: "Stock&nbsp;Photo <a href='https://www.dreamstime.com/royalty-free-stock-images-dad-comfort-image7839949' rel='nofollow' target='_blank'>&copy;</a>&nbsp;Nathan&nbsp;Allred"
-style: ".PositiveDisciplineLink{font-size:.6875rem}"
+style: ".PositiveDisciplineLink{height:1.3125em}.PositiveDisciplineLink>span{font-size:.8125em}"
 title: "Positive Discipline: Kind and firm with mutual respect"
 description: "Positive Discipline is a non-punitive parenting and classroom management approach emphasizing mutual respect, and encouraging adults to be kind and firm."
 tags:
@@ -87,7 +87,7 @@ tags:
 		<p class="credits"><a rel='nofollow' href='http://www.frp.ca/francais'>&copy;</a>&nbsp;Save the Children Suecia</p>
 	</div>
 	<div>
-	<a class="download" rel="nofollow" href="https://www.positivediscipline.com/products/disciplina-positiva" target="_blank"><amp-img alt="Disciplina Positiva de Jane Nelsen" width="414" height="625" src="{{site.cache}}/books/Disciplina-positiva-de-Jane-Nelsen.jpg" sizes="8.625rem"></amp-img><div><span class="PositiveDisciplineLink">PositiveDiscipline<small>.com</small></span></div></a>
+	<a class="download" rel="nofollow" href="https://www.positivediscipline.com/products/disciplina-positiva" target="_blank"><amp-img alt="Disciplina Positiva de Jane Nelsen" width="414" height="625" src="{{site.cache}}/books/Disciplina-positiva-de-Jane-Nelsen.jpg" sizes="8.625rem"></amp-img><div class="PositiveDisciplineLink"><span>Positive Discipline</span></div></a>
 	</div>	
 </div>
 <div>Positive Discipline:</div>
