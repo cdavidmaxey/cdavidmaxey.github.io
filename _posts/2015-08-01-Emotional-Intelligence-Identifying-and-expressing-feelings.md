@@ -54,7 +54,9 @@ tags:
 - Media
 ---
 <p>Inside Out is a popular Disney/Pixar movie exploring the emotions experienced by an 11-year-old girl, Riley, who moves across the country to San Francisco with her parents. Anger, Disgust, Joy, Fear, and Sadness live in headquarters (in Riley’s head). Joy predominately rules headquarters (and thus how Riley feels) for quite a while, but as Riley grows, other emotions exert more influence on the buttons, knobs, and levers that control Riley’s feelings, leading to growth in Riley’s Emotional Intelligence (EQ).</p>
-{::nomarkdown}<amp-youtube data-videoid="yRUAzGQ3nSY" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1 data-param-start=7 data-param-end=135></amp-youtube>{:/nomarkdown}
+{::nomarkdown}
+<amp-youtube data-videoid="yRUAzGQ3nSY" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1 data-param-start=7 data-param-end=135></amp-youtube>
+{:/nomarkdown}
 <p class="credits"><a rel="nofollow" href="https://youtu.be/yRUAzGQ3nSY" target="_blank"><em>Inside Out - Official US Trailer</em></a> by <a rel="nofollow" href="https://youtube.com/user/DisneyPixar" target="_blank">Disney/Pixar
 </a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</p>
 As the movie follows Riley, her EQ and personality grows in complexity, with emotions coloring memories and mixing to nuance emotional expression. In 1980, Plutchik introduced his wheel of emotions that explored the notion of relations among and mixtures of emotions (see an adaptation of Plutchik’s Wheel of Emotions below). Some EQ experts posit that four emotions (i.e., Joy, Sadness, Fear/Surprise, and Anger/Disgust) are the basic building blocks of complex emotional expression. 
