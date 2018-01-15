@@ -151,14 +151,18 @@
 			/* .side amp-img{display:block} */
 			.side .merchants{display:flex}
 			.merchants>a{display:flex;justify-content:center;padding:.5em}
-			.merchants svg{width:calc(3.3125em - 1px);height:1.125em}
-			.kindle{background:#f59120;fill:white;border-right:white solid 1px;border-bottom-left-radius:.25em}
+			.merchants svg,.othermerchant>div{width:calc(3.3125em - 1px);height:1.125em}
+			.merchants>a:first-child{border-right:white solid 1px;border-bottom-left-radius:.25em}
+			.merchants>a:last-child{border-left:white solid 1px;border-bottom-right-radius:.25em}
+			.kindle{background:#f59120;fill:white}
 			.kindle:hover{background:#eee;fill:#f59120}
-			.powells{background:#db3c26;fill:white;border-right:white solid 1px;border-bottom-left-radius:.25em}
+			.powells{background:#db3c26;fill:white}
 			.powells:hover{background:#eee;fill:#db3c26}
-			.amazon{background:black;fill:white;border-left:white solid 1px;border-bottom-right-radius:.25em}
+			.amazon{background:black;fill:white}
 			.amazon:hover{background:#eee;fill:black}
 			.amazon path:first-child{fill:#f90}
+			.othermerchant{background:#9c27b0;fill:white;color:white;text-align:center}
+			.othermerchant:hover{background:#eee;fill:#9c27b0;color:#9c27b0}
 			.download>div{text-align:center;background:#9c27b0;fill:white;color:white;padding:.5em;border-bottom-left-radius:.25em;border-bottom-right-radius:.25em}
 			.download:hover>div{background:#eee;fill:#9c27b0;color:#9c27b0}
 			
