@@ -52,7 +52,7 @@ tags:
 - Social Emotional Learning
 - Media
 ---
-<!-- Inside Out -->
+Inside Out is a Disney/Pixar movie exploring the emotions experienced by an 11-year-old girl, Riley, who moves across the country to San Francisco with her parents. Joy, Sadness, Fear, Disgust and Anger live in headquarters (in Riley's head) and control how she feels. 
 
 {::nomarkdown}
 <amp-youtube data-videoid="yRUAzGQ3nSY" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1 data-param-start=7 data-param-end=135></amp-youtube>
@@ -60,10 +60,7 @@ tags:
 </a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</p>
 {:/nomarkdown}
 
-<!--<amp-img alt="anger disgust fear joy and sadness from inside out" src="{{site.cache}}/320/anger-disgust-fear-joy-and-sadness-from-inside-out.jpg" srcset="{{site.cache}}/320/anger-disgust-fear-joy-and-sadness-from-inside-out.jpg 320w,{{site.cache}}/640/anger-disgust-fear-joy-and-sadness-from-inside-out.jpg 640w,{{site.cache}}/1280/anger-disgust-fear-joy-and-sadness-from-inside-out.jpg 1280w,{{site.cache}}/1920/anger-disgust-fear-joy-and-sadness-from-inside-out.jpg 1920w" layout="responsive" width="2500" height="814"></amp-img>
-<p class="credits"><a rel='nofollow' href='http://movies.disney.com/inside-out'>Inside Out &copy;&nbsp;Disney/Pixar</a></p>-->
-
-<!-- Plutchik -->
+The movie follows Riley as her emotional intelligence (EQ) and personality grows in complexity, with feelings mixing to nuance emotional expression and coloring memories. Plutchik developed a wheel of emotions that explored the notion of relations among and mixtures of emotions (see an adaptation of Plutchik’s Wheel of Emotions below). Some EQ experts posit that four emotions (i.e., Joy, Sadness, Fear/Surprise, and Anger/Disgust) are the basic building blocks of complex emotional expression.
 
 <amp-img alt="Plutchik’s Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
 <p class="credits">&copy; <a rel="nofollow" href="http://www.copypress.com/blog/your-fragile-emotions-illustrated/" target="_blank">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>
@@ -75,7 +72,7 @@ tags:
 		</a>
 	</div>
 </div>
-<p>Communicating emotions effectively requires adequate vocabulary&mdash;if your child usually expresses their feelings simplistically (e.g., often saying happy or mad), expanding your child’s vocabulary might help them communicate more effectively. There are many feelings charts. Jim Borgman’s popular <i>How are you feeling today?</i> posters are available from <a rel="nofollow" href="http://www.ctherapy.com/feelings/">CTherapy.com</a>. Emoji feelings are shown below, and they’re downloadable as a coloring page on the right.</p>
+<p>Communicating emotions effectively requires adequate vocabulary&mdash;if your child usually expresses their feelings simplistically (e.g., often saying happy or mad), expanding your child’s vocabulary might help them communicate more effectively. There are many feelings charts out on the Internet. Jim Borgman’s popular <i>How are you feeling today?</i> posters are available from <a rel="nofollow" href="http://www.ctherapy.com/feelings/">CTherapy.com</a>. Emoji feelings are shown below, and they’re downloadable as a coloring page on the right.</p>
 <h4 id="emoji" class="center">Emoji Feelings</h4>
 <div id="emojitable" class="center">
 	<div><div>&#x1f60a;</div><div>Happy</div></div>
