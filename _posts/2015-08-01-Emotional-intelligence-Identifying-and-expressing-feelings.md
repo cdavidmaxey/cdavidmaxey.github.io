@@ -5,6 +5,7 @@ published: TRUE
 redirect_from: 
 - "/A-mix-of-emotions/"
 - "/Emotions-mixing-in-Inside-Out-Disney/"
+- "/Emotional-intelligence-Identifying-and-expressing-feelings/"
 - "/feelings/"
 - "/feeling/"
 - "/Feelings/"
