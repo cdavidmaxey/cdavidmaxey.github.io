@@ -111,7 +111,7 @@ tags:
 		</tr>
 	</tbody>
 </table>
-<p class="credits">Oregon Disability Category and Description Table is adapted from Oregon Administrative Rules, Chapter 581, Division 15 and is not intended to be a primary source of information.</p>
+<p class="credits">Table is adapted from Oregon Administrative Rules, Chapter 581, Division 15 and is not intended to be a primary source of information.</p>
 <div class="float right side">
 	<div>
 		<amp-img alt="The Complete IEP Guide: How to Advocate for Your Special Ed Child by Attorney Lawrence Siegel" width="414" height="532" src="{{site.cache}}/books/Complete-IEP-Guide-How-to-Advocate-for-Your-Special-Ed-Child-by-Attorney-Lawrence-Siegel.jpg" sizes="8.625rem"></amp-img>
