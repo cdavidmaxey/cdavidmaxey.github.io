@@ -128,4 +128,4 @@ tags:
 		</div>
 	</div>
 </div>
-<p>You might find that you need to learn more about Special Education to advocate for your child. Nolo offers a couple books that can help you understand more, and <a href="http://www.wrightslaw.com/" rel="nofollow">WrightsLaw.com</a> also provides information about Special Education. All of this information is certainly not a substitute for personalized advice from a knowledgeable lawyer. If you want or need the help of a trained professional, consult an attorney licensed to practice in your state.</p>
+<p>You might find that you need to learn more about Special Education to advocate for your child. Nolo offers a couple books that can help you understand more, and <a href="http://www.wrightslaw.com/" rel="nofollow" target="_blank">WrightsLaw.com</a> also provides information about Special Education. All of this information is certainly not a substitute for personalized advice from a knowledgeable lawyer. If you want or need the help of a trained professional, consult an attorney licensed to practice in your state.</p>
