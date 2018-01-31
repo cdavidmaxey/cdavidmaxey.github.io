@@ -28,6 +28,10 @@ description: "Consent is usually voluntary, so parents can typically revoke cons
 tags:
 - Special Education & 504
 ---
+<blockquote><div>
+<p>A refusal to consent to one service or activity may not be used to deny the parent or child any other service, benefit, or activity of the school&hellip;, except as provided in this rule.</p>
+<div class="citation"><small><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2090" title="Oregon Administrative Rules: Chapter 581 (Department of Education): Division 15 (Special Education): Rule 581-015-2090 (Consent)" target="_blank"><cite>Rule 581-015-2090 Consent</cite><br>Oregon Administrative Rules<br>Chapter 581 (Department of Education)<br>Division 15 (Special Education)</a></small></div>
+</div></blockquote>
 <p>Usually consent to mental health services, medical treatments, evaluations, or Special Education is voluntary. Typically, parents (of children under 18 years) can revoke consent at anytime. If you become dissatisfied with whatever you’ve consented to your child receiving, a simple written letter revoking consent is often all it takes to end it (see example below). I recommend being specific about what you want to end. Do you want to revoke consent to mental health services, medical treatment, an evaluation, Special Education, etc.? Do you want to revoke consent to some or all of it?</p>
 <section class="paper">
 <p class="blue">[full name of parent]<br>[address of parent]</p>
