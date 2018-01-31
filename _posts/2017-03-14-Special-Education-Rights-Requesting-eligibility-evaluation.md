@@ -33,7 +33,7 @@ tags:
 <ol type="a">
 	<li>An initial evaluation must be conducted to determine if a child is eligible for special education services when a [school] suspects or has reason to suspect that:</li>
 	<ol type="A">
-		<li>The child has a disability that has an adverse impact on the child's educational performance; and</li>
+		<li>The child has a disability that has an adverse impact on the child’s educational performance; and</li>
 		<li>The child may need special education services as a result of the disability.</li>
 	</ol>
 	<li>The [school] must designate a team to determine whether an initial evaluation will be conducted.</li>
