@@ -42,7 +42,7 @@ tags:
 <p>Sincerely,</p>
 <p class="blue cursif">Signature of Parent</p>
 </section>
-<h2>If I consent to an evaluation for Special Education eligibility, am I also consenting to my child getting Special Education?</h2>
+<h2>If I consent to a Special Education evaluation for IEP eligibility, am I also consenting to my child getting Special Education?</h2>
 <p>Sometimes parents are concerned that if they consent to an evaluation for Special Education eligibility, they might be also consenting to their child getting Special Education&mdash;the Oregon Department of Education explains below that “consent for initial evaluation does not mean that you have also given your consent for&hellip;special education”, and that you can revoke your consent. I encourage you to know your rights, which the Oregon Department of Education reviews in their <a rel="nofollow" href="http://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank">Procedural Safeguards Notice</a>. I also suggest you consider the value of a full evaluation that should help you make a more informed decision about your child’s education.</p>
 <blockquote><div>
 <p>Your school&hellip;cannot conduct an initial evaluation&hellip;to determine eligibility&hellip;to receive special education&hellip;without first&hellip;obtaining your consent&hellip;.</p>
