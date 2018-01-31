@@ -29,7 +29,7 @@ tags:
 - Special Education & 504
 ---
 <blockquote><div>
-<div>&hellip;A parent or public agency may initiate a request for an initial evaluation to determine if a child is a child with a disability.&hellip;
+<div>&hellip;A parent or public agency may initiate a request for an initial evaluation to determine if a child is a child with a disability.&hellip;</div>
 <ol type="a">
 	<li>An initial evaluation must be conducted to determine if a child is eligible for special education services when a [school] suspects or has reason to suspect that:</li>
 	<ol type="A">
