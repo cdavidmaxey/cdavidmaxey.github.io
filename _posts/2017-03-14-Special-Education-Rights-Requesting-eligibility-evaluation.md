@@ -29,12 +29,19 @@ tags:
 - Special Education & 504
 ---
 <blockquote><div>
-<div>&hellip;A parent or public agency may initiate a request for an initial evaluation to determine if a child is a child with a disability.&hellip;An initial evaluation must be conducted to determine if a child is eligible for special education services when a [school] suspects or has reason to suspect that:</div>
-<ol type="A">
-	<li>The child has a disability that has an adverse impact on the child's educational performance; and</li>
-	<li>The child may need special education services as a result of the disability</li>
+<div>&hellip;A parent or public agency may initiate a request for an initial evaluation to determine if a child is a child with a disability.&hellip;
+<ol type="a">
+	<li>An initial evaluation must be conducted to determine if a child is eligible for special education services when a [school] suspects or has reason to suspect that:</li>
+	<ol type="A">
+		<li>The child has a disability that has an adverse impact on the child's educational performance; and</li>
+		<li>The child may need special education services as a result of the disability</li>
+	</ol>
+	<li>The public agency must designate a team to determine whether an initial evaluation will be conducted.</li>
+	<ol type="A">
+		<li>The team must include the parent and at least two professionals&hellip;.</li>
+		<li>The team may make this decision without a meeting. If a meeting is held, parents must be invited to participate&hellip;.</li>
+	</ol>
 </ol>
-<p>&hellip;The public agency must designate a team to determine whether an initial evaluation will be conducted.&hellip;The team must include the parent and at least two professionals&hellip;. The team may make this decision without a meeting. If a meeting is held, parents must be invited to participate&hellip;.</p>
 <div class="citation"><small><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2105" title="Oregon Administrative Rules: Chapter 581 (Department of Education): Division 15 (Special Education): Rule 581-015-2105 (Evaluation and Reevaluation Requirements)" target="_blank"><cite>Rule 581-015-2105 Evaluation and Reevaluation Requirements</cite><br>Oregon Administrative Rules<br>Chapter 581 (Department of Education)<br>Division 15 (Special Education)</a></small></div>
 <p>[Schools must respond] promptly to requests initiated by a parent or public agency for an initial evaluation to determine [special education eligibility].</p>
 <div class="citation"><small><a rel="nofollow" href="http://www.ode.state.or.us/policy/federal/idea/policyproced/03evaluationelig.doc" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank"><cite>Policies&nbsp;and&nbsp;Procedures for&nbsp;Special&nbsp;Education: 2007‑2008: Section&nbsp;3: Evaluation&nbsp;and&nbsp;Eligibility</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
