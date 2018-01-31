@@ -34,9 +34,9 @@ tags:
 	<li>An initial evaluation must be conducted to determine if a child is eligible for special education services when a [school] suspects or has reason to suspect that:</li>
 	<ol type="A">
 		<li>The child has a disability that has an adverse impact on the child's educational performance; and</li>
-		<li>The child may need special education services as a result of the disability</li>
+		<li>The child may need special education services as a result of the disability.</li>
 	</ol>
-	<li>The public agency must designate a team to determine whether an initial evaluation will be conducted.</li>
+	<li>The [school] must designate a team to determine whether an initial evaluation will be conducted.</li>
 	<ol type="A">
 		<li>The team must include the parent and at least two professionals&hellip;.</li>
 		<li>The team may make this decision without a meeting. If a meeting is held, parents must be invited to participate&hellip;.</li>
