@@ -40,13 +40,14 @@ variables:
 - end=135
 credits: "<a rel='nofollow' href='http://movies.disney.com/inside-out'>Inside Out &copy;&nbsp;Disney/Pixar</a>"
 credits_full: "<a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b884038ffb941b24bbe7d'>Anger</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546aa33b41d2423ab9c7241a'>Disgust</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b8887dd72e44a743b1cb7'>Fear</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b88cf3109eb3fe545c0d5'>Joy</a>, and <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=5466b5bfdd72e44a7a3b5172'>Sadness</a> images are under &copy; by <a rel='nofollow' href='http://movies.disney.com/inside-out'>Disney/Pixar</a> and used by invitation to <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery'>share</a>.<br><a rel='nofollow' href='https://youtu.be/yRUAzGQ3nSY'><em>Inside Out - Official US Trailer</em></a> by <a rel='nofollow' href='https://youtube.com/user/DisneyPixar'>Disney-Pixar</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
-style: "h4#emoji{font-size:2rem;margin:3rem 0 .5rem;clear:both}
+style: "h4#emoji{font-size:2rem;margin:3rem 0 1rem;clear:both}
 #emojitable{display:flex;flex-wrap:wrap;justify-content:center}
 #emojitable>div{flex:0 1 calc(100% / 3);line-height:1;}
 #emojitable>div>div:first-child{font-size:7rem;padding:0 0 .5rem}
 @media(max-width:672px){#emojitable>div>div:first-child{font-size:calc((100vw - 5em) / 5)}}
 #emojitable>div>div:last-child{padding:0 0 1.5rem;font-size:1.25rem}
-@media(max-width:400px){#emojitable>div>div:last-child{font-size:.875rem}}"
+@media(max-width:400px){#emojitable>div>div:last-child{font-size:.875rem}}
+h4#rouedesemotionsdeplutchik{font-size:2rem;margin:3rem 0 0}"
 title: "Emotional Intelligence: Identifying and expressing feelings"
 description: "Emotional Intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
@@ -95,7 +96,7 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 	<div><div>&#x1f921;</div><div>Ridiculous</div></div>
 	<div><div>&#x1f912;</div><div>Sick</div></div>
 </div>
-<h4 class="center">Roue des émotions de Plutchik</h4>
+<h4 id="rouedesemotionsdeplutchik" class="center">Roue des émotions de&nbsp;Plutchik</h4>
 <div><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(2.142 0 0 2.163 -444.162 -797.943)" stroke-width=".929" stroke-dasharray="2.78784907, 2.78784907"/>
 <path transform="matrix(1.052 0 0 1.062 -36.143 -207.555)" d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" stroke-width="2"/>
