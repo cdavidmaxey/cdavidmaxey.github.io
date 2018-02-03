@@ -7,11 +7,11 @@ redirect_from:
 - "/Sun-protection-Sunscreen-wont-work-if-it-stays-in-the-bottle/"
 alt:
 thumb:
-  src: "brothers-applying-sunblock-at-the-beach.jpg"
+  src: "brothers-applying-sunscreen-at-the-beach.jpg"
   X: 5243
   Y: 2893
 image:
-  src: "brothers-applying-sunblock-at-the-beach.jpg"
+  src: "brothers-applying-sunscreen-at-the-beach.jpg"
   X: 5243
   Y: 2893
 video:
@@ -25,12 +25,12 @@ youtube:
 variables:
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='http://www.dreamstime.com/royalty-free-stock-images-sun-protection-image9977129'>&copy;</a>&nbsp;Monika&nbsp;Adamczyk"
 title: "Sunscreen won’t work if it stays in the bottle"
-description: "Using sunblock and other sun protection methods are critial to skin cancer prevention. How do you help your child develop healthy sun safety habits?"
+description: "Using sunscreen and other sun protection methods are critial to skin cancer prevention. How do you help your child develop healthy sun safety habits?"
 tags:
 - Health Habits
 style: ".epa{background-color:#369;border-radius:1em}.darksky{border-radius:1em}table{border-collapse:collapse}th{border-bottom:3px double black;vertical-align:bottom}"
 ---
-Sun exposure is a major well-established health risk, and there are a lot of resources for learning about how to be safe in the sun. Talk to your child’s primary medical provider about sun protection decisions and reports from sources such as the <a rel="nofollow" href="https://www.ewg.org/sunscreen/"><abbr title="Enviromental Working Group">EWG</abbr></a>, <a rel="nofollow" href="https://www.healthychildren.org/"><abbr title="American Academy of Pediatrics">AAP</abbr></a>, <a rel="nofollow" href="http://www.fda.gov/"><abbr title="U.S. Food and Drug Administration">FDA</abbr></a> and <a rel="nofollow" href="http://www.consumerreports.org/cro/sunscreens.htm">Consumer Reports</a>.
+Excessive sun exposure is a major well-established health risk, and there are a lot of resources for learning about how to be safe in the sun. Talk to your child’s primary medical provider about sun protection decisions and reports from sources such as the <a rel="nofollow" href="https://www.ewg.org/sunscreen/"><abbr title="Enviromental Working Group">EWG</abbr></a>, <a rel="nofollow" href="https://www.healthychildren.org/"><abbr title="American Academy of Pediatrics">AAP</abbr></a>, <a rel="nofollow" href="http://www.fda.gov/"><abbr title="U.S. Food and Drug Administration">FDA</abbr></a> and <a rel="nofollow" href="http://www.consumerreports.org/cro/sunscreens.htm">Consumer Reports</a>.
 
 As children approach the teen years, they become more independant, and need to think for themselves about sun safety when you’re not around. Start the conversations early so you can prepare them to make healthy choices on their own. Here are some ways to start a conversation:
 <aside class="float right side center">
@@ -50,7 +50,7 @@ As children approach the teen years, they become more independant, and need to t
 	<li>If your child wears glasses, ask your optometrist about UV protection&mdash;many lenses include UV protection.</li>
 </ul>
 
-Sunscreen & Sunblock Tips:
+Sunscreen Tips:
 <aside class="float right side">
 	<table>
 		<thead><tr><th class="right">SPF</th><th class="center">UVB Rays<br>Blocked</th></tr></thead>
@@ -64,7 +64,7 @@ Sunscreen & Sunblock Tips:
 	</table>
 </aside>
 <ol class="compact paragraph tail">
-	<li>SPF is a measure of protection only from UVB rays; “broad spectrum” sunscreen or sunblock protects against both UVB and UVA rays.</li>
+	<li>SPF is a measure of protection only from UVB rays; “broad spectrum” sunscreen protects against both UVB and UVA rays.</li>
 	<li>Don’t misunderstand SPF ratings&mdash;SPF 50 and 100 block only about 1% and 2% more UVB rays than SPF 30, respectively. The <a rel="nofollow" href="http://www.cdc.gov/cancer/skin/basic_info/sun-safety.htm"><abbr title="Centers for Disease Control and Prevention">CDC</abbr></a>, <a rel="nofollow" href="http://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/understandingover-the-countermedicines/ucm239463.htm"><abbr title="U.S. Food and Drug Administration">FDA</abbr></a> and <a rel="nofollow" href="https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Sun-Safety.aspx"><abbr title="American Academy of Pediatrics">AAP</abbr></a> recommend using at least SPF 15; the <a rel="nofollow" href="https://www.aad.org/media/stats/prevention-and-care/sunscreen-faqs"><abbr title="American Academy of Dermatology">AAD</abbr></a> recommends using at least SPF 30 (accessed July 1, 2017).</li>
 	<li>Choose a water-resistant product if you’ll be in the water.</li>
 	<li>Follow recommendations about applying the sunscreen <i>before</i> going out into the sun.</li>
@@ -73,5 +73,6 @@ Sunscreen & Sunblock Tips:
 	<li>Don’t miss any exposed skin including toes, top and bottom of feet, underarms, neck and hairline, tops and backs of ears, and areas near the eyes.</li>
 	<li>Reapply as recommended&mdash;using a high SPF does not mean that you can reapply less often.</li>
 	<li>Dispose of old expired bottles.</li>
-	<li>Products are sometimes divided into two categories: 1) sunscreens that absorb UV rays and 2) sunblocks that reflect UV rays. Sunblocks are harder to find in stores; New Seasons and Whole Foods usually carry sunblocks by <a rel="nofollow" href="http://www.badgerbalm.com/sunscreen"><strong>Badger Balm</strong></a> or <a rel="nofollow" href="http://www.californiababy.com/sunscreens.html"><strong>California Baby</strong></a>.</li>
+	<li>Products are sometimes divided into two categories: 1) chemical sunscreens that are <i>absorbed into</i> the skin and <i>absorb</i> UV rays and 2) mineral sunscreens that <i>rest on top of</i> the skin and <i>reflect</i> UV rays. Mineral sunscreens are harder to find in stores than chemical sunscreens, which are widely avaiable; New Seasons and Whole Foods usually carry mineral sunscreens by <a rel="nofollow" href="http://www.badgerbalm.com/sunscreen"><strong>Badger Balm</strong></a> or <a rel="nofollow" href="http://www.californiababy.com/sunscreens.html"><strong>California Baby</strong></a>.</li>
+	<li>Children and teens who dislike the white tint left on the skin by many mineral sunscreens might prefer a “clear” or “tinted” mineral sunscreen.</li>
 </ol>
