@@ -38,6 +38,7 @@ variables:
 - disablekb=1
 - start=7
 - end=135
+accordian: TRUE
 credits: "<a rel='nofollow' href='http://movies.disney.com/inside-out'>Inside Out &copy;&nbsp;Disney/Pixar</a>"
 credits_full: "<a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b884038ffb941b24bbe7d'>Anger</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546aa33b41d2423ab9c7241a'>Disgust</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b8887dd72e44a743b1cb7'>Fear</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b88cf3109eb3fe545c0d5'>Joy</a>, and <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=5466b5bfdd72e44a7a3b5172'>Sadness</a> images are under &copy; by <a rel='nofollow' href='http://movies.disney.com/inside-out'>Disney/Pixar</a> and used by invitation to <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery'>share</a>.<br><a rel='nofollow' href='https://youtu.be/yRUAzGQ3nSY'><em>Inside Out - Official US Trailer</em></a> by <a rel='nofollow' href='https://youtube.com/user/DisneyPixar'>Disney-Pixar</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
 style: "h4#emoji{font-size:2rem;margin:3rem 0 1rem;clear:both}
@@ -96,6 +97,7 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 	<div><div>&#x1f921;</div><div>Ridiculous</div></div>
 	<div><div>&#x1f912;</div><div>Sick</div></div>
 </div>
+<amp-accordion><section><header>français</header><div>
 <h4 id="rouedesemotionsdeplutchik" class="center">Roue des émotions de&nbsp;Plutchik</h4>
 <div><a href="{{site.url}}/Roue-des-emotions-de-Plutchik.svg" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(2.142 0 0 2.163 -444.162 -797.943)" stroke-width=".929" stroke-dasharray="2.78784907, 2.78784907" stroke="#ddd"/>
@@ -165,7 +167,8 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 <text y="525.351" x="509.953">distraction</text>
 <text y="583.229" x="357.246">songerie</text>
 <text y="619.413" x="245.473">remords</text>
-<text y="619.413" x="471.494">désappointement</text></g></svg></a></div>
+<text y="619.413" x="471.494">désappointement</text></g></svg></a></div></div></section>
+<section><header>Español</header><div>
 <h4 id="ruedadelasemocionesdeplutchik" class="center">Rueda de las Emociones de&nbsp;Plutchik</h4>
 <div><a href="{{site.url}}/Rueda-de-las-Emociones-de-Plutchik.svg" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(2.142 0 0 2.163 -444.162 -797.943)" stroke-width=".929" stroke-dasharray="2.78784907, 2.78784907" stroke="#ddd"/>
@@ -235,4 +238,4 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 <text y="525.351" x="509.953">distracción</text>
 <text y="583.229" x="357.246">melancolía</text>
 <text y="619.413" x="245.473">remordimiento</text>
-<text y="619.413" x="471.494">decepción</text></g></svg></a></div>
+<text y="619.413" x="471.494">decepción</text></g></svg></a></div></div></section></amp-accordian>

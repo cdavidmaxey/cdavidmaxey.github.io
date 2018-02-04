@@ -3,7 +3,8 @@
 		<script async src="https://cdn.ampproject.org/v0.js"></script>
 		<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>{% if page.youtube.id or page.youtube.body %}
 		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}{% if page.video.src %}
-		<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>{% endif %}
+		<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>{% endif %}{% if page.accordian %}
+		<script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>{% endif %}
 		<title>{{page.title}}</title>
 		<link href="{{site.url}}{{page.url}}" rel="canonical">{% if page.url contains '/blog/' %}{% if paginator.previous_page %}
 		<link href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}" rel="prev">{% endif %}{% if paginator.next_page %}
