@@ -98,7 +98,7 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 	<div><div>&#x1f921;</div><div>Ridiculous</div></div>
 	<div><div>&#x1f912;</div><div>Sick</div></div>
 </div>
-<amp-accordion>
+<amp-accordion disable-session-states>
 	<section>
 		<div>français</div>
 		<div>
