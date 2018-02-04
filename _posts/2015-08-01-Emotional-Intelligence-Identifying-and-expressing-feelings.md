@@ -51,9 +51,9 @@ h4#rouedesemotionsdeplutchik,h4#ruedadelasemocionesdeplutchik{font-size:2rem;mar
 amp-accordion section[expanded]>div:first-child span{display:none}
 input[type='radio']{visibility:hidden;height:0;width:0}
 section[id^='plutchik']{display:none}
-input#radio-plutchik-en:check~section#plutchik-en{display:block}
-input#radio-plutchik-fr:check~section#plutchik-fr{display:block}
-input#radio-plutchik-es:check~section#plutchik-es{display:block}"
+input[value=en]:check~section#plutchik-en{display:block}
+input[value=fr]:check~section#plutchik-fr{display:block}
+input[value=es]:check~section#plutchik-es{display:block}"
 title: "Emotional Intelligence: Identifying and expressing feelings"
 description: "Emotional Intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
