@@ -97,7 +97,7 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 	<div><div>&#x1f912;</div><div>Sick</div></div>
 </div>
 <h4 id="rouedesemotionsdeplutchik" class="center">Roue des émotions de&nbsp;Plutchik</h4>
-<div><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
+<a href="{{site.url}}/Roue-des-emotions-de-Plutchik.svg" target="_blank"><div><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(2.142 0 0 2.163 -444.162 -797.943)" stroke-width=".929" stroke-dasharray="2.78784907, 2.78784907" stroke="#ddd"/>
 <path transform="matrix(1.052 0 0 1.062 -36.143 -207.555)" d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" stroke-width="2"/>
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(1.607 0 0 1.623 -244.001 -508.319)" stroke-width="1.238" stroke-dasharray="2.47682023, 2.47682023"/>
@@ -165,9 +165,9 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 <text y="525.351" x="509.953">distraction</text>
 <text y="583.229" x="357.246">songerie</text>
 <text y="619.413" x="245.473">remords</text>
-<text y="619.413" x="471.494">désappointement</text></g></svg></div>
+<text y="619.413" x="471.494">désappointement</text></g></svg></div></a>
 <h4 id="ruedadelasemocionesdeplutchik" class="center">Rueda de las Emociones de&nbsp;Plutchik</h4>
-<div><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
+<a href="{{site.url}}/Rueda-de-las-Emociones-de-Plutchik.svg" target="_blank"><div><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(2.142 0 0 2.163 -444.162 -797.943)" stroke-width=".929" stroke-dasharray="2.78784907, 2.78784907" stroke="#ddd"/>
 <path transform="matrix(1.052 0 0 1.062 -36.143 -207.555)" d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" stroke-width="2"/>
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(1.607 0 0 1.623 -244.001 -508.319)" stroke-width="1.238" stroke-dasharray="2.47682023, 2.47682023"/>
@@ -235,4 +235,4 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 <text y="525.351" x="509.953">distracción</text>
 <text y="583.229" x="357.246">melancolía</text>
 <text y="619.413" x="245.473">remordimiento</text>
-<text y="619.413" x="471.494">decepción</text></g></svg></div>
+<text y="619.413" x="471.494">decepción</text></g></svg></div></a>
