@@ -97,6 +97,7 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 	<div><div>&#x1f921;</div><div>Ridiculous</div></div>
 	<div><div>&#x1f912;</div><div>Sick</div></div>
 </div>
+{::nomarkdown}
 <amp-accordion><section><header>français</header><div>
 <h4 id="rouedesemotionsdeplutchik" class="center">Roue des émotions de&nbsp;Plutchik</h4>
 <div><a href="{{site.url}}/Roue-des-emotions-de-Plutchik.svg" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
@@ -239,3 +240,4 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 <text y="583.229" x="357.246">melancolía</text>
 <text y="619.413" x="245.473">remordimiento</text>
 <text y="619.413" x="471.494">decepción</text></g></svg></a></div></div></section></amp-accordian>
+{:/nomarkdown}
