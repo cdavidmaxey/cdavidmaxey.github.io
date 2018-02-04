@@ -50,7 +50,6 @@ style: "h4#emoji{font-size:2rem;margin:3rem 0 1rem;clear:both}
 h4#rouedesemotionsdeplutchik,h4#ruedadelasemocionesdeplutchik{font-size:2rem;margin:3rem 0 0}
 amp-accordion section[expanded]>div:first-child span{display:none}
 input[type='radio']{visibility:hidden;height:0;width:0}
-section
 section[id^='plutchik']{display:none}
 input#radio-plutchik-en:check~section#plutchik-en{display:block}
 input#radio-plutchik-fr:check~section#plutchik-fr{display:block}
