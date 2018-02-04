@@ -50,10 +50,10 @@ style: "h4#emoji{font-size:2rem;margin:3rem 0 1rem;clear:both}
 h4#rouedesemotionsdeplutchik,h4#ruedadelasemocionesdeplutchik{font-size:2rem;margin:3rem 0 0}
 amp-accordion section[expanded]>div:first-child span{display:none}
 input[type='radio']{visibility:hidden;height:0;width:0}
-section[id^='plutchik']{display:none}
-input[value=en]:check~section#plutchik-en{display:block}
-input[value=fr]:check~section#plutchik-fr{display:block}
-input[value=es]:check~section#plutchik-es{display:block}"
+.en,.fr,.es{display:none}
+input[value=en]~section.en{display:block}
+input[value=fr]~section.fr{display:block}
+input[value=es]~section.es{display:block}"
 title: "Emotional Intelligence: Identifying and expressing feelings"
 description: "Emotional Intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
@@ -68,17 +68,17 @@ tags:
 </a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</p>
 As the movie follows Riley, her EQ and personality grows in complexity, with emotions coloring memories and mixing to nuance emotional expression. In 1980, Plutchik introduced his wheel of emotions that explored the notion of relations among and mixtures of emotions (see an adaptation of Plutchik’s Wheel of Emotions below in <a href="#en">English</a>, <a href="#fr">French</a>, or <a href="#es">Spanish</a>). Some EQ experts posit that four emotions (i.e., Joy, Sadness, Fear/Surprise, and Anger/Disgust) are the basic building blocks of complex emotional expression.
 <div class="right">
-<input type="radio" name="plutchik" id="radio-plutchik-en" value="en" checked />
-<label for="radio-plutchik-en">English</label>
-<input type="radio" name="plutchik" id="radio-plutchik-fr" value="fr" />
-<label for="radio-plutchik-fr">français</label>
-<input type="radio" name="plutchik" id="radio-plutchik-es" value="es" />
-<label for="radio-plutchik-es">Español</label>
-<section id="plutchik-en">
+<input type="radio" id="plutchik-en" value="en" checked />
+<label for="plutchik-en">English</label>
+<input type="radio" id="plutchik-fr" value="fr" />
+<label for="plutchik-fr">français</label>
+<input type="radio" id="plutchik-es" value="es" />
+<label for="plutchik-es">Español</label>
+<section class="en">
 	<amp-img alt="Plutchik’s Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
 	<p class="credits">&copy; <a rel="nofollow" href="http://www.copypress.com/blog/your-fragile-emotions-illustrated/" target="_blank">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>
 </section>
-<section id="plutchik-fr">
+<section class="fr">
 	<h4 id="rouedesemotionsdeplutchik" class="center">Roue des émotions de&nbsp;Plutchik</h4>
 	<div>
 		<a href="{{site.url}}/Roue-des-emotions-de-Plutchik.svg" target="_blank">
@@ -154,7 +154,7 @@ As the movie follows Riley, her EQ and personality grows in complexity, with emo
 		</a>
 	</div>
 </section>
-<section id="plutchik-es">
+<section class="es">
 	<h4 id="ruedadelasemocionesdeplutchik" class="center">Rueda de las Emociones de&nbsp;Plutchik</h4>
 	<div>
 		<a href="{{site.url}}/Rueda-de-las-Emociones-de-Plutchik.svg" target="_blank">
