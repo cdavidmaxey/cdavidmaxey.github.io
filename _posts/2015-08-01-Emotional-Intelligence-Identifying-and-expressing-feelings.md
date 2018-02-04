@@ -230,6 +230,7 @@ As the movie follows Riley, her EQ and personality grows in complexity, with emo
 		</a>
 	</div>
 </section>
+</div>
 <div class="float right side">
 	<div>
 		<a class="download" rel="nofollow" href="{{site.url}}/Emoji-Feelings.pdf" target="_blank">
