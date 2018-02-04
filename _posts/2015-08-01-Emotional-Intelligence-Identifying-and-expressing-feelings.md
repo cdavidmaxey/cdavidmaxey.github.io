@@ -256,4 +256,3 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 			</div>
 		</div>
 	</section>
-</amp-accordian>
