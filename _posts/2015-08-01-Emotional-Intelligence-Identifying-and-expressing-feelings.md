@@ -38,7 +38,6 @@ variables:
 - disablekb=1
 - start=7
 - end=135
-accordian: TRUE
 credits: "<a rel='nofollow' href='http://movies.disney.com/inside-out'>Inside Out &copy;&nbsp;Disney/Pixar</a>"
 credits_full: "<a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b884038ffb941b24bbe7d'>Anger</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546aa33b41d2423ab9c7241a'>Disgust</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b8887dd72e44a743b1cb7'>Fear</a>, <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=546b88cf3109eb3fe545c0d5'>Joy</a>, and <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery?image_id=5466b5bfdd72e44a7a3b5172'>Sadness</a> images are under &copy; by <a rel='nofollow' href='http://movies.disney.com/inside-out'>Disney/Pixar</a> and used by invitation to <a rel='nofollow' href='http://movies.disney.com/inside-out-gallery'>share</a>.<br><a rel='nofollow' href='https://youtu.be/yRUAzGQ3nSY'><em>Inside Out - Official US Trailer</em></a> by <a rel='nofollow' href='https://youtube.com/user/DisneyPixar'>Disney-Pixar</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
 style: "h4#emoji{font-size:2rem;margin:3rem 0 1rem;clear:both}
@@ -49,7 +48,13 @@ style: "h4#emoji{font-size:2rem;margin:3rem 0 1rem;clear:both}
 #emojitable>div>div:last-child{padding:0 0 1.5rem;font-size:1.25rem}
 @media(max-width:400px){#emojitable>div>div:last-child{font-size:.875rem}}
 h4#rouedesemotionsdeplutchik,h4#ruedadelasemocionesdeplutchik{font-size:2rem;margin:3rem 0 0}
-amp-accordion section[expanded]>div:first-child span{display:none}"
+amp-accordion section[expanded]>div:first-child span{display:none}
+input[type='radio']{visibility:hidden;height:0;width:0}
+section
+section[id^='plutchik']{display:none}
+input#radio-plutchik-en:check~section#plutchik-en{display:block}
+input#radio-plutchik-fr:check~section#plutchik-fr{display:block}
+input#radio-plutchik-es:check~section#plutchik-es{display:block}"
 title: "Emotional Intelligence: Identifying and expressing feelings"
 description: "Emotional Intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
@@ -62,50 +67,22 @@ tags:
 {:/nomarkdown}
 <p class="credits"><a rel="nofollow" href="https://youtu.be/yRUAzGQ3nSY" target="_blank"><em>Inside Out - Official US Trailer</em></a> by <a rel="nofollow" href="https://youtube.com/user/DisneyPixar" target="_blank">Disney/Pixar
 </a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</p>
-As the movie follows Riley, her EQ and personality grows in complexity, with emotions coloring memories and mixing to nuance emotional expression. In 1980, Plutchik introduced his wheel of emotions that explored the notion of relations among and mixtures of emotions (see an adaptation of Plutchik’s Wheel of Emotions below). Some EQ experts posit that four emotions (i.e., Joy, Sadness, Fear/Surprise, and Anger/Disgust) are the basic building blocks of complex emotional expression. 
-<amp-img alt="Plutchik’s Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
-<p class="credits">&copy; <a rel="nofollow" href="http://www.copypress.com/blog/your-fragile-emotions-illustrated/" target="_blank">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>
-<div class="float right side">
+As the movie follows Riley, her EQ and personality grows in complexity, with emotions coloring memories and mixing to nuance emotional expression. In 1980, Plutchik introduced his wheel of emotions that explored the notion of relations among and mixtures of emotions (see an adaptation of Plutchik’s Wheel of Emotions below in <a href="#en">English</a>, <a href="#fr">French</a>, or <a href="#es">Spanish</a>). Some EQ experts posit that four emotions (i.e., Joy, Sadness, Fear/Surprise, and Anger/Disgust) are the basic building blocks of complex emotional expression.
+<input type="radio" name="plutchik" id="radio-plutchik-en" value="en" checked />
+<label for="en">English</label>
+<input type="radio" name="plutchik" id="radio-plutchik-fr" value="fr" />
+<label for="fr">français</label>
+<input type="radio" name="plutchik" id="radio-plutchik-es" value="es" />
+<label for="es">Español</label>
+<section id="plutchik-en">
+	<amp-img alt="Plutchik’s Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
+	<p class="credits">&copy; <a rel="nofollow" href="http://www.copypress.com/blog/your-fragile-emotions-illustrated/" target="_blank">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>
+</section>
+<section id="plutchik-fr">
+	<h4 id="rouedesemotionsdeplutchik" class="center">Roue des émotions de&nbsp;Plutchik</h4>
 	<div>
-		<a class="download" rel="nofollow" href="{{site.url}}/Emoji-Feelings.pdf" target="_blank">
-			<amp-img alt="Emoji Feelings" width="414" height="555" src="{{site.cache}}/books/Emoji-Feelings.jpg" sizes="8.625rem"></amp-img>
-			<div><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><path d="M1344 928q0-14-9-23t-23-9h-224v-352q0-13-9.5-22.5t-22.5-9.5h-192q-13 0-22.5 9.5t-9.5 22.5v352h-224q-13 0-22.5 9.5t-9.5 22.5q0 14 9 23l352 352q9 9 23 9t23-9l351-351q10-12 10-24zm640 224q0 159-112.5 271.5t-271.5 112.5h-1088q-185 0-316.5-131.5t-131.5-316.5q0-130 70-240t188-165q-2-30-2-43 0-212 150-362t362-150q156 0 285.5 87t188.5 231q71-62 166-62 106 0 181 75t75 181q0 76-41 138 130 31 213.5 135.5t83.5 238.5z"/></svg>&ensp;Download</div>
-		</a>
-	</div>
-</div>
-Although a cartoon certainly can’t do justice to the depth and breadth of EQ research, it highlights the variety of emotions we experience, and the need for adequate vocabulary to communicate feelings effectively. If your child usually says they’re happy or mad in simplistic terms, expanding your child’s vocabulary might help them express themself more effectively. There are many feelings charts out on the Internet. Jim Borgman’s popular <i>How are you feeling today?</i> posters are available from <a rel="nofollow" href="http://www.ctherapy.com/feelings/">CTherapy.com</a>. Emoji feelings are shown below, and they’re downloadable as a coloring page on the right. If your child is having substantial problems with emotional expression, treatment from a mental health professional is recommended, and working on emotion identification with a feelings chart could possibly be a component of that treatment.
-<h4 id="emoji" class="center">Emoji Feelings</h4>
-<div id="emojitable" class="center">
-	<div><div>&#x1f60a;</div><div>Happy</div></div>
-	<div><div>&#x1f60e;</div><div>Relaxed</div></div>
-	<div><div>&#x1f60c;</div><div>Calm</div></div>
-	<div><div>&#x1f622;</div><div>Sad</div></div>
-	<div><div>&#x1f61f;</div><div>Worried</div></div>
-	<div><div>&#x1f615;</div><div>Confused</div></div>
-	<div><div>&#x1f620;</div><div>Angry</div></div>
-	<div><div>&#x1f62c;</div><div>Scared</div></div>
-	<div><div>&#x1f928;</div><div>Skeptical</div></div>
-	<div><div>&#x1f612;</div><div>Annoyed</div></div>
-	<div><div>&#x1f62f;</div><div>Surprised</div></div>
-	<div><div>&#x1f632;</div><div>Shocked</div></div>
-	<div><div>&#x1f636;</div><div>Shy</div></div>
-	<div><div>&#x1f633;</div><div>Embarrassed</div></div>
-	<div><div>&#x1f60f;</div><div>Proud</div></div>
-	<div><div>&#x1f634;</div><div>Sleepy</div></div>
-	<div><div>&#x1f635;</div><div>Dizzy</div></div>
-	<div><div>&#x1f915;</div><div>Hurt</div></div>
-	<div><div>&#x1f61c;</div><div>Silly</div></div>
-	<div><div>&#x1f921;</div><div>Ridiculous</div></div>
-	<div><div>&#x1f912;</div><div>Sick</div></div>
-</div>
-<amp-accordion disable-session-states>
-	<section>
-		<div><span>français</span></div>
-		<div>
-			<h4 id="rouedesemotionsdeplutchik" class="center">Roue des émotions de&nbsp;Plutchik</h4>
-			<div>
-				<a href="{{site.url}}/Roue-des-emotions-de-Plutchik.svg" target="_blank">
-					<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
+		<a href="{{site.url}}/Roue-des-emotions-de-Plutchik.svg" target="_blank">
+			<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(2.142 0 0 2.163 -444.162 -797.943)" stroke-width=".929" stroke-dasharray="2.78784907, 2.78784907" stroke="#ddd"/>
 <path transform="matrix(1.052 0 0 1.062 -36.143 -207.555)" d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" stroke-width="2"/>
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(1.607 0 0 1.623 -244.001 -508.319)" stroke-width="1.238" stroke-dasharray="2.47682023, 2.47682023"/>
@@ -174,17 +151,14 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 <text y="583.229" x="357.246">songerie</text>
 <text y="619.413" x="245.473">remords</text>
 <text y="619.413" x="471.494">désappointement</text></g></svg>
-				</a>
-			</div>
-		</div>
-	</section>
-	<section>
-		<div><span>Español</span></div>
-		<div>
-			<h4 id="ruedadelasemocionesdeplutchik" class="center">Rueda de las Emociones de&nbsp;Plutchik</h4>
-			<div>
-				<a href="{{site.url}}/Rueda-de-las-Emociones-de-Plutchik.svg" target="_blank">
-					<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
+		</a>
+	</div>
+</section>
+<section id="plutchik-es">
+	<h4 id="ruedadelasemocionesdeplutchik" class="center">Rueda de las Emociones de&nbsp;Plutchik</h4>
+	<div>
+		<a href="{{site.url}}/Rueda-de-las-Emociones-de-Plutchik.svg" target="_blank">
+			<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g stroke="#999" fill="none">
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(2.142 0 0 2.163 -444.162 -797.943)" stroke-width=".929" stroke-dasharray="2.78784907, 2.78784907" stroke="#ddd"/>
 <path transform="matrix(1.052 0 0 1.062 -36.143 -207.555)" d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" stroke-width="2"/>
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(1.607 0 0 1.623 -244.001 -508.319)" stroke-width="1.238" stroke-dasharray="2.47682023, 2.47682023"/>
@@ -253,7 +227,39 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 <text y="583.229" x="357.246">melancolía</text>
 <text y="619.413" x="245.473">remordimiento</text>
 <text y="619.413" x="471.494">decepción</text></g></svg>
-				</a>
-			</div>
-		</div>
-	</section>
+		</a>
+	</div>
+</section>
+<div class="float right side">
+	<div>
+		<a class="download" rel="nofollow" href="{{site.url}}/Emoji-Feelings.pdf" target="_blank">
+			<amp-img alt="Emoji Feelings" width="414" height="555" src="{{site.cache}}/books/Emoji-Feelings.jpg" sizes="8.625rem"></amp-img>
+			<div><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><path d="M1344 928q0-14-9-23t-23-9h-224v-352q0-13-9.5-22.5t-22.5-9.5h-192q-13 0-22.5 9.5t-9.5 22.5v352h-224q-13 0-22.5 9.5t-9.5 22.5q0 14 9 23l352 352q9 9 23 9t23-9l351-351q10-12 10-24zm640 224q0 159-112.5 271.5t-271.5 112.5h-1088q-185 0-316.5-131.5t-131.5-316.5q0-130 70-240t188-165q-2-30-2-43 0-212 150-362t362-150q156 0 285.5 87t188.5 231q71-62 166-62 106 0 181 75t75 181q0 76-41 138 130 31 213.5 135.5t83.5 238.5z"/></svg>&ensp;Download</div>
+		</a>
+	</div>
+</div>
+Although a cartoon certainly can’t do justice to the depth and breadth of EQ research, it highlights the variety of emotions we experience, and the need for adequate vocabulary to communicate feelings effectively. If your child usually says they’re happy or mad in simplistic terms, expanding your child’s vocabulary might help them express themself more effectively. There are many feelings charts out on the Internet. Jim Borgman’s popular <i>How are you feeling today?</i> posters are available from <a rel="nofollow" href="http://www.ctherapy.com/feelings/">CTherapy.com</a>. Emoji feelings are shown below, and they’re downloadable as a coloring page on the right. If your child is having substantial problems with emotional expression, treatment from a mental health professional is recommended, and working on emotion identification with a feelings chart could possibly be a component of that treatment.
+<h4 id="emoji" class="center">Emoji Feelings</h4>
+<div id="emojitable" class="center">
+	<div><div>&#x1f60a;</div><div>Happy</div></div>
+	<div><div>&#x1f60e;</div><div>Relaxed</div></div>
+	<div><div>&#x1f60c;</div><div>Calm</div></div>
+	<div><div>&#x1f622;</div><div>Sad</div></div>
+	<div><div>&#x1f61f;</div><div>Worried</div></div>
+	<div><div>&#x1f615;</div><div>Confused</div></div>
+	<div><div>&#x1f620;</div><div>Angry</div></div>
+	<div><div>&#x1f62c;</div><div>Scared</div></div>
+	<div><div>&#x1f928;</div><div>Skeptical</div></div>
+	<div><div>&#x1f612;</div><div>Annoyed</div></div>
+	<div><div>&#x1f62f;</div><div>Surprised</div></div>
+	<div><div>&#x1f632;</div><div>Shocked</div></div>
+	<div><div>&#x1f636;</div><div>Shy</div></div>
+	<div><div>&#x1f633;</div><div>Embarrassed</div></div>
+	<div><div>&#x1f60f;</div><div>Proud</div></div>
+	<div><div>&#x1f634;</div><div>Sleepy</div></div>
+	<div><div>&#x1f635;</div><div>Dizzy</div></div>
+	<div><div>&#x1f915;</div><div>Hurt</div></div>
+	<div><div>&#x1f61c;</div><div>Silly</div></div>
+	<div><div>&#x1f921;</div><div>Ridiculous</div></div>
+	<div><div>&#x1f912;</div><div>Sick</div></div>
+</div>
