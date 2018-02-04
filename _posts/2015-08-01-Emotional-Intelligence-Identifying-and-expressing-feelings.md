@@ -49,7 +49,7 @@ style: "h4#emoji{font-size:2rem;margin:3rem 0 1rem;clear:both}
 #emojitable>div>div:last-child{padding:0 0 1.5rem;font-size:1.25rem}
 @media(max-width:400px){#emojitable>div>div:last-child{font-size:.875rem}}
 h4#rouedesemotionsdeplutchik,h4#ruedadelasemocionesdeplutchik{font-size:2rem;margin:3rem 0 0}
-amp-accordion section[expanded]>div:first-child{display:none;}"
+amp-accordion section[expanded]>div:first-child span{display:none}"
 title: "Emotional Intelligence: Identifying and expressing feelings"
 description: "Emotional Intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
@@ -100,7 +100,7 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 </div>
 <amp-accordion disable-session-states>
 	<section>
-		<div>français</div>
+		<div><span>français</span></div>
 		<div>
 			<h4 id="rouedesemotionsdeplutchik" class="center">Roue des émotions de&nbsp;Plutchik</h4>
 			<div>
@@ -179,7 +179,7 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 		</div>
 	</section>
 	<section>
-		<div>Español</div>
+		<div><span>Español</span></div>
 		<div>
 			<h4 id="ruedadelasemocionesdeplutchik" class="center">Rueda de las Emociones de&nbsp;Plutchik</h4>
 			<div>
