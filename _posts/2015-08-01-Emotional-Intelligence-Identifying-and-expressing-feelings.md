@@ -68,11 +68,11 @@ tags:
 </a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</p>
 As the movie follows Riley, her EQ and personality grows in complexity, with emotions coloring memories and mixing to nuance emotional expression. In 1980, Plutchik introduced his wheel of emotions that explored the notion of relations among and mixtures of emotions (see an adaptation of Plutchik’s Wheel of Emotions below in <a href="#en">English</a>, <a href="#fr">French</a>, or <a href="#es">Spanish</a>). Some EQ experts posit that four emotions (i.e., Joy, Sadness, Fear/Surprise, and Anger/Disgust) are the basic building blocks of complex emotional expression.
 <div class="right">
-<input type="radio" id="plutchik-en" value="en" checked />
+<input type="radio" name="plutchik" id="plutchik-en" value="en" checked />
 <label for="plutchik-en">English</label>
-<input type="radio" id="plutchik-fr" value="fr" />
+<input type="radio" name="plutchik" id="plutchik-fr" value="fr" />
 <label for="plutchik-fr">français</label>
-<input type="radio" id="plutchik-es" value="es" />
+<input type="radio" name="plutchik" id="plutchik-es" value="es" />
 <label for="plutchik-es">Español</label>
 <section class="en">
 	<amp-img alt="Plutchik’s Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
