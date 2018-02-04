@@ -67,6 +67,7 @@ tags:
 <p class="credits"><a rel="nofollow" href="https://youtu.be/yRUAzGQ3nSY" target="_blank"><em>Inside Out - Official US Trailer</em></a> by <a rel="nofollow" href="https://youtube.com/user/DisneyPixar" target="_blank">Disney/Pixar
 </a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</p>
 As the movie follows Riley, her EQ and personality grows in complexity, with emotions coloring memories and mixing to nuance emotional expression. In 1980, Plutchik introduced his wheel of emotions that explored the notion of relations among and mixtures of emotions (see an adaptation of Plutchik’s Wheel of Emotions below in <a href="#en">English</a>, <a href="#fr">French</a>, or <a href="#es">Spanish</a>). Some EQ experts posit that four emotions (i.e., Joy, Sadness, Fear/Surprise, and Anger/Disgust) are the basic building blocks of complex emotional expression.
+<div class="right">
 <input type="radio" name="plutchik" id="radio-plutchik-en" value="en" checked />
 <label for="radio-plutchik-en">English</label>
 <input type="radio" name="plutchik" id="radio-plutchik-fr" value="fr" />
