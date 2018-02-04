@@ -97,10 +97,9 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 	<div><div>&#x1f921;</div><div>Ridiculous</div></div>
 	<div><div>&#x1f912;</div><div>Sick</div></div>
 </div>
-{::nomarkdown}
 <amp-accordion>
 	<section>
-		<header>français</header>
+		<div>français</div>
 		<div>
 			<h4 id="rouedesemotionsdeplutchik" class="center">Roue des émotions de&nbsp;Plutchik</h4>
 			<div>
@@ -257,4 +256,4 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 			</div>
 		</div>
 	</section>
-</amp-accordian>{:/}
+</amp-accordian>
