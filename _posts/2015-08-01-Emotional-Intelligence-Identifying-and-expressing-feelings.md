@@ -204,35 +204,35 @@ Although a cartoon certainly can’t do justice to the depth and breadth of EQ r
 <path d="M242.882 410.123l.219.625c1.573 3.72 3.335 7.351 5.25 10.875s3.984 6.942 6.219 10.25c2.235 3.308 4.653 6.491 7.188 9.563 2.535 3.071 5.187 6.03 8 8.844 2.813 2.813 5.773 5.497 8.844 8.031 3.071 2.535 6.254 4.921 9.563 7.156 3.308 2.235 6.757 4.304 10.281 6.219 3.524 1.915 7.124 3.677 10.844 5.25l.625.219.438-.469 47.875-113.719-114.875 46.719-.469.438z" fill="#de00de" stroke="#666"/>
 <path d="M310.319 477.31c3.4 1.403 6.863 2.71 10.406 3.813 3.894 1.211 7.858 2.234 11.906 3.063 4.048.828 8.194 1.45 12.375 1.875 4.181.425 8.426.656 12.719.656 4.293 0 8.507-.232 12.688-.656 4.181-.425 8.327-1.047 12.375-1.875 4.048-.828 8.012-1.851 11.906-3.063 3.553-1.105 7.029-2.405 10.438-3.813l-.031-.625-46.875-113.719-47.219 112.125v.031l-.656 1.563-.031.625z" fill="#0000c8" stroke="#666"/>
 <path d="M242.726 314.935c-1.407 3.407-2.677 6.854-3.781 10.406-1.211 3.894-2.234 7.889-3.063 11.938-.828 4.048-1.482 8.163-1.906 12.344-.425 4.181-.625 8.426-.625 12.719 0 4.293.2 8.538.625 12.719.425 4.181 1.078 8.296 1.906 12.344.828 4.048 1.851 8.012 3.063 11.906 1.049 3.372 2.272 6.664 3.594 9.906l2.406-.156 113.281-46.094-113.281-47.344-.375-.594-1.219-.063-.625-.031z" fill="#d40000" stroke="#666"/></g><g style="text-align:center" font-size="14" font-weight="bold" text-anchor="middle" font-family="sans-serif">
-<text y="117.146" x="245.989">optimisme</text>
-<text y="117.146" x="470.93">amour</text>
-<text y="148.854" x="357.412">sérénité</text>
-<text y="212.052" x="203.314">intérêt</text>
-<text y="212.052" x="511.703">acceptation</text>
-<text y="214.004" x="358.179">joie</text>
-<text y="250.138" x="254.909">anticipation</text>
-<text y="250.138" x="464.707">confiance</text>
-<text y="262.574" x="72.373">aggressivité</text>
-<text y="262.574" x="631.845">soumission</text>
-<text y="273.839" x="357.451">extase</text>
-<text y="311.147" x="294.271">vigilance</text>
-<text y="311.147" x="424.528">admiration</text>
-<text y="365.875" x="115.849">contrariété</text>
-<text y="365.875" x="206.475">colère</text>
-<text y="365.875" x="265.589">rage</text>
-<text y="367.921" x="606.631">appréhension</text>
-<text y="369.205" x="443.502">terreur</text>
-<text y="369.83" x="508.73">peur</text>
-<text y="423.07" x="295.587">aversion</text>
-<text y="423.07" x="425.066">étonnement</text>
-<text y="463.502" x="357.071" fill="#fff">chagrin</text>
-<text y="470.668" x="72.236">mépris</text>
-<text y="470.668" x="631.623">crainte</text>
-<text y="475.573" x="249.305">dégoût</text>
-<text y="475.401" x="467.349">surprise</text>
-<text y="519.554" x="357.583" fill="#fff">tristesse</text>
-<text y="525.382" x="205.698">ennui</text>
-<text y="525.351" x="509.953">distraction</text>
-<text y="583.229" x="357.246">songerie</text>
-<text y="619.413" x="245.473">remords</text>
-<text y="619.413" x="471.494">désappointement</text></g></svg></div>
+<text y="117.146" x="245.989">optimismo</text>
+<text y="117.146" x="470.93">amor</text>
+<text y="148.854" x="357.412">serenidad</text>
+<text y="212.052" x="203.314">interés</text>
+<text y="212.052" x="511.703">aprobación</text>
+<text y="214.004" x="358.179">alegría</text>
+<text y="250.138" x="254.909">anticipación</text>
+<text y="250.138" x="464.707">confianza</text>
+<text y="262.574" x="72.373">alevosía</text>
+<text y="262.574" x="631.845">sumisión</text>
+<text y="273.839" x="357.451">extasis</text>
+<text y="311.147" x="294.271">vigilancia</text>
+<text y="311.147" x="424.528">admiración</text>
+<text y="365.875" x="115.849">enfado</text>
+<text y="365.875" x="206.475">ira</text>
+<text y="365.875" x="265.589">furia</text>
+<text y="367.921" x="606.631">temor</text>
+<text y="369.205" x="443.502">terror</text>
+<text y="369.83" x="508.73">miedo</text>
+<text y="423.07" x="295.587">odio</text>
+<text y="423.07" x="425.066">asombro</text>
+<text y="463.502" x="357.071" fill="#fff">pena</text>
+<text y="470.668" x="72.236">desprecio</text>
+<text y="470.668" x="631.623">susto</text>
+<text y="475.573" x="249.305">aversión</text>
+<text y="475.401" x="467.349">sorpresa</text>
+<text y="519.554" x="357.583" fill="#fff">tristeza</text>
+<text y="525.382" x="205.698">tedio</text>
+<text y="525.351" x="509.953">distracción</text>
+<text y="583.229" x="357.246">melancolía</text>
+<text y="619.413" x="245.473">remordimiento</text>
+<text y="619.413" x="471.494">decepción</text></g></svg></div>
