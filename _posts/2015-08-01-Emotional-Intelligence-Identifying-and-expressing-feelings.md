@@ -47,7 +47,6 @@ style: "h4#emoji{font-size:2rem;margin:3rem 0 1rem;clear:both}
 @media(max-width:672px){#emojitable>div>div:first-child{font-size:calc((100vw - 5em) / 5)}}
 #emojitable>div>div:last-child{padding:0 0 1.5rem;font-size:1.25rem}
 @media(max-width:400px){#emojitable>div>div:last-child{font-size:.875rem}}
-amp-accordion section[expanded]>div:first-child span{display:none}
 input[type='radio']{visibility:hidden;height:0;width:0}
 .en,.fr,.es{display:none}
 input[value=en]:checked~section.en{display:block}
