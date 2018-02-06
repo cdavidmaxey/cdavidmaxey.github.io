@@ -41,8 +41,8 @@ title: "Positive Discipline: Kind and firm with mutual respect"
 description: "Positive Discipline is a non-punitive parenting and classroom management approach emphasizing mutual respect, and encouraging adults to be kind and firm."
 tags:
 - Positive Discipline
-- Books for Parents
-- Books for Teachers
+- &#x1F4DA; Books for Parents
+- &#x1F4DA; Books for Teachers
 ---
 <div class="float right side">
 	<div>
