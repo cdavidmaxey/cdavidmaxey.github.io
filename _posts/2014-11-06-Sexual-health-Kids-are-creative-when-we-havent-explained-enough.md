@@ -28,7 +28,7 @@ description: "Kids need parents to share accurate age-approprite information abo
 tags:
 - Sexual Health
 - Apps for Kids
-- &#x1F4DA; Books for Kids
+- 📚 Books for Kids
 style: ".humanbody,.incrediblebody{border-radius:1em}"
 ---
 Kids have lots of questions, and they need parents to provide accurate age-appropriate information. These apps and books are resources that you can review to decide if they are appropriate for your child. If your child has had unhealthly sexual experiences, discuss these decisions with a mental health professional.
