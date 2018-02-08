@@ -7,15 +7,15 @@ redirect_from:
 updated:
 layout: post
 published: TRUE
-alt: "proactive collaborative problem solving over family weekend breakfast"
+alt: "Father with arm around son comforting and talking with him"
 thumb:
-  src: "proactive-collaborative-problem-solving-over-family-weekend-breakfast.jpg"
-  X: 8332
-  Y: 4687
+  src: "father-with-arm-around-son.jpg"
+  X: 4960
+  Y: 2790
 image:
-  src: "proactive-collaborative-problem-solving-over-family-weekend-breakfast.jpg"
-  X: 8332
-  Y: 4687
+  src: "father-with-arm-around-son.jpg"
+  X: 4960
+  Y: 2790
 video:
   src: 
   X: 

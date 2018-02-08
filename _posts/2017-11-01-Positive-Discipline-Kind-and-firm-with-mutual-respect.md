@@ -11,15 +11,15 @@ redirect_from:
 updated:
 layout: post
 published: TRUE
-alt: "Father with arm around son comforting and talking with him"
+alt: "family discussion over weekend breakfast"
 thumb:
-  src: "father-with-arm-around-son.jpg"
-  X: 4960
-  Y: 2790
+  src: "family-discussion-over-weekend-breakfast.jpg"
+  X: 8332
+  Y: 4687
 image:
-  src: "father-with-arm-around-son.jpg"
-  X: 4960
-  Y: 2790
+  src: "family-discussion-over-weekend-breakfast.jpg"
+  X: 8332
+  Y: 4687
 video:
   src: 
   X: 
