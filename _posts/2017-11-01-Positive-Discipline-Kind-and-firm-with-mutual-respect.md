@@ -35,8 +35,8 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-credits: "Stock&nbsp;Photo <a href='https://www.dreamstime.com/royalty-free-stock-images-dad-comfort-image7839949' rel='nofollow' target='_blank'>&copy;</a>&nbsp;Nathan&nbsp;Allred"
 style: ".bookborder{border:black solid 1px}.PositiveDisciplineLink{height:1.3125em}.PositiveDisciplineLink>span{font-size:.8125em}"
+credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-pleasant-family-having-lively-conversation-emotional-boy-his-sitting-table-breakfast-image89633567'>&copy;</a>&nbsp;Viacheslav&nbsp;Iacobchuk"
 title: "Positive Discipline: Kind and firm with mutual respect"
 description: "Positive Discipline is a non-punitive parenting and classroom management approach emphasizing mutual respect, and encouraging adults to be kind and firm."
 tags:
