@@ -32,7 +32,7 @@ input[value=fr]:checked~section.fr{display:block}
 input[value=es]:checked~section.es{display:block}"
 credits: ""
 title: "Gender Language & Terms: Pronouns and more"
-description: "Gender language is evolving with varying degrees of consensus on definitions. How do I navigate this uncertainty? Which pronouns to use? TL;DR: Just ask"
+description: "Gender language is evolving with varying degrees of consensus on definitions. How do I talk about gender? How do I know which pronouns to use? TL;DR: Just ask"
 tags:
 - 🏳️‍🌈 Trans
 - 🏳️‍🌈 Gender & Sexual Minorities
