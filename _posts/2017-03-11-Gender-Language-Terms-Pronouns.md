@@ -83,7 +83,7 @@ tags:
 		<li id="Agender">Agender: people who identify as gender-neutral, genderless or not having a gender.</li>
 	</ul>
 	<li id="Transsexual">Transsexual: a deprecated term to avoid, unless asked to use it by a person who identifies as transsexual. Originating in medical and psychiatric communities, transsexual was usually used to refers to people who had <a href="#GenderAffirmingSurgery">gender affirming surgery</a> or hormone treatment.</li>
-	<li id="TwoSpirit">Two Spirit: a term for indigenous (Native American/First Nations) people of North American who blend the masculine and feminine roles and/or clothing. Most tribes have a long history of accepting, if not honoring, two spirit people.</li>
+	<li id="TwoSpirit">Two Spirit: a term for indigenous (Native American/<wbr>First Nations) people of North American who blend the masculine and feminine roles and/or clothing. Most tribes have a long history of accepting, if not honoring, two spirit people.</li>
 </ul>
 <p>Gender Binary: a construct in which gender is defined according to only two discrete and opposite categories: girls/women and boys/men.</p>
 <p>Gender Expression: the outward expression of gender through clothing, hairstyles, mannerism, speech, social interactions, etc.</p>
@@ -102,7 +102,7 @@ tags:
 	</ul>
 	<li>Hormonal Congruence</li>
 	<ul>
-		<li>Puberty Blockers/Pubertal Suppression: medicine used to delay the physical changes of puberty.</li>
+		<li>Puberty Blockers/<wbr>Pubertal Suppression: medicine used to delay the physical changes of puberty.</li>
 		<li>Hormone Treatment: estrogen- or testosterone-related hormones used to feminize or masculinize the body, respectively.</li>
 	</ul>
 	<li>Anatomical Congruence</li>
