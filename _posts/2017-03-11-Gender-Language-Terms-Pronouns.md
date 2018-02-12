@@ -64,10 +64,10 @@ tags:
 	<p class="credits">Used&nbsp;by&nbsp;invitation&nbsp;to&nbsp;share &copy;&nbsp;The519.org (Diseño&nbsp;infográfico&nbsp;por&nbsp;LightUpTheSky.ca)</p>
 </section>
 </div>
-<h4>Gender-Related Language & Terms</h4>
+<h4>Gender&#8209;Related Language & Terms</h4>
 <p>Language shapes our perceptions of others, and precise use of gender terms can help demystify misperceptions about gender. The vocabulary of gender continues to evolve with no universal agreement about the definitions of many terms. These terms can be a starting point for dialogue with someone about how they experience gender and their meanings for the terms they use to describe themselves.</p>
-<p id="AFaB">Assigned Female at Birth (AFaB): assigned or designated female based on outside genitalia (or karyotyping) at birth. Terms to avoid: female bodied and biologically/genetically/born/natal female.</p>
-<p id="AMaB">Assigned Male at Birth (AMaB): assigned or designated male based on outside genitalia (or karyotyping) at birth. Terms to avoid: male bodied and biologically/genetically/born/natal male.</p>
+<p id="AFaB">Assigned Female at Birth (AFaB): assigned or designated female based on outside genitalia (or karyotyping) at birth. Terms to avoid: female bodied and biologically/<wbr>genetically/<wbr>born/<wbr>natal female.</p>
+<p id="AMaB">Assigned Male at Birth (AMaB): assigned or designated male based on outside genitalia (or karyotyping) at birth. Terms to avoid: male bodied and biologically/<wbr>genetically/<wbr>born/<wbr>natal male.</p>
 <p id="Intersex">Intersex: an umbrella term for a number of naturally-occurring conditions characterized by physical anatomy that does not match completely with typical female or male anatomy (e.g., Klinefelter Syndrome, Androgen Insensitivity Syndrome, Congenital Adrenal Hyperplasia).</p>
 <p id="GSM">Gender & Sexual Minorities (GSM), Queer, LGBT+, LGBTQ, LGGBBTTQQIAAPP: people who are minorities because they are not cisgender or not heterosexual (or both). GSM and queer are preferred by some because acronyms are ever expanding as people come to identify more precisely&mdash;LGGBBTTQQIAAPP stands for lesbian, gay, genderqueer, bisexual, bigender, transgender, trans, queer, questioning, intersex, asexual, agender, pansexual and polyamorous.</p>
 <p id="SexualOrientation">Sexual Orientation: defined by who you’re physically, emotionally and/or romantically attracted to. Although sexual orientation and <a href="#GenderIdentity">gender identity</a> are related parts of identity, they are separate. Gender is <i>personal</i> (how you see yourself), and sexual orientation is <i>interpersonal</i> (who you’re attracted to).</p>
