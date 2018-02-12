@@ -76,7 +76,7 @@ tags:
 <p id="GenderIdentity"><strong>Gender Identity</strong>: the internal, deeply-held sense of being a girl/woman, a boy/man, or a gender that does not fit neatly with one of those. Everyone has a gender identity. How someone describes their gender can evolve, shift, and develop over time, especially as their verbal ability grows over the course of childhood and adolescence, and when they acquire broader gender vocabulary.</p>
 <ul>
 	<li><strong>Cisgender, Cis (Non-Transgender)</strong>: someone who <a href="#GenderIdentity">identifies</a> exclusively with their assigned sex at birth (i.e., a girl/woman who was <a href="#AFaB">assigned female at birth</a> or a boy/man who was <a href="#AMaB">assigned male at birth</a>).</li>
-	<li><strong>Trans, Transgender</strong>: umbrella terms that encompass people who, in one way or another, do not <a href="#GenderIdentity">identify</a> with their assigned sex at birth (e.g., a girl/woman who was <a href="#AMaB">assigned male at birth</a> or a boy/man who was <a href="#AFaB">assigned female at birth</a>).</li>
+	<li><strong>Trans, Transgender</strong>: umbrella terms that encompass people who, in one way or another, do not <a href="#GenderIdentity">identify</a> with their assigned sex at birth.</li>
 	<ul>
 		<li id="Transgirl"><strong>Transgirl, Transwoman, Affirmed Female</strong>: a girl/woman who was <a href="#AMaB">assigned male at birth</a> (and <a href="#GenderIdentity">identifies</a> as a girl/woman).</li>
 		<li id="Transboy"><strong>Transboy, Transman, Affirmed Male</strong>: a boy/man who was <a href="#AFaB">assigned female at birth</a> (and <a href="#GenderIdentity">identifies</a> as a boy/man).</li>
