@@ -31,7 +31,7 @@ input[value=en]:checked~section.en{display:block}
 input[value=fr]:checked~section.fr{display:block}
 input[value=es]:checked~section.es{display:block}
 h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
-section>h4{margin:1rem 0 1rem}"
+section>h4{margin:1rem -1rem 1rem,padding:1rem;background:#4a148c;color:white}"
 credits: ""
 title: "Gender Language & Terms: Pronouns and more"
 description: "Gender language is evolving with varying degrees of consensus on definitions. How do I talk about gender? How do I know which pronouns to use? TL;DR: Just ask"
