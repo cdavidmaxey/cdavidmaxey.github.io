@@ -47,17 +47,17 @@ tags:
 <section class="en" id="GenderNeutralPronouns">
 	<h4>Gender-Specific & Gender-Neutral Pronouns</h4>
 	<amp-img alt="Gender Neutral Pronouns (Infographic)" width="1920" height="2884" src="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg" srcset="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg 320w,{{site.cache}}/640/Gender-Neutral-Pronouns-Infographic.jpg 640w,{{site.cache}}/1280/Gender-Neutral-Pronouns-Infographic.jpg 1280w,{{site.cache}}/1920/Gender-Neutral-Pronouns-Infographic.jpg 1920w" layout="responsive"></amp-img>
-	<p class="credits">The519.org (Infographic design by LightUpTheSky.ca)</p>
+	<p class="credits">Used by invitation to share &copy; The519.org (Infographic design by LightUpTheSky.ca)</p>
 </section>
 <section class="fr" id="PronomsNeutres">
 	<h4>Pronoms Neutres et Pronoms Genrés</h4>
 	<amp-img alt="Pronoms Neutres (Infographique)" width="1920" height="2880" src="{{site.cache}}/320/Pronoms-Neutres-Infographique.jpg" srcset="{{site.cache}}/320/Pronoms-Neutres-Infographique.jpg 320w,{{site.cache}}/640/Pronoms-Neutres-Infographique.jpg 640w,{{site.cache}}/1280/Pronoms-Neutres-Infographique.jpg 1280w,{{site.cache}}/1920/Pronoms-Neutres-Infographique.jpg 1920w" layout="responsive"></amp-img>
-	<p class="credits">The519.org (Conception infographique par LightUpTheSky.ca)</p>
+	<p class="credits">Used by invitation to share &copy; The519.org (Conception infographique par LightUpTheSky.ca)</p>
 </section>
 <section class="es" id="PronombresNeutros">
 	<h4>Pronombres Neutros y Pronombres Específicos a un Género</h4>
 	<amp-img alt="Pronombres Neutros (Infographic)" width="1920" height="2822" src="{{site.cache}}/320/Pronombres-Neutros-Infographic.jpg" srcset="{{site.cache}}/320/Pronombres-Neutros-Infographic.jpg 320w,{{site.cache}}/640/Pronombres-Neutros-Infographic.jpg 640w,{{site.cache}}/1280/Pronombres-Neutros-Infographic.jpg 1280w,{{site.cache}}/1920/Pronombres-Neutros-Infographic.jpg 1920w" layout="responsive"></amp-img>
-	<p class="credits">The519.org (Diseño infográfico por LightUpTheSky.ca)</p>
+	<p class="credits">Used by invitation to share &copy; The519.org (Diseño infográfico por LightUpTheSky.ca)</p>
 </section>
 </div>
 <h4>Gender-Related Language & Terms</h4>
