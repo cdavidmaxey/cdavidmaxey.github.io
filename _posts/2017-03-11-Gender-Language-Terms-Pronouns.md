@@ -47,17 +47,17 @@ tags:
 <section class="en" id="GenderNeutralPronouns">
 	<h4>Gender-Specific & Gender-Neutral Pronouns</h4>
 	<amp-img alt="Gender Neutral Pronouns (Infographic)" width="2985" height="9918" src="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg" srcset="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg 320w,{{site.cache}}/640/Gender-Neutral-Pronouns-Infographic.jpg 640w,{{site.cache}}/1280/Gender-Neutral-Pronouns-Infographic.jpg 1280w,{{site.cache}}/1920/Gender-Neutral-Pronouns-Infographic.jpg 1920w" layout="responsive"></amp-img>
-	<p>The519.org (Infographic design by LightUpTheSky.ca)</p>
+	<p class="credits">The519.org (Infographic design by LightUpTheSky.ca)</p>
 </section>
 <section class="fr" id="PronomsNeutres">
 	<h4>Pronoms Neutres et Pronoms Genrés</h4>
 	<amp-img alt="Pronoms Neutres (Infographique)" width="2985" height="9918" src="{{site.cache}}/320/Pronoms-Neutres-Infographique.jpg" srcset="{{site.cache}}/320/Pronoms-Neutres-Infographique.jpg 320w,{{site.cache}}/640/Pronoms-Neutres-Infographique.jpg 640w,{{site.cache}}/1280/Pronoms-Neutres-Infographique.jpg 1280w,{{site.cache}}/1920/Pronoms-Neutres-Infographique.jpg 1920w" layout="responsive"></amp-img>
-	<p>The519.org (Conception infographique par LightUpTheSky.ca)</p>
+	<p class="credits">The519.org (Conception infographique par LightUpTheSky.ca)</p>
 </section>
 <section class="es" id="PronombresNeutros">
 	<h4>Pronombres Neutros y Pronombres Específicos a un Género</h4>
 	<amp-img alt="Pronombres Neutros (Infographic)" width="2985" height="9918" src="{{site.cache}}/320/Pronombres-Neutros-Infographic.jpg" srcset="{{site.cache}}/320/Pronombres-Neutros-Infographic.jpg 320w,{{site.cache}}/640/Pronombres-Neutros-Infographic.jpg 640w,{{site.cache}}/1280/Pronombres-Neutros-Infographic.jpg 1280w,{{site.cache}}/1920/Pronombres-Neutros-Infographic.jpg 1920w" layout="responsive"></amp-img>
-	<p>The519.org (Diseño infográfico por LightUpTheSky.ca)</p>
+	<p class="credits">The519.org (Diseño infográfico por LightUpTheSky.ca)</p>
 </section>
 </div>
 <h4>Gender-Related Language & Terms</h4>
@@ -94,7 +94,7 @@ tags:
 		<li>Name (especially if the birth name is gender specific)</li>
 		<li>Gender on driver’s license, passport, etc.</li>
 		<li>Blending in or Passing (in Stealth): some trans people choose to blend in among cisgender people, or pass as not visibly trans (too often because being visibly trans is unsafe). Some trans people live in stealth, keeping their trans identity private, in all or almost all social situations.</li>
-		<li>Coming out: sharing your <a href="#GenderIdentity">gender identity</a> with others.</li>
+		<li>Coming out: sharing your <a href="#GenderIdentity">gender identity</a> (and <a href="#Pronouns">pronouns</a>, etc.) with others.</li>
 	</ul>
 	<li>Hormonal Congruence</li>
 	<ul>
