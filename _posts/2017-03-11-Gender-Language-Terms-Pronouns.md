@@ -49,7 +49,7 @@ tags:
 <input type="radio" name="pronouns" id="pronouns-es" value="es" />
 <label for="pronouns-es" on="tap:PronombresNeutros.show()">Español</label>
 <section class="en" id="GenderNeutralPronouns">
-	<h4>Gender-Specific & Gender-Neutral&nbsp;Pronouns</h4>
+	<h4>Gender&#8209;Specific & Gender&#8209;Neutral&nbsp;Pronouns</h4>
 	<amp-img alt="Gender Neutral Pronouns (Infographic)" width="1920" height="2884" src="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg" srcset="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg 320w,{{site.cache}}/640/Gender-Neutral-Pronouns-Infographic.jpg 640w,{{site.cache}}/1280/Gender-Neutral-Pronouns-Infographic.jpg 1280w,{{site.cache}}/1920/Gender-Neutral-Pronouns-Infographic.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Used&nbsp;by&nbsp;invitation&nbsp;to&nbsp;share &copy;&nbsp;The519.org (Infographic&nbsp;design&nbsp;by&nbsp;LightUpTheSky.ca)</p>
 </section>
