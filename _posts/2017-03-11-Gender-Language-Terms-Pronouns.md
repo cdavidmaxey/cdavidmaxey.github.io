@@ -6,11 +6,11 @@ alt: "unendorsed adapatation of the transgender umbrella from theGENDERbook.com"
 thumb:
   src: "transgender-umbrella.jpg"
   X: 1920
-  Y: 1052
+  Y: 1203
 image:
   src: "transgender-umbrella.jpg"
   X: 1920
-  Y: 1052
+  Y: 1203
 video:
   src:
   X:
