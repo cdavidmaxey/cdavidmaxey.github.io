@@ -29,7 +29,9 @@ style: "input[type='radio']{visibility:hidden;height:0;width:0}
 .en,.fr,.es{display:none}
 input[value=en]:checked~section.en{display:block}
 input[value=fr]:checked~section.fr{display:block}
-input[value=es]:checked~section.es{display:block}"
+input[value=es]:checked~section.es{display:block}
+h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
+section>h4{margin:1rem 0 1rem}"
 credits: ""
 title: "Gender Language & Terms: Pronouns and more"
 description: "Gender language is evolving with varying degrees of consensus on definitions. How do I talk about gender? How do I know which pronouns to use? TL;DR: Just ask"
@@ -47,17 +49,17 @@ tags:
 <input type="radio" name="pronouns" id="pronouns-es" value="es" />
 <label for="pronouns-es" on="tap:PronombresNeutros.show()">Español</label>
 <section class="en" id="GenderNeutralPronouns">
-	<h4>Gender-Specific & Gender-Neutral Pronouns</h4>
+	<h4>Gender-Specific & Gender-Neutral&nbsp;Pronouns</h4>
 	<amp-img alt="Gender Neutral Pronouns (Infographic)" width="1920" height="2884" src="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg" srcset="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg 320w,{{site.cache}}/640/Gender-Neutral-Pronouns-Infographic.jpg 640w,{{site.cache}}/1280/Gender-Neutral-Pronouns-Infographic.jpg 1280w,{{site.cache}}/1920/Gender-Neutral-Pronouns-Infographic.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Used&nbsp;by&nbsp;invitation&nbsp;to&nbsp;share &copy;&nbsp;The519.org (Infographic&nbsp;design&nbsp;by&nbsp;LightUpTheSky.ca)</p>
 </section>
 <section class="fr" id="PronomsNeutres">
-	<h4>Pronoms Neutres et Pronoms Genrés</h4>
+	<h4>Pronoms&nbsp;Neutres et Pronoms&nbsp;Genrés</h4>
 	<amp-img alt="Pronoms Neutres (Infographique)" width="1920" height="2880" src="{{site.cache}}/320/Pronoms-Neutres-Infographique.jpg" srcset="{{site.cache}}/320/Pronoms-Neutres-Infographique.jpg 320w,{{site.cache}}/640/Pronoms-Neutres-Infographique.jpg 640w,{{site.cache}}/1280/Pronoms-Neutres-Infographique.jpg 1280w,{{site.cache}}/1920/Pronoms-Neutres-Infographique.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Used&nbsp;by&nbsp;invitation&nbsp;to&nbsp;share &copy;&nbsp;The519.org (Conception&nbsp;infographique&nbsp;par&nbsp;LightUpTheSky.ca)</p>
 </section>
 <section class="es" id="PronombresNeutros">
-	<h4>Pronombres Neutros y Pronombres Específicos a un Género</h4>
+	<h4>Pronombres&nbsp;Neutros y Pronombres&nbsp;Específicos a&nbsp;un&nbsp;Género</h4>
 	<amp-img alt="Pronombres Neutros (Infographic)" width="1920" height="2822" src="{{site.cache}}/320/Pronombres-Neutros-Infographic.jpg" srcset="{{site.cache}}/320/Pronombres-Neutros-Infographic.jpg 320w,{{site.cache}}/640/Pronombres-Neutros-Infographic.jpg 640w,{{site.cache}}/1280/Pronombres-Neutros-Infographic.jpg 1280w,{{site.cache}}/1920/Pronombres-Neutros-Infographic.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Used&nbsp;by&nbsp;invitation&nbsp;to&nbsp;share &copy;&nbsp;The519.org (Diseño&nbsp;infográfico&nbsp;por&nbsp;LightUpTheSky.ca)</p>
 </section>
