@@ -43,6 +43,8 @@ tags:
 - Positive Discipline
 - 📚 Books for Parents
 - 📚 Books for Teachers
+- 🇫🇷 français
+- 🇲🇽 Español
 ---
 <div class="float right side">
 	<div>

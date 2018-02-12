@@ -57,6 +57,8 @@ description: "Emotional Intelligence starts with building a nuanced vocabulary f
 tags:
 - Social Emotional Learning
 - Media
+- 🇫🇷 français
+- 🇲🇽 Español
 ---
 <p>Inside Out is a popular Disney/Pixar movie exploring the emotions experienced by an 11-year-old girl, Riley, who moves across the country to San Francisco with her parents. Anger, Disgust, Joy, Fear, and Sadness live in headquarters (in Riley’s head). In Riley’s early years, Joy rules headquarters most of the time (and thus how Riley feels), but as Riley grows, other emotions exert more influence on the buttons, knobs, and levers that control Riley’s feelings, eventually leading to growth in Riley’s Emotional Intelligence (EQ).</p>
 {::nomarkdown}
