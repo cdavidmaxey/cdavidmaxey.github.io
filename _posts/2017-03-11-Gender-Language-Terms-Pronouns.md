@@ -34,7 +34,7 @@ credits: ""
 title: "Gender Language & Terms: Pronouns and more"
 description: "Gender language is evolving with varying degrees of consensus on definitions. How do I navigate this uncertainty? Which pronouns to use? TL;DR: Just ask"
 tags:
-- 🏳️‍🌈 Gender Minorities
+- 🏳️‍🌈 Trans
 - 🏳️‍🌈 Gender & Sexual Minorities
 ---
 <div class="right" id="Pronouns">
