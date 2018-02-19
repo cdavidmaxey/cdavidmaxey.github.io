@@ -49,15 +49,15 @@ tags:
 </ul>
 <aside class="float right side">
 	<table>
-	<thead><tr><th class="right">IQ</th><th class="center">&ensp;Percentile</th><th class="center">SD</th></tr></thead>
+	<thead><tr><th class="right">IQ&thinsp;</th><th class="center">&ensp;Percentile</th><th class="center">SD</th></tr></thead>
 		<tbody>
-			<tr class="table-lr"><td class="right">55</td><td class="right"><1%&emsp;</td><td class="right">−3&ensp;</td></tr>
-			<tr class="table-r"><td class="right">70</td><td class="right">2%&emsp;</td><td class="right">−2&ensp;</td></tr>
-			<tr class="table-g"><td class="right">85</td><td class="right">16%&emsp;</td><td class="right">−1&ensp;</td></tr>
-			<tr class="table-g"><td class="right">100</td><td class="right">50%&emsp;</td><td class="right">0&ensp;</td></tr>
-			<tr class="table-g"><td class="right">115</td><td class="right">84%&emsp;</td><td class="right">+1&ensp;</td></tr>
-			<tr class="table-b"><td class="right">130</td><td class="right">98%&emsp;</td><td class="right">+2&ensp;</td></tr>
-			<tr class="table-lb"><td class="right">145</td><td class="right">>99%&emsp;</td><td class="right">+3&ensp;</td></tr>
+			<tr class="table-lr"><td class="right">&thinsp;55</td><td class="right"><1%&emsp;</td><td class="right">−3&thinsp;</td></tr>
+			<tr class="table-r"><td class="right">&thinsp;70</td><td class="right">2%&emsp;</td><td class="right">−2&thinsp;</td></tr>
+			<tr class="table-g"><td class="right">&thinsp;85</td><td class="right">16%&emsp;</td><td class="right">−1&thinsp;</td></tr>
+			<tr class="table-g"><td class="right">&thinsp;100</td><td class="right">50%&emsp;</td><td class="right">0&thinsp;</td></tr>
+			<tr class="table-g"><td class="right">&thinsp;115</td><td class="right">84%&emsp;</td><td class="right">+1&thinsp;</td></tr>
+			<tr class="table-b"><td class="right">&thinsp;130</td><td class="right">98%&emsp;</td><td class="right">+2&thinsp;</td></tr>
+			<tr class="table-lb"><td class="right">&thinsp;145</td><td class="right">>99%&emsp;</td><td class="right">+3&thinsp;</td></tr>
 		</tbody>
 	</table>
 </aside>
