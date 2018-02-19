@@ -1,5 +1,8 @@
 ---
 redirect_from:
+- "/percent/"
+- "/Percent/"
+- "/PERCENT/"
 - "/percentile/"
 - "/Percentile/"
 - "/PERCENTILE/"
