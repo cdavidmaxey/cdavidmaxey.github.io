@@ -26,7 +26,7 @@ credits:
 title: "Can I revoke consent to services, evaluations or Special Education?"
 description: "Consent is usually voluntary, so parents can typically revoke consent to some or all services, treatments, evaluations or Special Education at anytime."
 tags:
-- Special Education & 504
+- 🚸 Special Education & 504
 ---
 <blockquote><div>
 <p>A refusal to consent to one service or activity may not be used to deny the parent or child any other service, benefit, or activity of the school&hellip;, except as provided in this rule.</p>

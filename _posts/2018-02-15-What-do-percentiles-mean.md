@@ -41,6 +41,9 @@ title: "What do percentiles mean?"
 description: "A percentile is the percent who have the same or a lower score; therefore, a percentile shows how your child’s score relates to the scores of other children."
 tags:
 - Psychological Evaluation
+- 🚸 Special Education & 504
+- Academic Acceleration
+- Grade Placement
 ---
 <p>A percentile is the percent who have the same or a lower score; therefore, a percentile shows how your child’s score relates to the scores of other children.</p>
 <ul>
