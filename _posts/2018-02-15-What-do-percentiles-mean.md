@@ -170,7 +170,7 @@ tags:
 <use fill="#2980b9" xlink:href="#svg4" x="7716.821" y="0"/>
 <use fill="#85c1e9" xlink:href="#svg1" x="8394.407" y="0"/></svg></p>
 <p>Another way to look at percentiles (in a normal distribution) is lining 50 people up based on their score from lowest to highest, as shown above. Notice the average range, depicted in green. The difference between the bottom and top of the green “Average” range is 2 standard deviations and includes 34 people (i.e., about 68%). Now look at the blue range that is above average. The difference between the bottom and top of this blue above average range is also about 2 standard deviations but includes only 8 people (i.e., about 16%). This is the same information shown in the graph above, but looking at it this way can help you see how a normal distribution looks in real life. A normal distribution as might be seen in a classroom of 25 is shown below, with the light and dark blue combined.</p>
-<p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" enable-background="new 0 0 4268.879 476.845" viewBox="0 0 4268.879 476.845">
+<p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" enable-background="new 0 0 4388.525 476.845" viewBox="0 0 4388.525 476.845">
 <use fill="#c0392b" xlink:href="#svg1" x="0" y="0"/>
 <use fill="#c0392b" xlink:href="#svg3" x="208.29" y="0"/>
 <use fill="#28b463" xlink:href="#svg17" x="746.909" y="0"/>
