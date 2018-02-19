@@ -27,7 +27,7 @@ credits: "<a rel='nofollow' href='https://creativecommons.org/licenses/by-sa/2.0
 title: "Special Education: Reviewing records before meetings"
 description: "Parents have rights upon request to review records before meetings, invite someone else to review the records, and receive explanations and interpretations."
 tags:
-- 🚸 Special Education & 504
+- ✏️ Special Education & 504
 ---
 <blockquote><div>
 <p>[Schools] must comply with a parent’s request to inspect and review records without unnecessary delay and&hellip;before any meeting regarding an IEP&hellip;.</p>
