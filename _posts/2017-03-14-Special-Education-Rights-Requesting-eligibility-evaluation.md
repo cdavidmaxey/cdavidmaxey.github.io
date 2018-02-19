@@ -27,6 +27,7 @@ title: "Special Education: Requesting an IEP eligibility evaluation"
 description: "Parents have rights to request a Special Education evaluation for IEP eligibility."
 tags:
 - Special Education & 504
+- 📚 Books for Parents
 ---
 <blockquote><div>
 <div>&hellip;A parent or public agency may initiate a request for an initial evaluation to determine if a child [has] a disability.&hellip;</div>

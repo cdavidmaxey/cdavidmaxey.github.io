@@ -38,6 +38,7 @@ description: "One of many SEL curricula, MindUP teachs children about the brain 
 tags:
 - MindUP
 - Social Emotional Learning
+- 📚 Books for Teachers
 ---
 <div class="float right side">
 	<div>
