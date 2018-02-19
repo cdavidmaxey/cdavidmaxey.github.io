@@ -48,7 +48,7 @@ tags:
 </ul>
 <aside class="float right side">
 	<table>
-	<thead><tr><th class="right">IQ</th><th class="center">%&ensp;Percentile%&ensp;</th><th class="right">SD</th></tr></thead>
+	<thead><tr><th class="right">IQ</th><th class="center">&ensp;Percentile&ensp;</th><th class="right">SD</th></tr></thead>
 		<tbody>
 			<tr><td class="right">55</td><td class="right"><1%&emsp;</td><td class="right">−3</td></tr>
 			<tr><td class="right">70</td><td class="right">2%&emsp;</td><td class="right">−2</td></tr>
@@ -60,7 +60,7 @@ tags:
 		</tbody>
 	</table>
 </aside>
-<p>IQ is usually assumed to approximate a normal distribution, and IQ is commonly reported with a mean of 100 and a standard deviation (SD) of 15 (see table on the right). In the standard normal distribution shown below, the <span class="bell-g">green</span> part is usually called the “<span class="bell-g">Average</span>” or “<span class="bell-g">Typical</span>” range, which is within 1 standard deviation of the mean (or average). In a normal distribution, most children (i.e., about two-thirds or 68.2%) score in the “<span class="bell-g">Average</span>” range between the 16<sup>th</sup> and 84<sup>th</sup> percentiles.</p>
+<p class="clear">IQ is usually assumed to approximate a normal distribution, and IQ is commonly reported with a mean of 100 and a standard deviation (SD) of 15 (see table on the right). In the standard normal distribution shown below, the <span class="bell-g">green</span> part is usually called the “<span class="bell-g">Average</span>” or “<span class="bell-g">Typical</span>” range, which is within 1 standard deviation of the mean (or average). In a normal distribution, most children (i.e., about two-thirds or 68.2%) score in the “<span class="bell-g">Average</span>” range between the 16<sup>th</sup> and 84<sup>th</sup> percentiles.</p>
 <p><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 650 328.5" viewBox="0 0 650 328.5" style="font-family:sans-serif;stroke-width:1px">
 <defs><marker id="ab" style="overflow:visible" orient="auto"><path transform="matrix(-0.4,0,0,-0.4,-4,0)" stroke="#000" d="M 0,0 5,-5 -12.5,0 5,5 Z"/></marker></defs>
 <g style="text-anchor:middle;fill:#000;font-size:12px">
