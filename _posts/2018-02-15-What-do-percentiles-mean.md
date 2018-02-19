@@ -32,7 +32,8 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: ".bell-lr{border-bottom:#f1948a solid 2px}.bell-r{border-bottom:#c0392b solid 2px}.bell-g{border-bottom:#28b463 solid 2px}.bell-b{border-bottom:#2980b9 solid 2px}.bell-lb{border-bottom:#85c1e9 solid 2px}"
+style: "table{border-collapse:collapse}th{border-bottom:3px double black;vertical-align:bottom}
+.bell-lr{border-bottom:#f1948a solid 2px}.bell-r{border-bottom:#c0392b solid 2px}.bell-g{border-bottom:#28b463 solid 2px}.bell-b{border-bottom:#2980b9 solid 2px}.bell-lb{border-bottom:#85c1e9 solid 2px}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://pixabay.com/en/pay-digits-number-fill-series-819587/'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 384.017' enable-background='new 0 0 384 384.017'><path d='M192 .017c-106.036 0-192 85.964-192 192 0 106.024 85.964 192 192 192s192-85.976 192-192c0-106.037-85.964-192-192-192zm0 347.998c-86.023 0-156.004-69.987-156.004-155.998 0-18.007 3.103-35.299 8.746-51.394l61.013 27.169c-1.643 8.165-2.534 16.682-2.534 25.479 0 76.65 57.212 98.247 93.208 98.247 21.227 0 39.598-6.852 53.979-16.904 2.733-1.959 5.209-3.93 7.484-5.936l-27.99-34.009c-.821.938-1.678 1.83-2.557 2.628-10.887 10.323-22.853 10.323-25.527 10.323-29.286 0-41.545-30.899-41.709-55.651l168.157 74.867.527.07c-26.534 48.309-77.903 81.109-136.793 81.109zm150.332-116.137l-173.436-77.412c6.258-11.332 16.218-19.849 31.122-19.849 8.64 0 15.491 2.862 20.887 6.476 2.24 1.619 4.188 3.237 5.83 4.868l31.263-32.178c-20.998-18.054-44.871-21.28-60.484-21.28-36.688 0-62.649 15.86-77.952 39.944l-57.998-25.867c27.914-42.466 75.946-70.573 130.436-70.573 86.022 0 156.01 69.976 156.01 156.01 0 13.925-1.865 27.403-5.303 40.261l-.375-.4z'/></svg></a>&nbsp;geralt"
 title: "What do percentiles mean?"
 description: "A percentile is the percent who have the same or a lower score; therefore, a percentile shows how your child’s score relates to the scores of other children."
@@ -43,9 +44,23 @@ tags:
 <ul>
 	<li><strong>Standardized Test</strong>: A score at the 85<sup>th</sup> percentile on a standardized test (e.g., Math, Reading, etc.) typically means that your child performed as well or better than 85% of other students (in their grade).</li>
 	<li><strong>Behavior Checklist</strong>: A score at the 85<sup>th</sup> percentile on a problem behavior scale typically means that you rated your child as having as many or more problem behaviors than 85% of other children (in their age range).</li>
-	<li><strong>IQ</strong>: An IQ score usually comes with a corresponding percentile. An IQ of 100 is typically at the 50<sup>th</sup> percentile, meaning that your child’s IQ is the same as or higher than 50% of other children.</li>
+	<li><strong>IQ</strong>: An IQ score is often reported with a corresponding percentile. If a child has an IQ of 100, the corresponding percentile is typically the 50<sup>th</sup> percentile, meaning that the child’s IQ is the same as or higher than 50% of other children’s IQ.</li>
 </ul>
-<p>In the standard normal distribution shown below, the <span class="bell-g">green</span> part is usually called the “<span class="bell-g">Average</span>” or “<span class="bell-g">Typical</span>” range, which is within 1 standard deviation of the mean (or average). In a normal distribution, most children (i.e., about two-thirds or 68.2%) score in the “<span class="bell-g">Average</span>” range between the 16<sup>th</sup> and 84<sup>th</sup> percentiles.</p>
+<aside class="float right side">
+	<table>
+	<thead><tr><th class="right">SD</th><th class="center">IQ</th><th class="right"><small>Percentile</small></th></tr></thead>
+		<tbody>
+			<tr><td class="right">−3</td><td class="center">55</td><td class="right"><1%</td></tr>
+			<tr><td class="right">−2</td><td class="center">70</td><td class="right">2%</td></tr>
+			<tr><td class="right">−1</td><td class="center">85</td><td class="right">16%</td></tr>
+			<tr><td class="right">0</td><td class="center">100</td><td class="right">50%</td></tr>
+			<tr><td class="right">+1</td><td class="center">115</td><td class="right">84%</td></tr>
+			<tr><td class="right">+2</td><td class="center">130</td><td class="right">98%</td></tr>
+			<tr><td class="right">+3</td><td class="center">145</td><td class="right">>99%</td></tr>
+		</tbody>
+	</table>
+</aside>
+<p>IQ is usually assumed to approximate a normal distribution, and IQ is commonly reported with a mean of 100 and a standard deviation (SD) of 15 (see table on the right). In the standard normal distribution shown below, the <span class="bell-g">green</span> part is usually called the “<span class="bell-g">Average</span>” or “<span class="bell-g">Typical</span>” range, which is within 1 standard deviation of the mean (or average). In a normal distribution, most children (i.e., about two-thirds or 68.2%) score in the “<span class="bell-g">Average</span>” range between the 16<sup>th</sup> and 84<sup>th</sup> percentiles.</p>
 <p><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 650 328.5" viewBox="0 0 650 328.5" style="font-family:sans-serif;stroke-width:1px">
 <defs><marker id="ab" style="overflow:visible" orient="auto"><path transform="matrix(-0.4,0,0,-0.4,-4,0)" stroke="#000" d="M 0,0 5,-5 -12.5,0 5,5 Z"/></marker></defs>
 <g style="text-anchor:middle;fill:#000;font-size:12px">
