@@ -48,15 +48,15 @@ tags:
 </ul>
 <aside class="float right side">
 	<table>
-	<thead><tr><th class="right">SD</th><th class="center">IQ</th><th class="right"><small>Percentile</small></th></tr></thead>
+	<thead><tr><th class="right">IQ</th><th class="center">Percentile</th><th class="right">SD</th></tr></thead>
 		<tbody>
-			<tr><td class="right">−3</td><td class="center">55</td><td class="right"><1%</td></tr>
-			<tr><td class="right">−2</td><td class="center">70</td><td class="right">2%</td></tr>
-			<tr><td class="right">−1</td><td class="center">85</td><td class="right">16%</td></tr>
-			<tr><td class="right">0</td><td class="center">100</td><td class="right">50%</td></tr>
-			<tr><td class="right">+1</td><td class="center">115</td><td class="right">84%</td></tr>
-			<tr><td class="right">+2</td><td class="center">130</td><td class="right">98%</td></tr>
-			<tr><td class="right">+3</td><td class="center">145</td><td class="right">>99%</td></tr>
+			<tr><td class="right">55</td><td class="right"><1%</td><td class="right">−3</td></tr>
+			<tr><td class="right">70</td><td class="right">2%</td><td class="right">−2</td></tr>
+			<tr><td class="right">85</td><td class="right">16%</td><td class="right">−1</td></tr>
+			<tr><td class="right">100</td><td class="right">50%</td><td class="right">0</td></tr>
+			<tr><td class="right">115</td><td class="right">84%</td><td class="right">+1</td></tr>
+			<tr><td class="right">130</td><td class="right">98%</td><td class="right">+2</td></tr>
+			<tr><td class="right">145</td><td class="right">>99%</td><td class="right">+3</td></tr>
 		</tbody>
 	</table>
 </aside>
