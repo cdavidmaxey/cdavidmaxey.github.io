@@ -174,5 +174,5 @@ tags:
 <use fill="#c0392b" xlink:href="#svg1" x="0" y="0"/>
 <use fill="#c0392b" xlink:href="#svg3" x="208.29" y="0"/>
 <use fill="#28b463" xlink:href="#svg17" x="746.909" y="0"/>
-<use fill="#c0392b" xlink:href="#svg3" x="3640.616" y="0"/>
-<use fill="#c0392b" xlink:href="#svg1" x="4180.235" y="0"/></svg></p>
+<use fill="#2980b9" xlink:href="#svg3" x="3640.616" y="0"/>
+<use fill="#2980b9" xlink:href="#svg1" x="4180.235" y="0"/></svg></p>
