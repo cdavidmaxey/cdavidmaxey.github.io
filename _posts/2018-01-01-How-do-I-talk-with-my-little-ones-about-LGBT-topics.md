@@ -49,7 +49,7 @@ tags:
 {::nomarkdown}
 <amp-youtube data-videoid="30T7k46WQ-0" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
-<h4>Gender Expression: How do you ~EXPRESS~ your GENDER?!?</h4>
+<h4>Gender&nbsp;Expression: How&nbsp;do&nbsp;you ~EXPRESS~ your&nbsp;GENDER?!?</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="ZqN_G1j9jZc" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
