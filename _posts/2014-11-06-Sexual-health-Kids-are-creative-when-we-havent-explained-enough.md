@@ -36,9 +36,9 @@ Kids have lots of questions, and they need parents to provide accurate age-appro
 
 <h2>Apps</h2>
 <aside class="float right side center">
-<div><a rel="nofollow" href="http://tinybop.com/apps/the-human-body"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg"></amp-img><br>The Human Body</a><br><small>$4 (+$1 In-App)<sup>*</sup></small></div>
-<div><a rel="nofollow" href="http://www.visiblebody.com/mib_overview/"><amp-img class="incrediblebody" src="{{site.cache}}/x/incrediblebody.jpg" width="100" height="100"></amp-img><br>My Incredible Body</a><br><small>$25 (+$1 In-App)<sup>*</sup></small></div>
-<div><small><sup>*</sup>Subject to change</small></div>
+	<div><a rel="nofollow" href="http://tinybop.com/apps/the-human-body"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg"></amp-img><br>The Human Body</a><br><small>$4 (+$1 In-App)<sup>*</sup></small></div>
+	<div><a rel="nofollow" href="http://www.visiblebody.com/mib_overview/"><amp-img class="incrediblebody" src="{{site.cache}}/x/incrediblebody.jpg" width="100" height="100"></amp-img><br>My Incredible Body</a><br><small>$25 (+$1 In-App)<sup>*</sup></small></div>
+	<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
 Tinybop’s <i>The Human Body</i> and Visible Body’s <i>My Incredible Body</i> apps provide parents with a way to introduce kids to puberty and the urogenital system in a matter-of-fact way, comparable to the way these apps provide information about the nervous system, respiration, the circulatory system, digestion, the skeletomuscular system, etc. Tinybop, creator of <i>The Human Body</i>, offers many science-oriented apps for kids, and Visible Body, creator of <i>My Incredible Body</i>, makes a variety of other anatomy apps for high school and university biology students. 
