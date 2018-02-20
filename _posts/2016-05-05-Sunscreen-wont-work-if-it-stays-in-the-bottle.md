@@ -23,13 +23,12 @@ youtube:
   X:
   Y:
 variables:
-style: "p~ul,p~ol{margin-top:-1.25rem}"
+style: "p~ul,p~ol{margin-top:-1.25rem}.epa{background-color:#369;border-radius:1em}.darksky{border-radius:1em}table{border-collapse:collapse}th{border-bottom:3px double black;vertical-align:bottom}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='http://www.dreamstime.com/royalty-free-stock-images-sun-protection-image9977129'>&copy;</a>&nbsp;Monika&nbsp;Adamczyk"
 title: "Sunscreen won’t work if it stays in the bottle"
 description: "Using sunscreen and other sun protection methods are critial to skin cancer prevention. How do you help your child develop healthy sun safety habits?"
 tags:
 - Health Habits
-style: ".epa{background-color:#369;border-radius:1em}.darksky{border-radius:1em}table{border-collapse:collapse}th{border-bottom:3px double black;vertical-align:bottom}"
 ---
 Excessive sun exposure is a major well-established health risk, and there are a lot of resources for learning about how to be safe in the sun. Talk to your child’s primary medical provider about sun protection decisions and reports from sources such as the <a rel="nofollow" href="https://www.ewg.org/sunscreen/"><abbr title="Enviromental Working Group">EWG</abbr></a>, <a rel="nofollow" href="https://www.healthychildren.org/"><abbr title="American Academy of Pediatrics">AAP</abbr></a>, <a rel="nofollow" href="http://www.fda.gov/"><abbr title="U.S. Food and Drug Administration">FDA</abbr></a> and <a rel="nofollow" href="http://www.consumerreports.org/cro/sunscreens.htm">Consumer Reports</a>.
 
