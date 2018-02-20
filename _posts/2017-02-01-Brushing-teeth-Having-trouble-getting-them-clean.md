@@ -31,8 +31,8 @@ tags:
 style: ".myteeth{border-radius:1em}"
 ---
 <aside class="float right side center">
-	<div><a rel="nofollow" href="http://thekeptpromise.com/MyTeeth/"><amp-img class="myteeth" width="100" height="100" src="{{site.cache}}/x/myteeth.jpg"></amp-img><br>MyTeeth</a><br><small>$5<sup>*</sup></small></div>
-	<div><small><sup>*</sup>Subject to change</small></div>
+<div><a rel="nofollow" href="http://thekeptpromise.com/MyTeeth/"><amp-img class="myteeth" width="100" height="100" src="{{site.cache}}/x/myteeth.jpg"></amp-img><br>MyTeeth</a><br><small>$5<sup>*</sup></small></div>
+<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
 It’s common for children, especially younger children, to have difficulties mastering this important life skill, and it can come to feel like a chore, for both you and your child.
