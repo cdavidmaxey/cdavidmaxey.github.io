@@ -20,7 +20,7 @@ youtube:
   X:
   Y:
 variables:
-style: "p~ul{margin-top:-1.25rem}"
+style: "p~ul{margin-top:-1.25rem}.humanbody,.incrediblebody{border-radius:1em}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://us.fotolia.com/id/89405292'>&copy;</a>&nbsp;John&nbsp;Wilhelm</a>"
 credits_full: "<a rel='nofollow' href='https://vimeo.com/70414395'><em>The Human Body by Tinybop</em></a> by <a rel='nofollow' href='https://vimeo.com/tinybop'>Tinybop</a> is embeded under <a rel='nofollow' href='https://vimeo.com/terms'>Vimeo Terms of Service</a>.<br><a rel='nofollow' href='https://youtu.be/lC3jImrtioY'><em>My Incredible Body: Amazing Anatomy Just for Kids (iPad/iPhone)</em></a> by <a rel='nofollow' href='https://www.youtube.com/user/VisibleBody'>Visible Body</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
 trash: "<div class='clear'></div><div class='embed-responsive-16by9-16by9'><iframe allowfullscreen src='https://player.vimeo.com/video/70414395?color=3f51b5&title=0&byline=0&portrait=0'></iframe><iframe allowfullscreen src='https://www.youtube-nocookie.com/embed/lC3jImrtioY?rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&disablekb=1'></iframe></div>"
@@ -30,7 +30,6 @@ tags:
 - Sexual Health
 - Apps for Kids
 - 📚 Books for Kids
-style: ".humanbody,.incrediblebody{border-radius:1em}"
 ---
 Kids have lots of questions, and they need parents to provide accurate age-appropriate information. These apps and books are resources that you can review to decide if they are appropriate for your child. If your child has had unhealthly sexual experiences, discuss these decisions with a mental health professional.
 
