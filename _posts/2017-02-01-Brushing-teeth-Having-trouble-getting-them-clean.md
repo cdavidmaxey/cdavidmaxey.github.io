@@ -28,11 +28,11 @@ description: "Your dentist or dental hygenist can teach proper teeth-brushing, a
 tags:
 - Health Habits
 - Apps for Kids
-style: ".myteeth{border-radius:1em}"
+style: ".myteeth{border-radius:1em}p~ul{margin-top:-1.25rem}"
 ---
 <aside class="float right side center">
-<div><a rel="nofollow" href="http://thekeptpromise.com/MyTeeth/"><amp-img class="myteeth" width="100" height="100" src="{{site.cache}}/x/myteeth.jpg"></amp-img><br>MyTeeth</a><br><small>$5<sup>*</sup></small></div>
-<div><small><sup>*</sup>Subject to change</small></div>
+	<div><a rel="nofollow" href="http://thekeptpromise.com/MyTeeth/"><amp-img class="myteeth" width="100" height="100" src="{{site.cache}}/x/myteeth.jpg"></amp-img><br>MyTeeth</a><br><small>$5<sup>*</sup></small></div>
+	<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
 It’s common for children, especially younger children, to have difficulties mastering this important life skill, and it can come to feel like a chore, for both you and your child.
