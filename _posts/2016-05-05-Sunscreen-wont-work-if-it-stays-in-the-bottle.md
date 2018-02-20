@@ -23,6 +23,7 @@ youtube:
   X:
   Y:
 variables:
+style: "p~ul,p~ol{margin-top:-1.25rem}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='http://www.dreamstime.com/royalty-free-stock-images-sun-protection-image9977129'>&copy;</a>&nbsp;Monika&nbsp;Adamczyk"
 title: "Sunscreen won’t work if it stays in the bottle"
 description: "Using sunscreen and other sun protection methods are critial to skin cancer prevention. How do you help your child develop healthy sun safety habits?"
