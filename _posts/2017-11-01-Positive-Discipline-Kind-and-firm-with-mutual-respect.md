@@ -64,12 +64,12 @@ tags:
 	<div>
 		<amp-img alt="Positive Discipline in the Classroom by Jane Nelsen, Ed.D. and Lynn Lott, M.A." width="414" height="520" src="{{site.cache}}/books/Positive-Discipline-in-the-Classroom-by-Jane-Nelsen-and-Lynn-Lott.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
 		<div class="merchants">
-		<a class="powells" rel="nofollow" href="http://www.powells.com/book/positive-discipline-in-the-classroom-developing-mutual-respect-cooperation-responsibility-in-your-classroom-9780770436575" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-		<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0770436579" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/positive-discipline-in-the-classroom-developing-mutual-respect-cooperation-responsibility-in-your-classroom-9780770436575" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0770436579" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
 </div>
-<div>Positive Discipline is a non-punitive parenting and classroom-management approach that:</div>
+<p>Positive Discipline is a non-punitive parenting and classroom-management approach that:</p>
 <ul>
 	<li>shows parents and teachers how to be kind and firm at the same time.</li>
 	<li>is about building an encouraging relationship based on mutual respect for the needs of the adults and the child.</li>
@@ -86,22 +86,22 @@ In the first chapter of Jane Nelsen’s book, <i>Positive Discipline</i>, she de
 <div class="float right side">
 	<div>
 		<a class="download" rel="nofollow" href="{{site.url}}/La-discipline-positive-au-quotidien-a-la-maison.pdf" target="_blank">
-		<amp-img alt="La discipline positive au quotidien à la maison" width="414" height="587" src="{{site.cache}}/books/La-discipline-positive-au-quotidien-a-la-maison.jpg" sizes="8.625rem"></amp-img>
-		<div><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
+			<amp-img alt="La discipline positive au quotidien à la maison" width="414" height="587" src="{{site.cache}}/books/La-discipline-positive-au-quotidien-a-la-maison.jpg" sizes="8.625rem"></amp-img>
+			<div><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
 		</a>
 		<p class="credits"><a rel='nofollow' href='http://www.frp.ca/francais'>&copy;</a>&nbsp;Save the Children Suède</p>
 	</div>
 	<div>
 		<amp-img alt="La Discipline Positive de Jane Nelsen" width="414" height="665" src="{{site.cache}}/books/La-Discipline-positive-de-Jane-Nelsen.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
 		<div class="merchants">
-		<a class="kindle" rel="nofollow" href="https://www.amazon.com/dp/B00N96C6WW" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 56"><path d="M0,0.6h6.8v31.3h0.2l13.2-13.2h8L12.5,34.3l17.2,20.9h-8.1L6.9,37.1H6.8v18.1H0V0.6z"/><path d="M32.5,9.4c0-2.4,1.8-4.3,4.3-4.3c2.6,0,4.5,1.9,4.5,4.3c0,2.5-1.9,4.4-4.5,4.4 C34.3,13.8,32.5,11.9,32.5,9.4z M33.5,18.7h6.8v36.5h-6.8V18.7z"/><path d="M45.8,18.7h5.8l0.8,4.5c3.9-3.2,8-5.4,12.6-5.4c5.8,0,11.1,3.4,11.1,13v24.5h-6.8V33c0-5.2-1.2-9.2-6.2-9.2 c-3.7,0-7.3,2.2-10.5,4.9v26.5h-6.8V18.7z"/><path d="M79.2,37.4c0-11.7,8.4-19.6,19.3-19.6c1.9,0,3.9,0.2,5.7,0.7V0.6h6.8v52.8c-2.9,1.5-7.6,2.5-12.2,2.5 C87.9,56,79.2,49.6,79.2,37.4z M104.2,49.4v-25c-1.7-0.5-3-0.8-5.3-0.8c-7,0-12.6,4.9-12.6,13.7c0,8,4.9,13,12.7,13 C100.6,50.2,102.8,50,104.2,49.4z"/><path d="M116.7,0.6h6.8v45.5c0,2.8,0.8,3.6,2.8,3.6c0.5,0,1.6-0.2,2.2-0.5l1.4,5.3c-1.7,0.7-3.9,1.1-5.6,1.1 c-5.1,0-7.6-2.8-7.6-7.6V0.6z"/><path d="M129.5,36.7c0-11.1,6.1-18.9,15.4-18.9c9.6,0,15.1,7.3,15.1,19v1.7h-23.6c0.2,6.9,4.3,12,11.6,12 c3.5,0,6.5-1.1,9-2.5l2.2,4.7c-3.4,2.2-7.9,3.3-12,3.3C135,56,129.5,47.1,129.5,36.7z M153,33.4c-0.2-5.1-2.6-10.2-8.1-10.2 c-5.2,0-8.4,4.6-8.5,10.2H153z"/></svg></a>
-		<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/2810005028" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+			<a class="kindle" rel="nofollow" href="https://www.amazon.com/dp/B00N96C6WW" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 56"><path d="M0,0.6h6.8v31.3h0.2l13.2-13.2h8L12.5,34.3l17.2,20.9h-8.1L6.9,37.1H6.8v18.1H0V0.6z"/><path d="M32.5,9.4c0-2.4,1.8-4.3,4.3-4.3c2.6,0,4.5,1.9,4.5,4.3c0,2.5-1.9,4.4-4.5,4.4 C34.3,13.8,32.5,11.9,32.5,9.4z M33.5,18.7h6.8v36.5h-6.8V18.7z"/><path d="M45.8,18.7h5.8l0.8,4.5c3.9-3.2,8-5.4,12.6-5.4c5.8,0,11.1,3.4,11.1,13v24.5h-6.8V33c0-5.2-1.2-9.2-6.2-9.2 c-3.7,0-7.3,2.2-10.5,4.9v26.5h-6.8V18.7z"/><path d="M79.2,37.4c0-11.7,8.4-19.6,19.3-19.6c1.9,0,3.9,0.2,5.7,0.7V0.6h6.8v52.8c-2.9,1.5-7.6,2.5-12.2,2.5 C87.9,56,79.2,49.6,79.2,37.4z M104.2,49.4v-25c-1.7-0.5-3-0.8-5.3-0.8c-7,0-12.6,4.9-12.6,13.7c0,8,4.9,13,12.7,13 C100.6,50.2,102.8,50,104.2,49.4z"/><path d="M116.7,0.6h6.8v45.5c0,2.8,0.8,3.6,2.8,3.6c0.5,0,1.6-0.2,2.2-0.5l1.4,5.3c-1.7,0.7-3.9,1.1-5.6,1.1 c-5.1,0-7.6-2.8-7.6-7.6V0.6z"/><path d="M129.5,36.7c0-11.1,6.1-18.9,15.4-18.9c9.6,0,15.1,7.3,15.1,19v1.7h-23.6c0.2,6.9,4.3,12,11.6,12 c3.5,0,6.5-1.1,9-2.5l2.2,4.7c-3.4,2.2-7.9,3.3-12,3.3C135,56,129.5,47.1,129.5,36.7z M153,33.4c-0.2-5.1-2.6-10.2-8.1-10.2 c-5.2,0-8.4,4.6-8.5,10.2H153z"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/2810005028" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
 	<div>
 		<a class="download" rel="nofollow" href="{{site.url}}/Disciplina-Positiva-en-la-Crianza-Cotidiana.pdf" target="_blank">
-		<amp-img alt="Disciplina Positiva en la Crianza Cotidiana" width="414" height="587" src="{{site.cache}}/books/Disciplina-Positiva-en-la-Crianza-Cotidiana.jpg" sizes="8.625rem"></amp-img>
-		<div><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
+			<amp-img alt="Disciplina Positiva en la Crianza Cotidiana" width="414" height="587" src="{{site.cache}}/books/Disciplina-Positiva-en-la-Crianza-Cotidiana.jpg" sizes="8.625rem"></amp-img>
+			<div><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
 		</a>
 		<p class="credits"><a rel='nofollow' href='http://www.frp.ca/francais'>&copy;</a>&nbsp;Save the Children Suecia</p>
 	</div>
