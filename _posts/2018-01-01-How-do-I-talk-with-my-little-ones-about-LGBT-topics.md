@@ -33,7 +33,7 @@ description: "Parents sometimes need to talk with young kids about gender & sexu
 tags:
 - 🏳️‍🌈 Gender & Sexual Minorities
 ---
-<p>Parents sometimes need to talk with young kids about gender & sexual minorities (GSM):</p>
+<p>Parents sometimes need to talk with young kids about gender & sexual minorities:</p>
 <ul>
 	<li>a new classmate has gay parents;</li>
 	<li>a cousin comes out;</li>
