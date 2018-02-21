@@ -26,11 +26,12 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start;align-items:flex-end;margin:-.5rem -.25rem}
-.flexbook{flex:0 0 50%;margin:.5rem .25rem}
-@media(min-width:477px){.flexbook{flex:0 0 calc(100% / 3)}}
-@media(min-width:623px){.flexbook{flex:0 0 25%}}
-@media(min-width:796px){.flexbook{flex:0 0 calc(100% / 3)}}
-@media(min-width:1032px){.flexbook{flex:0 0 25%}}"
+.flexbook{flex:0 0 calc(50% - .5rem);margin:.5rem .25rem}
+@media(min-width:477px){.flexbook{flex:0 0 calc((100% / 3) - .5rem)}}
+@media(min-width:623px){.flexbook{flex:0 0 calc(25% - .5rem)}}
+@media(min-width:796px){.flexbook{flex:0 0 calc((100% / 3) - .5rem)}}
+@media(min-width:1032px){.flexbook{flex:0 0 calc(25% - .5rem)}}
+.flexbook>*{width:8.625rem;margin:0 auto}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and gender non-conforming children and teens"
 description: "Books"
