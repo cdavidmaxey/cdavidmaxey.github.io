@@ -31,7 +31,7 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: ".bookborder{border:black solid 1px}@media(max-width:474px){amp-youtube{clear:both}}.othermerchant>div>div{font-size:7px}"
+style: ".bookborder{border:black solid 1px;border-bottom:none}@media(max-width:474px){amp-youtube{clear:both}}.othermerchant>div>div{font-size:7px}"
 credits: "Stock&nbsp;Photo <a href='https://www.dreamstime.com/royalty-free-stock-images-dad-comfort-image7839949' rel='nofollow' target='_blank'>&copy;</a>&nbsp;Nathan&nbsp;Allred"
 title: "Collaborative & Proactive Solutions: Problem-solving with your child"
 description: "Collaborative & Proactive Solutions is an empirically-supported, non-punitive, non-adversarial model for problem solving challenging behavior with kids."
