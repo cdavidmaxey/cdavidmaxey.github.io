@@ -40,7 +40,7 @@ tags:
 - 🏳️‍🌈 Gender Minorities
 - 🏳️‍🌈 Gender & Sexual Minorities
 ---
-<p>;</p>
+<p></p>
 <div class="flexbooklist">
 	<div class="flexbook">
 		<amp-img alt="The Transgender Child by Stephanie Brill and Rachel Pepper" width="414" height="624" src="{{site.cache}}/books/The-Transgender-Child-by-Stephanie-Brill-and-Rachel-Pepper.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
@@ -64,7 +64,7 @@ tags:
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="The gender creative child: Pathways for nurturing and supporting children who live outside gender boxes" width="414" height="633" src="{{site.cache}}/books/The-gender-creative-child-Pathways-for-nurturing-and-supporting-children-who-live-outside-gender-boxes.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="The gender creative child: Pathways for nurturing and supporting children who live outside gender boxes" width="414" height="621" src="{{site.cache}}/books/The-gender-creative-child-Pathways-for-nurturing-and-supporting-children-who-live-outside-gender-boxes.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/gender-creative-child-pathways-for-nurturing-supporting-children-who-live-outside-gender-boxes-9781615193066/62-0" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1615193065" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
