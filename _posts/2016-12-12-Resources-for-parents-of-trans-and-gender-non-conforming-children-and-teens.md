@@ -25,8 +25,8 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start;align-items:flex-end;margin:-.5rem -.25rem}
-.flexbook{flex:0 0 calc(50% - .5rem);margin:.5rem .25rem}
+style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start;align-items:flex-end;margin:-1rem -.25rem}
+.flexbook{flex:0 0 calc(50% - .5rem);margin:1rem .25rem}
 @media(min-width:477px){.flexbook{flex:0 0 calc((100% / 3) - .5rem)}}
 @media(min-width:623px){.flexbook{flex:0 0 calc(25% - .5rem)}}
 @media(min-width:796px){.flexbook{flex:0 0 calc((100% / 3) - .5rem)}}
