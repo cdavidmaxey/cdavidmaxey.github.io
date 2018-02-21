@@ -71,21 +71,21 @@ tags:
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="Raising Ryland: Our story of parenting a transgender child with no strings attached" width="414" height="639" src="{{site.cache}}/books/Raising-Ryland-Our-story-of-parenting-a-transgender-child-with-no-strings-attached.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Raising Ryland: Our story of parenting a transgender child with no strings attached" width="414" height="627" src="{{site.cache}}/books/Raising-Ryland-Our-story-of-parenting-a-transgender-child-with-no-strings-attached.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/raising-ryland-our-story-of-parenting-a-transgender-child-with-no-strings-attached-9780062388889" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0062388886" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="Raising the transgender child: A complete guide for parents, families, and caregivers" width="414" height="639" src="{{site.cache}}/books/Raising-the-transgender-child-A-complete-guide-for-parents-families-and-caregivers.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Raising the transgender child: A complete guide for parents, families, and caregivers" width="414" height="621" src="{{site.cache}}/books/Raising-the-transgender-child-A-complete-guide-for-parents-families-and-caregivers.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/raising-the-transgender-child-a-complete-guide-for-parents-families-teachers-friends-9781580056359" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1580056350" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="Raising my rainbow: Adventures in raising a fabulous, gender creative son" width="414" height="639" src="{{site.cache}}/books/Raising-my-rainbow-Adventures-in-raising-a-fabulous-gender-creative-son.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Raising my rainbow: Adventures in raising a fabulous, gender creative son" width="414" height="616" src="{{site.cache}}/books/Raising-my-rainbow-Adventures-in-raising-a-fabulous-gender-creative-son.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/raising-my-rainbow-adventures-in-raising-a-fabulous-gender-creative-son-9780770437725" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0770437729" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
@@ -106,7 +106,7 @@ tags:
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="Transgender 101: A simple guide to a complex issue" width="414" height="639" src="{{site.cache}}/books/Transgender-101-A-simple-guide-to-a-complex-issue.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Transgender 101: A simple guide to a complex issue" width="414" height="616" src="{{site.cache}}/books/Transgender-101-A-simple-guide-to-a-complex-issue.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/transgender-101-a-simple-guide-to-a-complex-issue-9780231157131" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0231157134" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
@@ -120,7 +120,7 @@ tags:
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="Supporting transgender and gender creative youth: Schools, families, and communities in action" width="414" height="639" src="{{site.cache}}/books/Supporting-transgender-and-gender-creative-youth-Schools-families-and-communities-in-action.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Supporting transgender and gender creative youth: Schools, families, and communities in action" width="414" height="647" src="{{site.cache}}/books/Supporting-transgender-and-gender-creative-youth-Schools-families-and-communities-in-action.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/supporting-transgender-and-gender-creative-youth-9781433122095" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/143312209X" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
