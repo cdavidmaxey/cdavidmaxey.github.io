@@ -25,7 +25,7 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:space-between;align-items:stretch}.flexbook{flex:0 0 138px}"
+style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:space-between;align-items:flex-end}.flexbook{flex:0 0 138px}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and gender non-conforming children and teens"
 description: "Books"
