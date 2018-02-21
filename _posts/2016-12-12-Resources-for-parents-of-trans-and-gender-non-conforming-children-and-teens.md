@@ -40,6 +40,7 @@ tags:
 - 🏳️‍🌈 Gender Minorities
 - 🏳️‍🌈 Gender & Sexual Minorities
 ---
+<p>;</p>
 <div class="flexbooklist">
 	<div class="flexbook">
 		<amp-img alt="The Transgender Child by Stephanie Brill and Rachel Pepper" width="414" height="624" src="{{site.cache}}/books/The-Transgender-Child-by-Stephanie-Brill-and-Rachel-Pepper.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
@@ -56,45 +57,24 @@ tags:
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="The Transgender Teen by Stephanie Brill and Lisa Kenney" width="414" height="630" src="{{site.cache}}/books/The-Transgender-Teen-by-Stephanie-Brill-and-Lisa-Kenney.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
+		<amp-img alt="Gender born, gender made: Raising healthy gender non-conforming children" width="414" height="633" src="{{site.cache}}/books/Gender-born-gender-made-Raising-healthy-gender-non-conforming-children.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
-			<a class="powells" rel="nofollow" href="http://www.powells.com/book/transgender-teen-9781627781749" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1627781749" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/gender-born-gender-made-raising-healthy-gender-nonconforming-children-9781615190607/62-0" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1615190600" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="The Transgender Teen by Stephanie Brill and Lisa Kenney" width="414" height="630" src="{{site.cache}}/books/The-Transgender-Teen-by-Stephanie-Brill-and-Lisa-Kenney.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
+		<amp-img alt="The gender creative child: Pathways for nurturing and supporting children who live outside gender boxes" width="414" height="633" src="{{site.cache}}/books/The-gender-creative-child-Pathways-for-nurturing-and-supporting-children-who-live-outside-gender-boxes.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
-			<a class="powells" rel="nofollow" href="http://www.powells.com/book/transgender-teen-9781627781749" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1627781749" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/gender-creative-child-pathways-for-nurturing-supporting-children-who-live-outside-gender-boxes-9781615193066/62-0" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1615193065" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="The Transgender Teen by Stephanie Brill and Lisa Kenney" width="414" height="630" src="{{site.cache}}/books/The-Transgender-Teen-by-Stephanie-Brill-and-Lisa-Kenney.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
+		<amp-img alt="Trans bodies, trans selves: A resource for the transgender community" width="414" height="541" src="{{site.cache}}/books/Trans-bodies-trans-selves-A-resource-for-the-transgender-community.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
-			<a class="powells" rel="nofollow" href="http://www.powells.com/book/transgender-teen-9781627781749" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1627781749" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
-		</div>
-	</div>
-	<div class="flexbook">
-		<amp-img alt="The Transgender Teen by Stephanie Brill and Lisa Kenney" width="414" height="630" src="{{site.cache}}/books/The-Transgender-Teen-by-Stephanie-Brill-and-Lisa-Kenney.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
-		<div class="merchants">
-			<a class="powells" rel="nofollow" href="http://www.powells.com/book/transgender-teen-9781627781749" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1627781749" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
-		</div>
-	</div>
-	<div class="flexbook">
-		<amp-img alt="The Transgender Teen by Stephanie Brill and Lisa Kenney" width="414" height="630" src="{{site.cache}}/books/The-Transgender-Teen-by-Stephanie-Brill-and-Lisa-Kenney.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
-		<div class="merchants">
-			<a class="powells" rel="nofollow" href="http://www.powells.com/book/transgender-teen-9781627781749" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1627781749" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
-		</div>
-	</div>
-	<div class="flexbook">
-		<amp-img alt="The Transgender Teen by Stephanie Brill and Lisa Kenney" width="414" height="630" src="{{site.cache}}/books/The-Transgender-Teen-by-Stephanie-Brill-and-Lisa-Kenney.jpg" sizes="8.625rem"></amp-img>
-		<div class="merchants">
-			<a class="powells" rel="nofollow" href="http://www.powells.com/book/transgender-teen-9781627781749" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1627781749" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/trans-bodies-trans-selves-a-resource-for-the-transgender-community-9780199325351/62-1" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0199325359" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
 </div>
