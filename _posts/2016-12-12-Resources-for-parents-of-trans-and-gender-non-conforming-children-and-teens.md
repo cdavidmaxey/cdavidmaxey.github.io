@@ -77,4 +77,11 @@ tags:
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0199325359" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
+	<div class="flexbook">
+		<amp-img alt="Becoming Nicole: The transformation of an American family" width="414" height="639" src="{{site.cache}}/books/Becoming-Nicole-The-transformation-of-an-American-family.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/becoming-nicole-the-transformation-of-an-american-family-9780812995435/18-0" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0812995430" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
 </div>
