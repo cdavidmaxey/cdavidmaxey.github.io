@@ -87,7 +87,7 @@ tags:
 <h5><a rel="nofollow" href="http://pdxqcenter.org/">Q Center</a></h5>
 <div>
 	<p>Community Center for Gender&nbsp;and Sexual&nbsp;Minorities&nbsp;(LGBT+)</p>
-	<p>4115 N Mississippi Ave, Portland, OR</p>
+	<p>4115 N Mississippi Ave, Portland OR</p>
 	<p><a rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>234-7837</a></p>
 	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
 </div>
