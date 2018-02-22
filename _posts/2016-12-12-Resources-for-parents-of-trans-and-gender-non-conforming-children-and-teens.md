@@ -66,7 +66,7 @@ tags:
 </div>
 <h5>Suicide Prevention Lifelines</h5>
 <div><p></p>
-	<p><a rel="nofollow" href="tel:+1-877-968-8491">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>968-8491</a>&emsp;4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>(Pacific)</small><br>for&nbsp;anyone&nbsp;ages&nbsp;11&#8209;21 (calls answered&nbsp;by trained&nbsp;youth ages&nbsp;15&#8209;20) <a rel="nofollow" href="https://oregonyouthline.org/">OregonYouthLine<small>.org</small></a></p>
+	<p><a rel="nofollow" href="tel:+1-877-968-8491">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>968-8491</a>&emsp;4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>(Pacific)</small><br>for&nbsp;anyone&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20) <a rel="nofollow" href="https://oregonyouthline.org/">OregonYouthLine<small>.org</small></a></p>
 	<p><a rel="nofollow" href="tel:+1-800-273-8255">+1<span class="areacode-left">(</span>800<span class="areacode-right">)</span>273-8255</a>&emsp;24/7/365<br>for&nbsp;anyone <a rel="nofollow" href="https://suicidepreventionlifeline.org/">SuicidePreventionLifeline<small>.org</small></a></p>
 </div>
 <h3>Portland-Area Resources</h3>
