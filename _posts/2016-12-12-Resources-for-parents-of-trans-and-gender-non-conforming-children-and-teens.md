@@ -34,10 +34,9 @@ style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start
 .flexbook>*{width:8.625rem;margin:0 auto}
 .bookborder{border:black solid 1px;border-bottom:none}
 h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
-h5{font-size:1rem;margin:1rem 0 .5rem}
-h5+div{margin:-.5rem 0 0}
-h5+p{margin:-.5rem 0 .5rem}
-h5+div>p,h5+p+div>p{margin:0 0 .5rem 1.5rem}"
+h5{font-size:1rem;margin:1rem 0 0}
+h5+div,h5+p+div{margin:.5rem 0 0;text-align:left}
+h5+div>p,h5+p+div>p{margin:0 0 .5rem 1.5rem;text-align:left}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and gender non-conforming children and teens"
 description: "Portland-Area Organization & Books for Parents"
