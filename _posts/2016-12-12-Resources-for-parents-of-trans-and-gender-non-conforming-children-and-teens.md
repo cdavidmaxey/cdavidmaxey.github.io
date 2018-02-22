@@ -163,17 +163,17 @@ tags:
 		</div>
 	</div>
 </div>
-<h3>Internet Resources</h3>
+<h3>Social Networks & Online Forums</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://genderspectrum.org/lounge/">Gender Spectrum Lounge</a></h5>
 <div><p>online community for trans teens & their parents</p></div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.trevorspace.org/">Trevor Space</a></h5>
-<div><p>social network for gender & sexual minority youth ages 13&#8209;24</p></div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transgenderpulse.com/">Trans Pulse</a> (formerly Lauras-Playground.com)</h5>
 <div><p>forums for trans people and their friends, family & allies</p></div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://youth-guard.org/">Youth Guardian</a></h5>
-<div><p>social network for gender & sexual minority youth ages 13&#8209;25</p></div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transfamily.org/discussion.html">Trans Family</a> (based in Cleveland, OH)</h5>
 <div><p>forum for parents of trans children & adults hosted on <a rel="nofollow" href="https://groups.yahoo.com/neo/groups/TransKidsFamily/info">Yahoo</a> (their other forums are less active than the parents forum)</p></div>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.trevorspace.org/">Trevor Space</a></h5>
+<div><p>social network for gender & sexual minority youth ages 13&#8209;24</p></div>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://youth-guard.org/">Youth Guardian</a></h5>
+<div><p>social network for gender & sexual minority youth ages 13&#8209;25</p></div>
 <h3>Crisis Lines</h3>
 <div class="subheading">in an emergency, call 9-1-1</div>
 <h5><svg id="svg-trans" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" style="vertical-align:bottom"><path d="M0 23.853v50.335c93.679 50.033 187.36-60.56 281.038-10.522v-50.335c-93.68-50.038-187.359 60.556-281.038 10.522z" fill="#5bcefa"/><path d="M0 59.337v44.739c93.679 50.033 187.36-60.56 281.038-10.522v-45.495c-93.68-50.038-187.359 61.311-281.038 11.277z" fill="#f5a9b8"/><path d="M0 94.961v41.992c93.679 50.033 187.36-60.56 281.038-10.522v-43.644c-93.68-50.038-187.359 62.207-281.038 12.173z" fill="#fff"/><path d="M0 130.726v38.371c93.679 50.033 187.36-60.56 281.038-10.522v-41.059c-93.68-50.038-187.359 63.244-281.038 13.21z" fill="#f5a9b8"/><path d="M0 166.35v35.624c93.679 50.033 187.36-60.56 281.038-10.522v-39.208c-93.68-50.038-187.359 64.14-281.038 14.106z" fill="#5bcefa"/></svg> <a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
