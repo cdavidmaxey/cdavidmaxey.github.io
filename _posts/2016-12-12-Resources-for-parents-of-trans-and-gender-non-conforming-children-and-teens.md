@@ -46,16 +46,22 @@ tags:
 - 🏳️‍🌈 Gender Minorities
 - 🏳️‍🌈 Gender & Sexual Minorities
 ---
-<h3>Crisis Hotlines for&nbsp;Trans&nbsp;People</h3>
+<h3>Crisis Hotlines</h3>
 <h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
 <div>
-	<p>staffed by trans&nbsp;people</p>
+	<p>for trans people & staffed&nbsp;by trans&nbsp;people</p>
 	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>565-8860</a>&emsp;Everyday&nbsp;8am&#8209;2am&nbsp;(Pacific)</p>
 </div>
 <h5><a rel="nofollow" href="https://www.thetrevorproject.org/">Trevor Project</a></h5>
 <div>
 	<p>for gender & sexual minority (LGBT+) youth&nbsp;ages&nbsp;13&#8209;24</p>
 	<p><a rel="nofollow" href="tel:+1-866-488-7386">+1<span class="areacode-left">(</span>866<span class="areacode-right">)</span>488-7386</a>&emsp;24/7/365</p>
+</div>
+<h5>Portland-Area Mental&nbsp;Health Crisis&nbsp;Intervention</h5>
+<div>
+	<p><a rel="nofollow" href="tel:+1-503-291-9111">+1<span class="areacode-left">(</span>503<span class="areacode-right">)</span>291-9111</a>&emsp;24/7/365<br>for anyone in Washington County, Oregon<br>staffed by <a rel="nofollow" href="https://www.co.washington.or.us/HHS/MentalHealth/">Washington County</a></p>
+	<p><a rel="nofollow" href="tel:+1-503-988-4888">+1<span class="areacode-left">(</span>503<span class="areacode-right">)</span>988-4888</a>&emsp;24/7/365<br>for anyone in Multnomah County, Oregon<br>staffed by <a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention">Multnomah County</a></p>
+	<p><a rel="nofollow" href="tel:+1-503-655-8585">+1<span class="areacode-left">(</span>503<span class="areacode-right">)</span>655-8585</a>&emsp;24/7/365<br>for anyone in Clackamas County, Oregon<br>staffed by <a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/">Clackamas County</a></p>
 </div>
 <h3>Portland-Area Resources</h3>
 <h5><a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
