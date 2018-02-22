@@ -49,26 +49,26 @@ tags:
 <h5><a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
 <p>Research, Education & Medical Support</p>
 <div>
-	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1%thinsp;(503)%thinsp;494-7970</a></p>
+	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1&thinsp;(503)&thinsp;494-7970</a></p>
 	<p><a rel="nofollow" href="mailto:TransHealth@OHSU.edu">TransHealth@OHSU.edu</a></p>
 </div>
 <h5><a rel="nofollow" href="https://www.transactiveonline.org/">TransActive Gender Center</a></h5>
 <p>Education, Advocacy & Transistion Support</p>
 <div>
-	<p><a rel="nofollow" href="tel:+1-503-252-3000">+1%thinsp;(503)%thinsp;252-3000</a></p>
+	<p><a rel="nofollow" href="tel:+1-503-252-3000">+1&thinsp;(503)&thinsp;252-3000</a></p>
 	<p><a rel="nofollow" href="mailto:info@TransActiveOnline.org">info@TransActiveOnline.org</a></p>
 </div>
 <h5><a rel="nofollow" href="http://pdxqcenter.org/">Q Center</a></h5>
 <p>Community Center for Gender and Sexual Minorities (LGBT+)</p>
 <div>
 	<p>4115 N Mississippi Ave<br>Portland, OR 97217</p>
-	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1%thinsp;(503)%thinsp;234-7837</a></p>
+	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1&thinsp;(503)&thinsp;234-7837</a></p>
 	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
 </div>
 <h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
 <p>National Crisis Hotline</p>
 <div>
-	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1&thinsp;(877)%thinsp;565-8860</a> 8am-2am&nbsp;everyday&nbsp;(Pacific)</p>
+	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1&thinsp;(877)&thinsp;565-8860</a> 8am-2am&nbsp;everyday&nbsp;(Pacific)</p>
 </div>
 <h4>Books for Parents</h4>
 <div class="flexbooklist">
