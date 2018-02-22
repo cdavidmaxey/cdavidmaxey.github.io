@@ -32,15 +32,45 @@ style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start
 @media(min-width:796px){.flexbook{flex:0 0 calc((100% / 3) - .5rem)}}
 @media(min-width:1032px){.flexbook{flex:0 0 calc(25% - .5rem)}}
 .flexbook>*{width:8.625rem;margin:0 auto}
-.bookborder{border:black solid 1px;border-bottom:none}"
+.bookborder{border:black solid 1px;border-bottom:none}
+h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
+h5{font-size:1rem;margin:1rem 0 .5rem}
+h5~div{left:.5rem}
+h5~p{margin-top:-.5rem}
+h5~p~div{left:.5rem}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and gender non-conforming children and teens"
-description: "Books"
+description: "Portland-Area Organization & Books for Parents"
 tags:
 - 🏳️‍🌈 Gender Minorities
 - 🏳️‍🌈 Gender & Sexual Minorities
 ---
-<p></p>
+<h4>Portland-Area Organizations</h4>
+<h5><a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
+<p>Research, Education & Medical Support</p>
+<div>
+	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1 (503) 494-7970</a></p>
+	<p><a rel="nofollow" href="mailto:TransHealth@OHSU.edu">TransHealth@OHSU.edu</a></p>
+</div>
+<h5><a rel="nofollow" href="https://www.transactiveonline.org/">TransActive Gender Center</a></h5>
+<p>Education, Advocacy & Transistion Support</p>
+<div>
+	<p><a rel="nofollow" href="tel:+1-503-252-3000">+1 (503) 252-3000</a></p>
+	<p><a rel="nofollow" href="mailto:info@TransActiveOnline.org">info@TransActiveOnline.org</a></p>
+</div>
+<h5><a rel="nofollow" href="http://pdxqcenter.org/">Q Center</a></h5>
+<p>Community Center for Gender and Sexual Minorities (LGBT+)</p>
+<div>
+	<p>4115 N Mississippi Ave<br>Portland, OR 97217</p>
+	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1 (503) 234-7837</a></p>
+	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
+</div>
+<h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
+<p>National Crisis Hotline</p>
+<div>
+	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1 (877) 565-8860</a><br>8:00am-2:00am (Pacific) Everyday</p>
+</div>
+<h4>Books for Parents</h4>
 <div class="flexbooklist">
 	<div class="flexbook">
 		<amp-img alt="The Transgender Child by Stephanie Brill and Rachel Pepper" width="414" height="624" src="{{site.cache}}/books/The-Transgender-Child-by-Stephanie-Brill-and-Rachel-Pepper.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
