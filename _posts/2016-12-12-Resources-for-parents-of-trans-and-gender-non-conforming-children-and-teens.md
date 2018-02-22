@@ -46,7 +46,7 @@ tags:
 - 🏳️‍🌈 Gender Minorities
 - 🏳️‍🌈 Gender & Sexual Minorities
 ---
-<h3>Crisis Hotlines</h3>
+<h3>Crisis Lines</h3>
 <h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
 <div>
 	<p>for trans people & staffed&nbsp;by trans&nbsp;people</p>
@@ -57,8 +57,8 @@ tags:
 	<p>for gender & sexual minority (LGBT+) youth&nbsp;ages&nbsp;13&#8209;24</p>
 	<p><a rel="nofollow" href="tel:+1-866-488-7386">+1<span class="areacode-left">(</span>866<span class="areacode-right">)</span>488-7386</a>&emsp;24/7/365</p>
 </div>
-<h5>Portland-Area Mental&nbsp;Health Crisis&nbsp;Intervention</h5>
-<div>
+<h5>Portland-Area Mental&nbsp;Health Crisis&nbsp;Lines</h5>
+<div><p></p>
 	<p><a rel="nofollow" href="tel:+1-503-291-9111">+1<span class="areacode-left">(</span>503<span class="areacode-right">)</span>291-9111</a>&emsp;24/7/365&emsp;for&nbsp;anyone&nbsp;in&nbsp;<a rel="nofollow" href="https://www.co.washington.or.us/HHS/MentalHealth/">Washington&nbsp;County</a></p>
 	<p><a rel="nofollow" href="tel:+1-503-988-4888">+1<span class="areacode-left">(</span>503<span class="areacode-right">)</span>988-4888</a>&emsp;24/7/365&emsp;for&nbsp;anyone&nbsp;in&nbsp;<a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention">Multnomah&nbsp;County</a></p>
 	<p><a rel="nofollow" href="tel:+1-503-655-8585">+1<span class="areacode-left">(</span>503<span class="areacode-right">)</span>655-8585</a>&emsp;24/7/365&emsp;for&nbsp;anyone&nbsp;in&nbsp;<a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/">Clackamas&nbsp;County</a></p>
