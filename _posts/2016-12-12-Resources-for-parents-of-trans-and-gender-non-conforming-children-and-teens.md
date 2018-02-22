@@ -35,8 +35,9 @@ style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start
 .bookborder{border:black solid 1px;border-bottom:none}
 h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 h5{font-size:1rem;margin:1rem 0 0}
-h5+div,h5+p+div{margin:.5rem 0 0;text-align:left}
-h5+div>p,h5+p+div>p{margin:0 0 .5rem 1.5rem;text-align:left}"
+h5+div{margin:0 0 0 1.5rem}
+h5+div>p{text-align:left}
+h5+div>p:first-child{margin:0 0 0 -1.5rem}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and gender non-conforming children and teens"
 description: "Portland-Area Organization & Books for Parents"
@@ -46,27 +47,27 @@ tags:
 ---
 <h4>Portland-Area Organizations</h4>
 <h5><a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
-<p>Research, Education & Medical Support</p>
 <div>
+	<p>Research, Education & Medical Support</p>
 	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1&thinsp;(503)&thinsp;494-7970</a></p>
 	<p><a rel="nofollow" href="mailto:TransHealth@OHSU.edu">TransHealth@OHSU.edu</a></p>
 </div>
 <h5><a rel="nofollow" href="https://www.transactiveonline.org/">TransActive Gender Center</a></h5>
-<p>Education, Advocacy & Transistion Support</p>
 <div>
+	<p>Education, Advocacy & Transistion Support</p>
 	<p><a rel="nofollow" href="tel:+1-503-252-3000">+1&thinsp;(503)&thinsp;252-3000</a></p>
 	<p><a rel="nofollow" href="mailto:info@TransActiveOnline.org">info@TransActiveOnline.org</a></p>
 </div>
 <h5><a rel="nofollow" href="http://pdxqcenter.org/">Q Center</a></h5>
-<p>Community Center for Gender and Sexual Minorities (LGBT+)</p>
 <div>
+	<p>Community Center for Gender and Sexual Minorities (LGBT+)</p>
 	<p>4115 N Mississippi Ave<br>Portland, OR 97217</p>
 	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1&thinsp;(503)&thinsp;234-7837</a></p>
 	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
 </div>
 <h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
-<p>National Crisis Hotline</p>
 <div>
+	<p>National Crisis Hotline</p>
 	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1&thinsp;(877)&thinsp;565-8860</a> 8am-2am&nbsp;everyday&nbsp;(Pacific)</p>
 </div>
 <h4>Books for Parents</h4>
