@@ -37,8 +37,9 @@ h3{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 h5{font-size:1rem;margin:1rem 0 0}
 .post h5+div>p{margin:0 0 .5rem 1.5rem;text-align:left;padding-left:1.35rem;text-indent:-1.35rem}
 h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
-.areacode-left{margin-left:.25rem}
-.areacode-right{margin-right:.25rem}"
+.areacode-left{margin-left:.1875rem}
+.areacode-right{margin-right:.1875rem}
+.am-pm{font-size:.625rem}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and gender non-conforming children and teens"
 description: "Portland-Area Organization & Books for Parents"
@@ -50,7 +51,7 @@ tags:
 <h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
 <div>
 	<p>for trans people & staffed&nbsp;by trans&nbsp;people</p>
-	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>565-8860</a>&emsp;everyday&nbsp;8am&#8209;2am&nbsp;(Pacific)</p>
+	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>565-8860</a>&emsp;everyday&nbsp;8<span class="am-pm">A</span>&#8209;2<span class="am-pm">A</span>&nbsp;<small>(Pacific)</small></p>
 </div>
 <h5><a rel="nofollow" href="https://www.thetrevorproject.org/">Trevor Project</a></h5>
 <div>
@@ -65,7 +66,7 @@ tags:
 </div>
 <h5>Suicide-Prevention Lifelines</h5>
 <div><p></p>
-	<p><a rel="nofollow" href="tel:+1-877-968-8491">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>968-8491</a>&emsp;4pm&#8209;10pm&nbsp;(Pacific)&emsp;for&nbsp;anyone&nbsp;ages&nbsp;11&#8209;21<br>(Oregon YouthLine)</p>
+	<p><a rel="nofollow" href="tel:+1-877-968-8491">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>968-8491</a>&emsp;4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>(Pacific)</small>&emsp;for&nbsp;anyone&nbsp;ages&nbsp;11&#8209;21<br>(Oregon YouthLine)</p>
 	<p><a rel="nofollow" href="tel:+1-800-273-8255">+1<span class="areacode-left">(</span>800<span class="areacode-right">)</span>273-8255</a>&emsp;24/7/365&emsp;for&nbsp;anyone<br>(National Suicide Prevention Lifeline)</p>
 </div>
 <h3>Portland-Area Resources</h3>
