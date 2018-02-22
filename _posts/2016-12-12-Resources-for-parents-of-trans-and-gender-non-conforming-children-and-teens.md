@@ -37,8 +37,7 @@ h3{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 h5{font-size:1rem;margin:1rem 0 0}
 .post h5+div>p{margin:0 0 .5rem 1.5rem;text-align:left;padding-left:1.35rem;text-indent:-1.35rem}
 h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
-.areacode-left{margin-left:.1875rem}
-.areacode-right{margin-right:.1875rem}
+.areacode-space{margin-right:.1875rem}
 .am-pm{font-size:.625rem}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and gender non-conforming children and teens"
