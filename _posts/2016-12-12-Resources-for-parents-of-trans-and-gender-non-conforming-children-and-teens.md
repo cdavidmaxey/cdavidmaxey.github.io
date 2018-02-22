@@ -64,10 +64,10 @@ tags:
 	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-988-4888">(503<span class="areacode-space">)</span>988-4888</a><small>24/7/365</small><br>for&nbsp;anyone served&nbsp;by <a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention">Multnomah&nbsp;County</a></p>
 	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-655-8585">(503<span class="areacode-space">)</span>655-8585</a><small>24/7/365</small><br>for&nbsp;anyone served&nbsp;by <a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/">Clackamas&nbsp;County</a></p>
 </div>
-<h5>Suicide Prevention Lifelines</h5>
+<h5><a rel="nofollow" href="https://www.linesforlife.org/get-help-now/">Suicide Prevention Lifelines</a></h5>
 <div><p></p>
-	<p><a class="a-tel" rel="nofollow" href="tel:+1-877-968-8491">(877<span class="areacode-space">)</span>968-8491</a>4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>(Pacific)</small><br>for&nbsp;anyone&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20)<br><a rel="nofollow" href="https://oregonyouthline.org/">OregonYouthLine<small>.org</small></a></p>
-	<p><a class="a-tel" rel="nofollow" href="tel:+1-800-273-8255">(800<span class="areacode-space">)</span>273-8255</a><small>24/7/365</small><br>for&nbsp;anyone<br><a rel="nofollow" href="https://suicidepreventionlifeline.org/">SuicidePreventionLifeline<small>.org</small></a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-877-968-8491">(877<span class="areacode-space">)</span>968-8491</a>4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>(Pacific)</small><br>for&nbsp;anyone&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20)</p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-800-273-8255">(800<span class="areacode-space">)</span>273-8255</a><small>24/7/365</small> for&nbsp;anyone</p>
 </div>
 <h3>Portland-Area Resources</h3>
 <h5><a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
