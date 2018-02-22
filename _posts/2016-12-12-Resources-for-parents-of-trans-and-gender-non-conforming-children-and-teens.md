@@ -63,6 +63,11 @@ tags:
 	<p><a rel="nofollow" href="tel:+1-503-988-4888">+1<span class="areacode-left">(</span>503<span class="areacode-right">)</span>988-4888</a>&emsp;24/7/365&emsp;for&nbsp;anyone&nbsp;in&nbsp;<a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention">Multnomah&nbsp;County</a></p>
 	<p><a rel="nofollow" href="tel:+1-503-655-8585">+1<span class="areacode-left">(</span>503<span class="areacode-right">)</span>655-8585</a>&emsp;24/7/365&emsp;for&nbsp;anyone&nbsp;in&nbsp;<a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/">Clackamas&nbsp;County</a></p>
 </div>
+<h5>Suicide-Prevention Lifelines</h5>
+<div><p></p>
+	<p><a rel="nofollow" href="tel:+1-877-968-8491">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>968-8491</a>&emsp;24/7/365&emsp;for&nbsp;anyone&nbsp;ages&nbsp;11&#8209;21</p>
+	<p><a rel="nofollow" href="tel:+1-800-273-8255">+1<span class="areacode-left">(</span>800<span class="areacode-right">)</span>273-8255</a>&emsp;24/7/365&emsp;for&nbsp;anyone</p>
+</div>
 <h3>Portland-Area Resources</h3>
 <h5><a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
 <div>
