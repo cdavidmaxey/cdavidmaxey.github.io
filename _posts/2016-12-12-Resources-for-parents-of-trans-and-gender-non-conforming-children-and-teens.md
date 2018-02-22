@@ -69,7 +69,7 @@ tags:
 <h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
 <div>
 	<p>National Crisis Hotline for Transgender&nbsp;People</p>
-	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>565-8860</a> 8am-2am&nbsp;everyday&nbsp;(Pacific)</p>
+	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>565-8860</a>&emsp;Everyday&nbsp;8am-2am&nbsp;(Pacific)</p>
 </div>
 <h4>Information & News</h4>
 <p></p>
