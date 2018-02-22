@@ -33,7 +33,7 @@ style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start
 @media(min-width:1032px){.flexbook{flex:0 0 calc(25% - .5rem)}}
 .flexbook>*{width:8.625rem;margin:0 auto}
 .bookborder{border:black solid 1px;border-bottom:none}
-h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
+h3{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 h5{font-size:1rem;margin:1rem 0 0}
 .post h5+div>p{margin:0 0 .5rem 1.5rem;text-align:left}
 h5+div>p:first-child{margin-left:0}
@@ -46,7 +46,18 @@ tags:
 - 🏳️‍🌈 Gender Minorities
 - 🏳️‍🌈 Gender & Sexual Minorities
 ---
-<h4>Portland-Area Resources</h4>
+<h3>Crisis Hotlines for Trans People</h3>
+<h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
+<div>
+	<p>staffed by Trans&nbsp;People</p>
+	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>565-8860</a>&emsp;Everyday&nbsp;8am&#8209;2am&nbsp;(Pacific)</p>
+</div>
+<h5><a rel="nofollow" href="https://www.thetrevorproject.org/">Trevor Project</a></h5>
+<div>
+	<p>for Gender & Sexual Minority (LGBT+) Youth&nbsp;ages&nbsp;13&#8209;24</p>
+	<p><a rel="nofollow" href="tel:+1-866-488-7386">+1<span class="areacode-left">(</span>866<span class="areacode-right">)</span>488-7386</a>&emsp;24/7/365</p>
+</div>
+<h3>Portland-Area Resources</h3>
 <h5><a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
 <div>
 	<p>Research, Education & Medical&nbsp;Support</p>
@@ -66,15 +77,15 @@ tags:
 	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1<span class="areacode-left">(</span>503<span class="areacode-right">)</span>234-7837</a></p>
 	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
 </div>
-<h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
-<div>
-	<p>National Crisis Hotline for Transgender&nbsp;People</p>
-	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>565-8860</a>&emsp;Everyday&nbsp;8am&#8209;2am&nbsp;(Pacific)</p>
-</div>
-<h4>Information & News</h4>
+<h3>Information & News</h3>
 <p></p>
 <p></p>
-<h4>Books for Parents</h4>
+<h3>Advocacy</h3>
+<h4>for Trans People</h4>
+<h5></h5>
+<h4>for Gender & Sexual Minorities (LGBT+)</h4>
+<h5></h5>
+<h3>Books for Parents</h3>
 <div class="flexbooklist">
 	<div class="flexbook">
 		<amp-img alt="The Transgender Child by Stephanie Brill and Rachel Pepper" width="414" height="624" src="{{site.cache}}/books/The-Transgender-Child-by-Stephanie-Brill-and-Rachel-Pepper.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
