@@ -37,6 +37,7 @@ h3{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 h5{font-size:1rem;margin:1rem 0 0}
 .post h5+div>p{margin:0 0 .5rem 1.5rem;text-align:left;padding-left:1.35rem;text-indent:-1.35rem}
 h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
+.a-tel{display:inline-block;width:6rem;margin-left:1.35rem}
 .areacode-space{margin-right:.1875rem}
 .am-pm{font-size:.625rem}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
@@ -50,23 +51,23 @@ tags:
 <h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
 <div>
 	<p>for trans people (calls&nbsp;answered&nbsp;by&nbsp;trans&nbsp;people)</p>
-	<p><a rel="nofollow" href="tel:+1-877-565-8860">(877<span class="areacode-space">)</span>565-8860</a>&emsp;everyday&nbsp;8<span class="am-pm">A</span>&#8209;2<span class="am-pm">A</span>&nbsp;<small>(Pacific)</small></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-877-565-8860">(877<span class="areacode-space">)</span>565-8860</a>&emsp;everyday&nbsp;8<span class="am-pm">A</span>&#8209;2<span class="am-pm">A</span>&nbsp;<small>(Pacific)</small></p>
 </div>
 <h5><a rel="nofollow" href="https://www.thetrevorproject.org/">Trevor Project</a></h5>
 <div>
 	<p>for gender & sexual minority (LGBT+) youth&nbsp;ages&nbsp;13&#8209;24</p>
-	<p><a rel="nofollow" href="tel:+1-866-488-7386">(866<span class="areacode-space">)</span>488-7386</a>&emsp;<small>24/7/365</small></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-866-488-7386">(866<span class="areacode-space">)</span>488-7386</a>&emsp;<small>24/7/365</small></p>
 </div>
 <h5>Portland-Area Mental&nbsp;Health Crisis&nbsp;Lines</h5>
 <div><p></p>
-	<p><a rel="nofollow" href="tel:+1-503-291-9111">(503<span class="areacode-space">)</span>291-9111</a>&emsp;<small>24/7/365</small><br>for&nbsp;anyone served&nbsp;by <a rel="nofollow" href="https://www.co.washington.or.us/HHS/MentalHealth/">Washington&nbsp;County</a></p>
-	<p><a rel="nofollow" href="tel:+1-503-988-4888">(503<span class="areacode-space">)</span>988-4888</a>&emsp;<small>24/7/365</small><br>for&nbsp;anyone served&nbsp;by <a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention">Multnomah&nbsp;County</a></p>
-	<p><a rel="nofollow" href="tel:+1-503-655-8585">(503<span class="areacode-space">)</span>655-8585</a>&emsp;<small>24/7/365</small><br>for&nbsp;anyone served&nbsp;by <a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/">Clackamas&nbsp;County</a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-291-9111">(503<span class="areacode-space">)</span>291-9111</a>&emsp;<small>24/7/365</small><br>for&nbsp;anyone served&nbsp;by <a rel="nofollow" href="https://www.co.washington.or.us/HHS/MentalHealth/">Washington&nbsp;County</a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-988-4888">(503<span class="areacode-space">)</span>988-4888</a>&emsp;<small>24/7/365</small><br>for&nbsp;anyone served&nbsp;by <a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention">Multnomah&nbsp;County</a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-655-8585">(503<span class="areacode-space">)</span>655-8585</a>&emsp;<small>24/7/365</small><br>for&nbsp;anyone served&nbsp;by <a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/">Clackamas&nbsp;County</a></p>
 </div>
 <h5>Suicide Prevention Lifelines</h5>
 <div><p></p>
-	<p><a rel="nofollow" href="tel:+1-877-968-8491">(877<span class="areacode-space">)</span>968-8491</a>&emsp;4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>(Pacific)</small><br>for&nbsp;anyone&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20)<br><a rel="nofollow" href="https://oregonyouthline.org/">OregonYouthLine<small>.org</small></a></p>
-	<p><a rel="nofollow" href="tel:+1-800-273-8255">(800<span class="areacode-space">)</span>273-8255</a>&emsp;<small>24/7/365</small><br>for&nbsp;anyone<br><a rel="nofollow" href="https://suicidepreventionlifeline.org/">SuicidePreventionLifeline<small>.org</small></a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-877-968-8491">(877<span class="areacode-space">)</span>968-8491</a>&emsp;4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>(Pacific)</small><br>for&nbsp;anyone&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20)<br><a rel="nofollow" href="https://oregonyouthline.org/">OregonYouthLine<small>.org</small></a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-800-273-8255">(800<span class="areacode-space">)</span>273-8255</a>&emsp;<small>24/7/365</small><br>for&nbsp;anyone<br><a rel="nofollow" href="https://suicidepreventionlifeline.org/">SuicidePreventionLifeline<small>.org</small></a></p>
 </div>
 <h3>Portland-Area Resources</h3>
 <h5><a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
