@@ -49,12 +49,12 @@ tags:
 <h3>Crisis Hotlines for Trans People</h3>
 <h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
 <div>
-	<p>staffed by Trans&nbsp;People</p>
+	<p>staffed by trans&nbsp;people</p>
 	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1<span class="areacode-left">(</span>877<span class="areacode-right">)</span>565-8860</a>&emsp;Everyday&nbsp;8am&#8209;2am&nbsp;(Pacific)</p>
 </div>
 <h5><a rel="nofollow" href="https://www.thetrevorproject.org/">Trevor Project</a></h5>
 <div>
-	<p>for Gender & Sexual Minority (LGBT+) Youth&nbsp;ages&nbsp;13&#8209;24</p>
+	<p>for gender & sexual minority (LGBT+) youth&nbsp;ages&nbsp;13&#8209;24</p>
 	<p><a rel="nofollow" href="tel:+1-866-488-7386">+1<span class="areacode-left">(</span>866<span class="areacode-right">)</span>488-7386</a>&emsp;24/7/365</p>
 </div>
 <h3>Portland-Area Resources</h3>
