@@ -50,7 +50,7 @@ tags:
 <h5><a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
 <div>
 	<p>Research, Education & Medical&nbsp;Support</p>
-	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1<span class=areacode-left>(</span>503<span class=areacode-right>)</span>494-7970</a></p>
+	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1<span class="areacode-left">(</span>503<span class="areacode-right">)</span>494-7970</a></p>
 	<p><a rel="nofollow" href="mailto:TransHealth@OHSU.edu">TransHealth@OHSU.edu</a></p>
 </div>
 <h5><a rel="nofollow" href="https://www.transactiveonline.org/">TransActive Gender Center</a></h5>
