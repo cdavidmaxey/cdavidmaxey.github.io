@@ -165,12 +165,12 @@ tags:
 </div>
 <h3>Crisis Lines</h3>
 <div class="subheading">in an emergency, call 9-1-1</div>
-<h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
+<h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" height="19" style="vertical-align:bottom"><rect width="800" height="400" fill="#5BCEFA"/><rect width="800" height="240" fill="#F5A9B8" y="80"/><rect width="800" height="80" fill="white" y="160"/></svg></h5>
 <div>
 	<p>for trans people (calls&nbsp;answered&nbsp;by&nbsp;trans&nbsp;people)</p>
 	<p><a class="a-tel" rel="nofollow" href="tel:+1-877-565-8860">(877<span class="areacode-space">)</span>565-8860</a>everyday&nbsp;8<span class="am-pm">A</span>&#8209;2<span class="am-pm">A</span>&nbsp;<small>Pacific</small></p>
 </div>
-<h5><a rel="nofollow" href="https://www.thetrevorproject.org/">Trevor Project</a></h5>
+<h5><a rel="nofollow" href="https://www.thetrevorproject.org/">Trevor Project</a> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" height="19" style="vertical-align:bottom"><rect fill="#750787" width="960" height="480"/><rect fill="#004dff" width="960" height="400"/><rect fill="#008026" width="960" height="320"/><rect fill="#ffed00" width="960" height="240"/><rect fill="#ff8c00" width="960" height="160"/><rect fill="#e40303" width="960" height="80"/></svg></h5>
 <div>
 	<p>for gender & sexual minority (LGBT+) youth&nbsp;ages&nbsp;13&#8209;24</p>
 	<p><a class="a-tel" rel="nofollow" href="tel:+1-866-488-7386">(866<span class="areacode-space">)</span>488-7386</a><small>24/7/365</small></p>
