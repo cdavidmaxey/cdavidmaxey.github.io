@@ -36,7 +36,9 @@ style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start
 h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 h5{font-size:1rem;margin:1rem 0 0}
 .post h5+div>p{margin:0 0 .5rem 1.5rem;text-align:left}
-h5+div>p:first-child{margin-left:0}"
+h5+div>p:first-child{margin-left:0}
+.areacode-left{margin-left:.25rem}
+.areacode-right{margin-right:.25rem}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and gender non-conforming children and teens"
 description: "Portland-Area Organization & Books for Parents"
@@ -48,7 +50,7 @@ tags:
 <h5><a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
 <div>
 	<p>Research, Education & Medical&nbsp;Support</p>
-	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1&thinsp;(503)&thinsp;494-7970</a></p>
+	<p><a rel="nofollow" href="tel:+1-503-494-7970">+1<span class=areacode-left>(</span>503<span class=areacode-right>)</span>494-7970</a></p>
 	<p><a rel="nofollow" href="mailto:TransHealth@OHSU.edu">TransHealth@OHSU.edu</a></p>
 </div>
 <h5><a rel="nofollow" href="https://www.transactiveonline.org/">TransActive Gender Center</a></h5>
@@ -69,6 +71,9 @@ tags:
 	<p>National Crisis Hotline for Transgender&nbsp;People</p>
 	<p><a rel="nofollow" href="tel:+1-877-565-8860">+1&thinsp;(877)&thinsp;565-8860</a> 8am-2am&nbsp;everyday&nbsp;(Pacific)</p>
 </div>
+<h4>Information & News</h4>
+<p></p>
+<p></p>
 <h4>Books for Parents</h4>
 <div class="flexbooklist">
 	<div class="flexbook">
