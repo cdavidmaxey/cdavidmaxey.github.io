@@ -61,9 +61,9 @@ tags:
 <h5>Portland-Area Mental&nbsp;Health Crisis&nbsp;Lines</h5>
 <div>
 	<p>for anyone served by the county</p>
-	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-291-9111">(503<span class="areacode-space">)</span>291-9111</a><small>24/7/365</small>&ensp;<a rel="nofollow" href="https://www.co.washington.or.us/HHS/MentalHealth/">Washington</a></p>
-	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-988-4888">(503<span class="areacode-space">)</span>988-4888</a><small>24/7/365</small>&ensp;<a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention">Multnomah</a></p>
-	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-655-8585">(503<span class="areacode-space">)</span>655-8585</a><small>24/7/365</small>&ensp;<a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/">Clackamas</a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-291-9111">(503<span class="areacode-space">)</span>291-9111</a><small>24/7</small>&ensp;<a rel="nofollow" href="https://www.co.washington.or.us/HHS/MentalHealth/">Washington</a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-988-4888">(503<span class="areacode-space">)</span>988-4888</a><small>24/7</small>&ensp;<a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention">Multnomah</a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-655-8585">(503<span class="areacode-space">)</span>655-8585</a><small>24/7</small>&ensp;<a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/">Clackamas</a></p>
 </div>
 <h5><a rel="nofollow" href="https://www.linesforlife.org/get-help-now/">Suicide Prevention Lifelines</a></h5>
 <div>
