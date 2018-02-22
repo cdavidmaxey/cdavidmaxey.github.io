@@ -46,7 +46,7 @@ tags:
 - 🏳️‍🌈 Gender Minorities
 - 🏳️‍🌈 Gender & Sexual Minorities
 ---
-<h3>Crisis Hotlines for Trans People</h3>
+<h3>Crisis Hotlines for&nbsp;Trans&nbsp;People</h3>
 <h5><a rel="nofollow" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
 <div>
 	<p>staffed by trans&nbsp;people</p>
