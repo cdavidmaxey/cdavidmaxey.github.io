@@ -45,11 +45,11 @@ tags:
 ---
 <div class="right" id="Pronouns">
 <input type="radio" name="pronouns" id="pronouns-en" value="en" checked />
-<label tabindex="0" for="pronouns-en" on="tap:GenderNeutralPronouns.show()">English</label>
+<label tabindex="0" role="button" for="pronouns-en" on="tap:GenderNeutralPronouns.show()">English</label>
 <input type="radio" name="pronouns" id="pronouns-fr" value="fr" />
-<label tabindex="0" for="pronouns-fr" on="tap:PronomsNeutres.show()">français</label>
+<label tabindex="0" role="button" for="pronouns-fr" on="tap:PronomsNeutres.show()">français</label>
 <input type="radio" name="pronouns" id="pronouns-es" value="es" />
-<label tabindex="0" for="pronouns-es" on="tap:PronombresNeutros.show()">Español</label>
+<label tabindex="0" role="button" for="pronouns-es" on="tap:PronombresNeutros.show()">Español</label>
 <section class="en" id="GenderNeutralPronouns">
 	<h4>Gender&#8209;Specific & Gender&#8209;Neutral&nbsp;Pronouns</h4>
 	<amp-img alt="Gender Neutral Pronouns (Infographic)" width="1920" height="2884" src="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg" srcset="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg 320w,{{site.cache}}/640/Gender-Neutral-Pronouns-Infographic.jpg 640w,{{site.cache}}/1280/Gender-Neutral-Pronouns-Infographic.jpg 1280w,{{site.cache}}/1920/Gender-Neutral-Pronouns-Infographic.jpg 1920w" layout="responsive"></amp-img>
