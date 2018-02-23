@@ -169,7 +169,7 @@ tags:
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transgenderpulse.com/">Trans Pulse</a> (formerly Lauras-Playground.com)</h5>
 <div><p>forums for trans people and their friends, family & allies</p></div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transfamily.org/discussion.html">Trans Family</a> (based in Cleveland, OH)</h5>
-<div><p>forum for parents of trans children & adults hosted on <a rel="nofollow" href="https://groups.yahoo.com/neo/groups/TransKidsFamily/info">Yahoo</a> (their other forums are less active than the parents forum)</p></div>
+<div><p>forum for parents of trans children & adults hosted on <a rel="nofollow" href="https://groups.yahoo.com/neo/groups/TransKidsFamily/info">Yahoo</a> (their other forums have been less active than the parents’ forum)</p></div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.trevorspace.org/">Trevor Space</a></h5>
 <div><p>social network for gender & sexual minority youth ages 13&#8209;24</p></div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://youth-guard.org/">Youth Guardian</a></h5>
