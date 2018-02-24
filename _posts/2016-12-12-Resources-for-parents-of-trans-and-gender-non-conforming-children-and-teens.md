@@ -34,9 +34,9 @@ style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start
 .flexbook>*{width:8.625rem;margin:0 auto}
 .bookborder{border:black solid 1px;border-bottom:none}
 h3{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
-.subheading{margin:-1rem 0 1rem;text-align:center}
+h3+.subheading{margin:-1rem 0 1rem;text-align:center}
 h5{font-size:1rem;margin:1rem 0 0}
-h5sub{font-weight:normal}
+h5.subheading{font-weight:normal}
 .post h5+div>p{margin:0 0 .5rem 1.5rem;text-align:left;padding-left:1.35rem;text-indent:-1.35rem}
 h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
 .a-tel{display:inline-block;width:7rem;margin-left:1.35rem}
@@ -167,9 +167,9 @@ tags:
 <h3>Social Networks & Online Forums</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://genderspectrum.org/lounge/">Gender Spectrum Lounge</a></h5>
 <div><p>online community for trans teens & their parents</p></div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transgenderpulse.com/">Trans Pulse</a> <span class="h5sub">(formerly Lauras-Playground.<small>com</small>)</span></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transgenderpulse.com/">Trans Pulse</a> <span class="subheading">(formerly Lauras-Playground.<small>com</small>)</span></h5>
 <div><p>forums for trans people and their friends, family & allies</p></div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transfamily.org/discussion.html">Trans Family</a> <span class="h5sub">(based in Cleveland, OH)</span></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transfamily.org/discussion.html">Trans Family</a> <span class="subheading">(based in Cleveland, OH)</span></h5>
 <div><p>forum for parents of trans children & adults hosted on <a rel="nofollow" href="https://groups.yahoo.com/neo/groups/TransKidsFamily/info">Yahoo</a> (their other forums have been less active than the parents’ forum)</p></div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.trevorspace.org/">Trevor Space</a></h5>
 <div><p>social network for gender & sexual minority youth ages 13&#8209;24</p></div>
