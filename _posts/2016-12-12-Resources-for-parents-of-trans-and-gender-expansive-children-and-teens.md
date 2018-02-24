@@ -35,6 +35,7 @@ style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start
 @media(min-width:1032px){.flexbook{flex:0 0 calc(25% - .5rem)}}
 .flexbook>*{width:8.625rem;margin:0 auto}
 .flexbook .credits{margin-bottom:-10px}
+.download+div{width:7.625rem}
 .bookborder{border:black solid 1px;border-bottom:none}
 h3{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 h1+h3{margin-top:0}
