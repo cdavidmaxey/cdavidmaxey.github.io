@@ -80,7 +80,7 @@ tags:
 	<ul>
 		<li id="Transgirl"><strong>Transgirl, Transwoman, Affirmed Female</strong>: a girl/woman who was <a href="#AMaB">assigned male at birth</a> (and <a href="#GenderIdentity">identifies</a> as a girl/woman).</li>
 		<li id="Transboy"><strong>Transboy, Transman, Affirmed Male</strong>: a boy/man who was <a href="#AFaB">assigned female at birth</a> (and <a href="#GenderIdentity">identifies</a> as a boy/man).</li>
-		<li><strong>Gender Non-Conforming, Gender-Expansive (Gender-Diverse, Gender-Creative)</strong>: umbrella terms that encompass people who <a href="#GenderIdentity">identify</a> in ways that do not conform neatly with girl/woman or boy/man.</li>
+		<li><strong>Gender-Expansive, Gender Non-Conforming (Gender-Diverse, Gender-Creative)</strong>: umbrella terms that encompass people who <a href="#GenderIdentity">identify</a> in ways that do not conform neatly with girl/woman or boy/man.</li>
 		<li id="GenderFluid"><strong>Gender Fluid</strong>: people who move fluidly between genders, experiencing gender as dynamic and ever-changing (rather than static).</li>
 		<li id="Agender"><strong>Agender</strong>: people who identify as gender-neutral, genderless or not having a gender.</li>
 		<li id="Transsexual"><strong>Transsexual</strong>: a deprecated term to avoid, unless asked to use it by a person who identifies as transsexual. Originating in medical and psychiatric communities, transsexual was usually used to refers to people who had <a href="#GenderAffirmingSurgery">gender affirming surgery</a> or hormone treatment.</li>
