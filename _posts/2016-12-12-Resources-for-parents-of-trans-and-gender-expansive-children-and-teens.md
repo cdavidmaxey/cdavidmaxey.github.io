@@ -72,6 +72,7 @@ tags:
 	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
 </div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflagpdx.org/">PFLAG Portland & Washington&nbsp;County</a></h5>
+<p>local chapter of PFLAG</p>
 <h3>Conferences</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.genderodyssey.org/seattle/">Gender Odyssey</a> <span class="subheading">Every&nbsp;August&nbsp;in&nbsp;Seattle</span></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/quick-links/events/conference-and-symposium/">Gender Spectrum</a> <span class="subheading">Every July in California</span></h5>
@@ -82,11 +83,19 @@ tags:
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.mermaidsuk.org.uk/">Mermaids</a> <span class="subheading">United Kingdon</span></h5>
 <h3>Advocacy</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.transgenderlaw.org/">Transgender Law & Policy Institute</a></h5>
+<p>works to improve law and policy to advance trans equality</p>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://transgenderlawcenter.org/">Transgender Law Center</a></h5>
+<p>works to improve law, policy, and attitudes to advance trans equality</p>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.glsen.org/">GLSEN</a></h5>
 <p>focuses on safe schools for all students</p>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.thetaskforce.org/">National LGBTQ Task Force</a></h5>
+<p>political action for gender & sexual minorities</p>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.hrc.org/">Human Rights Campaign</a> <span class="subheading">(HRC)</span></h5>
+<p>works to improve civil rights for gender & sexual minorities</p>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflag.org/">PFLAG</a></h5>
+<p>focuses on helping parents, friends and family of gender and sexual minorites be good allies</p>
+<h5><a rel="nofollow" href="https://www.aclu.org/issues/lgbt-rights">American Civil Liberties Union</a> <span class="subheading">(ACLU)</span></h5>
+<p>works to defend individual rights and liberties</p>
 <h3>Books for Parents</h3>
 <div class="flexbooklist">
 	<div class="flexbook">
