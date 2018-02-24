@@ -69,7 +69,7 @@ tags:
 	<p><a rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>234-7837</a></p>
 	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
 </div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflagpdx.org/">PFLAG Portland & Washington County</a></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflagpdx.org/">PFLAG Portland & Washington&nbsp;County</a></h5>
 <h3>Conferences</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.genderodyssey.org/seattle/">Gender Odyssey</a> <span class="subheading">Every&nbsp;August&nbsp;in&nbsp;Seattle</span></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/quick-links/events/conference-and-symposium/">Gender Spectrum</a> <span class="subheading">Every July in California</span></h5>
@@ -81,7 +81,7 @@ tags:
 <h3>Advocacy</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.transgenderlaw.org/">Transgender Law & Policy Institute</a></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://transgenderlawcenter.org/">Transgender Law Center</a></h5>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.glsen.org/">GLSEN</a> <span class="subheading">(Gay,&nbsp;Lesbian&nbsp;and&nbsp;Straight&nbsp;Education&nbsp;Network)</span></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.glsen.org/">GLSEN</a></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.thetaskforce.org/">National Gay & Lesbian Task Force</a></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflag.org/">PFLAG</a></h5>
 <h3>Books for Parents</h3>
