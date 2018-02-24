@@ -1,6 +1,6 @@
 ---
 redirect_from:
-- "Resources-for-parents-of-trans-and-gender-non-conforming-children-and-teens"
+- "/Resources-for-parents-of-trans-and-gender-non-conforming-children-and-teens/"
 updated:
 layout: post
 published: TRUE
