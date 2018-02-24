@@ -69,14 +69,20 @@ tags:
 	<p><a rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>234-7837</a></p>
 	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
 </div>
-<!--<h3>Information & News</h3>
-<p></p>
-<p></p>
+<h3>Conferences</h3>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.genderodyssey.org/seattle/">Gender Odyssey</a> <span class="subtitle">Every&nbsp;August&nbsp;in&nbsp;Seattle</span></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/quick-links/events/conference-and-symposium/">Gender Spectrum</a> <span class="subtitle">Every July in California</span></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.ourtruecolors.org/conference/">True Colors</a> <span class="subtitle">Annually in Hartford CT</span></h5>
+<h3>Information & News</h3>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/">Gender Spectrum</a></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://imatyfa.org/">TransYouth Family Allies</a></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.mermaidsuk.org.uk/">Mermaids</a> <span class="subtitle">United Kingdon</span></h5>
 <h3>Advocacy</h3>
-<h4>for Trans People</h4>
-<h5></h5>
-<h4>for Gender & Sexual Minorities (LGBT+)</h4>
-<h5></h5>-->
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.transgenderlaw.org/">Transgender Law & Policy Institute</a></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://transgenderlawcenter.org/">Transgender Law Center</a></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.glsen.org/">GLSEN</a> <span class="subtitle">(Gay,&nbsp;Lesbian&nbsp;and&nbsp;Straight&nbsp;Education&nbsp;Network)</span></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.thetaskforce.org/">National Gay & Lesbian Task Force</a></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflag.org/">PFLAG</a> <span class="subtitle">(Parents & Friends of Lesbians & Gays)</span></h5>
 <h3>Books for Parents</h3>
 <div class="flexbooklist">
 	<div class="flexbook">
