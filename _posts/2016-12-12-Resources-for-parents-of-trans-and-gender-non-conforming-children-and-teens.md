@@ -46,8 +46,8 @@ credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/p
 title: "Resources for parents of trans and gender non-conforming children and teens"
 description: "Portland-Area Resources & Books for Parents"
 tags:
-- 🏳️‍🌈 Gender Minorities
-- 🏳️‍🌈 Gender & Sexual Minorities
+- Trans & Gender-Expansive
+- 🏳️‍🌈 Gender & Sexual Minority
 ---
 <h3>Portland-Area Resources</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>

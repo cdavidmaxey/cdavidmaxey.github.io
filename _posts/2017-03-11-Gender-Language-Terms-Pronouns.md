@@ -38,7 +38,7 @@ credits: "Unendorsed&nbsp;adaptation <a rel='nofollow' href='https://creativecom
 title: "Gender Language: Pronouns & Terms"
 description: "Gender language is evolving with varying degrees of consensus on definitions. How do I talk about gender? How do I know which pronouns to use? TL;DR: Just ask"
 tags:
-- 🏳️‍🌈 Gender
+- Trans & Gender-Expansive
 - 🏳️‍🌈 Gender & Sexual Minorities
 - 🇫🇷 français
 - 🇲🇽 Español
