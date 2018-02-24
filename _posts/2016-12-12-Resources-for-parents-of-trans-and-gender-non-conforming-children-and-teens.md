@@ -167,7 +167,7 @@ tags:
 <h3>Social Networks & Online Forums</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://genderspectrum.org/lounge/">Gender Spectrum Lounge</a></h5>
 <div><p>online community for trans teens & their parents</p></div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transgenderpulse.com/">Trans Pulse</a> <span class="subheading">(formerly Lauras-Playground.<small>com</small>)</span></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transgenderpulse.com/">Trans Pulse</a> <span class="subheading">(formerly&nbsp;Lauras&#8209;Playground.<small>com</small>)</span></h5>
 <div><p>forums for trans people and their friends, family & allies</p></div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transfamily.org/discussion.html">Trans Family</a> <span class="subheading">(based in Cleveland, OH)</span></h5>
 <div><p>forum for parents of trans children & adults hosted on <a rel="nofollow" href="https://groups.yahoo.com/neo/groups/TransKidsFamily/info">Yahoo</a> (their other forums have been less active than the parents’ forum)</p></div>
