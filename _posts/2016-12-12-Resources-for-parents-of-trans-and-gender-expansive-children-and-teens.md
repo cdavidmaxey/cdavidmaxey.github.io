@@ -84,6 +84,7 @@ tags:
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.transgenderlaw.org/">Transgender Law & Policy Institute</a></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://transgenderlawcenter.org/">Transgender Law Center</a></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.glsen.org/">GLSEN</a></h5>
+<p>focuses on safe schools for all students</p>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.thetaskforce.org/">National LGBTQ Task Force</a></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflag.org/">PFLAG</a></h5>
 <h3>Books for Parents</h3>
