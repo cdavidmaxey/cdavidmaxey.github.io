@@ -46,7 +46,7 @@ h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
 .areacode-space{margin-right:.1875rem}
 .am-pm{font-size:.625rem}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
-title: "Resources for parents of trans and gender expansive children and teens"
+title: "Resources for parents of trans and gender-expansive children and teens"
 description: "Portland-Area Resources, Conferences, Information & News, Advocacy, Books for Parents, Social Networks & Online Forums, and Crisis Lines"
 tags:
 - Trans & Gender-Expansive
