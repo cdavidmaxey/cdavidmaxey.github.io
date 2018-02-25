@@ -49,7 +49,7 @@ section>h4,h3{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:wh
 .flexbook .credits{margin-top:2px;margin-bottom:-12px}
 .bookborder{border:black solid 1px;border-bottom:none}
 h3{font-size:1.5rem;margin:3rem -1rem 1rem;text-align:center}
-h1+h3{margin-top:0}
+.timeago+h3{margin-top:0}
 h3+.subheading{margin:-1rem 0 1rem;text-align:center}
 .booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#9c27b0;color:#fff;padding:.175rem 0}
 .booktopper+.bookborder{border-top:none}"
