@@ -1,5 +1,6 @@
 ---
-updated:
+date: "2017-08-31T00:00:00-08:00"
+updated: "2017-08-31T00:00:00-08:00"
 redirect_from: "/Can-I-revoke-consent-to-services-evaluations-or-special-education/"
 layout: post
 published: TRUE

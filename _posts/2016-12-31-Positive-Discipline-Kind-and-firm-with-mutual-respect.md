@@ -1,4 +1,6 @@
 ---
+date: "2016-12-31T00:00:00-08:00"
+updated: "2016-12-31T00:00:00-08:00"
 redirect_from:
 - "/positive-discipline/"
 - "/Positive-discipline/"
@@ -8,7 +10,6 @@ redirect_from:
 - "/Positivediscipline/"
 - "/positiveDiscipline/"
 - "/PositiveDiscipline/"
-updated:
 layout: post
 published: TRUE
 alt: "family discussion over weekend breakfast"

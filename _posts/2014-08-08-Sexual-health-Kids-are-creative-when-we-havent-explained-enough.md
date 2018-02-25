@@ -1,5 +1,6 @@
 ---
-updated:
+date: "2014-01-01T00:00:00-08:00"
+updated: "2014-01-01T00:00:00-08:00"
 layout: post
 published: TRUE
 alt: "Pump up the volume by John Wilhelm"

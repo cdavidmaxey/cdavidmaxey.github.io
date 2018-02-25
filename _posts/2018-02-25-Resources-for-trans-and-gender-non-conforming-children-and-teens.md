@@ -1,5 +1,6 @@
 ---
-updated:
+date: "2018-02-25T00:00:00-08:00"
+updated: "2018-02-25T00:00:00-08:00"
 layout: post
 published: TRUE
 alt: "child reading a book wearing a hero costume with a cape"

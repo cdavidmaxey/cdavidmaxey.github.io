@@ -1,5 +1,6 @@
 ---
-updated:
+date: "2017-07-28T00:00:00-08:00"
+updated: "2017-07-28T00:00:00-08:00"
 layout: post
 published: TRUE
 cursif: TRUE

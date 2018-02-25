@@ -1,5 +1,6 @@
 ---
-updated: "2017-06-30"
+date: "2017-06-30T00:00:00-08:00"
+updated: "2017-06-30T00:00:00-08:00"
 layout: post
 published: TRUE
 redirect_from:

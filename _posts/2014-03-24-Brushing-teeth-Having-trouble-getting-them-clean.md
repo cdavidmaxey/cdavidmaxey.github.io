@@ -1,5 +1,6 @@
 ---
-updated:
+date: "2014-03-24T00:00:00-08:00"
+updated: "2014-03-24T00:00:00-08:00"
 layout: post
 published: TRUE
 alt: "girl brushing teeth in the bath"

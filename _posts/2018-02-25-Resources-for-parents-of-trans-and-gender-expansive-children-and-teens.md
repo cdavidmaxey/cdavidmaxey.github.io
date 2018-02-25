@@ -1,7 +1,8 @@
 ---
+date: "2018-02-25T00:00:00-08:00"
+updated: "2018-02-25T00:00:00-08:00"
 redirect_from:
 - "/Resources-for-parents-of-trans-and-gender-non-conforming-children-and-teens/"
-updated:
 layout: post
 published: TRUE
 alt: "child in a fairy costume doing chores"
