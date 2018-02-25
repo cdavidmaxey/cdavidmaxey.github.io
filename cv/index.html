@@ -1,4 +1,5 @@
 ---
+date: "2017-12-01T00:00:00-08:00"
 redirect_from:
 - "/CV/"
 - "/Cv/"
@@ -43,6 +44,7 @@ published: TRUE
 <style amp-custom>
 body{background:black;font-family:"Open Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",Helvetica,Arial,Tahoma,sans-serif;font-size:16px}
 main{margin:0 auto;padding:1rem 1rem .25rem;background:#edf0f0 url(https://cache.cdmaxey.com/x/Handmade-Paper.png) top/100px repeat}
+#update{float:right}
 #webcv,#web,#email,#tel{text-align:right}
 @media(min-width:54rem){main{margin:2rem auto;padding:3rem 3rem 2.25rem;max-width:44rem}}
 @media(min-width:25rem){#tel{float:left}#email{float:right}}
@@ -104,6 +106,7 @@ aside footer{font-size:.75em}
 <amp-font layout="nodisplay" font-family="Tangerine" timeout="3000"></amp-font>
 <main>
 <div class="center">
+	<div id="update">{{ page.date | date: "%m %Y" }}</div>
 	<h1>
 		<div>Curriculum Vit&aelig;</div>
 		<div id="name"><div><span class="gray tangerine">C.</span>&nbsp;<span class="tangerine">David Maxey</span><span class="suffix">,&nbsp;<span class="gray">M.A.</span></span></div><div id="title">Psychologist Associate Resident</div></div>
