@@ -62,7 +62,7 @@ tags:
 <input type="radio" name="unicorn" id="unicorn-es" value="es" />
 <label tabindex="0" role="button" for="unicorn-es" on="tap:ElUnicorniodelGenero.show()">El Unicornio<br>(Español)</label>
 <input type="radio" name="unicorn" id="genderbread" value="genderbread" checked />
-<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Unicorn<br>(English/français)</label>
+<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread<br>(English/français)</label>
 <section class="en" id="GenderUnicorn">
 	<h4>Gender Unicorn</h4>
 	<amp-img alt="Gender Unicorn" width="1920" height="1243" src="{{site.cache}}/320/Gender-Unicorn.jpg" srcset="{{site.cache}}/320/Gender-Unicorn.jpg 320w,{{site.cache}}/640/Gender-Unicorn.jpg 640w,{{site.cache}}/1280/Gender-Unicorn.jpg 1280w,{{site.cache}}/1920/Gender-Unicorn.jpg 1920w" layout="responsive"></amp-img>
