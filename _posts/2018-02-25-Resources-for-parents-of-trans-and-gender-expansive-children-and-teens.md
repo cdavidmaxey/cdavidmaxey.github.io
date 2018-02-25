@@ -38,7 +38,7 @@ style: ".flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start
 .download>div{width:7.625rem}
 .flexbook .credits{margin-top:2px;margin-bottom:-12px}
 .bookborder{border:black solid 1px;border-bottom:none}
-h3{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
+h3{font-size:1.5rem;text-align:center;margin:3rem -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 h1+h3{margin-top:0}
 h3+.subheading{margin:-1rem 0 1rem;text-align:center}
 h5{font-size:1rem;margin:1rem 0 0}
