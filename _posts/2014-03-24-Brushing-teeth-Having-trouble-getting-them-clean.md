@@ -23,7 +23,7 @@ youtube:
   body: TRUE
 variables:
 style: "p~ul{margin-top:-1.25rem}.myteeth{border-radius:1em}p~ul{margin-top:-1.25rem}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' href='http://www.dreamstime.com/royalty-free-stock-photos-little-girl-brushing-teeth-bath-image38469828'>&copy;</a>&nbsp;Tan4ikk"
+credits: "Stock&nbsp;Photo <a rel='nofollow' href='http://www.dreamstime.com/royalty-free-stock-photos-little-girl-brushing-teeth-bath-image38469828' target='_blank'>&copy;</a>&nbsp;Tan4ikk"
 title: "Brushing teeth: Having trouble getting them clean?"
 description: "Your dentist or dental hygenist can teach proper teeth-brushing, and advise you about apps for helping your child make a healthy habit of brushing their teeth."
 tags:
@@ -31,7 +31,7 @@ tags:
 - Apps for Kids
 ---
 <aside class="float right side center">
-	<div><a rel="nofollow" href="http://thekeptpromise.com/MyTeeth/"><amp-img class="myteeth" width="100" height="100" src="{{site.cache}}/x/myteeth.jpg"></amp-img><br>MyTeeth</a><br><small>$5<sup>*</sup></small></div>
+	<div><a rel="nofollow" href="http://thekeptpromise.com/MyTeeth/" target="_blank"><amp-img class="myteeth" width="100" height="100" src="{{site.cache}}/x/myteeth.jpg"></amp-img><br>MyTeeth</a><br><small>$5<sup>*</sup></small></div>
 	<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
@@ -48,4 +48,4 @@ There are a number of apps that aim to help kids focus on brushing their teeth, 
 <amp-youtube data-videoid='a4oWI7XLZOU' layout='responsive' width='16' height='9' data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1 data-param-start=11></amp-youtube>
 {:/nomarkdown}
 
-<div class="credits"><a rel='nofollow' href='https://youtu.be/a4oWI7XLZOU' target='_blank'><em>MyTeeth: Bass, right • MeineZähne: Bass, rechts • Mes Dents : Bass, pour droitier</em></a> by <a rel='nofollow' href='https://www.youtube.com/channel/UCiLLIar6NuTg3jlD7tcAxrQ' target='_blank'>GrowingUp.Today</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms' target='_blank'>Standard YouTube License</a>.</div>
+<div class="credits"><a rel="nofollow" href="https://youtu.be/a4oWI7XLZOU" target="_blank"><em>MyTeeth: Bass, right • MeineZähne: Bass, rechts • Mes Dents : Bass, pour droitier</em></a> by <a rel="nofollow" href="https://www.youtube.com/channel/UCiLLIar6NuTg3jlD7tcAxrQ" target="_blank">GrowingUp.Today</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>

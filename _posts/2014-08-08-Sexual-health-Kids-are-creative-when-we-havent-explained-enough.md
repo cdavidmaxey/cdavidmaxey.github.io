@@ -22,8 +22,8 @@ youtube:
   Y:
 variables:
 style: "p~ul{margin-top:-1.25rem}.humanbody,.incrediblebody{border-radius:1em}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://us.fotolia.com/id/89405292'>&copy;</a>&nbsp;John&nbsp;Wilhelm</a>"
-credits_full: "<a rel='nofollow' href='https://vimeo.com/70414395'><em>The Human Body by Tinybop</em></a> by <a rel='nofollow' href='https://vimeo.com/tinybop'>Tinybop</a> is embeded under <a rel='nofollow' href='https://vimeo.com/terms'>Vimeo Terms of Service</a>.<br><a rel='nofollow' href='https://youtu.be/lC3jImrtioY'><em>My Incredible Body: Amazing Anatomy Just for Kids (iPad/iPhone)</em></a> by <a rel='nofollow' href='https://www.youtube.com/user/VisibleBody'>Visible Body</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
+credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://us.fotolia.com/id/89405292' target='_blank'>&copy;</a>&nbsp;John&nbsp;Wilhelm</a>"
+credits_full: "<a rel='nofollow' href='https://vimeo.com/70414395' target='_blank'><em>The Human Body by Tinybop</em></a> by <a rel='nofollow' href='https://vimeo.com/tinybop' target='_blank'>Tinybop</a> is embeded under <a rel='nofollow' href='https://vimeo.com/terms' target='_blank'>Vimeo Terms of Service</a>.<br><a rel='nofollow' href='https://youtu.be/lC3jImrtioY' target='_blank'><em>My Incredible Body: Amazing Anatomy Just for Kids (iPad/iPhone)</em></a> by <a rel='nofollow' href='https://www.youtube.com/user/VisibleBody' target='_blank'>Visible Body</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms' target='_blank'>Standard YouTube License</a>."
 trash: "<div class='clear'></div><div class='embed-responsive-16by9-16by9'><iframe allowfullscreen src='https://player.vimeo.com/video/70414395?color=3f51b5&title=0&byline=0&portrait=0'></iframe><iframe allowfullscreen src='https://www.youtube-nocookie.com/embed/lC3jImrtioY?rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&disablekb=1'></iframe></div>"
 title: "Sexual health: Kids are creative when we haven’t explained enough"
 description: "Kids need parents to share accurate age-approprite information about anatomy, sex, and pregnancy."
@@ -36,8 +36,8 @@ Kids have lots of questions, and they need parents to provide accurate age-appro
 
 <h2>Apps</h2>
 <aside class="float right side center">
-	<div><a rel="nofollow" href="http://tinybop.com/apps/the-human-body"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg"></amp-img><br>The Human Body</a><br><small>$4 (+$1 In-App)<sup>*</sup></small></div>
-	<div><a rel="nofollow" href="http://www.visiblebody.com/mib_overview/"><amp-img class="incrediblebody" src="{{site.cache}}/x/incrediblebody.jpg" width="100" height="100"></amp-img><br>My Incredible Body</a><br><small>$25 (+$1 In-App)<sup>*</sup></small></div>
+	<div><a rel="nofollow" href="http://tinybop.com/apps/the-human-body" target="_blank"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg"></amp-img><br>The Human Body</a><br><small>$4 (+$1 In-App)<sup>*</sup></small></div>
+	<div><a rel="nofollow" href="http://www.visiblebody.com/mib_overview/" target="_blank"><amp-img class="incrediblebody" src="{{site.cache}}/x/incrediblebody.jpg" width="100" height="100"></amp-img><br>My Incredible Body</a><br><small>$25 (+$1 In-App)<sup>*</sup></small></div>
 	<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
