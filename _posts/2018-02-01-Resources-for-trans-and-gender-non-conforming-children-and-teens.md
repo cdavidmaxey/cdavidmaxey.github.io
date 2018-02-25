@@ -34,7 +34,7 @@ input[value=genderbread]:checked~section.genderbread{display:block}
 label{display:inline-block;text-align:center;margin:0 0 1rem}
 h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 section>h4{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
-section .credits{margin-top:1rem}
+#Unicorn .credits{margin-top:1rem}
 .flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start;align-items:flex-end;margin:-1rem -.25rem}
 .flexbook{flex:0 0 calc(50% - .5rem);margin:1rem .25rem}
 @media(min-width:477px){.flexbook{flex:0 0 calc((100% / 3) - .5rem)}}
