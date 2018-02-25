@@ -26,7 +26,7 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "input[type='radio']{visibility:hidden;height:0;width:0}
-.en,.fr,.es{display:none}
+.en,.fr,.es,.genderbread{display:none}
 input[value=en]:checked~section.en{display:block}
 input[value=fr]:checked~section.fr{display:block}
 input[value=es]:checked~section.es{display:block}
