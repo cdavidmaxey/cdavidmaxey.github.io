@@ -68,7 +68,10 @@ tags:
 	<h4>Gender Unicorn</h4>
 	<amp-img alt="Gender Unicorn" width="1920" height="1243" src="{{site.cache}}/320/Gender-Unicorn.jpg" srcset="{{site.cache}}/320/Gender-Unicorn.jpg 320w,{{site.cache}}/640/Gender-Unicorn.jpg 640w,{{site.cache}}/1280/Gender-Unicorn.jpg 1280w,{{site.cache}}/1920/Gender-Unicorn.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Design by Landyn Pan and Anna Moore | <a rel="nofollow" href="http://www.transstudent.org/gender" target="_blank">TransStudent.org/gender</a></p>
-	<div class="buttons buttons-right"><a href="{{site.url}}/Gender-Unicorn"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a></div>
+	<div class="buttons buttons-right">
+		<a href="{{site.url}}/Gender-Unicorn"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
+		<a href="{{site.url}}/Gender-Unicorn-Coloring-Page"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Coloring Page</a>
+	</div>
 </section>
 <section class="fr" id="Lalicornedugenre">
 	<h4>La licorne du genre</h4>
