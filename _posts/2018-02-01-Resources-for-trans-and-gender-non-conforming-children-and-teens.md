@@ -69,29 +69,29 @@ tags:
 	<amp-img alt="Gender Unicorn" width="1920" height="1243" src="{{site.cache}}/320/Gender-Unicorn.jpg" srcset="{{site.cache}}/320/Gender-Unicorn.jpg 320w,{{site.cache}}/640/Gender-Unicorn.jpg 640w,{{site.cache}}/1280/Gender-Unicorn.jpg 1280w,{{site.cache}}/1920/Gender-Unicorn.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Design by Landyn Pan and Anna Moore | <a rel="nofollow" href="http://www.transstudent.org/gender" target="_blank">TransStudent.org/gender</a></p>
 	<div class="buttons buttons-right">
-		<a href="{{site.url}}/Gender-Unicorn"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
-		<a href="{{site.url}}/Gender-Unicorn-Coloring-Page"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Coloring Page</a>
+		<a href="{{site.url}}/Gender-Unicorn.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
+		<a href="{{site.url}}/Gender-Unicorn-Coloring-Page.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Coloring Page</a>
 	</div>
 </section>
 <section class="fr" id="Lalicornedugenre">
 	<h4>La licorne du genre</h4>
 	<amp-img alt="La licorne du genre" width="1920" height="1241" src="{{site.cache}}/320/La-licorne-du-genre.jpg" srcset="{{site.cache}}/320/La-licorne-du-genre.jpg 320w,{{site.cache}}/640/La-licorne-du-genre.jpg 640w,{{site.cache}}/1280/La-licorne-du-genre.jpg 1280w,{{site.cache}}/1920/La-licorne-du-genre.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Design par Landyn Pan | <a rel="nofollow" href="http://www.transstudent.org/gender" target="_blank">TransStudent.org/gender</a></p>
-	<div class="buttons buttons-right"><a href="{{site.url}}/La-licorne-du-genre"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a></div>
+	<div class="buttons buttons-right"><a href="{{site.url}}/La-licorne-du-genre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a></div>
 </section>
 <section class="es" id="ElUnicorniodelGenero">
 	<h4>El Unicornio del Género</h4>
 	<amp-img alt="El Unicornio del Género" width="1920" height="1302" src="{{site.cache}}/320/El-Unicornio-del-Genero.jpg" srcset="{{site.cache}}/320/El-Unicornio-del-Genero.jpg 320w,{{site.cache}}/640/El-Unicornio-del-Genero.jpg 640w,{{site.cache}}/1280/El-Unicornio-del-Genero.jpg 1280w,{{site.cache}}/1920/El-Unicornio-del-Genero.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Diseño de Landyn Pan y Anna Moore | <a rel="nofollow" href="http://www.transstudent.org/gender" target="_blank">TransStudent.org/gender</a></p>
-	<div class="buttons buttons-right"><a href="{{site.url}}/Genderbread-Person"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Descargar</a></div>
+	<div class="buttons buttons-right"><a href="{{site.url}}/El-Unicornio-del-Genero.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Descargar</a></div>
 </section>
 <section class="genderbread" id="GenderbreadPerson">
 	<h4>Genderbread Person</h4>
 	<amp-img alt="Genderbread Person (minimal)" width="1920" height="1326" src="{{site.cache}}/320/Genderbread-Person-minimal.jpg" srcset="{{site.cache}}/320/Genderbread-Person-minimal.jpg 320w,{{site.cache}}/640/Genderbread-Person-minimal.jpg 640w,{{site.cache}}/1280/Genderbread-Person-minimal.jpg 1280w,{{site.cache}}/1920/Genderbread-Person-minimal.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">The Genderbread Person v3.3 (minimal) | <a rel="nofollow" href="http://itspronouncedmetrosexual.com/2015/03/the-genderbread-person-v3/" target="_blank">ItsPronouncedMetroSexual.com</a></p>
 	<div class="buttons buttons-right">
-		<a href="{{site.url}}/Genderbread-Person"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
-		<a href="{{site.url}}/Personne-Gingenre"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
+		<a href="{{site.url}}/Genderbread-Person.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
+		<a href="{{site.url}}/Personne-Gingenre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
 	</div>
 </section>
 </div>
