@@ -34,6 +34,7 @@ input[value=genderbread]:checked~section.genderbread{display:block}
 label{display:inline-block;text-align:center;margin:0 0 1rem}
 h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 section>h4{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
+section .credits{margin-top:1rem}
 .flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start;align-items:flex-end;margin:-1rem -.25rem}
 .flexbook{flex:0 0 calc(50% - .5rem);margin:1rem .25rem}
 @media(min-width:477px){.flexbook{flex:0 0 calc((100% / 3) - .5rem)}}
@@ -83,6 +84,7 @@ tags:
 	<amp-img alt="Genderbread Person (minimal)" width="1920" height="1326" src="{{site.cache}}/320/Genderbread-Person-minimal.jpg" srcset="{{site.cache}}/320/Genderbread-Person-minimal.jpg 320w,{{site.cache}}/640/Genderbread-Person-minimal.jpg 640w,{{site.cache}}/1280/Genderbread-Person-minimal.jpg 1280w,{{site.cache}}/1920/Genderbread-Person-minimal.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">v3.3 (minimal) | <a rel="nofollow" href="http://itspronouncedmetrosexual.com/2015/03/the-genderbread-person-v3/" target="_blank">ItsPronouncedMetroSexual.com</a></p>
 </section>
+</div>
 <h3>Informational Books for Youth</h3>
 <div class="flexbooklist">
 	<div class="flexbook">
