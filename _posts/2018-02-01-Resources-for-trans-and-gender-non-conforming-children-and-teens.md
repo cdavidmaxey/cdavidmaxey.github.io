@@ -148,7 +148,7 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">Pre-K - 2<sup>nd</sup></div>
-		<amp-img alt="Jacob’s New Dress" width="414" height="518" src="{{site.cache}}/books/Jacobs-New-Dress.jpg" sizes="8.625rem"></amp-img>
+		<amp-img class="bookborder" alt="Jacob’s New Dress" width="414" height="518" src="{{site.cache}}/books/Jacobs-New-Dress.jpg" sizes="calc(8.625rem - 2px)"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/jacobs-new-dress-9780807563731" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0807563730" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
@@ -156,7 +156,7 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">5<sup>th</sup> - 7<sup>th</sup></div>
-		<amp-img alt="Lily and Dunkin" width="414" height="609" src="{{site.cache}}/books/Lily-and-Dunkin.jpg" sizes="8.625rem"></amp-img>
+		<amp-img class="bookborder" alt="Lily and Dunkin" width="414" height="609" src="{{site.cache}}/books/Lily-and-Dunkin.jpg" sizes="calc(8.625rem - 2px)"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/lily-dunkin-9780553536775/61-0" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/055353677X" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
@@ -204,7 +204,7 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">Pre-K - 1<sup>st</sup></div>
-		<amp-img alt="Red: A Crayon's Story" width="414" height="534" src="{{site.cache}}/books/Red-A-Crayons-Story.jpg" sizes="8.625rem"></amp-img>
+		<amp-img class="bookborder" alt="Red: A Crayon's Story" width="414" height="534" src="{{site.cache}}/books/Red-A-Crayons-Story.jpg" sizes="calc(8.625rem - 2px)"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/red-a-crayons-story-9780062252074" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0062252070" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
