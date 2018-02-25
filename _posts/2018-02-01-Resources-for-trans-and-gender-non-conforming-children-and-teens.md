@@ -108,7 +108,7 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">Pre-K - 2<sup>nd</sup></div>
-		<amp-img alt="Boy & the Bindi" width="414" height="XXX" src="{{site.cache}}/books/Boy-and-the-Bindi.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Boy & the Bindi" width="414" height="301" src="{{site.cache}}/books/Boy-and-the-Bindi.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/boy-the-bindi-9781551526683" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1551526689" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
