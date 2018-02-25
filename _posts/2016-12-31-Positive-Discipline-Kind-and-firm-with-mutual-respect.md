@@ -37,7 +37,7 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: ".bookborder{border:black solid 1px;border-bottom:none}.PositiveDisciplineLink{height:1.3125em}.PositiveDisciplineLink>span{font-size:.8125em}p~ul{margin-top:-1.25rem}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-pleasant-family-having-lively-conversation-emotional-boy-his-sitting-table-breakfast-image89633567'>&copy;</a>&nbsp;Viacheslav&nbsp;Iacobchuk"
+credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-pleasant-family-having-lively-conversation-emotional-boy-his-sitting-table-breakfast-image89633567' target='_blank'>&copy;</a>&nbsp;Viacheslav&nbsp;Iacobchuk"
 title: "Positive Discipline: Kind and firm with mutual respect"
 description: "Positive Discipline is a non-punitive parenting and classroom management approach emphasizing mutual respect, and encouraging adults to be kind and firm."
 tags:
@@ -53,7 +53,7 @@ tags:
 			<amp-img alt="Positive Discipline in Everyday Parenting" width="414" height="586" src="{{site.cache}}/books/Positive-Discipline-in-Everyday-Parenting.jpg" sizes="8.625rem"></amp-img>
 			<div><svg id="svg-download" class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><path d="M1344 928q0-14-9-23t-23-9h-224v-352q0-13-9.5-22.5t-22.5-9.5h-192q-13 0-22.5 9.5t-9.5 22.5v352h-224q-13 0-22.5 9.5t-9.5 22.5q0 14 9 23l352 352q9 9 23 9t23-9l351-351q10-12 10-24zm640 224q0 159-112.5 271.5t-271.5 112.5h-1088q-185 0-316.5-131.5t-131.5-316.5q0-130 70-240t188-165q-2-30-2-43 0-212 150-362t362-150q156 0 285.5 87t188.5 231q71-62 166-62 106 0 181 75t75 181q0 76-41 138 130 31 213.5 135.5t83.5 238.5z"/></svg>&ensp;Download</div>
 		</a>
-		<p class="credits"><a rel='nofollow' href='http://www.frp.ca/'>&copy;</a>&nbsp;Save the Children Sweden</p>
+		<p class="credits"><a rel="nofollow" href="http://www.frp.ca/" target="_blank">&copy;</a>&nbsp;Save the Children Sweden</p>
 	</div>
 	<div>
 		<amp-img alt="Positive Discipline by Jane Nelsen, Ed.D." width="414" height="639" src="{{site.cache}}/books/Positive-Discipline-by-Jane-Nelsen.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
@@ -90,7 +90,7 @@ In the first chapter of Jane Nelsen’s book, <i>Positive Discipline</i>, she de
 			<amp-img alt="La discipline positive au quotidien à la maison" width="414" height="587" src="{{site.cache}}/books/La-discipline-positive-au-quotidien-a-la-maison.jpg" sizes="8.625rem"></amp-img>
 			<div><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
 		</a>
-		<p class="credits"><a rel='nofollow' href='http://www.frp.ca/francais'>&copy;</a>&nbsp;Save the Children Suède</p>
+		<p class="credits"><a rel="nofollow" href="http://www.frp.ca/francais" target="_blank">&copy;</a>&nbsp;Save the Children Suède</p>
 	</div>
 	<div>
 		<amp-img alt="La Discipline Positive de Jane Nelsen" width="414" height="665" src="{{site.cache}}/books/La-Discipline-positive-de-Jane-Nelsen.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
@@ -104,13 +104,13 @@ In the first chapter of Jane Nelsen’s book, <i>Positive Discipline</i>, she de
 			<amp-img alt="Disciplina Positiva en la Crianza Cotidiana" width="414" height="587" src="{{site.cache}}/books/Disciplina-Positiva-en-la-Crianza-Cotidiana.jpg" sizes="8.625rem"></amp-img>
 			<div><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
 		</a>
-		<p class="credits"><a rel='nofollow' href='http://www.frp.ca/francais'>&copy;</a>&nbsp;Save the Children Suecia</p>
+		<p class="credits"><a rel="nofollow" href="http://www.frp.ca/francais" target="_blank">&copy;</a>&nbsp;Save the Children Suecia</p>
 	</div>
 	<div>
 	<a class="download" rel="nofollow" href="https://www.positivediscipline.com/products/disciplina-positiva" target="_blank"><amp-img alt="Disciplina Positiva de Jane Nelsen" width="414" height="625" src="{{site.cache}}/books/Disciplina-positiva-de-Jane-Nelsen.jpg" sizes="8.625rem"></amp-img><div class="PositiveDisciplineLink"><span>Positive Discipline</span></div></a>
 	</div>
 </div>
-Positive Discipline can be helpful for any family to varying degrees. It often meets the needs of families, but some children have unique challenges and needs that are not typical for their age, such as attention difficulties, disruptive behavior, the autism spectrum, etc. Children with unique challenges need support from a mental health professional who tailors interventions to fit with their particular difficulties, and Positive Discipline could possibly be a component of that treatment. <a href="{{site.url}}/Collaborative-and-Proactive-Solutions-problem-solving/">Collaborative & Proactive Solutions (CPS), formerly known as Collaborative Problem Solving</a>, is another non-punitive approach. A large body of research supports using <a href="{{site.url}}/Collaborative-and-Proactive-Solutions-problem-solving/">CPS</a> to help children with unique challenges, and they might be supported better by <a href="{{site.url}}/Collaborative-and-Proactive-Solutions-problem-solving/">CPS</a> than Positive Discipline <a href="{{site.url}}/Collaborative-and-Proactive-Solutions-problem-solving/">(see my article on CPS)</a>. Nonetheless, Positive Discipline is an approach that parents of typically-developing children often find natural, effective, and easy enough to implement. Positive Discipline resources are available in <a rel="nofollow" href="https://www.positivediscipline.com/store">English</a>, <a rel="nofollow" href="http://www.disciplinepositive.fr/">French</a>, <a rel="nofollow" href="https://www.positivediscipline.com/catalog/spanish">Spanish</a>, <a rel="nofollow" href="http://www.pd-home.org/">Chinese</a>, and <a rel="nofollow" href="http://positivedisciplinenederland.nl/winkel/">Dutch</a>.
+Positive Discipline can be helpful for any family to varying degrees. It often meets the needs of families, but some children have unique challenges and needs that are not typical for their age, such as attention difficulties, disruptive behavior, the autism spectrum, etc. Children with unique challenges need support from a mental health professional who tailors interventions to fit with their particular difficulties, and Positive Discipline could possibly be a component of that treatment. <a href="{{site.url}}/Collaborative-and-Proactive-Solutions-problem-solving/">Collaborative & Proactive Solutions (CPS), formerly known as Collaborative Problem Solving</a>, is another non-punitive approach. A large body of research supports using <a href="{{site.url}}/Collaborative-and-Proactive-Solutions-problem-solving/">CPS</a> to help children with unique challenges, and they might be supported better by <a href="{{site.url}}/Collaborative-and-Proactive-Solutions-problem-solving/">CPS</a> than Positive Discipline <a href="{{site.url}}/Collaborative-and-Proactive-Solutions-problem-solving/">(see my article on CPS)</a>. Nonetheless, Positive Discipline is an approach that parents of typically-developing children often find natural, effective, and easy enough to implement. Positive Discipline resources are available in <a rel="nofollow" href="https://www.positivediscipline.com/store" target="_blank">English</a>, <a rel="nofollow" href="http://www.disciplinepositive.fr/" target="_blank">French</a>, <a rel="nofollow" href="https://www.positivediscipline.com/catalog/spanish" target="_blank">Spanish</a>, <a rel="nofollow" href="http://www.pd-home.org/" target="_blank">Chinese</a>, and <a rel="nofollow" href="http://positivedisciplinenederland.nl/winkel/" target="_blank">Dutch</a>.
 <h2>Introductory&nbsp;Videos by Joan&nbsp;Durrant</h2>
 {::nomarkdown}
 <p><amp-youtube data-videoid="ll9eS9e9Rhk" layout="responsive" width="4" height="3" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube></p>

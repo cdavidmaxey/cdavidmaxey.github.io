@@ -85,43 +85,43 @@ tags:
 	</thead>
 	<tbody>
 		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2135">Communication Disorder</a></td>
+			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2135" target="_blank">Communication Disorder</a></td>
 			<td class="left">speech and language disorders</td>
 		</tr>
 		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2170">Specific Learning Disability</a></td>
+			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2170" target="_blank">Specific Learning Disability</a></td>
 			<td class="left">inadequate achievement for their age or grade in basic reading skills, reading fluency skills, reading comprehension, mathematics calculation, mathematics problem-solving, written expression, oral expression, or listening comprehension (when provided with appropriate instruction and that is not primarily the result of a visual impairment, hearing impairment, motor impairment, intellectual disability, emotional disturbance, cultural factors, environmental or economic disadvantage, or limited English proficiency) with a) insufficient progress in response to intervention or b) a pattern of strengths and weaknesses in classroom performance, academic achievement, or both, relative to age, grade, or intellectual development</td>
 		</tr>
 		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2155">Intellectual Disability</a></td>
+			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2155" target="_blank">Intellectual Disability</a></td>
 			<td class="left">intelligence test score at or below the 2<sup>nd</sup> percentile (i.e., 2 or more standard deviations below the mean); deficits in adaptive behavior; and developmental level or educational achievement that is significantly below age or grade norms</td>
 		</tr>
 		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2165">Other Health Impairment</a></td>
+			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2165" target="_blank">Other Health Impairment</a></td>
 			<td class="left">limited strength, vitality or alertness (including a heightened alertness to environmental stimuli that results in limited alertness with respect to the educational environment) that is due to a chronic or acute health problem (that is permanent or expected to last for more than 60 calendar days). Children with Attention-Deficit/Hyperactivity Disorder (ADHD) might qualify for Special Education under this category or for accommodations and modifications under Section 504.</td>
 		</tr>
 		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2130">Autism Spectrum Disorder</a></td>
+			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2130" target="_blank">Autism Spectrum Disorder</a></td>
 			<td class="left">developmental disability involving impairments in communication; impairments in social interaction; patterns of behavior, interests or activities that are restricted, repetitive, or stereotypic; and unusual responses to sensory experiences</td>
 		</tr>
 		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2145">Emotional Disturbance</a></td>
+			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2145" target="_blank">Emotional Disturbance</a></td>
 			<td class="left">an inability to learn that cannot be explained by intellectual, sensory, or health factors; an inability to build or maintain satisfactory interpersonal relationships with peers and teachers; inappropriate types of behavior or feelings under normal circumstances; a general pervasive mood of unhappiness or depression; or a tendency to develop physical symptoms or fears associated with personal or school problems</td>
 		</tr>
 		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2175">Traumatic Brain Injury</a></td>
+			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2175" target="_blank">Traumatic Brain Injury</a></td>
 			<td class="left">physical brain injury resulting in impairment in communication; behavior; cognition, memory, attention, abstract thinking, judgment, problem-solving, reasoning, and/or information processing; or sensory, perceptual, motor and/or physical abilities (that is permanent or expected to last for more than 60 calendar days)</td>
 		</tr>
 		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2160">Orthopedic Impairment</a></td>
+			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2160" target="_blank">Orthopedic Impairment</a></td>
 			<td class="left">motor impairment with deficits in the quality, speed or accuracy of movement documented by scores at or below the 2<sup>nd</sup> percentile (i.e., 2 or more standard deviations below the mean) in fine motor skills, gross motor skills, or self-help skills, or functional deficits in at least two of these three motor areas (that is permanent or expected to last for more than 60 calendar days)</td>
 		</tr>
 		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2150">Hearing Impairment</a></td>
+			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2150" target="_blank">Hearing Impairment</a></td>
 			<td class="left">hearing condition characterized by being hard of hearing or deaf</td>
 		</tr>
 		<tr>
-			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2180">Vision Impairment</a></td>
+			<td class="right"><a rel="nofollow" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2180" target="_blank">Vision Impairment</a></td>
 			<td class="left">residual visual acuity of 20/70 or less in the better eye with correction, visual field restricted to 20 degrees or less in the better eye, eye pathology or progressive eye disease expected to reduce residual acuity or visual field, or inadequate use of residual vision</td>
 		</tr>
 	</tbody>
