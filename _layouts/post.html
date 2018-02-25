@@ -16,7 +16,7 @@
 					<amp-img alt="{{page.alt}}" src="{{site.cache}}/320/{{page.image.src}}" srcset="{{site.cache}}/320/{{page.image.src}} 320w,{{site.cache}}/640/{{page.image.src}} 640w,{{site.cache}}/1280/{{page.image.src}} 1280w,{{site.cache}}/1920/{{page.image.src}} 1920w" layout="responsive" width="{{page.image.X}}" height="{{page.image.Y}}"></amp-img>{% endif %}{% if page.credits %}
 					<div class="credits">{{page.credits}}</div>{% endif %}
 					<h1>{{page.title}}</h1>
-					<p class="timeago">Updated <amp-timeago height="16" width="160" datetime="{{ page.date | date_to_xmlschema }}" locale="en">{{ page.date | date: "%d %m %Y" }}</amp-timeago></p>
+					<p class="timeago"><small>Updated <amp-timeago height="16" width="160" datetime="{{ page.date | date_to_xmlschema }}" locale="en">{{ page.date | date: "%d %m %Y" }}</amp-timeago></small></p>
 					{{content}}{% if page.tags %}
 					<div class="tags">{% for tag in page.tags %}{% for wenda in size_tag_color %}{% assign wilma = wenda | split:'|' %}{% if tag == wilma[1] %}{% if wilma[0] == "01" %}<div class="tag">{{wilma[1]}}</div>{% else %}<a class="tag {{wilma[2]}}" href="{{site.url}}/search/#{{wilma[1] | slugify}}">{{wilma[1]}} <span>{{wilma[0] | plus:0}}</span></a>{% endif %}{% endif %}{% endfor %}{% endfor %}</div>{% endif %}
 					<nav class="pager buttons">{% if page.next.url %}
