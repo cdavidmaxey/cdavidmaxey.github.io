@@ -31,7 +31,7 @@ style: "input[type='radio']{visibility:hidden;height:0;width:0}
 input[value=en]:checked~section.en{display:block}
 input[value=fr]:checked~section.fr{display:block}
 input[value=es]:checked~section.es{display:block}
-h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
+h4{font-size:1.5rem;text-align:center;margin:3rem -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 section>h4{margin:1rem -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 p~ul{margin-top:-1.25rem}
 #Transsexual{color:#999}"
