@@ -114,6 +114,118 @@ tags:
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1551526689" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
+	<div class="flexbook">
+		<div class="booktopper">Pre-K - 1<sup>st</sup></div>
+		<amp-img alt="From the Stars in the Sky to the Fish in the Sea" width="414" height="320" src="{{site.cache}}/books/From-the-Stars-in-the-Sky-to-the-Fish-in-the-Sea.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/from-the-stars-in-the-sky-to-the-fish-in-the-sea-9781551527093" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/155152709X" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">3<sup>rd</sup> - 6<sup>th</sup></div>
+		<amp-img alt="George" width="414" height="621" src="{{site.cache}}/books/George.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/george-9780545812573" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0545812577" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">K - 5<sup>th</sup></div>
+		<amp-img alt="I Am Jazz" width="414" height="356" src="{{site.cache}}/books/I-Am-Jazz.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/i-am-jazz-9780803741072" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0803741073" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">Pre-K - K</div>
+		<amp-img alt="Introducing Teddy: A Gentle Story About Gender & Friendship" width="414" height="414" src="{{site.cache}}/books/Introducing-Teddy-A-gentle-story-about-gender-and-friendship.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/introducing-teddy-a-gentle-story-about-gender-friendship-9781681192109" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1681192101" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">Pre-K - 2<sup>nd</sup></div>
+		<amp-img alt="Jacob’s New Dress" width="414" height="518" src="{{site.cache}}/books/Jacobs-New-Dress.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/jacobs-new-dress-9780807563731" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0807563730" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">5<sup>th</sup> - 7<sup>th</sup></div>
+		<amp-img alt="Lily and Dunkin" width="414" height="609" src="{{site.cache}}/books/Lily-and-Dunkin.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/lily-dunkin-9780553536775/61-0" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/055353677X" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">5<sup>th</sup> & up</div>
+		<amp-img alt="Lizard Radio" width="414" height="627" src="{{site.cache}}/books/Lizard-Radio.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/lizard-radio-9780763676353" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0763676357" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">4<sup>th</sup> - 8<sup>th</sup></div>
+		<amp-img alt="Magnus Chase and the Gods of Asgard, Book 2: The Hammer of Thor" width="414" height="639" src="{{site.cache}}/books/Magnus-Chase-and-the-Gods-of-Asgard-Book-2-The-Hammer-of-Thor.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/the-hammer-of-thor-9781423160922" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1423160924" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">3<sup>rd</sup> - 6<sup>th</sup></div>
+		<amp-img alt="The Pants Project" width="414" height="621" src="{{site.cache}}/books/The-Pants-Project.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/pants-project-9781492638094" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1492638099" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">Pre-K - 1<sup>st</sup></div>
+		<amp-img alt="My Princess Boy" width="414" height="415" src="{{site.cache}}/books/My-Princess-Boy.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/my-princess-boy-9781442429888" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1442429887" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">Pre-K - 1<sup>st</sup></div>
+		<amp-img alt="One of a Kind, Like Me / Único Como Yo" width="414" height="456" src="{{site.cache}}/books/One-of-a-Kind-Like-Me-Unico-Como-Yo.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/one-of-a-kind-like-me-unico-como-yo-9780985351410" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0985351411" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">Pre-K - 1<sup>st</sup></div>
+		<amp-img alt="Red: A Crayon's Story" width="414" height="534" src="{{site.cache}}/books/Red-A-Crayons-Story.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/red-a-crayons-story-9780062252074" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0062252070" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">4<sup>th</sup> - 6<sup>th</sup></div>
+		<amp-img alt="Riding Freedom" width="414" height="602" src="{{site.cache}}/books/Riding-Freedom.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/riding-freedom-9780439087964" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0439087961" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">Pre-K - 5<sup>th</sup></div>
+		<amp-img alt="They She He Me: Free to Be!" width="414" height="436" src="{{site.cache}}/books/They-She-He-Me-Free-to-Be.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/they-she-he-me-9781945289064" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1945289066" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
 </div>
 <h3>Informational Books for Youth</h3>
 <div class="flexbooklist">
