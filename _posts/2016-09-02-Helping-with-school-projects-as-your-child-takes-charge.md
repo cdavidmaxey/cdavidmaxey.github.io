@@ -20,7 +20,7 @@ youtube:
   X: 
   Y: 
 variables: 
-credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.adobe.com/legal/terms.html' target="_blank">&copy;</a>&nbsp;<a rel='nofollow' href='https://stock.adobe.com/stock-photo/teacher-overseeing-chemical-experiment-in-science-class/94589182' target="_blank">Ilike</a>"
+credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.adobe.com/legal/terms.html' target='_blank'>&copy;</a>&nbsp;<a rel='nofollow' href='https://stock.adobe.com/stock-photo/teacher-overseeing-chemical-experiment-in-science-class/94589182' target='_blank'>Ilike</a>"
 title: "Helping with school projects as your child takes charge"
 description: "School projects"
 tags:
