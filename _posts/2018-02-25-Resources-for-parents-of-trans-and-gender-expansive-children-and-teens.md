@@ -79,6 +79,7 @@ tags:
 <p>local chapters of PFLAG</p>
 <h3>Conferences</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.genderodyssey.org/seattle/" target="_blank">Gender Odyssey</a> <span class="subheading">Every&nbsp;August&nbsp;in&nbsp;Seattle</span></h5>
+<div><p></p><p>produced by <a rel="nofollow" href="http://www.genderdiversity.org/" target="_blank">GenderDiversity.<small>org</small></a></p></div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/quick-links/events/conference-and-symposium/" target="_blank">Gender Spectrum</a> <span class="subheading">Every July in California</span></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.ourtruecolors.org/conference/" target="_blank">True Colors</a> <span class="subheading">Annually in Hartford CT</span></h5>
 <h3>Information & News</h3>
