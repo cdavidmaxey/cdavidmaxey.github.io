@@ -93,6 +93,7 @@ tags:
 <p>works to improve law, policy, and attitudes to advance trans equality</p>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.glsen.org/" target="_blank">GLSEN</a></h5>
 <p>focuses on safe schools for all students</p>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://itgetsbetter.org/" target="_blank">It gets better Project</a></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.thetaskforce.org/" target="_blank">National LGBTQ Task Force</a></h5>
 <p>political action for gender & sexual minorities</p>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.hrc.org/" target="_blank">Human Rights Campaign</a> <span class="subheading">(HRC)</span></h5>
