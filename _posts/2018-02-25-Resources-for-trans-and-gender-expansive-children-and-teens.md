@@ -401,6 +401,26 @@ tags:
 		</div>
 	</div>
 </div>
+<h3>Portland-Area Resources</h3>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/" target="_blank">OHSU Transgender Health Program</a></h5>
+<div>
+	<p>Research, Education & Medical&nbsp;Support</p>
+	<p><a rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>494-7970</a></p>
+	<p><a rel="nofollow" href="mailto:TransHealth@OHSU.edu">TransHealth@OHSU.edu</a></p>
+</div>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transactiveonline.org/" target="_blank">TransActive Gender Center</a></h5>
+<div>
+	<p>Education, Advocacy & Transistion&nbsp;Support</p>
+	<p><a rel="nofollow" href="tel:+1-503-252-3000">(503<span class="areacode-space">)</span>252-3000</a></p>
+	<p><a rel="nofollow" href="mailto:info@TransActiveOnline.org">info@TransActiveOnline.org</a></p>
+</div>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://pdxqcenter.org/" target="_blank">Q Center</a></h5>
+<div>
+	<p>Community Center for Gender&nbsp;and Sexual&nbsp;Minorities&nbsp;(LGBT+)</p>
+	<p>4115 N Mississippi Ave, Portland OR</p>
+	<p><a rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>234-7837</a></p>
+	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
+</div>
 <h3>Social Networks & Online Forums</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://genderspectrum.org/lounge/" target="_blank">Gender Spectrum Lounge</a></h5>
 <div><p>online community for trans teens & their parents</p></div>
@@ -436,31 +456,6 @@ tags:
 	<p><a class="a-tel" rel="nofollow" href="tel:+1-800-273-8255">(800<span class="areacode-space">)</span>273-8255</a><small>24/7</small></p>
 	<p><a class="a-tel" rel="nofollow" href="tel:+1-877-968-8491">(877<span class="areacode-space">)</span>968-8491</a>4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>Pacific</small><br>for&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20)</p>
 </div>
-<h3>Portland-Area Resources</h3>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/" target="_blank">OHSU Transgender Health Program</a></h5>
-<div>
-	<p>Research, Education & Medical&nbsp;Support</p>
-	<p><a rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>494-7970</a></p>
-	<p><a rel="nofollow" href="mailto:TransHealth@OHSU.edu">TransHealth@OHSU.edu</a></p>
-</div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transactiveonline.org/" target="_blank">TransActive Gender Center</a></h5>
-<div>
-	<p>Education, Advocacy & Transistion&nbsp;Support</p>
-	<p><a rel="nofollow" href="tel:+1-503-252-3000">(503<span class="areacode-space">)</span>252-3000</a></p>
-	<p><a rel="nofollow" href="mailto:info@TransActiveOnline.org">info@TransActiveOnline.org</a></p>
-</div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://pdxqcenter.org/" target="_blank">Q Center</a></h5>
-<div>
-	<p>Community Center for Gender&nbsp;and Sexual&nbsp;Minorities&nbsp;(LGBT+)</p>
-	<p>4115 N Mississippi Ave, Portland OR</p>
-	<p><a rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>234-7837</a></p>
-	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
-</div>
-<h3>Conferences</h3>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.genderodyssey.org/seattle/" target="_blank">Gender Odyssey</a> <span class="subheading">Every&nbsp;August&nbsp;in&nbsp;Seattle</span></h5>
-<div><p></p><p>produced by <a rel="nofollow" href="http://www.genderdiversity.org/" target="_blank">GenderDiversity.<small>org</small></a></p></div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/quick-links/events/conference-and-symposium/" target="_blank">Gender Spectrum</a> <span class="subheading">Every July in California</span></h5>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.ourtruecolors.org/conference/" target="_blank">True Colors</a> <span class="subheading">Annually in Hartford CT</span></h5>
 <h3>Information & News</h3>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/" target="_blank">Gender Spectrum</a></h5>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://imatyfa.org/" target="_blank">TransYouth Family Allies</a></h5>
@@ -479,3 +474,8 @@ tags:
 <p>works to improve civil rights for gender & sexual minorities</p>
 <h5><a rel="nofollow" href="https://www.aclu.org/issues/lgbt-rights" target="_blank">American Civil Liberties Union</a> <span class="subheading">(ACLU)</span></h5>
 <p>works to defend individual rights and liberties</p>
+<h3>Conferences</h3>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.genderodyssey.org/seattle/" target="_blank">Gender Odyssey</a> <span class="subheading">Every&nbsp;August&nbsp;in&nbsp;Seattle</span></h5>
+<div><p></p><p>produced by <a rel="nofollow" href="http://www.genderdiversity.org/" target="_blank">GenderDiversity.<small>org</small></a></p></div>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/quick-links/events/conference-and-symposium/" target="_blank">Gender Spectrum</a> <span class="subheading">Every July in California</span></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.ourtruecolors.org/conference/" target="_blank">True Colors</a> <span class="subheading">Annually in Hartford CT</span></h5>
