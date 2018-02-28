@@ -430,6 +430,29 @@ tags:
 <div><p>social network for gender & sexual minority youth ages 13&#8209;24</p></div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://youth-guard.org/" target="_blank">Youth Guardian</a></h5>
 <div><p>social network for gender & sexual minority youth ages 13&#8209;25</p></div>
+<h3>Information & News</h3>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/" target="_blank">Gender Spectrum</a></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://imatyfa.org/" target="_blank">TransYouth Family Allies</a></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.mermaidsuk.org.uk/" target="_blank">Mermaids</a> <span class="subheading">United Kingdon</span></h5>
+<h3>Advocacy</h3>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.transgenderlaw.org/" target="_blank">Transgender Law & Policy Institute</a></h5>
+<p>works to improve law and policy to advance trans equality</p>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://transgenderlawcenter.org/" target="_blank">Transgender Law Center</a></h5>
+<p>works to improve law, policy, and attitudes to advance trans equality</p>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.glsen.org/" target="_blank">GLSEN</a></h5>
+<p>focuses on safe schools for all students</p>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://itgetsbetter.org/" target="_blank">It gets better Project</a></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.thetaskforce.org/" target="_blank">National LGBTQ Task Force</a></h5>
+<p>political action for gender & sexual minorities</p>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.hrc.org/" target="_blank">Human Rights Campaign</a> <span class="subheading">(HRC)</span></h5>
+<p>works to improve civil rights for gender & sexual minorities</p>
+<h5><a rel="nofollow" href="https://www.aclu.org/issues/lgbt-rights" target="_blank">American Civil Liberties Union</a> <span class="subheading">(ACLU)</span></h5>
+<p>works to defend individual rights and liberties</p>
+<h3>Conferences</h3>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.genderodyssey.org/seattle/" target="_blank">Gender Odyssey</a> <span class="subheading">Every&nbsp;August&nbsp;in&nbsp;Seattle</span></h5>
+<div><p></p><p>produced by <a rel="nofollow" href="http://www.genderdiversity.org/" target="_blank">GenderDiversity.<small>org</small></a></p></div>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/quick-links/events/conference-and-symposium/" target="_blank">Gender Spectrum</a> <span class="subheading">Every July in California</span></h5>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.ourtruecolors.org/conference/" target="_blank">True Colors</a> <span class="subheading">Annually in Hartford CT</span></h5>
 <h3>Crisis Lines</h3>
 <div class="subheading">in an emergency, call 9-1-1</div>
 <h5><svg id="svg-trans" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" style="vertical-align:bottom"><path d="M0 23.853v50.335c93.679 50.033 187.36-60.56 281.038-10.522v-50.335c-93.68-50.038-187.359 60.556-281.038 10.522z" fill="#5bcefa"/><path d="M0 59.337v44.739c93.679 50.033 187.36-60.56 281.038-10.522v-45.495c-93.68-50.038-187.359 61.311-281.038 11.277z" fill="#f5a9b8"/><path d="M0 94.961v41.992c93.679 50.033 187.36-60.56 281.038-10.522v-43.644c-93.68-50.038-187.359 62.207-281.038 12.173z" fill="#fff"/><path d="M0 130.726v38.371c93.679 50.033 187.36-60.56 281.038-10.522v-41.059c-93.68-50.038-187.359 63.244-281.038 13.21z" fill="#f5a9b8"/><path d="M0 166.35v35.624c93.679 50.033 187.36-60.56 281.038-10.522v-39.208c-93.68-50.038-187.359 64.14-281.038 14.106z" fill="#5bcefa"/></svg> <a rel="nofollow" href="https://www.translifeline.org/" target="_blank">Trans Lifeline</a></h5>
@@ -456,26 +479,3 @@ tags:
 	<p><a class="a-tel" rel="nofollow" href="tel:+1-800-273-8255">(800<span class="areacode-space">)</span>273-8255</a><small>24/7</small></p>
 	<p><a class="a-tel" rel="nofollow" href="tel:+1-877-968-8491">(877<span class="areacode-space">)</span>968-8491</a>4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>Pacific</small><br>for&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20)</p>
 </div>
-<h3>Information & News</h3>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/" target="_blank">Gender Spectrum</a></h5>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://imatyfa.org/" target="_blank">TransYouth Family Allies</a></h5>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.mermaidsuk.org.uk/" target="_blank">Mermaids</a> <span class="subheading">United Kingdon</span></h5>
-<h3>Advocacy</h3>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.transgenderlaw.org/" target="_blank">Transgender Law & Policy Institute</a></h5>
-<p>works to improve law and policy to advance trans equality</p>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://transgenderlawcenter.org/" target="_blank">Transgender Law Center</a></h5>
-<p>works to improve law, policy, and attitudes to advance trans equality</p>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.glsen.org/" target="_blank">GLSEN</a></h5>
-<p>focuses on safe schools for all students</p>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://itgetsbetter.org/" target="_blank">It gets better Project</a></h5>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.thetaskforce.org/" target="_blank">National LGBTQ Task Force</a></h5>
-<p>political action for gender & sexual minorities</p>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.hrc.org/" target="_blank">Human Rights Campaign</a> <span class="subheading">(HRC)</span></h5>
-<p>works to improve civil rights for gender & sexual minorities</p>
-<h5><a rel="nofollow" href="https://www.aclu.org/issues/lgbt-rights" target="_blank">American Civil Liberties Union</a> <span class="subheading">(ACLU)</span></h5>
-<p>works to defend individual rights and liberties</p>
-<h3>Conferences</h3>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.genderodyssey.org/seattle/" target="_blank">Gender Odyssey</a> <span class="subheading">Every&nbsp;August&nbsp;in&nbsp;Seattle</span></h5>
-<div><p></p><p>produced by <a rel="nofollow" href="http://www.genderdiversity.org/" target="_blank">GenderDiversity.<small>org</small></a></p></div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/quick-links/events/conference-and-symposium/" target="_blank">Gender Spectrum</a> <span class="subheading">Every July in California</span></h5>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.ourtruecolors.org/conference/" target="_blank">True Colors</a> <span class="subheading">Annually in Hartford CT</span></h5>
