@@ -199,17 +199,17 @@ tags:
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="Transitions of the Heart: Stories of Love, Struggle and Acceptance by Mothers of Transgender and Gender Variant Children" width="414" height="" src="{{site.cache}}/books/.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Transitions of the Heart: Stories of Love, Struggle and Acceptance by Mothers of Transgender and Gender Variant Children" width="414" height="602" src="{{site.cache}}/books/Transitions-of-the-Heart-Stories-of-Love-Struggle-and-Acceptance-by-Mothers-of-Transgender-and-Gender-Variant-Children.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
-			<a class="powells" rel="nofollow" href="" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/transitions-of-the-heart-9781573447881" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1573447889" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="Redefining Realness: My Path to Womanhood, Identity, Love & So Much More" width="414" height="" src="{{site.cache}}/books/.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Redefining Realness: My Path to Womanhood, Identity, Love & So Much More" width="414" height="630" src="{{site.cache}}/books/Redefining-Realness-My-Path-to-Womanhood-Identity-Love-So-Much-More.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
-			<a class="powells" rel="nofollow" href="" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/redefining-realness-my-path-to-womanhood-identity-love-so-much-more-9781476709130" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1476709130" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
 </div>
