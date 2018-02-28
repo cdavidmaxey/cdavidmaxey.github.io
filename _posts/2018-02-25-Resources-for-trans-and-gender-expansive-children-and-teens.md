@@ -62,7 +62,7 @@ h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
 .booktopper+.bookborder{border-top:none}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.bigstockphoto.com/image-48345461/stock-photo-side-view-of-a-relaxed-young-boy-in-superhero-costume-reading-book-on-armchair' target='_blank'>&copy;</a>&nbsp;Nosnibor137"
 title: "Resources for trans and gender expansive children and teens"
-description: "Gender Unicorn & Genderbread Person, and Informational Books for Youth"
+description: "Gender Unicorn & Genderbread Person, Books, Biographies & Memoirs, Portland-Area Resources, Social Networks, Advocacy, Conferences, and Crisis Lines"
 tags:
 - Trans & Gender-Expansive
 - 🏳️‍🌈 Gender & Sexual Minorities
