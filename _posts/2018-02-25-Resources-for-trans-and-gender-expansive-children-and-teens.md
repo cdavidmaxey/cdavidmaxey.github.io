@@ -311,14 +311,6 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">Teens</div>
-		<amp-img alt="Tomboy: A Graphic Memoir" width="414" height="614" src="{{site.cache}}/books/Tomboy-A-Graphic-Memoir.jpg" sizes="8.625rem"></amp-img>
-		<div class="merchants">
-			<a class="powells" rel="nofollow" href="http://www.powells.com/book/tomboy-9781936976553" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1936976552" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
-		</div>
-	</div>
-	<div class="flexbook">
-		<div class="booktopper">Teens</div>
 		<amp-img alt="I Am J" width="414" height="621" src="{{site.cache}}/books/I-Am-J.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/i-am-j-9780316053600" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
@@ -376,6 +368,14 @@ tags:
 </div>
 <h3>Biographies & Memoirs</h3>
 <div class="flexbooklist">
+	<div class="flexbook">
+		<div class="booktopper">Teens</div>
+		<amp-img alt="Tomboy: A Graphic Memoir" width="414" height="614" src="{{site.cache}}/books/Tomboy-A-Graphic-Memoir.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/tomboy-9781936976553" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1936976552" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
 	<div class="flexbook">
 		<div class="booktopper">Teens</div>
 		<amp-img alt="Some Assembly Required:The Not-So-Secret Life of a Transgender Teen" width="414" height="621" src="{{site.cache}}/books/Some-Assembly-Required-The-Not-So-Secret-Life-of-a-Transgender-Teen.jpg" sizes="8.625rem"></amp-img>
