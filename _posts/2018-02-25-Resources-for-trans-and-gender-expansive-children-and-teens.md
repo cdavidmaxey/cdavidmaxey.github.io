@@ -366,4 +366,66 @@ tags:
 		</a>
 		<p class="credits"><a rel='nofollow' href='http://www.thegenderbook.com/'><svg xmlns='http://www.w3.org/2000/svg' viewBox='5.5 -3.5 64 64' enable-background='new 5.5 -3.5 64 64'><circle fill='#fff' cx='37.785' cy='28.501' r='28.836'/><path d='M37.441-3.5c8.951 0 16.572 3.125 22.857 9.372 3.008 3.009 5.295 6.448 6.857 10.314 1.561 3.867 2.344 7.971 2.344 12.314 0 4.381-.773 8.486-2.314 12.313-1.543 3.828-3.82 7.21-6.828 10.143-3.123 3.085-6.666 5.448-10.629 7.086-3.961 1.638-8.057 2.457-12.285 2.457s-8.276-.808-12.143-2.429c-3.866-1.618-7.333-3.961-10.4-7.027-3.067-3.066-5.4-6.524-7-10.372s-2.4-7.904-2.4-12.171c0-4.229.809-8.295 2.428-12.2 1.619-3.905 3.972-7.4 7.057-10.486 6.095-6.208 13.58-9.314 22.456-9.314zm.116 5.772c-7.314 0-13.467 2.553-18.458 7.657-2.515 2.553-4.448 5.419-5.8 8.6-1.354 3.181-2.029 6.505-2.029 9.972 0 3.429.675 6.734 2.029 9.913 1.353 3.183 3.285 6.021 5.8 8.516 2.514 2.496 5.351 4.399 8.515 5.715 3.161 1.314 6.476 1.971 9.943 1.971 3.428 0 6.75-.665 9.973-1.999 3.219-1.335 6.121-3.257 8.713-5.771 4.99-4.876 7.484-10.99 7.484-18.344 0-3.543-.648-6.895-1.943-10.057-1.293-3.162-3.18-5.98-5.654-8.458-5.146-5.143-11.335-7.715-18.573-7.715zm-.401 20.915l-4.287 2.229c-.458-.951-1.019-1.619-1.685-2-.667-.38-1.286-.571-1.858-.571-2.856 0-4.286 1.885-4.286 5.657 0 1.714.362 3.084 1.085 4.113.724 1.029 1.791 1.544 3.201 1.544 1.867 0 3.181-.915 3.944-2.743l3.942 2c-.838 1.563-2 2.791-3.486 3.686-1.484.896-3.123 1.343-4.914 1.343-2.857 0-5.163-.875-6.915-2.629-1.752-1.752-2.628-4.19-2.628-7.313 0-3.048.886-5.466 2.657-7.257 1.771-1.79 4.009-2.686 6.715-2.686 3.963-.002 6.8 1.541 8.515 4.627zm18.457 0l-4.229 2.229c-.457-.951-1.02-1.619-1.686-2-.668-.38-1.307-.571-1.914-.571-2.857 0-4.287 1.885-4.287 5.657 0 1.714.363 3.084 1.086 4.113.723 1.029 1.789 1.544 3.201 1.544 1.865 0 3.18-.915 3.941-2.743l4 2c-.875 1.563-2.057 2.791-3.541 3.686-1.486.896-3.105 1.343-4.857 1.343-2.896 0-5.209-.875-6.941-2.629-1.736-1.752-2.602-4.19-2.602-7.313 0-3.048.885-5.466 2.658-7.257 1.77-1.79 4.008-2.686 6.713-2.686 3.962-.002 6.783 1.541 8.458 4.627z'/></svg> theGENDERbook.com</a></p>
 	</div>
-</div> 
+</div>
+<h3>Biographies & Memoirs</h3>
+<div class="flexbooklist">
+	<div class="flexbook">
+		<div class="booktopper">Teens</div>
+		<amp-img alt="Some Assembly Required:The Not-So-Secret Life of a Transgender Teen" width="414" height="621" src="{{site.cache}}/books/Some-Assembly-Required-The-Not-So-Secret-Life-of-a-Transgender-Teen.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/some-assembly-required-the-not-so-secret-life-of-a-transgender-teen-9781481416764" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1481416766" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">Teens</div>
+		<amp-img alt="Rethinking Normal: A Memoir in Transition" width="414" height="622" src="{{site.cache}}/books/Rethinking-Normal-A-Memoir-in-Transition.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/rethinking-normal-9781481418249" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1481418246" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">Teens</div>
+		<amp-img alt="Beyond Magenta: Transgender Teens Speak Out" width="414" height="497" src="{{site.cache}}/books/Beyond-Magenta-Transgender-Teens-Speak-Out.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/beyond-magenta-transgender-teens-speak-out-9780763673680" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0763673684" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+</div>
+<h3>Social Networks & Online Forums</h3>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://genderspectrum.org/lounge/" target="_blank">Gender Spectrum Lounge</a></h5>
+<div><p>online community for trans teens & their parents</p></div>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transgenderpulse.com/" target="_blank">Trans Pulse</a> <span class="subheading">(formerly&nbsp;Lauras&#8209;Playground.<small>com</small>)</span></h5>
+<div><p>forums for trans people and their friends, family & allies</p></div>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.trevorspace.org/" target="_blank">Trevor Space</a></h5>
+<div><p>social network for gender & sexual minority youth ages 13&#8209;24</p></div>
+<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://youth-guard.org/" target="_blank">Youth Guardian</a></h5>
+<div><p>social network for gender & sexual minority youth ages 13&#8209;25</p></div>
+<h3>Crisis Lines</h3>
+<div class="subheading">in an emergency, call 9-1-1</div>
+<h5><svg id="svg-trans" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" style="vertical-align:bottom"><path d="M0 23.853v50.335c93.679 50.033 187.36-60.56 281.038-10.522v-50.335c-93.68-50.038-187.359 60.556-281.038 10.522z" fill="#5bcefa"/><path d="M0 59.337v44.739c93.679 50.033 187.36-60.56 281.038-10.522v-45.495c-93.68-50.038-187.359 61.311-281.038 11.277z" fill="#f5a9b8"/><path d="M0 94.961v41.992c93.679 50.033 187.36-60.56 281.038-10.522v-43.644c-93.68-50.038-187.359 62.207-281.038 12.173z" fill="#fff"/><path d="M0 130.726v38.371c93.679 50.033 187.36-60.56 281.038-10.522v-41.059c-93.68-50.038-187.359 63.244-281.038 13.21z" fill="#f5a9b8"/><path d="M0 166.35v35.624c93.679 50.033 187.36-60.56 281.038-10.522v-39.208c-93.68-50.038-187.359 64.14-281.038 14.106z" fill="#5bcefa"/></svg> <a rel="nofollow" href="https://www.translifeline.org/" target="_blank">Trans Lifeline</a></h5>
+<div>
+	<p>for trans people (calls&nbsp;answered&nbsp;by&nbsp;trans&nbsp;people)</p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-877-565-8860">(877<span class="areacode-space">)</span>565-8860</a>everyday&nbsp;8<span class="am-pm">A</span>&#8209;2<span class="am-pm">A</span>&nbsp;<small>Pacific</small></p>
+</div>
+<h5><svg id="svg-gsm" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" style="vertical-align:bottom"><path d="m 0,22.149816 v 46.7401 C 93.679,115.34958 187.36,12.65508 281.038,59.119392 v -46.7401 C 187.358,-34.08502 93.679,68.610413 0,22.149816 Z" fill="#f00"/><path d="M 0,49.90323 V 96.643322 C 93.679,143.10299 187.36,40.408495 281.038,86.872802 V 40.132706 C 187.358,-6.3316053 93.679,96.363822 0,49.90323 Z" fill="#ff8000"/><path d="m 0,80.432172 v 46.740098 c 93.679,46.45966 187.36,-56.234834 281.038,-9.77053 V 70.661648 C 187.358,24.197336 93.679,126.89276 0,80.432172 Z" fill="#ff0"/><path d="m 0,110.28046 v 46.7401 c 93.679,46.45967 187.36,-56.23484 281.038,-9.77053 v -46.7401 C 187.358,54.045628 93.679,156.74106 0,110.28046 Z" fill="#007940"/><path d="m 0,140.8094 v 46.7401 c 93.679,46.45967 187.36,-56.23484 281.038,-9.77052 v -46.7401 C 187.358,84.574572 93.679,187.27 0,140.8094 Z" fill="#4040ff"/><path d="m 0,171.33741 v 31.58938 c 93.679,46.45967 187.36,-56.23483 281.038,-9.77052 V 161.08124 C 187.358,114.61693 93.679,217.79894 0,171.33741 Z" fill="#a000c0"/></svg> <a rel="nofollow" href="https://www.thetrevorproject.org/" target="_blank">Trevor Project</a></h5>
+<div>
+	<p>for gender & sexual minority (LGBT+) youth&nbsp;ages&nbsp;13&#8209;24</p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-866-488-7386">(866<span class="areacode-space">)</span>488-7386</a><small>24/7/365</small></p>
+</div>
+<h5>Portland-Area Mental&nbsp;Health Crisis&nbsp;Lines</h5>
+<div>
+	<p>for anyone served by the county</p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-291-9111">(503<span class="areacode-space">)</span>291-9111</a><small>24/7</small>&emsp;<a rel="nofollow" href="https://www.co.washington.or.us/HHS/MentalHealth/" target="_blank">Washington</a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-988-4888">(503<span class="areacode-space">)</span>988-4888</a><small>24/7</small>&emsp;<a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention" target="_blank">Multnomah</a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-503-655-8585">(503<span class="areacode-space">)</span>655-8585</a><small>24/7</small>&emsp;<a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/" target="_blank">Clackamas</a></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-360-696-9560">(360<span class="areacode-space">)</span>696-9560</a><small>24/7</small>&emsp;<a rel="nofollow" href="https://www.clark.wa.gov/community-services/clark-county-crisis-services" target="_blank">Clark</a></p>
+</div>
+<h5><a rel="nofollow" href="https://www.linesforlife.org/get-help-now/" target="_blank">Suicide Prevention Lifelines</a></h5>
+<div>
+	<p>for anyone</p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-800-273-8255">(800<span class="areacode-space">)</span>273-8255</a><small>24/7</small></p>
+	<p><a class="a-tel" rel="nofollow" href="tel:+1-877-968-8491">(877<span class="areacode-space">)</span>968-8491</a>4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>Pacific</small><br>for&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20)</p>
+</div>
