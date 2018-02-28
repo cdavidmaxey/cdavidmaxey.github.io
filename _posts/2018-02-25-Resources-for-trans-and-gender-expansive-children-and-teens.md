@@ -100,7 +100,7 @@ tags:
 	</div>
 </section>
 </div>
-<h3>Books for Children</h3>
+<h3>Books for Children & Teens</h3>
 <div class="flexbooklist">
 	<div class="flexbook">
 		<div class="booktopper">Pre-K - K</div>
@@ -159,6 +159,14 @@ tags:
 		</div>
 	</div>
 	<div class="flexbook">
+		<div class="booktopper">Pre-K - 3<sup>rd</sup></div>
+		<amp-img alt="Be Who You Are" width="414" height="536" src="{{site.cache}}/books/Be-Who-You-Are.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/be-who-you-are-9781452087252" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1452087253" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
 		<div class="booktopper">Pre-K - 5<sup>th</sup></div>
 		<amp-img alt="They She He Me: Free to Be!" width="414" height="436" src="{{site.cache}}/books/They-She-He-Me-Free-to-Be.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
@@ -199,6 +207,14 @@ tags:
 		</div>
 	</div>
 	<div class="flexbook">
+		<div class="booktopper">3<sup>rd</sup> - 7<sup>th</sup></div>
+		<amp-img alt="The Other Boy" width="414" height="627" src="{{site.cache}}/books/The-Other-Boy.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/the-other-boy-9780062427663" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0062427660" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
 		<div class="booktopper">4<sup>th</sup> - 6<sup>th</sup></div>
 		<amp-img alt="Riding Freedom" width="414" height="602" src="{{site.cache}}/books/Riding-Freedom.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
@@ -230,6 +246,101 @@ tags:
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0763676357" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
+	<div class="flexbook">
+		<div class="booktopper">6<sup>th</sup> - 8<sup>th</sup></div>
+		<amp-img alt="The Boy in the Dress" width="414" height="635" src="{{site.cache}}/books/The-Boy-in-the-Dress.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/boy-in-the-dress-9780007279043" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0007279043" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">6<sup>th</sup> & Up</div>
+		<amp-img alt="Gracefully Grayson" width="414" height="621" src="{{site.cache}}/books/Gracefully-Grayson.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/gracefully-grayson-9781484723654" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1484723651" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">8<sup>th</sup> & up</div>
+		<amp-img alt="Luna" width="414" height="621" src="{{site.cache}}/books/Luna.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/luna-9780316011273" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0316011274" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">9<sup>th</sup> & up</div>
+		<amp-img alt="parrotfish" width="414" height="621" src="{{site.cache}}/books/parrotfish.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/parrotfish-9781481468107" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1481468103" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<amp-img alt="Freakboy" width="414" height="" src="{{site.cache}}/books/Freakboy.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/freakboy-9781250062956" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1250062950" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<amp-img alt="Every Day" width="414" height="" src="{{site.cache}}/books/Every-Day.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/every-day-9780307931894" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0307931897" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<amp-img alt="Beautiful Music for Ugly Children" width="414" height="" src="{{site.cache}}/books/Beautiful-Music-for-Ugly-Children.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/beautiful-music-for-ugly-children-9780738732510" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0738732516" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<amp-img alt="Tomboy: A Graphic Memoir" width="414" height="" src="{{site.cache}}/books/Tomboy-A-Graphic-Memoir.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/tomboy-9781936976553" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1936976552" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<amp-img alt="I Am J" width="414" height="" src="{{site.cache}}/books/I-Am-J.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/i-am-j-9780316053600" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0316053600" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<amp-img alt="Almost Perfect" width="414" height="" src="{{site.cache}}/books/Almost-Perfect.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/almost-perfect-9780385736657" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0385736657" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<amp-img alt="Alex As Well" width="414" height="" src="{{site.cache}}/books/Alex-As-Well.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/alex-as-well-9781250073631" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1250073634" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<amp-img alt="Being Emily" width="414" height="" src="{{site.cache}}/books/Being-Emily.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/being-emily-9781594932830" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1594932832" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+<!--<div class="flexbook">
+		<amp-img alt="" width="414" height="" src="{{site.cache}}/books/.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>-->
 </div>
 <h3>Informational Books for Youth</h3>
 <div class="flexbooklist">
