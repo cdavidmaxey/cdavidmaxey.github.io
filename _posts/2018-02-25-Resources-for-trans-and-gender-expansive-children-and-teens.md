@@ -378,6 +378,14 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">Teens</div>
+		<amp-img alt="Beyond Magenta: Transgender Teens Speak Out" width="414" height="497" src="{{site.cache}}/books/Beyond-Magenta-Transgender-Teens-Speak-Out.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/beyond-magenta-transgender-teens-speak-out-9780763673680" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0763673684" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">Teens</div>
 		<amp-img alt="Some Assembly Required:The Not-So-Secret Life of a Transgender Teen" width="414" height="621" src="{{site.cache}}/books/Some-Assembly-Required-The-Not-So-Secret-Life-of-a-Transgender-Teen.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/some-assembly-required-the-not-so-secret-life-of-a-transgender-teen-9781481416764" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
@@ -390,14 +398,6 @@ tags:
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/rethinking-normal-9781481418249" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1481418246" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
-		</div>
-	</div>
-	<div class="flexbook">
-		<div class="booktopper">Teens</div>
-		<amp-img alt="Beyond Magenta: Transgender Teens Speak Out" width="414" height="497" src="{{site.cache}}/books/Beyond-Magenta-Transgender-Teens-Speak-Out.jpg" sizes="8.625rem"></amp-img>
-		<div class="merchants">
-			<a class="powells" rel="nofollow" href="http://www.powells.com/book/beyond-magenta-transgender-teens-speak-out-9780763673680" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
-			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0763673684" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 		</div>
 	</div>
 </div>
