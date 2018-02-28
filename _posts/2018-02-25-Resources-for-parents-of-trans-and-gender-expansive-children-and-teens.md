@@ -192,7 +192,7 @@ tags:
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="Rethinking Normal: A Memoir in Transition" width="414" height="" src="{{site.cache}}/books/Rethinking-Normal-A-Memoir-in-Transition.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Rethinking Normal: A Memoir in Transition" width="414" height="622" src="{{site.cache}}/books/Rethinking-Normal-A-Memoir-in-Transition.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/rethinking-normal-9781481418249" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1481418246" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
