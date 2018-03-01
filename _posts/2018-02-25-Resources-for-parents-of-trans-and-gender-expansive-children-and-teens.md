@@ -28,7 +28,7 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: ".quick-reference{display:flex;text-align:center}
+style: ".quick-reference{display:flex;text-align:center;font-size:.875rem}
 .quick-reference>div{width:calc(100% / 3);padding:.35rem}
 .quick-reference svg{width:75%}
 .quick-reference span{font-weight:bold;color:#9c27b0}
