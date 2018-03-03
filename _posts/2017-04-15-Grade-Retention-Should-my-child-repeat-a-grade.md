@@ -2,13 +2,13 @@
 updated:
 layout: post
 published: TRUE
-alt: "Boy taller than classmates"
+alt: "Child taller than classmates"
 thumb:
-  src: "boy-taller-than-classmates.jpg"
+  src: "student-taller-than-classmates.jpg"
   X: 6750
   Y: 3975
 image:
-  src: "boy-taller-than-classmates.jpg"
+  src: "student-taller-than-classmates.jpg"
   X: 6750
   Y: 3975
 video:

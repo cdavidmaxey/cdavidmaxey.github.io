@@ -6,13 +6,13 @@ published: TRUE
 redirect_from:
 - "/Sunscreen-lotion-wont-work-if-it-stays-in-the-bottle/"
 - "/Sun-protection-Sunscreen-wont-work-if-it-stays-in-the-bottle/"
-alt:
+alt: "siblings applying sunscreen at the beach"
 thumb:
-  src: "brothers-applying-sunscreen-at-the-beach.jpg"
+  src: "siblings-applying-sunscreen-at-the-beach.jpg"
   X: 5243
   Y: 2893
 image:
-  src: "brothers-applying-sunscreen-at-the-beach.jpg"
+  src: "siblings-applying-sunscreen-at-the-beach.jpg"
   X: 5243
   Y: 2893
 video:

@@ -3,13 +3,13 @@ date: "2014-03-24T00:00:00-08:00"
 updated: "2014-03-24T00:00:00-08:00"
 layout: post
 published: TRUE
-alt: "girl brushing teeth in the bath"
+alt: "child brushing teeth in the bath"
 thumb:
-  src: "girl-brushing-teeth-in-the-bath.jpg"
+  src: "child-brushing-teeth-in-the-bath.jpg"
   X: 6500
   Y: 3515
 image:
-  src: "girl-brushing-teeth-in-the-bath.jpg"
+  src: "child-brushing-teeth-in-the-bath.jpg"
   X: 6500
   Y: 3515
 video:

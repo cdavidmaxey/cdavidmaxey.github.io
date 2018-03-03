@@ -2,13 +2,13 @@
 updated:
 layout: post
 published: TRUE
-alt: "Girl working at board in immersion school"
+alt: "student working at board in immersion school"
 thumb:
-  src: "girl-working-at-board-in-immersion-school.jpg"
+  src: "student-working-at-board-in-immersion-school.jpg"
   X: 5398
   Y: 2932
 image:
-  src: "girl-working-at-board-in-immersion-school.jpg"
+  src: "student-working-at-board-in-immersion-school.jpg"
   X: 5398
   Y: 2932
 video:
