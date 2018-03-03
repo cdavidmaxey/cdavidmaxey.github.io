@@ -29,9 +29,12 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "table{border-collapse:collapse}
+thead{vertical-align:bottom}
 tbody>tr:nth-child(2n-1) td{border-bottom:1px dotted black}
 tbody>tr:nth-child(2n-1) td:first-child,tbody>tr:nth-child(2n) td{border-bottom:1px solid black}
-tbody{border-top:2px solid black;border-bottom:2px solid black}
+thead>tr{border-bottom:2px solid black}
+thead>tr:first-child{border-bottom:1px dotted black}
+thead,tbody{border-top:2px solid black;border-bottom:2px solid black}
 tbody>tr:nth-child(2n){font-size:.875em}
 sup.footnote{font-weight:normal;font-size:.875em}
 .footnotes{font-size:.875em}"
@@ -45,8 +48,8 @@ tags:
 <table class="center">
 	<thead>
 		<tr>
-			<th rowspan="3">Age Group</th>
-			<th colspan="2">Recommended Hours of Sleep per Day</th>
+			<th rowspan="3">Age<br>Group</th>
+			<th colspan="2">Recommended Hours<br>of Sleep per Day</th>
 		</tr>
 		<tr><th colspan="2">(Ages)</th></tr>
 		<tr>
