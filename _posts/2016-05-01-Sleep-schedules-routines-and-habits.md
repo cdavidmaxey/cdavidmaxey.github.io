@@ -31,6 +31,7 @@ variables:
 style: "table{border-collapse:collapse}
 tbody>tr:nth-child(2n-1) td:first-child,tbody>tr:nth-child(2n) td{border-bottom:1px solid black}
 tbody{border-top:2px solid black;border-bottom:2px solid black}
+tbody>tr:nth-child(2n){font-size:.875em}
 sup.footnote{font-weight:normal;font-size:.875em}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-preteen-handsome-boy-read-book-lamp-sleep-image58081725' target='_blank'>&copy;</a>&nbsp;Ulianna19970"
 title: "Sleep schedules, routines & habits"
@@ -55,38 +56,38 @@ tags:
 		<tr>
 			<td rowspan="2">Newborn</td>
 			<td>14–17<sup>1</sup></td>
-			<td>No recommendation</td>
+			<td></td>
 		</tr>
-		<tr><td colspan="2">3 months & under</td></tr>
+		<tr><td>(3months & under)</td><td></td></tr>
 		<tr>
 			<td rowspan="2">Infant</td>
 			<td>12-15<sup>2</sup></td>
 			<td>12-16<sup class="footnote">*</sup></td>
 		</tr>
 		<tr>
-			<td>4-11 months</td>
-			<td>4-12 months</td>
+			<td>(4-11 months)</td>
+			<td>(4-12 months)</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Toddler</td>
 			<td>11-14<sup>3</sup></td>
 			<td>11-14<sup class="footnote">*</sup></td>
 		</tr>
-		<tr><td colspan="2">1-2 years</td></tr>
+		<tr><td colspan="2">(1-2 years)</td></tr>
 		<tr>
 			<td rowspan="2">Preschool</td>
 			<td>10-13<sup>4</sup></td>
 			<td>10-13<sup class="footnote">*</sup></td>
 		</tr>
-		<tr><td colspan="2">3-5 years</td></tr>
+		<tr><td colspan="2">(3-5 years)</td></tr>
 		<tr>
 			<td rowspan="2">School Age<br></td>
 			<td>9-11<sup>5</sup></td>
 			<td>9-12</td>
 		</tr>
 		<tr>
-			<td>6-13 years</td>
-			<td>6-12 years</td>
+			<td>(6-13 years)</td>
+			<td>(6-12 years)</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Teens</td>
@@ -94,8 +95,8 @@ tags:
 			<td>8-10</td>
 		</tr>
 		<tr>
-			<td>14-17 years</td>
-			<td>13-18 years</td>
+			<td>(14-17 years)</td>
+			<td>(13-18 years)</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Young Adults</td>
@@ -103,7 +104,7 @@ tags:
 			<td></td>
 		</tr>
 		<tr>
-			<td>18-25 years</td>
+			<td>(18-25 years)</td>
 			<td></td>
 		</tr>
 		<tr>
@@ -112,8 +113,8 @@ tags:
 			<td>7+</td>
 		</tr>
 		<tr>
-			<td>26-64 years</td>
-			<td></td>
+			<td>(26-64 years)</td>
+			<td>(18-60 years)</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Older Adults</td>
@@ -121,7 +122,7 @@ tags:
 			<td></td>
 		</tr>
 		<tr>
-			<td>65 years & up</td>
+			<td>(65 years & up)</td>
 			<td></td>
 		</tr>
 	</tbody>
