@@ -63,7 +63,7 @@ tags:
 			<td>14–17<sup>1</sup></td>
 			<td></td>
 		</tr>
-		<tr><td>(3months & under)</td><td></td></tr>
+		<tr><td>(&le;3 months)</td><td></td></tr>
 		<tr>
 			<td rowspan="2">Infant</td>
 			<td>12-15<sup>2</sup></td>
@@ -78,13 +78,13 @@ tags:
 			<td>11-14<sup>3</sup></td>
 			<td>11-14<sup class="footnote">*</sup></td>
 		</tr>
-		<tr><td colspan="2">(1-2 years)</td></tr>
+		<tr><td>(1-2 years)</td><td>(1-2 years)</td></tr>
 		<tr>
 			<td rowspan="2">Preschool</td>
 			<td>10-13<sup>4</sup></td>
 			<td>10-13<sup class="footnote">*</sup></td>
 		</tr>
-		<tr><td colspan="2">(3-5 years)</td></tr>
+		<tr><td>(3-5 years)</td><td>(3-5 years)</td></tr>
 		<tr>
 			<td rowspan="2">School<br>Age<br></td>
 			<td>9-11<sup>5</sup></td>
@@ -127,7 +127,7 @@ tags:
 			<td></td>
 		</tr>
 		<tr>
-			<td>(65 years & up)</td>
+			<td>(&ge;65 years)</td>
 			<td></td>
 		</tr>
 	</tbody>
