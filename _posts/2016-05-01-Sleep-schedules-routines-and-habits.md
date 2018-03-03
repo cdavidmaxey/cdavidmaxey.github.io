@@ -30,8 +30,9 @@ variables:
 - disablekb=1
 style: "table{border-collapse:collapse}
 thead{vertical-align:bottom}
-tbody>tr:nth-child(2n-1) td{border-bottom:1px dotted black}
-tbody>tr:nth-child(2n-1) td:first-child,tbody>tr:nth-child(2n) td{border-bottom:1px solid black}
+th,td{padding:0 .75em}
+tbody>tr:nth-child(2n) td{border-bottom:1px solid black;padding:.325em 0.25rem .325em}
+tbody>tr:nth-child(2n-1) td:not(:first-child){border-bottom:1px dotted black}
 thead>tr{border-bottom:2px solid black}
 thead>tr:first-child{border-bottom:1px dotted black}
 thead,tbody{border-top:2px solid black;border-bottom:2px solid black}
@@ -87,7 +88,7 @@ tags:
 		</tr>
 		<tr><td>(3-5 years)</td><td>(3-5 years)</td></tr>
 		<tr>
-			<td rowspan="2">School<br>Age<br></td>
+			<td rowspan="2">School Age<br></td>
 			<td>9-11<sup>e</sup></td>
 			<td>9-12</td>
 		</tr>
@@ -105,7 +106,7 @@ tags:
 			<td>(13-18 years)</td>
 		</tr>
 		<tr>
-			<td rowspan="2">Young<br>Adults</td>
+			<td rowspan="2">Young Adults</td>
 			<td>7-9<sup>g</sup></td>
 			<td></td>
 		</tr>
@@ -123,7 +124,7 @@ tags:
 			<td>(18-60 years)</td>
 		</tr>
 		<tr>
-			<td rowspan="2">Older<br>Adults</td>
+			<td rowspan="2">Older Adults</td>
 			<td>7-8<sup>i</sup></td>
 			<td></td>
 		</tr>
