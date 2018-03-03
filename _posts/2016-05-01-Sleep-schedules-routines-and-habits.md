@@ -33,7 +33,8 @@ tbody>tr:nth-child(2n-1) td:first-child,tbody>tr:nth-child(2n) td{border-bottom:
 tbody{border-top:2px solid black;border-bottom:2px solid black}
 tbody>tr:nth-child(2n){font-size:.875em}
 tbody>tr:nth-child(2n-1) td:nth-child(n+1){border-bottom:1px dotted black}
-sup.footnote{font-weight:normal;font-size:.875em}"
+sup.footnote{font-weight:normal;font-size:.875em}
+.footnotes{font-size:.875em}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-preteen-handsome-boy-read-book-lamp-sleep-image58081725' target='_blank'>&copy;</a>&nbsp;Ulianna19970"
 title: "Sleep schedules, routines & habits"
 description: "Recommended hours of sleep per day"
@@ -128,7 +129,7 @@ tags:
 		</tr>
 	</tbody>
 </table>
-<div>
+<div class="footnotes">
 	<sup>1</sup>less than 11 hours or more than 19 hours are not recommended for newborns.<br>
 	<sup>2</sup>less than 10 hours or more than 18 hours are not recommended for infants.<br>
 	<sup>3</sup>less than 9 hours or more than 16 hours are not recommended for toddlers.<br>
