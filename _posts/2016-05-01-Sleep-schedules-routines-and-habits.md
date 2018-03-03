@@ -45,13 +45,14 @@ tags:
 - Sleep
 - Health
 ---
+<h3>Recommended Sleep Duration</h3>
 <table class="center">
 	<thead>
 		<tr>
-			<th rowspan="3">Age<br>Group</th>
-			<th colspan="2">Recommended Hours<br>of Sleep per Day</th>
+			<th rowspan="3">Age Group</th>
+			<th colspan="2">Hours per Day</th>
 		</tr>
-		<tr><th colspan="2">(Ages)</th></tr>
+		<tr><th colspan="2">(Age Range)</th></tr>
 		<tr>
 			<th>NSF<sup class="footnote">&dagger;</sup></th>
 			<th>AASM<sup class="footnote">&Dagger;</sup></th>
