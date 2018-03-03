@@ -98,19 +98,19 @@ tags:
 			<td>&nbsp;&lt;7 or &gt;11</td>
 		</tr>
 		<tr>
-			<td>Young Adults<span>(18-25 years)</span></td>
+			<td>Young Adults<br><span>(18-25 years)</span></td>
 			<td>&nbsp;7-9&nbsp;</td>
 			<td>&nbsp;6-11</td>
 			<td>&nbsp;&lt;6 or &gt;11</td>
 		</tr>
 		<tr>
-			<td>Adults<span>(26-64 years)</span></td>
+			<td>Adults<br><span>(26-64 years)</span></td>
 			<td>&nbsp;7-9&nbsp;</td>
 			<td>&nbsp;6-10</td>
 			<td>&nbsp;&lt;6 or &gt;10</td>
 		</tr>
 		<tr>
-			<td>Older Adults<span>(&ge;65 years)</span></td>
+			<td>Older Adults<br><span>(&ge;65 years)</span></td>
 			<td>&nbsp;7-8&nbsp;</td>
 			<td>&nbsp;5-9&nbsp;</td>
 			<td>&nbsp;&lt;5 or &gt;9&nbsp;</td>
