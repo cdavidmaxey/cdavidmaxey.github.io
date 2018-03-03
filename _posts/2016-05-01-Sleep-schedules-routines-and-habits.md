@@ -32,6 +32,7 @@ style: "table{border-collapse:collapse}
 tbody>tr:nth-child(2n-1) td:first-child,tbody>tr:nth-child(2n) td{border-bottom:1px solid black}
 tbody{border-top:2px solid black;border-bottom:2px solid black}
 tbody>tr:nth-child(2n){font-size:.875em}
+tbody>tr:nth-child(2n-1) td:nth-child(n+1){border-bottom:1px dotted black}
 sup.footnote{font-weight:normal;font-size:.875em}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-preteen-handsome-boy-read-book-lamp-sleep-image58081725' target='_blank'>&copy;</a>&nbsp;Ulianna19970"
 title: "Sleep schedules, routines & habits"
@@ -81,7 +82,7 @@ tags:
 		</tr>
 		<tr><td colspan="2">(3-5 years)</td></tr>
 		<tr>
-			<td rowspan="2">School Age<br></td>
+			<td rowspan="2">School<br>Age<br></td>
 			<td>9-11<sup>5</sup></td>
 			<td>9-12</td>
 		</tr>
@@ -99,7 +100,7 @@ tags:
 			<td>(13-18 years)</td>
 		</tr>
 		<tr>
-			<td rowspan="2">Young Adults</td>
+			<td rowspan="2">Young<br>Adults</td>
 			<td>7-9<sup>7</sup></td>
 			<td></td>
 		</tr>
@@ -117,7 +118,7 @@ tags:
 			<td>(18-60 years)</td>
 		</tr>
 		<tr>
-			<td rowspan="2">Older Adults</td>
+			<td rowspan="2">Older<br>Adults</td>
 			<td>7-8<sup>9</sup></td>
 			<td></td>
 		</tr>
