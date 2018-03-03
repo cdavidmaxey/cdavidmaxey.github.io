@@ -47,105 +47,73 @@ tags:
 - Sleep
 - Health
 ---
-<h3>Recommended Sleep Duration</h3>
+<h3>Recommended Sleep Time Duration (National Sleep Foundation, 2015)</h3>
 <table class="center">
 	<thead>
 		<tr>
-			<th rowspan="3">Age Group</th>
-			<th colspan="2">Hours per Day</th>
+			<th rowspan="2">Age Group</th>
+			<th colspan="3">Hours of Sleep per Day</th>
 		</tr>
-		<tr><th colspan="2">(Age Range)</th></tr>
 		<tr>
-			<th>NSF<sup class="footnote">&dagger;</sup></th>
-			<th>AASM<sup class="footnote">&Dagger;</sup></th>
+			<th>Recommended</th>
+			<th>May be<br>Appropriate</th>
+			<th>Not<br>Recommended</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="2">Newborn</td>
-			<td>14–17<sup>a</sup></td>
-			<td></td>
-		</tr>
-		<tr><td>(&le;3 months)</td><td></td></tr>
-		<tr>
-			<td rowspan="2">Infant</td>
-			<td>12-15<sup>b</sup></td>
-			<td>12-16<sup class="footnote">*</sup></td>
+			<td>Newborn<br><span>(&le;3 months)</span></td>
+			<td>14–17</td>
+			<td>11-19</td>
+			<td>&lt;11 or &gt;19</td>
 		</tr>
 		<tr>
-			<td>(4-11 months)</td>
-			<td>(4-12 months)</td>
+			<td>Infant<br><span>(4-11 months)</span></td>
+			<td>12-15</td>
+			<td>10-18</td>
+			<td>&lt;10 or &gt;18</td>
 		</tr>
 		<tr>
-			<td rowspan="2">Toddler</td>
-			<td>11-14<sup>c</sup></td>
-			<td>11-14<sup class="footnote">*</sup></td>
-		</tr>
-		<tr><td>(1-2 years)</td><td>(1-2 years)</td></tr>
-		<tr>
-			<td rowspan="2">Preschool</td>
-			<td>10-13<sup>d</sup></td>
-			<td>10-13<sup class="footnote">*</sup></td>
-		</tr>
-		<tr><td>(3-5 years)</td><td>(3-5 years)</td></tr>
-		<tr>
-			<td rowspan="2">School Age<br></td>
-			<td>9-11<sup>e</sup></td>
-			<td>9-12</td>
+			<td>Toddler<br><span>(1-2 years)</span></td>
+			<td>11-14</td>
+			<td>&nbsp;9-16</td>
+			<td>&nbsp;&lt;9 or &gt;16</td>
 		</tr>
 		<tr>
-			<td>(6-13 years)</td>
-			<td>(6-12 years)</td>
+			<td>Preschool<br><span>(3-5 years)</span></td>
+			<td>10-13</td>
+			<td>&nbsp;8-14</td>
+			<td>&nbsp;&lt;8 or &gt;14</td>
 		</tr>
 		<tr>
-			<td rowspan="2">Teens</td>
-			<td>8-10<sup>f</sup></td>
-			<td>8-10</td>
+			<td>School Age<br><span>(6-13 years)</span></td>
+			<td>&nbsp;9-11</td>
+			<td>&nbsp;7-12</td>
+			<td>&nbsp;&lt;7 or &gt;12</td>
 		</tr>
 		<tr>
-			<td>(14-17 years)</td>
-			<td>(13-18 years)</td>
+			<td>Teens<br><span>(14-17 years)</span></td>
+			<td>&nbsp;8-10</td>
+			<td>&nbsp;7-11</td>
+			<td>&nbsp;&lt;7 or &gt;11</td>
 		</tr>
 		<tr>
-			<td rowspan="2">Young Adults</td>
-			<td>7-9<sup>g</sup></td>
-			<td></td>
+			<td>Young Adults<span>(18-25 years)</span></td>
+			<td>&nbsp;7-9&nbsp;</td>
+			<td>&nbsp;6-11</td>
+			<td>&nbsp;&lt;6 or &gt;11</td>
 		</tr>
 		<tr>
-			<td>(18-25 years)</td>
-			<td></td>
+			<td>Adults<span>(26-64 years)</span></td>
+			<td>&nbsp;7-9&nbsp;</td>
+			<td>&nbsp;6-10</td>
+			<td>&nbsp;&lt;6 or &gt;10</td>
 		</tr>
 		<tr>
-			<td rowspan="2">Adults</td>
-			<td>7-9<sup>h</sup></td>
-			<td>7+</td>
-		</tr>
-		<tr>
-			<td>(26-64 years)</td>
-			<td>(18-60 years)</td>
-		</tr>
-		<tr>
-			<td rowspan="2">Older Adults</td>
-			<td>7-8<sup>i</sup></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>(&ge;65 years)</td>
-			<td></td>
+			<td>Older Adults<span>(&ge;65 years)</span></td>
+			<td>&nbsp;7-8&nbsp;</td>
+			<td>&nbsp;5-9&nbsp;</td>
+			<td>&nbsp;&lt;5 or &gt;9&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<div class="footnotes">
-	<sup>a</sup>less than 11 hours or more than 19 hours are not recommended for newborns.<br>
-	<sup>b</sup>less than 10 hours or more than 18 hours are not recommended for infants.<br>
-	<sup>c</sup>less than 9 hours or more than 16 hours are not recommended for toddlers.<br>
-	<sup>d</sup>less than 8 hours or more than 14 hours are not recommended for preschoolers.<br>
-	<sup>e</sup>less than 7 hours or more than 12 hours are not recommended for school age children.<br>
-	<sup>f</sup>less than 7 hours or more than 11 hours are not recommended for teens.<br>
-	<sup>g</sup>less than 6 hours or more than 11 hours are not recommended for young adults.<br>
-	<sup>h</sup>less than 6 hours or more than 10 hours are not recommended for adults.<br>
-	<sup>i</sup>less than 5 hours or more than 9 hours are not recommended for older adults.<br>
-	<sup class="footnote">*</sup>including naps<br>
-	<sup class="footnote">&dagger;</sup>National Sleep Foundation (see National Sleep Foundation's sleep time duration recommendations: Methodology and results summary, 2015)<br>
-	<sup class="footnote">&Dagger;</sup>For children, American Academy of Sleep Medicine (see Recommened amount of sleep for pediatric populations: A consensus statement of the American Academy of Sleep Medicine, 2016). For adults, American Academy of Sleep Medicine & Sleep Research Society (see Recommended amount of sleep for a healthy adult: A joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society, 2015).
-</div>
