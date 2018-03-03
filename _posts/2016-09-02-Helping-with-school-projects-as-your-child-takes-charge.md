@@ -2,13 +2,13 @@
 updated:
 layout: post
 published: FALSE
-alt: "Girl working on science project with parent"
+alt: "child working on science project with parent"
 thumb:
-  src: "girl-working-on-science-project-with-parent.jpg"
+  src: "child-working-on-science-project-with-parent.jpg"
   X: 1
   Y: 1
 image:
-  src: "girl-working-on-science-project-with-parent.jpg"
+  src: "child-working-on-science-project-with-parent.jpg"
   X: 1
   Y: 1
 video:
