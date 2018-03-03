@@ -29,10 +29,10 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "table{border-collapse:collapse}
+tbody>tr:nth-child(2n-1) td{border-bottom:1px dotted black}
 tbody>tr:nth-child(2n-1) td:first-child,tbody>tr:nth-child(2n) td{border-bottom:1px solid black}
 tbody{border-top:2px solid black;border-bottom:2px solid black}
 tbody>tr:nth-child(2n){font-size:.875em}
-tbody>tr:nth-child(2n-1) td:nth-child(n+1){border-bottom:1px dotted black}
 sup.footnote{font-weight:normal;font-size:.875em}
 .footnotes{font-size:.875em}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-preteen-handsome-boy-read-book-lamp-sleep-image58081725' target='_blank'>&copy;</a>&nbsp;Ulianna19970"
