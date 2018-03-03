@@ -28,8 +28,10 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: "sup.footnote{font-weight:normal;font-size:.875em}
-tbody>tr:nth-child(2n){border-bottom:2px solid black}"
+style: "table{border-collapse:collapse}
+tbody>tr:nth-child(2n-1) td:first-child,tbody>tr:nth-child(2n) td{border-bottom:1px solid black}
+tbody{border-top:2px solid black;border-bottom:2px solid black}
+sup.footnote{font-weight:normal;font-size:.875em}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-preteen-handsome-boy-read-book-lamp-sleep-image58081725' target='_blank'>&copy;</a>&nbsp;Ulianna19970"
 title: "Sleep schedules, routines & habits"
 description: "Recommended hours of sleep per day"
@@ -114,7 +116,7 @@ tags:
 			<td></td>
 		</tr>
 		<tr>
-			<td>Older Adults</td>
+			<td rowspan="2">Older Adults</td>
 			<td>7-8<sup>9</sup></td>
 			<td></td>
 		</tr>
