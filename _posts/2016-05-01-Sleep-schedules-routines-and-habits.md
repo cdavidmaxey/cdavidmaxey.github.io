@@ -78,7 +78,6 @@ tags:
 			<td>Preschool<br><span>(3-5 years)</span></td>
 			<td>10-13</td>
 			<td>&nbsp;8-14</td>
-			<td>&nbsp;&lt;8 or &gt;14</td>
 		</tr>
 		<tr>
 			<td>School Age<br><span>(6-13 years)</span></td>
