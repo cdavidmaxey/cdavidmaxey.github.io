@@ -30,12 +30,11 @@ variables:
 - disablekb=1
 style: "table{border-collapse:collapse}
 thead{vertical-align:bottom}
-th:not(:first-child),td:not(:first-child){padding:0 .5em}
-tbody>tr td:first-child span{font-size:.75em}
-tbody>tr td{border-bottom:1px solid black}
-thead>tr{border-bottom:2px solid black}
+tr:not(:first-child) th,td:not(:first-child){padding:0 .5em}
+td:first-child span{font-size:.75em}
+td{border-bottom:1px solid black}
 thead>tr:first-child{border-bottom:1px solid black}
-thead>tr:nth-child(2){font-size:.75em}
+@media(max-width:450px){thead>tr:nth-child(2){font-size:.75em}}
 thead,tbody{border-top:2px solid black;border-bottom:2px solid black}
 sup{padding:0 .075rem}
 sup.footnote{font-weight:normal;font-size:.875em}
@@ -51,8 +50,8 @@ tags:
 <table class="center">
 	<thead>
 		<tr>
-			<th rowspan="2">Age Group</th>
-			<th colspan="2">Hours per Day</th>
+			<th rowspan="2">Age&nbsp;Group</th>
+			<th colspan="2">Hours per&nbsp;Day</th>
 		</tr>
 		<tr>
 			<th>Recommended</th>
