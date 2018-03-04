@@ -121,5 +121,5 @@ tags:
 </table>
 <div class="footnotes">
 	<sup>*</sup>NSF recommends against sleep time duration outside of the <i>May be Appropriate</i> range.<br>
-	<sup>&dagger;</sup>AASM's school age and teens recommendations are for 6&#8209;12 and 13&#8209;18 year olds, respectively.
+	<sup>&dagger;</sup>AASM’s school age and teens recommendations are for 6&#8209;12 and 13&#8209;18 year olds, respectively.
 </div>
