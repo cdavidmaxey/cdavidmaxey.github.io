@@ -56,7 +56,7 @@ tags:
 		</tr>
 		<tr>
 			<th>Recommended</th>
-			<th>May be<br>Appropriate</th>
+			<th>May&nbsp;be Appropriate</th>
 		</tr>
 	</thead>
 	<tbody>
