@@ -44,7 +44,7 @@ title: "Sleep schedules, routines & habits"
 description: "Recommended hours of sleep per day"
 tags:
 - Sleep
-- Health
+- Health Habits
 ---
 <h3>Recommended Sleep Time Duration (National Sleep Foundation, 2015 & American Academy of Sleep Medicine, 2016)</h3>
 <table class="center">
@@ -120,6 +120,6 @@ tags:
 	</tbody>
 </table>
 <div class="footnotes">
-	<sup>*</sup>NSF recommends against sleep time duration outside of the <i>May be Appropriate</i>range.<br>
+	<sup>*</sup>NSF recommends against sleep time duration outside of the <i>May be Appropriate</i> range.<br>
 	<sup>&dagger;</sup>AASM's school age and teens recommendations are for 6&#8209;12 and 13&#8209;18 year olds, respectively.
 </div>
