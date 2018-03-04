@@ -31,7 +31,7 @@ variables:
 style: "table{border-collapse:collapse}
 thead{vertical-align:bottom}
 th:not(:first-child),td:not(:first-child){padding:0 .5em}
-tbody>tr td:first-child span{font-size:.625em;padding:.325em 0.25rem .325em}
+tbody>tr td:first-child span{font-size:.75em}
 tbody>tr td{border-bottom:1px solid black}
 thead>tr{border-bottom:2px solid black}
 thead>tr:first-child{border-bottom:1px solid black}
@@ -62,48 +62,48 @@ tags:
 	<tbody>
 		<tr>
 			<td>Newborn<br><span>(&le;3 months)</span></td>
-			<td>14–17</td>
-			<td>11-19</td>
+			<td class="mono">14–17</td>
+			<td class="mono">11-19</td>
 		</tr>
 		<tr>
 			<td>Infant<br><span>(4-11 months)</span></td>
-			<td>12-15</td>
-			<td>10-18</td>
+			<td class="mono">12-15</td>
+			<td class="mono">10-18</td>
 		</tr>
 		<tr>
 			<td>Toddler<br><span>(1-2 years)</span></td>
-			<td>11-14</td>
-			<td>&nbsp;9-16</td>
+			<td class="mono">11-14</td>
+			<td class="mono">&nbsp;9-16</td>
 		</tr>
 		<tr>
 			<td>Preschool<br><span>(3-5 years)</span></td>
-			<td>10-13</td>
-			<td>&nbsp;8-14</td>
+			<td class="mono">10-13</td>
+			<td class="mono">&nbsp;8-14</td>
 		</tr>
 		<tr>
 			<td>School Age<br><span>(6-13 years)</span></td>
-			<td>&nbsp;9-11</td>
-			<td>&nbsp;7-12</td>
+			<td class="mono">&nbsp;9-11</td>
+			<td class="mono">&nbsp;7-12</td>
 		</tr>
 		<tr>
 			<td>Teens<br><span>(14-17 years)</span></td>
-			<td>&nbsp;8-10</td>
-			<td>&nbsp;7-11</td>
+			<td class="mono">&nbsp;8-10</td>
+			<td class="mono">&nbsp;7-11</td>
 		</tr>
 		<tr>
 			<td>Young Adults<br><span>(18-25 years)</span></td>
-			<td>&nbsp;7-9&nbsp;</td>
-			<td>&nbsp;6-11</td>
+			<td class="mono">&nbsp;7-9&nbsp;</td>
+			<td class="mono">&nbsp;6-11</td>
 		</tr>
 		<tr>
 			<td>Adults<br><span>(26-64 years)</span></td>
-			<td>&nbsp;7-9&nbsp;</td>
-			<td>&nbsp;6-10</td>
+			<td class="mono">&nbsp;7-9&nbsp;</td>
+			<td class="mono">&nbsp;6-10</td>
 		</tr>
 		<tr>
 			<td>Older Adults<br><span>(&ge;65 years)</span></td>
-			<td>&nbsp;7-8&nbsp;</td>
-			<td>&nbsp;5-9&nbsp;</td>
+			<td class="mono">&nbsp;7-8&nbsp;</td>
+			<td class="mono">&nbsp;5-9&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
