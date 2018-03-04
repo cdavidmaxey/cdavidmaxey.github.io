@@ -65,60 +65,60 @@ tags:
 		<tr>
 			<td>Newborn<br><span>(&le;3 months)</span></td>
 			<td></td>
-			<td class="mono">14–17</td>
-			<td class="mono">11-19</td>
+			<td class="mono">14&#8209;17</td>
+			<td class="mono">11&#8209;19</td>
 		</tr>
 		<tr>
-			<td>Infant<br><span>(4-11 months)</span></td>
-			<td class="mono">12-16</td>
-			<td class="mono">12-15</td>
-			<td class="mono">10-18</td>
+			<td>Infant<br><span>(4&#8209;11 months)</span></td>
+			<td class="mono">12&#8209;16</td>
+			<td class="mono">12&#8209;15</td>
+			<td class="mono">10&#8209;18</td>
 		</tr>
 		<tr>
-			<td>Toddler<br><span>(1-2 years)</span></td>
-			<td class="mono">11-14</td>
-			<td class="mono">11-14</td>
-			<td class="mono">&nbsp;9-16</td>
+			<td>Toddler<br><span>(1&#8209;2 years)</span></td>
+			<td class="mono">11&#8209;14</td>
+			<td class="mono">11&#8209;14</td>
+			<td class="mono">&nbsp;9&#8209;16</td>
 		</tr>
 		<tr>
-			<td>Preschool<br><span>(3-5 years)</span></td>
-			<td class="mono">10-13</td>
-			<td class="mono">10-13</td>
-			<td class="mono">&nbsp;8-14</td>
+			<td>Preschool<br><span>(3&#8209;5 years)</span></td>
+			<td class="mono">10&#8209;13</td>
+			<td class="mono">10&#8209;13</td>
+			<td class="mono">&nbsp;8&#8209;14</td>
 		</tr>
 		<tr>
-			<td>School&nbsp;Age<br><span>(6-13 years)<sup>&dagger;</sup></span></td>
-			<td class="mono">&nbsp;9-12</td>
-			<td class="mono">&nbsp;9-11</td>
-			<td class="mono">&nbsp;7-12</td>
+			<td>School&nbsp;Age<br><span>(6&#8209;13 years)<sup>&dagger;</sup></span></td>
+			<td class="mono">&nbsp;9&#8209;12</td>
+			<td class="mono">&nbsp;9&#8209;11</td>
+			<td class="mono">&nbsp;7&#8209;12</td>
 		</tr>
 		<tr>
-			<td>Teens<br><span>(14-17 years)<sup>&dagger;</sup></span></td>
-			<td class="mono">&nbsp;8-10</td>
-			<td class="mono">&nbsp;8-10</td>
-			<td class="mono">&nbsp;7-11</td>
+			<td>Teens<br><span>(14&#8209;17 years)<sup>&dagger;</sup></span></td>
+			<td class="mono">&nbsp;8&#8209;10</td>
+			<td class="mono">&nbsp;8&#8209;10</td>
+			<td class="mono">&nbsp;7&#8209;11</td>
 		</tr>
 		<tr>
-			<td>Young&nbsp;Adults<br><span>(18-25 years)</span></td>
+			<td>Young&nbsp;Adults<br><span>(18&#8209;25 years)</span></td>
 			<td></td>
-			<td class="mono">&nbsp;7-9&nbsp;</td>
-			<td class="mono">&nbsp;6-11</td>
+			<td class="mono">&nbsp;7&#8209;9&nbsp;</td>
+			<td class="mono">&nbsp;6&#8209;11</td>
 		</tr>
 		<tr>
-			<td>Adults<br><span>(26-64 years)</span></td>
+			<td>Adults<br><span>(26&#8209;64 years)</span></td>
 			<td></td>
-			<td class="mono">&nbsp;7-9&nbsp;</td>
-			<td class="mono">&nbsp;6-10</td>
+			<td class="mono">&nbsp;7&#8209;9&nbsp;</td>
+			<td class="mono">&nbsp;6&#8209;10</td>
 		</tr>
 		<tr>
 			<td>Older&nbsp;Adults<br><span>(&ge;65 years)</span></td>
 			<td></td>
-			<td class="mono">&nbsp;7-8&nbsp;</td>
-			<td class="mono">&nbsp;5-9&nbsp;</td>
+			<td class="mono">&nbsp;7&#8209;8&nbsp;</td>
+			<td class="mono">&nbsp;5&#8209;9&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 <div class="footnotes">
 	<sup>*</sup>NSF recommends against sleep time duration outside of the <i>May be Appropriate</i>range.<br>
-	<sup>&dagger;</sup>AASM's school age and teens recommendations are for 6-12 and 13-18 year olds, respectively.
+	<sup>&dagger;</sup>AASM's school age and teens recommendations are for 6&#8209;12 and 13&#8209;18 year olds, respectively.
 </div>
