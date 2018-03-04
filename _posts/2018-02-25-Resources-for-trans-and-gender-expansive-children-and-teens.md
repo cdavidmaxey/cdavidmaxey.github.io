@@ -405,20 +405,20 @@ tags:
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/" target="_blank">OHSU Transgender Health Program</a></h5>
 <div>
 	<p>Research, Education & Medical&nbsp;Support</p>
-	<p><a rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>494-7970</a></p>
+	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>494-7970</a></p>
 	<p><a rel="nofollow" href="mailto:TransHealth@OHSU.edu">TransHealth@OHSU.edu</a></p>
 </div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transactiveonline.org/" target="_blank">TransActive Gender Center</a></h5>
 <div>
 	<p>Education, Advocacy & Transistion&nbsp;Support</p>
-	<p><a rel="nofollow" href="tel:+1-503-252-3000">(503<span class="areacode-space">)</span>252-3000</a></p>
+	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-252-3000">(503<span class="areacode-space">)</span>252-3000</a></p>
 	<p><a rel="nofollow" href="mailto:info@TransActiveOnline.org">info@TransActiveOnline.org</a></p>
 </div>
 <h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://pdxqcenter.org/" target="_blank">Q Center</a></h5>
 <div>
 	<p>Community Center for Gender&nbsp;and Sexual&nbsp;Minorities&nbsp;(LGBT+)</p>
 	<p>4115 N Mississippi Ave, Portland OR</p>
-	<p><a rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>234-7837</a></p>
+	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-494-7970">(503<span class="areacode-space">)</span>234-7837</a></p>
 	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
 </div>
 <h3>Social Networks & Online Forums</h3>
