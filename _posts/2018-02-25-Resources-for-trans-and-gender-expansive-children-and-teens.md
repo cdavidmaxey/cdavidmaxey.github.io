@@ -56,7 +56,6 @@ h5 .subheading{font-weight:normal}
 .post h5+div>p{margin:0 0 .5rem 1.5rem;text-align:left;padding-left:1.35rem;text-indent:-1.35rem}
 h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
 .a-tel{display:inline-block;width:7rem;margin-left:1.35rem;font-size:.875em}
-.areacode-space{margin-right:.1875em}
 .am-pm{font-size:.625rem}
 .booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#9c27b0;color:#fff;padding:.175rem 0}
 .booktopper+.bookborder{border-top:none}"

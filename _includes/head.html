@@ -1,8 +1,7 @@
 	<head>
 		<meta charset="utf-8">
 		<script async src="https://cdn.ampproject.org/v0.js"></script>
-		<script async custom-element="amp-timeago" src="https://cdn.ampproject.org/v0/amp-timeago-0.1.js"></script>
-		<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>{% if page.youtube.id or page.youtube.body %}
+		<script async custom-element="amp-timeago" src="https://cdn.ampproject.org/v0/amp-timeago-0.1.js"></script>{% if page.youtube.id or page.youtube.body %}
 		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}{% if page.video.src %}
 		<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>{% endif %}
 		<title>{{page.title}}</title>
@@ -84,9 +83,9 @@
 			nav.bar a.link{padding:1rem;max-height:1.125rem}
 			nav.bar a.center{flex:1;text-align:center}
 			nav.bar a.right{margin-left:auto}
-			nav.bar a.menu{display:none}
-			@media all and (max-width:599px){nav.bar a.link,nav.bar a.logo{display:none}nav.bar a.menu{display:block}}
-			@media all and (max-width:359px){nav.bar .logo amp-img{display:none}nav.bar a.logo>div{margin:0 1rem 0 .5rem}}
+			nav.bar .mobile{display:none}
+			@media all and (max-width:599px){nav.bar a.logo{width:calc(100% - 42px)}nav.bar .mobile{display:block}nav.bar .desktop{display:none}}
+			@media all and (max-width:359px){}
 
 			/* .digits */
 			.digits{background:#9c27b0;color:white}
