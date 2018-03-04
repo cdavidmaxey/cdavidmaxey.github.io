@@ -75,16 +75,16 @@
 			nav.bar{background:#4a148c;color:white}
 			nav.bar section{margin:0 auto;display:flex;flex-flow:row wrap;justify-content:flex-start;max-width:1200px}
 			nav.bar a{display:block}
-			nav.bar a.active,nav.bar a:hover,nav.bar section:hover a.active:hover{background:rgba(255,255,255,.1)}
-			nav.bar section:hover a.active{background:none}
+			nav.bar a.active,nav.bar a:hover,nav.bar:hover a.active:hover{background:rgba(255,255,255,.1)}
+			nav.bar:hover a.active{background:none}
 			a.logo{margin:auto 0}
 			a.logo>amp-img,a.logo>div{display:inline-block;vertical-align:middle}
 			a.logo>div{margin:0 .5rem 0 .25rem}
 			nav.bar a.link{padding:1rem;max-height:1.125rem}
 			nav.bar a.center{flex:1;text-align:center}
 			nav.bar a.right{margin-left:auto}
-			nav.bar .mobile{display:none}
-			@media all and (max-width:599px){nav.bar a.logo{width:calc(100% - 42px)}nav.bar .mobile{display:block}nav.bar .desktop{display:none}}
+			nav.bar section:last-child{display:none}
+			@media all and (max-width:599px){nav.bar section:first-child a.link:not(:last-child){display:none}nav.bar section:last-child{display:block}}
 			@media all and (max-width:359px){}
 
 			/* .digits */
