@@ -33,7 +33,7 @@ thead{vertical-align:bottom}
 tr:not(:first-child) th,td:not(:first-child){padding:0 .5em}
 td:first-child span{font-size:.75em}
 td,thead>tr{border-bottom:1px solid black}
-@media(max-width:449px){thead>tr:not(:first-child){font-size:.75em}}
+@media(max-width:413px){thead>tr:not(:first-child){font-size:.75em}}
 @media(max-width:374px){thead>tr:first-child>th:first-child, td:first-child{font-size:.75em}}
 thead,tbody{border-top:2px solid black;border-bottom:2px solid black}
 sup{padding:0 .075rem}
