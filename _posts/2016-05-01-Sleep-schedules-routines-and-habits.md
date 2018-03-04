@@ -49,8 +49,8 @@ tags:
 <table class="center">
 	<thead>
 		<tr>
-			<th rowspan="2">Age&nbsp;Group</th>
-			<th colspan="2">Hours per&nbsp;Day</th>
+			<th rowspan="3">Age&nbsp;Group</th>
+			<th colspan="3">Hours per&nbsp;Day</th>
 		</tr>
 		<tr>
 			<th colspan="2">Recommended</th>
