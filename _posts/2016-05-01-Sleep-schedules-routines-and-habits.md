@@ -30,7 +30,7 @@ variables:
 - disablekb=1
 style: "table{border-collapse:collapse}
 thead{vertical-align:bottom}
-th,td:not(:first-child){padding:0 .5em}
+th:not(:first-child),td:not(:first-child){padding:0 .5em}
 tbody>tr td:first-child span{font-size:.625em;padding:.325em 0.25rem .325em}
 tbody>tr td{border-bottom:1px solid black}
 thead>tr{border-bottom:2px solid black}
@@ -52,7 +52,7 @@ tags:
 	<thead>
 		<tr>
 			<th rowspan="2">Age Group</th>
-			<th colspan="2">Hours of Sleep per Day</th>
+			<th colspan="2">Hours per Day</th>
 		</tr>
 		<tr>
 			<th>Recommended</th>
