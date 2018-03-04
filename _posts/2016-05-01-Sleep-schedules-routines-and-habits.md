@@ -80,7 +80,7 @@ tags:
 			<td class="mono">&nbsp;8-14</td>
 		</tr>
 		<tr>
-			<td>School Age<br><span>(6-13 years)</span></td>
+			<td>School&nbsp;Age<br><span>(6-13 years)</span></td>
 			<td class="mono">&nbsp;9-11</td>
 			<td class="mono">&nbsp;7-12</td>
 		</tr>
@@ -90,7 +90,7 @@ tags:
 			<td class="mono">&nbsp;7-11</td>
 		</tr>
 		<tr>
-			<td>Young Adults<br><span>(18-25 years)</span></td>
+			<td>Young&nbsp;Adults<br><span>(18-25 years)</span></td>
 			<td class="mono">&nbsp;7-9&nbsp;</td>
 			<td class="mono">&nbsp;6-11</td>
 		</tr>
@@ -100,7 +100,7 @@ tags:
 			<td class="mono">&nbsp;6-10</td>
 		</tr>
 		<tr>
-			<td>Older Adults<br><span>(&ge;65 years)</span></td>
+			<td>Older&nbsp;Adults<br><span>(&ge;65 years)</span></td>
 			<td class="mono">&nbsp;7-8&nbsp;</td>
 			<td class="mono">&nbsp;5-9&nbsp;</td>
 		</tr>
