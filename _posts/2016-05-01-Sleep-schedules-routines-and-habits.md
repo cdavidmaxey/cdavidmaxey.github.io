@@ -30,11 +30,12 @@ variables:
 - disablekb=1
 style: "table{border-collapse:collapse}
 thead{vertical-align:bottom}
-th,td{padding:0 .75em}
+th,td:not(:first-child){padding:0 .5em}
 tbody>tr td:first-child span{font-size:.625em;padding:.325em 0.25rem .325em}
 tbody>tr td{border-bottom:1px solid black}
 thead>tr{border-bottom:2px solid black}
 thead>tr:first-child{border-bottom:1px solid black}
+thead>tr:nth-child(2){font-size:.75em}
 thead,tbody{border-top:2px solid black;border-bottom:2px solid black}
 sup{padding:0 .075rem}
 sup.footnote{font-weight:normal;font-size:.875em}
