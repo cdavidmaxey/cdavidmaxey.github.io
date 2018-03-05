@@ -47,7 +47,6 @@ tags:
 - Health Habits
 ---
 <h3>Recommended Sleep Time Duration</h3>
-<div class="subtitle">National&nbsp;Sleep&nbsp;Foundation (NSF), 2015 & American&nbsp;Academy&nbsp;of&nbsp;Sleep&nbsp;Medicine (AASM), 2016</div>
 <table class="center">
 	<thead>
 		<tr>
@@ -121,7 +120,7 @@ tags:
 	</tbody>
 </table>
 <div class="footnotes">
-	Sources: National Sleep Foundation (NSF), 2015 & American Academy of Sleep Medicine (AASM), 2016
+	Sources: National Sleep Foundation (NSF), 2015 & American Academy of Sleep Medicine (AASM), 2016<br>
 	<sup>*</sup>NSF recommends against sleep time duration outside of the <i>May be Appropriate</i> range.<br>
 	<sup>&dagger;</sup>AASM’s school age and teens recommendations are for 6&#8209;12 and 13&#8209;18 year olds, respectively.
 </div>
