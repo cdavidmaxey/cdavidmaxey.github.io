@@ -107,7 +107,7 @@ tags:
 	</tbody>
 </table>
 <div class="footnotes">
-	Source: National Sleep Foundation (2015)<br>
+	Source: National Sleep Foundation (NSF), 2015<br>
+	<sup>*</sup>NSF recommended against sleep time duration outside of the <i>May be Appropriate</i> range.
 	Note: American Academy of Sleep Medicine (2016) made similar sleep time duration recommendations: 12-16 hours for infants, 11-14 hours for toddlers, 10-13 hours for preschoolers, 9-12 hours for 6-12 year olds, and 8-10 hours for 13-18 year olds.<br>
-	<sup>*</sup>NSF recommends against sleep time duration outside of the <i>May be Appropriate</i> range.
 </div>
