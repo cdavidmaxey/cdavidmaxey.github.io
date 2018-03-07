@@ -385,6 +385,14 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">Teens</div>
+		<amp-img alt="Being Jazz: My Life as a (Transgender) Teen" width="414" height="622" src="{{site.cache}}/books/Being-Jazz-My-Life-as-a-Transgender-Teen.jpg" sizes="8.625rem"></amp-img>
+		<div class="merchants">
+			<a class="powells" rel="nofollow" href="http://www.powells.com/book/-9780399554674" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
+			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/039955467X" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		</div>
+	</div>
+	<div class="flexbook">
+		<div class="booktopper">Teens</div>
 		<amp-img alt="Some Assembly Required:The Not-So-Secret Life of a Transgender Teen" width="414" height="621" src="{{site.cache}}/books/Some-Assembly-Required-The-Not-So-Secret-Life-of-a-Transgender-Teen.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/some-assembly-required-the-not-so-secret-life-of-a-transgender-teen-9781481416764" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
