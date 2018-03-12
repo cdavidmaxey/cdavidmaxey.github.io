@@ -77,26 +77,26 @@ tags:
 	</table>
 </aside>
 <p>Intelligence is usually assumed to approximate a normal distribution, and IQ is commonly reported with a mean of 100 and a standard deviation (SD) of 15 (see table on the right). In the standard normal distribution shown below, the <span class="bell-g">green</span> part is usually called the “<span class="bell-g">Average</span>” range, which is within 1 standard deviation of the mean (or average). In a normal distribution, most children (i.e., about two-thirds or 68.2%) score in the “<span class="bell-g">Average</span>” range within the 16<sup>th</sup> and 84<sup>th</sup> percentiles.</p>
-<p class="clear"><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 650 328.5" viewBox="0 0 650 328.5" style="font-family:sans-serif;stroke-width:1px">
+<p class="clear"><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 650 328.5" viewBox="0 0 650 328.5" font-family="sans-serif" stroke-width="1">
 <defs><marker id="ab" style="overflow:visible" orient="auto"><path transform="matrix(-0.4,0,0,-0.4,-4,0)" stroke="#000" d="M 0,0 5,-5 -12.5,0 5,5 Z"/></marker></defs>
-<g style="text-anchor:middle;fill:#000;font-size:12px">
+<g text-anchor="middle" fill="#000"  style="font-size:12px">
 <text x="40" y="247">Standard</text>
 <text x="40" y="260">Deviations</text>
-<text x="40" y="272" style="font-size:10px;fill:#999">(from the mean)</text>
+<text x="40" y="272" fill="#999" style="font-size:10px">(from the mean)</text>
 <text x="359.7" y="265" style="font-size:10px">Mean</text>
-<text x="359.7" y="276" style="font-size:10px;fill:#999">(Average)</text>
-<text x="77" y="308" style="text-anchor:end;">Percentile</text>
+<text x="359.7" y="276" fill="#999" style="font-size:10px">(Average)</text>
+<text x="77" y="308" text-anchor="end">Percentile</text>
 </g>
-<g  style="text-anchor:middle;font-size:20px">	
+<g text-anchor="middle" style="font-size:20px">	
 <text x="162.5" y="37.5">Standard Normal Distribution</text>
-<text x="162.5" y="62.5" style="fill:#888;font-style:italic">“Bell Curve”</text>
+<text x="162.5" y="62.5" fill="#888" style="font-style:italic">“Bell Curve”</text>
 </g>
 <g fill="#f1948a"><path d="m 121.9,227.3 c -12.4,0.3 -24.8,0.4 -37.2,0.5 h 68.8 v -2.3 c -10.5,1.1 -21,1.5 -31.5,1.8 z"/><path d="m 193.9,216.1 c -11.7,4.8 -24,7.4 -36.5,8.9 -1.3,0.2 -2.7,0.3 -4,0.5 v 2.3 h 68.7 v -29.2 c -8.6,7.2 -17.9,13.3 -28.2,17.4 z"/></g>
 <path fill="#c0392b" d="m 289.6,99.7 c -6.2,11.8 -12.4,23.5 -19,35 -6.3,11.2 -13.2,22.1 -20.5,32.6 -7.1,10.2 -15.3,20.2 -24.6,28.4 -1.1,1 -2.2,1.9 -3.4,2.9 v 29.2 h 68.7 V 97.2 c -0.4,0.8 -0.9,1.7 -1.3,2.5 z"/>
 <g fill="#28b463"><path d="m 359.1,12.5 c -6.1,0.5 -12,2.8 -16.9,6.8 -5,4.1 -9.5,8.7 -13.5,13.9 -7.8,9.9 -14.5,21 -20.7,32.1 -5.9,10.6 -11.5,21.2 -17.2,31.9 V 227.8 h 68.7 V 12.5 c -0.2,0 -0.4,0 -0.6,0 z"/><path d="m 410.8,64.5 c -6.4,-11.2 -13,-22.6 -21.2,-32.5 -4,-4.8 -8.2,-9.8 -13.4,-13.3 -4.8,-3.3 -10.5,-6.4 -16.5,-6.2 V 227.8 h 68.7 V 97.2 C 422.6,86.3 416.9,75.3 410.8,64.5 Z"/></g>
 <path fill="#2980b9" d="m 492.9,194.9 c -9.5,-8.9 -17.7,-19 -25.2,-29.7 -7.3,-10.4 -13.9,-21.4 -20.2,-32.6 -6.5,-11.5 -12.7,-23.2 -18.8,-34.9 0,-0.2 -0.2,-0.3 -0.2,-0.4 V 227.8 H 497.1 V 198.7 c -1.4,-1.2 -2.9,-2.5 -4.3,-3.8 z"/>
 <g fill="#85c1e9"><path d="m 559.4,224.7 c -11.9,-1.5 -24.1,-4.2 -35.1,-9.1 -9.8,-4.3 -18.9,-9.9 -27.1,-16.9 v 29.1 h 68.8 v -2.4 c -2.2,-0.2 -4.3,-0.4 -6.5,-0.7 z"/><path d="m 632.8,227.8 c -12.2,0 -24.4,-0.2 -36.5,-0.5 -10.2,-0.3 -20.3,-0.8 -30.3,-1.9 v 2.4 h 68.7 c -0.6,0 -1.2,0 -1.9,0 z"/></g>
-<g style="font-size:14px;text-anchor:middle">
+<g text-anchor="middle" style="font-size:14px">
 <text x="79.8" y="253">−4</text>
 <text x="148.5" y="253">−3</text>
 <text x="217.3" y="253">−2</text>
@@ -108,7 +108,7 @@ tags:
 <text x="629.6" y="253">+4</text>
 </g>
 <rect x="1657.7" y="675.1" width="803.5" height="500.8"/>
-<g style="font-size:12px;fill:#000;text-anchor:middle">
+<g fill="#000" text-anchor="middle" style="font-size:12px">
 <text x="159.9" y="291.5">0.1%</text>
 <text x="228.6" y="291.5">2.3%</text>
 <text x="297.3" y="291.5">15.9%</text>
@@ -117,7 +117,7 @@ tags:
 <text x="503.6" y="291.5">97.7%</text>
 <text x="572.3" y="291.5">99.9%</text>
 </g>
-<g style="font-size:12px;fill:#000;text-anchor:middle">
+<g fill="#000" text-anchor="middle" style="font-size:12px">
 <text x="205.6" y="328.3">1%</text>
 <text x="262.6" y="328.3">6.7%</text>
 <text x="331.3" y="328.3">30.9%</text>
@@ -166,7 +166,7 @@ tags:
 <path d="m 634.6,228 v 10.8"/>
 <path d="M 42.3,227.8 H 649.9"/>
 </g>
-<g style="fill:#fff;text-anchor:middle;font-size:10px">
+<g fill="#fff" text-anchor="middle" style="font-size:10px">
 <text x="136.35" y="222" fill="#000">0.1%</text>
 <text x="170.7" y="201.6" fill="#000">0.5%</text>
 <text x="205.1" y="224.8">1.7%</text>
@@ -184,7 +184,7 @@ tags:
 <text x="361" y="210" style="font-size:36px">68.2%</text>
 </g>
 <path fill="none" stroke="#000" d="m 84.7,227.8 c 12.4,0 24.8,-0.2 37.2,-0.5 11.8,-0.3 23.8,-0.8 35.5,-2.3 12.5,-1.6 24.7,-4.2 36.5,-8.9 11.7,-4.7 22.1,-11.9 31.6,-20.3 9.3,-8.2 17.4,-18.2 24.6,-28.4 7.4,-10.5 14.2,-21.4 20.5,-32.6 6.5,-11.6 12.8,-23.3 19,-35 6.1,-11.5 12.2,-23 18.5,-34.4 6.2,-11.1 12.8,-22.2 20.7,-32.1 4,-5.2 8.5,-9.8 13.5,-13.9 4.9,-4 10.7,-6.3 16.9,-6.8 6.2,-0.5 12.1,2.7 17.1,6.1 5.1,3.5 9.4,8.5 13.4,13.3 8.2,10 14.8,21.3 21.2,32.5 6.2,10.9 12,22.1 17.9,33.1 6.2,11.7 12.3,23.4 18.8,34.9 6.3,11.2 12.9,22.2 20.2,32.6 7.5,10.7 15.8,20.8 25.2,29.7 9.3,8.8 19.9,15.6 31.4,20.7 11.1,4.9 23.2,7.6 35.1,9.1 12.2,1.5 24.5,2.2 36.8,2.6 12.2,0.4 24.4,0.4 36.5,0.5 0.6,0 1.2,0 1.9,0"/>
-<g style="marker-end:url(#ab);stroke:#000"><path d="m 170.7,204.7 12.1,18.5"/><path d="m 548.7,204.7 -12.1,18.5"/></g>
+<g stroke="#000" style="marker-end:url(#ab)"><path d="m 170.7,204.7 12.1,18.5"/><path d="m 548.7,204.7 -12.1,18.5"/></g>
 </svg></p>
 <p>In a school setting, a student who scores near the <i>top</i> of the “<span class="bell-g">Average</span>” range is generally considered average, usually meaning that they don’t qualify as talented and gifted (TAG). Likewise, a student who scores near the <i>bottom</i> of the “<span class="bell-g">Average</span>” range is generally considered average, usually meaning that there’s no reason to suspect a disability that would need specially designed instruction (SDI) through a individualized education plan (IEP) from Special Education. Nonetheless, it is your right to request a Special Education eligibility evaluation from your child’s school (<a href="{{site.url}}/Special-Education-Rights-Requesting-eligibility-evaluation/">see my article on requesting an evaluation</a>), and if you do, it might be helpful to clearly explain why you believe your child has a disability, because on the surface, your child’s performance is in the “<span class="bell-g">Average</span>” range. Although your school might not provide Special Education, teachers often offer these students informal supports, sometimes called “tiered” or “Tier 2” supports, which might include small-group instruction in class while others are doing independant work, after-school tutoring, etc. If you think that your child is not performing up to their potential, you might also consider other explainations, such as difficulties with attention or focus. Children with a diagnosis, such as ADHD, usually qualify for a Section 504 Plan that can include accommidations. Note that a 504 Plan is usually simplier to get than an IEP.</p>
 <p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" enable-background="new 0 0 8572.697 476.845" viewBox="0 0 8572.697 476.845"><defs>
@@ -203,15 +203,15 @@ tags:
 <p>Another way to look at percentiles (in a normal distribution) is lining 50 people up based on their score from lowest to highest, as shown above. Notice the “<span class="bell-g">Average</span>” range, depicted in <span class="bell-g">green</span>. The difference between the bottom and top of the “<span class="bell-g">Average</span>” range is 2 standard deviations and includes 34 people (i.e., about 68%). Now look at the <span class="bell-b">blue</span> range that is <span class="bell-b">above Average</span>. The difference between the bottom and top of the <span class="bell-g">above Average</span> range is also about 2 standard deviations but includes only 8 people (i.e., about 16%). This is the same information shown in the graph above, but looking at it this way can help you see how a normal distribution looks in real life. A normal distribution that might be seen in a classroom of 25 is shown below.</p>
 <p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" enable-background="new 0 0 4348.525 476.845" viewBox="0 0 4348.525 476.845"><defs>
 <linearGradient id="light2red" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" style="stop-color:#f1948a;stop-opacity:1"/>
-<stop offset="40%" style="stop-color:#f1948a;stop-opacity:1"/>
-<stop offset="60%" style="stop-color:#c0392b;stop-opacity:1"/>
-<stop offset="100%" style="stop-color:#c0392b;stop-opacity:1"/></linearGradient>
+<stop stop-color="#f1948a" stop-opacity="1" offset="0%"/>
+<stop stop-color="#f1948a" stop-opacity="1" offset="40%"/>
+<stop stop-color="#c0392b" stop-opacity="1" offset="60%"/>
+<stop stop-color="#c0392b" stop-opacity="1" offset="100%"/></linearGradient>
 <linearGradient id="blue2light" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" style="stop-color:#2980b9;stop-opacity:1"/>
-<stop offset="40%" style="stop-color:#2980b9;stop-opacity:1"/>
-<stop offset="60%" style="stop-color:#85c1e9;stop-opacity:1"/>
-<stop offset="100%" style="stop-color:#85c1e9;stop-opacity:1"/></linearGradient></defs>
+<stop stop-color="#2980b9" stop-opacity="1" offset="0%"/>
+<stop stop-color="#2980b9" stop-opacity="1" offset="40%"/>
+<stop stop-color="#85c1e9" stop-opacity="1" offset="60%"/>
+<stop stop-color="#85c1e9" stop-opacity="1" offset="100%"/></linearGradient></defs>
 <use fill="url(#light2red)" xlink:href="#svg1" x="0" y="0"/>
 <use fill="#c0392b" xlink:href="#svg3" x="208.29" y="0"/>
 <use fill="#28b463" xlink:href="#svg17" x="716.909" y="0"/>
