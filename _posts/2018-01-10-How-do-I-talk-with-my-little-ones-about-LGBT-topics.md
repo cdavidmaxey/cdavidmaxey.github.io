@@ -29,7 +29,7 @@ variables:
 - disablekb=1
 style: "p~ul{margin-top:-1.25rem}h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-little-girl-unicorn-painted-face-closeup-picture-happy-her-image43537025' target='_blank'>&copy;</a>&nbsp;Bill&nbsp;Pell"
-title: "How do I talk with my little ones about LGBT+ topics?"
+title: "How do I talk with my little ones about LGBT topics?"
 description: "Parents sometimes need to talk with young kids about gender & sexual minorities (e.g., a classmate has gay parents, a cousin comes out, a playmate transitions)."
 tags:
 - 🏳️‍🌈 Gender & Sexual Minorities
