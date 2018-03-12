@@ -88,7 +88,7 @@ tags:
 </div>
 <h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://pdxqcenter.org/" target="_blank">Q Center</a></h5>
 <div>
-	<p>Community Center for Gender&nbsp;and Sexual&nbsp;Minorities&nbsp;(LGBT+)</p>
+	<p>Community Center for Gender&nbsp;and Sexual&nbsp;Minorities&nbsp;(LGBT)</p>
 	<p>4115 N Mississippi Ave, Portland OR</p>
 	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-494-7970">(503<span>)</span>234-7837</a></p>
 	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
@@ -268,7 +268,7 @@ tags:
 </div>
 <h5><svg id="svg-gsm" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" class="svg-flag"><path d="m 0,22.149816 v 46.7401 C 93.679,115.34958 187.36,12.65508 281.038,59.119392 v -46.7401 C 187.358,-34.08502 93.679,68.610413 0,22.149816 Z" fill="#f00"/><path d="M 0,49.90323 V 96.643322 C 93.679,143.10299 187.36,40.408495 281.038,86.872802 V 40.132706 C 187.358,-6.3316053 93.679,96.363822 0,49.90323 Z" fill="#ff8000"/><path d="m 0,80.432172 v 46.740098 c 93.679,46.45966 187.36,-56.234834 281.038,-9.77053 V 70.661648 C 187.358,24.197336 93.679,126.89276 0,80.432172 Z" fill="#ff0"/><path d="m 0,110.28046 v 46.7401 c 93.679,46.45967 187.36,-56.23484 281.038,-9.77053 v -46.7401 C 187.358,54.045628 93.679,156.74106 0,110.28046 Z" fill="#007940"/><path d="m 0,140.8094 v 46.7401 c 93.679,46.45967 187.36,-56.23484 281.038,-9.77052 v -46.7401 C 187.358,84.574572 93.679,187.27 0,140.8094 Z" fill="#4040ff"/><path d="m 0,171.33741 v 31.58938 c 93.679,46.45967 187.36,-56.23483 281.038,-9.77052 V 161.08124 C 187.358,114.61693 93.679,217.79894 0,171.33741 Z" fill="#a000c0"/></svg> <a rel="nofollow" href="https://www.thetrevorproject.org/" target="_blank">Trevor Project</a></h5>
 <div>
-	<p>for gender & sexual minority (LGBT+) youth&nbsp;ages&nbsp;13&#8209;24</p>
+	<p>for gender & sexual minority (LGBT) youth&nbsp;ages&nbsp;13&#8209;24</p>
 	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-866-488-7386">(866<span>)</span>488-7386</a><small>24/7/365</small></p>
 </div>
 <h5>Portland-Area Mental&nbsp;Health Crisis&nbsp;Lines</h5>
