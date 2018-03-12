@@ -39,6 +39,7 @@ tags:
 - MindUP
 - Social Emotional Learning
 - 📚 Books for Teachers
+- Mindfulness
 ---
 <div class="float right side">
 	<div>

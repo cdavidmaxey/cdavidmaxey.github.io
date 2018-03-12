@@ -66,6 +66,7 @@ description: "Gender Unicorn & Genderbread Person, Books, Biographies & Memoirs,
 tags:
 - Trans & Gender-Expansive
 - 🏳️‍🌈 Gender & Sexual Minorities
+- 📚 Books for Kids
 ---
 <div class="right" id="Unicorn">
 <input type="radio" name="unicorn" id="unicorn-en" value="en" checked />

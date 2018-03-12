@@ -58,6 +58,7 @@ description: "Portland-Area Resources, Conferences, Information & News, Advocacy
 tags:
 - Trans & Gender-Expansive
 - 🏳️‍🌈 Gender & Sexual Minorities
+- 📚 Books for Parents
 ---
 <div class="quick-reference">
 	<div>
