@@ -279,9 +279,13 @@ tags:
 	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-655-8585">(503<span>)</span>655-8585</a><small>24/7</small>&emsp;<a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/" target="_blank">Clackamas</a></p>
 	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-360-696-9560">(360<span>)</span>696-9560</a><small>24/7</small>&emsp;<a rel="nofollow" href="https://www.clark.wa.gov/community-services/clark-county-crisis-services" target="_blank">Clark</a></p>
 </div>
-<h5><a rel="nofollow" href="https://www.linesforlife.org/get-help-now/" target="_blank">Suicide Prevention Lifelines</a></h5>
+<h5><a rel="nofollow" href="https://oregonyouthline.org/">Youth Suicide Prevention Lifeline</a></h5>
+<div>
+	<p>for&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20)</p>
+	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-877-968-8491">(877<span>)</span>968-8491</a>4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>Pacific</small></p>
+</div>		
+<h5><a rel="nofollow" href="https://www.linesforlife.org/">Suicide Prevention Lifeline</a></h5>
 <div>
 	<p>for anyone</p>
 	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-800-273-8255">(800<span>)</span>273-8255</a><small>24/7</small></p>
-	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-877-968-8491">(877<span>)</span>968-8491</a>4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>Pacific</small><br>for&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20)</p>
 </div>
