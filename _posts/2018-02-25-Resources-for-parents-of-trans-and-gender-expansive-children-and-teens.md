@@ -50,7 +50,8 @@ h5 .subheading{font-weight:normal}
 .post h5+div>p{margin:0 0 .5rem 1.5rem;text-align:left;padding-left:1.35rem;text-indent:-1.35rem}
 h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
 .a-tel{display:inline-block;width:7rem;margin-left:1.35rem;font-size:.875em}
-.am-pm{font-size:.625rem}"
+.am-pm{font-size:.625rem}
+.svg-flag{vertical-align:bottom}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and gender-expansive children and teens"
 description: "Portland-Area Resources, Conferences, Information & News, Advocacy, Books for Parents, Social Networks & Online Forums, and Crisis Lines"
@@ -64,7 +65,7 @@ tags:
 		<div><span>Don’t</span> ask for personal information about a trans person’s body or medical care.</div>
 	</div>
 	<div>
-		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.627 62.627005" stroke="#9c27b0" transform="translate(-0.118,-3.8e-4)"><path d="m 31.431,5.737 c -16.745,0 -30.313,8.42 -30.313,18.813 0,10.394 13.568,18.813 30.313,18.813 2.106,0 4.161,-0.124 6.146,-0.377 L 48.969,54.738 46.166,40.992 C 55.457,37.776 61.745,31.622 61.745,24.55 61.745,14.156 48.177,5.737 31.432,5.737 Z" style="fill:#fff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"/><path d="m 25.969,10.464 8.625,0.575 -3.45,18.4 -4.025,0.575 z m 6.9,27.312 c 0,1.429 -1.673,2.587 -3.737,2.587 -2.064,0 -3.737,-1.158 -3.737,-2.587 0,-1.429 1.673,-2.587 3.737,-2.587 2.064,0 3.737,1.158 3.737,2.587 z" fill="#9c27b0"/></svg>
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.627 62.627005" stroke="#9c27b0" transform="translate(-0.118,-3.8e-4)"><path d="m 31.431,5.737 c -16.745,0 -30.313,8.42 -30.313,18.813 0,10.394 13.568,18.813 30.313,18.813 2.106,0 4.161,-0.124 6.146,-0.377 L 48.969,54.738 46.166,40.992 C 55.457,37.776 61.745,31.622 61.745,24.55 61.745,14.156 48.177,5.737 31.432,5.737 Z" fill="#fff" stroke-width="2" stroke-miterlimit="4" stroke-dasharray="none"/><path d="m 25.969,10.464 8.625,0.575 -3.45,18.4 -4.025,0.575 z m 6.9,27.312 c 0,1.429 -1.673,2.587 -3.737,2.587 -2.064,0 -3.737,-1.158 -3.737,-2.587 0,-1.429 1.673,-2.587 3.737,-2.587 2.064,0 3.737,1.158 3.737,2.587 z" fill="#9c27b0"/></svg>
 		<div><span>Don’t</span> “out” trans people as trans to others without permission.</div>
 	</div>
 	<div>
@@ -73,49 +74,49 @@ tags:
 	</div>
 </div>
 <h3>Portland-Area Resources</h3>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/" target="_blank">OHSU Transgender Health Program</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.ohsu.edu/xd/health/services/transgender-health/" target="_blank">OHSU Transgender Health Program</a></h5>
 <div>
 	<p>Research, Education & Medical&nbsp;Support</p>
 	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-494-7970">(503<span>)</span>494-7970</a></p>
 	<p><a rel="nofollow" href="mailto:TransHealth@OHSU.edu">TransHealth@OHSU.edu</a></p>
 </div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transactiveonline.org/" target="_blank">TransActive Gender Center</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transactiveonline.org/" target="_blank">TransActive Gender Center</a></h5>
 <div>
 	<p>Education, Advocacy & Transistion&nbsp;Support</p>
 	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-252-3000">(503<span>)</span>252-3000</a></p>
 	<p><a rel="nofollow" href="mailto:info@TransActiveOnline.org">info@TransActiveOnline.org</a></p>
 </div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://pdxqcenter.org/" target="_blank">Q Center</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://pdxqcenter.org/" target="_blank">Q Center</a></h5>
 <div>
 	<p>Community Center for Gender&nbsp;and Sexual&nbsp;Minorities&nbsp;(LGBT+)</p>
 	<p>4115 N Mississippi Ave, Portland OR</p>
 	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-494-7970">(503<span>)</span>234-7837</a></p>
 	<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
 </div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflagpdx.org/" target="_blank">PFLAG Portland & Washington&nbsp;County</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflagpdx.org/" target="_blank">PFLAG Portland & Washington&nbsp;County</a></h5>
 <p>local chapters of PFLAG</p>
 <h3>Conferences</h3>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.genderodyssey.org/seattle/" target="_blank">Gender Odyssey</a> <span class="subheading">Every&nbsp;August&nbsp;in&nbsp;Seattle</span></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.genderodyssey.org/seattle/" target="_blank">Gender Odyssey</a> <span class="subheading">Every&nbsp;August&nbsp;in&nbsp;Seattle</span></h5>
 <div><p></p><p>produced by <a rel="nofollow" href="http://www.genderdiversity.org/" target="_blank">GenderDiversity.<small>org</small></a></p></div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/quick-links/events/conference-and-symposium/" target="_blank">Gender Spectrum</a> <span class="subheading">Every July in California</span></h5>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.ourtruecolors.org/conference/" target="_blank">True Colors</a> <span class="subheading">Annually in Hartford CT</span></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/quick-links/events/conference-and-symposium/" target="_blank">Gender Spectrum</a> <span class="subheading">Every July in California</span></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.ourtruecolors.org/conference/" target="_blank">True Colors</a> <span class="subheading">Annually in Hartford CT</span></h5>
 <h3>Information & News</h3>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/" target="_blank">Gender Spectrum</a></h5>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://imatyfa.org/" target="_blank">TransYouth Family Allies</a></h5>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.mermaidsuk.org.uk/" target="_blank">Mermaids</a> <span class="subheading">United Kingdon</span></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.genderspectrum.org/" target="_blank">Gender Spectrum</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://imatyfa.org/" target="_blank">TransYouth Family Allies</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.mermaidsuk.org.uk/" target="_blank">Mermaids</a> <span class="subheading">United Kingdon</span></h5>
 <h3>Advocacy</h3>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.transgenderlaw.org/" target="_blank">Transgender Law & Policy Institute</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="http://www.transgenderlaw.org/" target="_blank">Transgender Law & Policy Institute</a></h5>
 <p>works to improve law and policy to advance trans equality</p>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://transgenderlawcenter.org/" target="_blank">Transgender Law Center</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://transgenderlawcenter.org/" target="_blank">Transgender Law Center</a></h5>
 <p>works to improve law, policy, and attitudes to advance trans equality</p>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.glsen.org/" target="_blank">GLSEN</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.glsen.org/" target="_blank">GLSEN</a></h5>
 <p>focuses on safe schools for all students</p>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://itgetsbetter.org/" target="_blank">It gets better Project</a></h5>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.thetaskforce.org/" target="_blank">National LGBTQ Task Force</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://itgetsbetter.org/" target="_blank">It gets better Project</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.thetaskforce.org/" target="_blank">National LGBTQ Task Force</a></h5>
 <p>political action for gender & sexual minorities</p>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.hrc.org/" target="_blank">Human Rights Campaign</a> <span class="subheading">(HRC)</span></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="http://www.hrc.org/" target="_blank">Human Rights Campaign</a> <span class="subheading">(HRC)</span></h5>
 <p>works to improve civil rights for gender & sexual minorities</p>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflag.org/" target="_blank">PFLAG</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg> <a rel="nofollow" href="https://www.pflag.org/" target="_blank">PFLAG</a></h5>
 <p>focuses on helping parents, friends and family of gender and sexual minorites be good allies</p>
 <h5><a rel="nofollow" href="https://www.aclu.org/issues/lgbt-rights" target="_blank">American Civil Liberties Union</a> <span class="subheading">(ACLU)</span></h5>
 <p>works to defend individual rights and liberties</p>
@@ -252,20 +253,20 @@ tags:
 	</div>
 </div>
 <h3>Social Networks & Online Forums</h3>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://genderspectrum.org/lounge/" target="_blank">Gender Spectrum Lounge</a></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://genderspectrum.org/lounge/" target="_blank">Gender Spectrum Lounge</a></h5>
 <div><p>online community for trans teens & their parents</p></div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transgenderpulse.com/" target="_blank">Trans Pulse</a> <span class="subheading">(formerly&nbsp;Lauras&#8209;Playground.<small>com</small>)</span></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transgenderpulse.com/" target="_blank">Trans Pulse</a> <span class="subheading">(formerly&nbsp;Lauras&#8209;Playground.<small>com</small>)</span></h5>
 <div><p>forums for trans people and their friends, family & allies</p></div>
-<h5><svg height="19" width="24.82" style="vertical-align:bottom"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transfamily.org/discussion.html" target="_blank">Trans Family</a> <span class="subheading">(based in Cleveland, OH)</span></h5>
+<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg> <a rel="nofollow" href="https://www.transfamily.org/discussion.html" target="_blank">Trans Family</a> <span class="subheading">(based in Cleveland, OH)</span></h5>
 <div><p>forum for parents of trans children & adults hosted on <a rel="nofollow" href="https://groups.yahoo.com/neo/groups/TransKidsFamily/info" target="_blank">Yahoo</a> (their other forums have been less active than the parents’ forum)</p></div>
 <h3>Crisis Lines</h3>
 <div class="subheading">in an emergency, call 9-1-1</div>
-<h5><svg id="svg-trans" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" style="vertical-align:bottom"><path d="M0 23.853v50.335c93.679 50.033 187.36-60.56 281.038-10.522v-50.335c-93.68-50.038-187.359 60.556-281.038 10.522z" fill="#5bcefa"/><path d="M0 59.337v44.739c93.679 50.033 187.36-60.56 281.038-10.522v-45.495c-93.68-50.038-187.359 61.311-281.038 11.277z" fill="#f5a9b8"/><path d="M0 94.961v41.992c93.679 50.033 187.36-60.56 281.038-10.522v-43.644c-93.68-50.038-187.359 62.207-281.038 12.173z" fill="#fff"/><path d="M0 130.726v38.371c93.679 50.033 187.36-60.56 281.038-10.522v-41.059c-93.68-50.038-187.359 63.244-281.038 13.21z" fill="#f5a9b8"/><path d="M0 166.35v35.624c93.679 50.033 187.36-60.56 281.038-10.522v-39.208c-93.68-50.038-187.359 64.14-281.038 14.106z" fill="#5bcefa"/></svg> <a rel="nofollow" href="https://www.translifeline.org/" target="_blank">Trans Lifeline</a></h5>
+<h5><svg id="svg-trans" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" class="svg-flag"><path d="M0 23.853v50.335c93.679 50.033 187.36-60.56 281.038-10.522v-50.335c-93.68-50.038-187.359 60.556-281.038 10.522z" fill="#5bcefa"/><path d="M0 59.337v44.739c93.679 50.033 187.36-60.56 281.038-10.522v-45.495c-93.68-50.038-187.359 61.311-281.038 11.277z" fill="#f5a9b8"/><path d="M0 94.961v41.992c93.679 50.033 187.36-60.56 281.038-10.522v-43.644c-93.68-50.038-187.359 62.207-281.038 12.173z" fill="#fff"/><path d="M0 130.726v38.371c93.679 50.033 187.36-60.56 281.038-10.522v-41.059c-93.68-50.038-187.359 63.244-281.038 13.21z" fill="#f5a9b8"/><path d="M0 166.35v35.624c93.679 50.033 187.36-60.56 281.038-10.522v-39.208c-93.68-50.038-187.359 64.14-281.038 14.106z" fill="#5bcefa"/></svg> <a rel="nofollow" href="https://www.translifeline.org/" target="_blank">Trans Lifeline</a></h5>
 <div>
 	<p>for trans people (calls&nbsp;answered&nbsp;by&nbsp;trans&nbsp;people)</p>
 	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-877-565-8860">(877<span>)</span>565-8860</a>everyday&nbsp;8<span class="am-pm">A</span>&#8209;2<span class="am-pm">A</span>&nbsp;<small>Pacific</small></p>
 </div>
-<h5><svg id="svg-gsm" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" style="vertical-align:bottom"><path d="m 0,22.149816 v 46.7401 C 93.679,115.34958 187.36,12.65508 281.038,59.119392 v -46.7401 C 187.358,-34.08502 93.679,68.610413 0,22.149816 Z" fill="#f00"/><path d="M 0,49.90323 V 96.643322 C 93.679,143.10299 187.36,40.408495 281.038,86.872802 V 40.132706 C 187.358,-6.3316053 93.679,96.363822 0,49.90323 Z" fill="#ff8000"/><path d="m 0,80.432172 v 46.740098 c 93.679,46.45966 187.36,-56.234834 281.038,-9.77053 V 70.661648 C 187.358,24.197336 93.679,126.89276 0,80.432172 Z" fill="#ff0"/><path d="m 0,110.28046 v 46.7401 c 93.679,46.45967 187.36,-56.23484 281.038,-9.77053 v -46.7401 C 187.358,54.045628 93.679,156.74106 0,110.28046 Z" fill="#007940"/><path d="m 0,140.8094 v 46.7401 c 93.679,46.45967 187.36,-56.23484 281.038,-9.77052 v -46.7401 C 187.358,84.574572 93.679,187.27 0,140.8094 Z" fill="#4040ff"/><path d="m 0,171.33741 v 31.58938 c 93.679,46.45967 187.36,-56.23483 281.038,-9.77052 V 161.08124 C 187.358,114.61693 93.679,217.79894 0,171.33741 Z" fill="#a000c0"/></svg> <a rel="nofollow" href="https://www.thetrevorproject.org/" target="_blank">Trevor Project</a></h5>
+<h5><svg id="svg-gsm" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" class="svg-flag"><path d="m 0,22.149816 v 46.7401 C 93.679,115.34958 187.36,12.65508 281.038,59.119392 v -46.7401 C 187.358,-34.08502 93.679,68.610413 0,22.149816 Z" fill="#f00"/><path d="M 0,49.90323 V 96.643322 C 93.679,143.10299 187.36,40.408495 281.038,86.872802 V 40.132706 C 187.358,-6.3316053 93.679,96.363822 0,49.90323 Z" fill="#ff8000"/><path d="m 0,80.432172 v 46.740098 c 93.679,46.45966 187.36,-56.234834 281.038,-9.77053 V 70.661648 C 187.358,24.197336 93.679,126.89276 0,80.432172 Z" fill="#ff0"/><path d="m 0,110.28046 v 46.7401 c 93.679,46.45967 187.36,-56.23484 281.038,-9.77053 v -46.7401 C 187.358,54.045628 93.679,156.74106 0,110.28046 Z" fill="#007940"/><path d="m 0,140.8094 v 46.7401 c 93.679,46.45967 187.36,-56.23484 281.038,-9.77052 v -46.7401 C 187.358,84.574572 93.679,187.27 0,140.8094 Z" fill="#4040ff"/><path d="m 0,171.33741 v 31.58938 c 93.679,46.45967 187.36,-56.23483 281.038,-9.77052 V 161.08124 C 187.358,114.61693 93.679,217.79894 0,171.33741 Z" fill="#a000c0"/></svg> <a rel="nofollow" href="https://www.thetrevorproject.org/" target="_blank">Trevor Project</a></h5>
 <div>
 	<p>for gender & sexual minority (LGBT+) youth&nbsp;ages&nbsp;13&#8209;24</p>
 	<p><a class="a-tel mono" rel="nofollow" href="tel:+1-866-488-7386">(866<span>)</span>488-7386</a><small>24/7/365</small></p>
