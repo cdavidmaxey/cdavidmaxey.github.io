@@ -140,7 +140,7 @@ tags:
 	<li>Decorate the bedroom in a way that’s relaxing and comforting.</li>
 	<li>Use the bed only for sleep (and, as age-appropriate, masterbation or sex). Find other places to text, watch TV, use a tablet or computer, do work or homework, eat, or cuddle with pets.</li>
 	<li>Eliminate caffeine consumption after the morning (e.g., coffee, caffeinated soda, energy drinks, etc.).</li>
-	<li>Let go of your concerns (e.g., make a to-do list for tomorrow, make a list of gratitudes for today, practice meditation, etc.)</li>
-	<li>If your pillow, mattress, sheets, blankets, or clothing are uncomfortable, replace them.</li>
+	<li>Let go of concerns (e.g., make a to-do list for tomorrow, make a list of gratitudes for today, practice meditation, etc.)</li>
+	<li>If the pillow, mattress, sheets, blankets, or clothing are uncomfortable, replace them.</li>
 </ul>
 <p>For serious or persistent sleep problems, seek support from a mental health professional.</p>
