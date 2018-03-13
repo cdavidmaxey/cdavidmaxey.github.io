@@ -38,7 +38,8 @@ td,thead>tr{border-bottom:1px solid black}
 thead,tbody{border-top:2px solid black;border-bottom:2px solid black}
 sup{padding:0 .075rem}
 sup.footnote{font-weight:normal;font-size:.875em}
-.footnotes{font-size:.875em}"
+.footnotes{font-size:.875em}
+.post li{text-align:left}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-preteen-handsome-boy-read-book-lamp-sleep-image58081725' target='_blank'>&copy;</a>&nbsp;Ulianna19970"
 title: "Sleep schedules, routines & habits"
 description: "Recommended hours of sleep per day, screen time, bedtime routines, and habits for supporting healthy sleep."
@@ -134,9 +135,9 @@ tags:
 	<li>Use blinds or curtains to block bright lights outside the bedroom window.</li>
 	<li>Place a night light in the bathroom so that a bright light does not need to be used at night.</li>
 	<li>Keep a water bottle or cup in a convenient place, such as a nightstand or bathroom.</li>
-	<li>Keep from getting cold and shivering by wearing socks or using an extra blanket at the foot of the bed.</li>
-	<li>Keep from getting hot and sweaty by wearing light-weight pajamas or sleeping without pyjamas.</li>
-	<li>Keep a reasonable level of quiet in the bedroom or use a white-noise machine, such as the Marpac Dohm sold at <a rel="nofollow" href="https://marpac.com/collections/sound-machines" target="_blank">Marpac.<small>com</small></a>, <a rel="nofollow" href="https://www.amazon.com/s/?field-keywords=marpac" target="_blank">Amazon.<small>com</small></a>, <a rel="nofollow" href="https://www.bedbathandbeyond.com/store/s/marpac" target="_blank">BedBathandBeyond.<small>com</small></a>, <a rel="nofollow" href="https://www.frys.com/search?query_string=marpac&nearbyStoreName=Wilsonville" target="_blank">Frys.<small>com</small></a>, <a rel="nofollow" href="https://www.target.com/s?searchTerm=marpac" target="_blank">Target.<small>com</small></a>, and <a rel="nofollow" href="https://www.toysrus.com/search?q=marpac" target="_blank">ToysRUs.<small>com</small></a>.</li>
+	<li>Keep from getting cold and shivering, especially in winter, by wearing socks or using an extra blanket at the foot of the bed.</li>
+	<li>Keep from getting hot and sweaty, especially in summer, by wearing light-weight pajamas or sleeping without pyjamas.</li>
+	<li>Keep a reasonable level of quiet in the bedroom or use a white-noise machine, such as the Marpac Dohm sold at <a rel="nofollow" href="https://marpac.com/collections/sound-machines" target="_blank">Marpac</a>, <a rel="nofollow" href="https://www.amazon.com/s/?field-keywords=marpac" target="_blank">Amazon</a>, <a rel="nofollow" href="https://www.bedbathandbeyond.com/store/s/marpac" target="_blank">Bed Bath and Beyond</a>, <a rel="nofollow" href="https://www.frys.com/search?query_string=marpac&nearbyStoreName=Wilsonville" target="_blank">Fry’s</a>, <a rel="nofollow" href="https://www.target.com/s?searchTerm=marpac" target="_blank">Target</a>, and <a rel="nofollow" href="https://www.toysrus.com/search?q=marpac" target="_blank">Toys R Us</a>.</li>
 	<li>Decorate the bedroom in a way that’s relaxing and comforting.</li>
 	<li>Use the bed only for sleep (and, as age-appropriate, masterbation or sex). Find other places to text, watch TV, use a tablet or computer, do work or homework, eat, or cuddle with pets.</li>
 	<li>Eliminate caffeine consumption after the morning (e.g., coffee, caffeinated soda, energy drinks, etc.).</li>
