@@ -108,6 +108,39 @@ tags:
 </table>
 <div class="footnotes">
 	Source: National Sleep Foundation (NSF), 2015<br>
-	<sup>*</sup>NSF recommended against sleep time duration outside of the <i>May be Appropriate</i> range.<br>
-	Note: American Academy of Sleep Medicine (2016) made similar sleep time duration recommendations: 12-16 hours for infants, 11-14 hours for toddlers, 10-13 hours for preschoolers, 9-12 hours for 6-12 year olds, and 8-10 hours for 13-18 year olds.
+	<sup>*</sup>The NSF recommended against sleep time duration outside of the <i>May be Appropriate</i> range.<br>
+	Note: The American Academy of Sleep Medicine (2016) made similar sleep time duration recommendations: 12-16 hours for infants, 11-14 hours for toddlers, 10-13 hours for preschoolers, 9-12 hours for 6-12 year olds, and 8-10 hours for 13-18 year olds.
 </div>
+<h3>Screen Time</h3>
+<p>The American Academy of Pediatrics (AAP) suggests that all screens be turned off 30 minutes before bedtime and that TVs, computers and other screens not be allowed in children’s bedrooms.</p>
+<h3>Bedtime Routines</h3>
+<p>Bedtime routines can often be helpful to anyone of any age&mdash;obviously, the components of the routine will differ for a young child and an adult. Focus on making bedtime a positive and relaxing experience without screens (see sample routine below). </p>
+<ul>
+	<li>Take a bath.</li>
+	<li>A quick tidy-up of the bedroom.</li>
+	<li>Prepare tomorrow’s necessities (e.g., clothes, backpack, lunch, etc.)</li>
+	<li>Brush hair and teeth.</li>
+	<li>Go to the bathroom.</li>
+	<li>Read a story.</li>
+	<li>Say goodnight and leave.</li>
+</ul>
+<h3>Bedtime Habits</h3>
+<p>Bedtime routines can often be bolstered by habits that support sleep. Consider for yourself whether some of these ideas might be helpful:</p>
+<ul>
+	<li>Get up and go to bed at the same times everyday. Eat meals, do homework, and have activities at times that support being ready on time for bedtime.</li>
+	<li>Have physical activity during the day, and not too close to bedtime.</li>
+	<li>Save your child’s favorite non-stimulating activities for the bedtime routine.</li>
+	<li>At the beginning of the bedtime routine, dim any bright lights, and maintain a comfortably cool and fairly quiet environment (i.e., experts recommend about 65&deg;F, depending on bedding and bed clothes).</li>
+	<li>Use blinds or curtains to block bright lights outside the bedroom window.</li>
+	<li>Place a night light in the bathroom so that a bright light does not need to be used at night.</li>
+	<li>Keep a water bottle or cup in a convenient place, such as a nightstand or bathroom.</li>
+	<li>Keep from getting cold and shivering by wearing socks or using an extra blanket at the foot of the bed.</li>
+	<li>Keep from getting hot and sweaty by wearing light-weight pajamas or sleeping without pyjamas.</li>
+	<li>Keep a reasonable level of quiet in the bedroom or use a white-noise machine, such as the Marpac Dohm sold at <a rel="nofollow" href="https://marpac.com/collections/sound-machines" target="_blank">Marpac.<small>com</small></a>, <a rel="nofollow" href="https://www.amazon.com/s/?field-keywords=marpac" target="_blank">Amazon.<small>com</small></a>, <a rel="nofollow" href="https://www.bedbathandbeyond.com/store/s/marpac" target="_blank">BedBathandBeyond.<small>com</small></a>, <a rel="nofollow" href="https://www.frys.com/search?query_string=marpac&nearbyStoreName=Wilsonville" target="_blank">Frys.<small>com</small></a>, <a rel="nofollow" href="https://www.target.com/s?searchTerm=marpac" target="_blank">Target.<small>com</small></a>, and <a rel="nofollow" href="https://www.toysrus.com/search?q=marpac" target="_blank">ToysRUs.<small>com</small></a>.</li>
+	<li>Decorate the bedroom in a way that’s relaxing and comforting.</li>
+	<li>Use the bed only for sleep (and, as age-appropriate, masterbation or sex). Find other places to text, watch TV, use a tablet or computer, do work or homework, eat, or cuddle with pets.</li>
+	<li>Eliminate caffeine consumption after the morning (e.g., coffee, caffeinated soda, energy drinks, etc.).</li>
+	<li>Let go of your concerns (e.g., make a to-do list for tomorrow, make a list of gratitudes for today, practice meditation, etc.)</li>
+	<li>If your pillow, mattress, sheets, blankets, or clothing are uncomfortable, replace them.</li>
+</ul>
+<p>For serious or persistent sleep problems, seek support from a mental health professional.</p>
