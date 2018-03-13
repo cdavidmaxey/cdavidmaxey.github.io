@@ -41,7 +41,7 @@ sup.footnote{font-weight:normal;font-size:.875em}
 .footnotes{font-size:.875em}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-preteen-handsome-boy-read-book-lamp-sleep-image58081725' target='_blank'>&copy;</a>&nbsp;Ulianna19970"
 title: "Sleep schedules, routines & habits"
-description: "Recommended hours of sleep per day"
+description: "Recommended hours of sleep per day, screen time, bedtime routines, and habits for supporting healthy sleep."
 tags:
 - Sleep
 - Health Habits
