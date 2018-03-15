@@ -32,7 +32,8 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: ".bookborder{border:black solid 1px;border-bottom:none}@media(max-width:474px){amp-youtube{clear:both}}.othermerchant>div>div{font-size:7px}"
+style: ".bookborder{border:black solid 1px;border-bottom:none}@media(max-width:474px){amp-youtube{clear:both}}.othermerchant>div>div{font-size:7px}
+h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}"
 credits: "Stock&nbsp;Photo <a href='https://www.dreamstime.com/royalty-free-stock-images-dad-comfort-image7839949' rel='nofollow' target='_blank'>&copy;</a>&nbsp;Nathan&nbsp;Allred"
 title: "Collaborative & Proactive Solutions: Problem-solving with your child"
 description: "Collaborative & Proactive Solutions is an empirically-supported, non-punitive, non-adversarial model for problem solving challenging behavior with kids."
@@ -94,7 +95,43 @@ I’ve received a 2&frac12;-day Tier I Training from Think:Kids certified traine
 	</div>
 </div>
 <p>If you’re having difficulties with your child’s behavior, I recommend receiving services from a mental health professional. I also encourage you to read Ross Greene’s book, <i>The Explosive Child</i>, which is also available in <a rel="nofollow" href="http://www.editions-tredaniel.com/lenfant-explosif-p-7094.html" target="_blank">French</a> under the title <a rel="nofollow" href="http://www.editions-tredaniel.com/lenfant-explosif-p-7094.html" target="_blank"><i>L’enfant explosif</i></a>, <a rel="nofollow" href="https://www.amazon.com/dp/1475974922" target="_blank">Spanish</a> under the title <a rel="nofollow" href="https://www.amazon.com/dp/1475974922" target="_blank"><i>El Niño Explosivo</i></a>, <a rel="nofollow" href="http://hermesbooks.com/" target="_blank">Bulgarian</a>, <a rel="nofollow" href="http://www.amazon.com/Explosive-Child-Understanding-Frustrated-Chronically/dp/7213058762/ref=la_B001I9OL3O_1_19?s=books&ie=UTF8&qid=1460226648&sr=1-19&refinements=p_82%3AB001I9OL3O" target="_blank">Chinese</a>, <a rel="nofollow" href="http://www.nieuwezijds.nl/" target="_blank">Dutch</a>, <a rel="nofollow" href="http://spuren.ch/content/edition-spuren.html" target="_blank">German</a>, <a rel="nofollow" href="http://www.am-oved.co.il/" target="_blank">Hebrew</a>, <a rel="nofollow" href="http://www.mulpure.com/" target="_blank">Korean</a>, <a rel="nofollow" href="http://barnehagebutikken.no/book.asp?BookID=379" target="_blank">Norwegian</a>, <a rel="nofollow" href="http://www.edgard.eu" target="_blank">Polish</a>, <a rel="nofollow" href="http://www.niculescu.ro/" target="_blank">Romanian</a>, <a rel="nofollow" href="http://vk.com/terevinf" target="_blank">Russian</a>, <a rel="nofollow" href="https://www.studentlitteratur.se/" target="_blank">Swedish</a>, and <a rel="nofollow" href="https://www.kitapambari.com/YayineviDetay-netus-yayinlari" target="_blank">Turkish</a>. <a rel="nofollow" href="https://www.livesinthebalance.org/" target="_blank">LivesInTheBalance.org</a> also has a number of resources including a <a rel="nofollow" href="https://www.livesinthebalance.org/walking-tour-parents" target="_blank"><i>Walking Tour for Parents</i></a> and a <a rel="nofollow" href="https://www.livesinthebalance.org/walking-tour-educators" target="_blank"><i>Walking Tour for Educators</i></a>.</p>
+<h4>Kids Do Well If They Can</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="jvzQQDfAL-Q" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
 <div class="credits"><a rel="nofollow" href="https://youtu.be/jvzQQDfAL-Q" target="_blank"><em>Kids Do Well if They Can</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
+<h4>What's Your Explanation? (Part 1)</h4>
+{::nomarkdown}
+<amp-youtube data-videoid="vokGMLxP9DA" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
+<div class="credits"><a rel="nofollow" href="https://youtu.be/vokGMLxP9DA" target="_blank"><em>What's Your Explanation? (Part 1)</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
+<h4>What's Your Explanation? (Part 2)</h4>
+{::nomarkdown}
+<amp-youtube data-videoid="LfiYmUxKOXM" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
+<div class="credits"><a rel="nofollow" href="https://youtu.be/LfiYmUxKOXM" target="_blank"><em>What's Your Explanation? (Part 2)</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
+<h4>Being Responsive</h4>
+{::nomarkdown}
+<amp-youtube data-videoid="rFzV6JVe7HM" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
+<div class="credits"><a rel="nofollow" href="https://youtu.be/rFzV6JVe7HM" target="_blank"><em>Being Responsive</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
+<h4>Check Your Lenses</h4>
+{::nomarkdown}
+<amp-youtube data-videoid="tUrLK45Ezfo" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
+<div class="credits"><a rel="nofollow" href="https://youtu.be/tUrLK45Ezfo" target="_blank"><em>Check Your Lenses</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
+<h4>Three Options for Solving Problems</h4>
+{::nomarkdown}
+<amp-youtube data-videoid="6xkVT2y9euI" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
+<div class="credits"><a rel="nofollow" href="https://youtu.be/6xkVT2y9euI" target="_blank"><em>Three Options for Solving Problems</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
+<h4>Plan B (Part 1)</h4>
+{::nomarkdown}
+<amp-youtube data-videoid="QTG6kQot3f8" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
+<div class="credits"><a rel="nofollow" href="https://youtu.be/QTG6kQot3f8" target="_blank"><em>Plan B (Part 1)</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
+<h4>Plan B (Part 2)</h4>
+{::nomarkdown}
+<amp-youtube data-videoid="ARIEXN1yf00" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
+<div class="credits"><a rel="nofollow" href="https://youtu.be/ARIEXN1yf00" target="_blank"><em>Plan B (Part 2)</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
