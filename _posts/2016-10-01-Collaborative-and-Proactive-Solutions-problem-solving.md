@@ -99,39 +99,31 @@ I’ve received a 2&frac12;-day Tier I Training from Think:Kids certified traine
 {::nomarkdown}
 <amp-youtube data-videoid="jvzQQDfAL-Q" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
-<div class="credits"><a rel="nofollow" href="https://youtu.be/jvzQQDfAL-Q" target="_blank"><em>Kids Do Well if They Can</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
 <h4>What's Your Explanation? (Part 1)</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="vokGMLxP9DA" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
-<div class="credits"><a rel="nofollow" href="https://youtu.be/vokGMLxP9DA" target="_blank"><em>What's Your Explanation? (Part 1)</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
 <h4>What's Your Explanation? (Part 2)</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="LfiYmUxKOXM" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
-<div class="credits"><a rel="nofollow" href="https://youtu.be/LfiYmUxKOXM" target="_blank"><em>What's Your Explanation? (Part 2)</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
 <h4>Being Responsive</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="rFzV6JVe7HM" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
-<div class="credits"><a rel="nofollow" href="https://youtu.be/rFzV6JVe7HM" target="_blank"><em>Being Responsive</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
 <h4>Check Your Lenses</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="tUrLK45Ezfo" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
-<div class="credits"><a rel="nofollow" href="https://youtu.be/tUrLK45Ezfo" target="_blank"><em>Check Your Lenses</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
 <h4>Three Options for Solving Problems</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="6xkVT2y9euI" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
-<div class="credits"><a rel="nofollow" href="https://youtu.be/6xkVT2y9euI" target="_blank"><em>Three Options for Solving Problems</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
 <h4>Plan B (Part 1)</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="QTG6kQot3f8" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
-<div class="credits"><a rel="nofollow" href="https://youtu.be/QTG6kQot3f8" target="_blank"><em>Plan B (Part 1)</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
 <h4>Plan B (Part 2)</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="ARIEXN1yf00" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
-<div class="credits"><a rel="nofollow" href="https://youtu.be/ARIEXN1yf00" target="_blank"><em>Plan B (Part 2)</em></a> by <a rel="nofollow" href="https://youtube.com/user/DrRossGreene" target="_blank">Ross Greene</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
