@@ -8,13 +8,13 @@ redirect_from:
 - "/Collaborative-and-Proactive-Solutions-Overview/"
 layout: post
 published: TRUE
-alt: "Father with arm around son comforting and talking with him"
+alt: "Parent with arm around child comforting and talking with the child"
 thumb:
-  src: "father-with-arm-around-son.jpg"
+  src: "parent-with-arm-around-child.jpg"
   X: 4960
   Y: 2790
 image:
-  src: "father-with-arm-around-son.jpg"
+  src: "parent-with-arm-around-child.jpg"
   X: 4960
   Y: 2790
 video:
