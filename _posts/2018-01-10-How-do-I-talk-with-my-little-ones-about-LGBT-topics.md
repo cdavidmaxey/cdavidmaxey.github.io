@@ -41,7 +41,7 @@ tags:
 	<li>a playmate transitions;</li>
 	<li>a neighborhood kid is gender nonconforming.</li>
 </ul>
-<p>Even if your child doesn’t have a situation that sparks a conversation, you might decide to teach your child about gender and sexual diversity, just because it’s good to understand others and foster acceptance. Lindsey Amer creates and posts videos on her <a rel="nofollow" href="https://www.youtube.com/QueerKidStuff" target="_blank">YouTube channel, Queer Kid Stuff</a>. She recommends her videos for kids ages 3-7 years old. Check them out to see if one might be right for sharing with your child. Four videos are embedded below&mdash;find more at <a rel="nofollow" href="https://www.youtube.com/QueerKidStuff" target="_blank">YouTube.com/QueerKidStuff</a></p>
+<p>Even if your child doesn’t have a situation that sparks a conversation, you might decide to teach your child about gender and sexual diversity, just because it’s good to understand others and foster acceptance. Lindsey Amer creates and posts videos on the <a rel="nofollow" href="https://www.youtube.com/QueerKidStuff" target="_blank">YouTube channel, Queer Kid Stuff</a>. Lindsey recommends the videos for kids ages 3-7 years old. Check them out to see if one might be right for sharing with your child. Four videos are embedded below&mdash;find more at <a rel="nofollow" href="https://www.youtube.com/QueerKidStuff" target="_blank">YouTube.com/QueerKidStuff</a></p>
 <h4>Allies: 3 Ways To Be A Good ALLY</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="RQKKJ7PppEs" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
