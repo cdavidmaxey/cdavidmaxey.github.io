@@ -8,8 +8,8 @@
 		<link href="{{site.url}}{{page.url}}" rel="canonical">{% if page.url contains '/blog/' %}{% if paginator.previous_page %}
 		<link href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}" rel="prev">{% endif %}{% if paginator.next_page %}
 		<link href="{{site.url}}{{paginator.next_page_path}}" rel="next">{% endif %}{% endif %}
-		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">{{page.head}}{% if page.url == '/' or page.url == '/about/' %}
-		<link href="https://fonts.googleapis.com/css?family=Tangerine:700" rel="stylesheet" type="text/css">
+		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+		<link href="https://fonts.googleapis.com/css?family=Tangerine:700" rel="stylesheet" type="text/css">{{page.head}}{% if page.url == '/' or page.url == '/about/' %}
 		<script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
@@ -79,7 +79,9 @@
 			nav.bar:hover a.active{background:none}
 			a.logo{margin:auto 0}
 			a.logo>amp-img,a.logo>div{display:inline-block;vertical-align:middle}
-			a.logo>div{margin:0 .5rem 0 .25rem}
+			a.logo>div{margin:0 .5rem 0 .25rem;font-size:.875rem}
+			a.logo>div>div:first-child>strong{font-family:Tangerine;font-size:1.5rem}
+			a.logo>div>div:last-child{font-size:.6875rem}
 			nav.bar a.link{padding:1rem;max-height:1.125rem}
 			nav.bar a.center{flex:1;text-align:center}
 			nav.bar a.right{margin-left:auto}
