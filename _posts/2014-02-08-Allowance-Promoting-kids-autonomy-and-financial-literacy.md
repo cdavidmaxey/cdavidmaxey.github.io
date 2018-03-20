@@ -1,38 +1,62 @@
 ---
+redirect_from:
+- "/allowance/"
+- "/Allowance/"
 updated:
 layout: post
-published: FALSE
-credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-image-two-boys-doing-dishes-image18152001' target='_blank'>&copy;&nbsp;Marcelmooij</a>"
-svg:
-thumb: "boys washing and drying dinner dishes"
-cover: "boys washing and drying dinner dishes"
-embed:
+published: TRUE
+alt: "child receiving allowance pocket money from parent"
+thumb:
+  src: "child-receiving-allowance-pocket-money-from-parent.jpg"
+  X:
+  Y:
+image:
+  src: "child-receiving-allowance-pocket-money-from-parent.jpg"
+  X:
+  Y:
 video:
-video-variables:
-title: "Assigning chores and choosing what’s age-approprite"
-description: "Chores"
+  src:
+  X:
+  Y:
+youtube:
+  id:
+  X:
+  Y:
+variables:
+credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-boy-receiving-pocket-money-allowance-father-gives-to-son-image50774618' target='_blank'>&copy;</a>&nbsp;Kirsty&nbsp;Begg"
+title: "Allowance: Promoting kids’ autonomy and financial literacy"
+description: "Decisions about what age you start giving an allowance, how much pocket money you give, and whether it’s earned by chores might affect the lessons learned."
 tags:
 - Parenting
+- Allowance
+- Chores
 ---
+<h4>Types of Allowance</h4>
+<p><strong>Earn allowance for chores</strong></p>
+<p><strong>Decided upon request</strong></p>
+<p><strong>Unconditional allowance</strong></p>
 <strong>Chores &ne; Allowance.</strong> Chores can help children develop a sense of independance. Allowances can help children develop financial sensibilities. 
 
 <strong>Helper > help.</strong> On average, 3- to 6-year-olds who had been prompted "to be a helper" tidyed up more than a simular group of children who has been prompted "to help" (<a rel="nofollow" href="http://dx.doi.org/10.1111/cdev.12244" target="_blank">Bryan, Master & Walton, 2014</a>).
 
-<strong>Consider your child.</strong> Your child might find it easier to do a chore that you'd consider more difficult. When assigning chores, think about how specific your child needs you to be.
+<h4>What's the going rate for allowance?</h4>
+
+<h4>Consider your child.</h4>
+<strong>Don't assume what's easy for you is easy for your child.</strong> A tough job for you might be easier for your child than chores typically considered easy for kids. For example, a child who is easily distracted might prefer to throughly clean a bathroom or kitchen than tidy up their bedroom that's filled with distracting toys.
+<strong>Consider breaking a job up into its component parts.</strong>When assigning chores, think about how specific your child needs you to be.
+<strong>A checklist might help kids when they get off-task.</strong>
 
 <blockquote cite="http://www.flandersfamily.info/web/age-appropriate-chores-for-children/"><div>
-	<p><a rel="nofollow" href="{{site.cache}}/Age-Appropriate-Chore-Chart-for-Children.pdf"><amp-img src="{{site.cache}}/320/Age-Appropriate-Chore-Chart-for-Children.jpg" srcset="{{site.cache}}/320/Age-Appropriate-Chore-Chart-for-Children.jpg 320w,{{site.cache}}/640/Age-Appropriate-Chore-Chart-for-Children.jpg 640w,{{site.cache}}/1280/Age-Appropriate-Chore-Chart-for-Children.jpg 1280w,{{site.cache}}/1920/Age-Appropriate-Chore-Chart-for-Children.jpg 1920w"></amp-img></a></p>
+	<p><a rel="nofollow" href="{{site.cache}}/Age-Appropriate-Chore-Chart-for-Children.pdf" download="CDavidMaxey.com-Age-Appropriate-Chore-Chart-for-Children.pdf"><amp-img src="{{site.cache}}/320/Age-Appropriate-Chore-Chart-for-Children.jpg" width="" height="" srcset="{{site.cache}}/320/Age-Appropriate-Chore-Chart-for-Children.jpg 320w,{{site.cache}}/640/Age-Appropriate-Chore-Chart-for-Children.jpg 640w,{{site.cache}}/1280/Age-Appropriate-Chore-Chart-for-Children.jpg 1280w,{{site.cache}}/1920/Age-Appropriate-Chore-Chart-for-Children.jpg 1920w"></amp-img></a></p>
 	<p class="citation"><small><a rel="nofollow" href="http://www.flandersfamily.info/web/age-appropriate-chores-for-children/" target="_blank">&copy; FlandersFamily.info</a></small></p>
 	<p>Don’t underestimate your child&mdash;independence can start early at home!</p>
 	<div class="citation"><a rel="nofollow" href="https://www.facebook.com/mariamontessori/posts/10151850817851345" target="_blank">Maria Montessori on Facebook</a></div>
 </div></blockquote>
 
 <strong>Chore lists.</strong> Maria Montessori set <a rel="nofollow" href="https://www.facebook.com/mariamontessori/posts/10151850817851345" target="_blank">Facebook</a> a buzz by sharing the <a rel="nofollow" href="http://www.flandersfamily.info/web/age-appropriate-chores-for-children/" target="_blank">Flanders Family’s list of "Age-Appropriate Chores for Children"</a> and cautioning against underestimating your child. It’s unfortunate that so many parents have used the ages attached to the chores to be overly critical or proud of their child and parenting (e.g., <a rel="nofollow" href="http://parenting.blogs.nytimes.com/2014/01/27/age-appropriate-chores-for-children-and-why-theyre-not-doing-them/" target="_blank">Kj Dell’Antonia’s New York Times’ Motherlode blog post</a>). To encourage parents to think for themselves about which chores fit with their child and family, I’ve complied a list without ages attached to the chores; these self-care and family chores are roughly sorted by difficulty, based loosely on research about the difficulty of a variety of chores, as rated by caregivers of 132 children and youth ages 6-14 years with and without disabilities from different regions of the United States (<a rel="nofollow" href="http://dx.doi.org/10.5014/ajot.2014.010454" target="_blank">Dunn, Magalhaes & Mancini, 2014</a>). Use your parent sense when considering any list; you know your child and family. For example, don’t send your child out to feed an unruly yard dog, and think twice about whether it’s a good idea to hand a broom over to a preschooler who has been hitting people with sticks lately.
-<div>
-	<div class="buttons">
-		<a class="button" href="{{site.url}}/chores.pdf">Print</a>
-		<a class="button" href="{{site.url}}/chores.pdf" download="CDavidMaxey-Self-Care-and-Family-Chores.pdf">Download</a>
-	</div>
+<div class="colored buttons">
+	<a href="{{site.url}}/chores.pdf">Chores List</a>
+	<a href="{{site.url}}/chores.pdf" download="CDavidMaxey-Self-Care-and-Family-Chores.pdf">Download</a>
 </div>
 <h3>Self-care</h3>
 <ul class="square">
