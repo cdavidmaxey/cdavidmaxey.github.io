@@ -22,7 +22,7 @@
 						<div>
 							<div><a href="{{site.url}}/about/">About</a></div>
 							<div><a href="{{site.url}}/contact/">Contact</a></div>
-<!--						<div><a href="{{site.url}}/forms/">Forms</a></div>-->
+							<div><a href="{{site.url}}/services/">Services</a></div>
 							<div><a href="{{site.url}}/blog/{% for post in site.posts %}{% if page.id == post.id and forloop.index > site.paginate %}page{{forloop.index0 | divided_by:site.paginate | plus:1}}/{% break %}{% endif %}{% endfor %}">blog</a></div>
 							<div><a href="{{site.url}}/search/">Search</a></div>
 						</div>
