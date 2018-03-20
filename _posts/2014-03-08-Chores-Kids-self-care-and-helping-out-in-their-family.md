@@ -5,7 +5,7 @@ redirect_from:
 - "/CHORES/"
 updated:
 layout: post
-published: TRUE
+published: FALSE
 alt: "children washing and drying dishes"
 thumb:
   src: "children-washing-and-drying-dishes.jpg"
