@@ -15,7 +15,8 @@ h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
 .am-pm{font-size:.625rem}
 .svg-flag{vertical-align:bottom}
 .signal-icon{display:inline-block;border-radius:.35rem;background-color:#2090ea;width:3rem;height:3rem}
-.signal-icon{font-family:'Open Sans',sans-serif;font-weight:normal;color:#2090ea}"
+.signal-icon span{font-family:'Open Sans',sans-serif;font-weight:normal;color:#2090ea}
+.signal-icon+div span{margin-right:.1875em}"
 head: "<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>"
 title: "email • Phone • Mail • Videoconference | C. David Maxey, M.A."
 description: "C. David Maxey, M.A. can be contacted confidentially by phone, voicemail, mail and videoconference. You can also email."
@@ -28,7 +29,8 @@ description: "C. David Maxey, M.A. can be contacted confidentially by phone, voi
 	<section class="contact center">
 		<h4>
 			<div class="signal-icon">
-				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+				<a rel="nofollow" href="https://signal.org/install" target="_blank">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 					<defs id="defs194">
 						<clipPath clipPathUnits="userSpaceOnUse" id="clipPath208"><path d="M 0,0 H 138 V 139 H 0 Z" id="path206"></path></clipPath>
 						<clipPath clipPathUnits="userSpaceOnUse" id="clipPath212"><path d="M -306,254 H 444 V -1080 H -306 Z" id="path210" clip-rule="evenodd"></path></clipPath>
@@ -144,8 +146,10 @@ description: "C. David Maxey, M.A. can be contacted confidentially by phone, voi
 							</g>
 						</g>
 					</g>
-				</svg>
-			</div> <span>Signal</span> <!--sse-->{{site.tel}}<!--/sse-->
+				</svg>&emsp;<span>Signal</span>
+				</a>
+			</div>
+			<div><!--sse-->+<span>1</span>{{site.tel | replace: '+1-', '+<span>1</span>'}}<!--/sse--></div>
 		</h4>
 		<p><small>confidential phone and voicemail</small></p>
 	</section>
