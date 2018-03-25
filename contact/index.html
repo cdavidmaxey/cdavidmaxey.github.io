@@ -15,11 +15,11 @@ h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
 .am-pm{font-size:.625rem}
 .svg-flag{vertical-align:bottom}
 .signal-icon{margin-bottom:.125rem}
-.signal-icon a{height:3rem}
+.signal-icon a{height:2.25rem}
 .signal-icon div{display:inline-block;vertical-align:middle}
-.signal-icon div:first-child{border-radius:.35rem;background-color:#2090ea;width:3rem;height:3rem}
+.signal-icon div:first-child{border-radius:.35rem;background-color:#2090ea;width:2.25rem;height:2.25rem}
 .signal-icon div:last-child span{font-family:'Open Sans',sans-serif;font-weight:normal;color:#2090ea}
-.signal-icon+div span{margin-right:.1875em}"
+.signal-icon+div span{margin-right:.375em}"
 head: "<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>"
 title: "email • Phone • Mail • Videoconference | C. David Maxey, M.A."
 description: "C. David Maxey, M.A. can be contacted confidentially by phone, voicemail, mail and videoconference. You can also email."
@@ -141,10 +141,9 @@ description: "C. David Maxey, M.A. can be contacted confidentially by phone, voi
 					</div>
 					<div>&nbsp;<span>Signal</span></div>
 				</a>
-			</div>
-			<div><!--sse-->{{site.tel | replace: '+1-', '+<span>1</span>'}}<!--/sse--></div>
+			</div><div><!--sse-->{{site.tel | replace: '+1-', '+<span>1</span>'}}<!--/sse--></div>
 		</h4>
-		<p><small>confidential phone and voicemail</small></p>
+		<p><small>encrypted communication</small></p>
 	</section>
 	<section class="contact center">
 		<h4><!--sse--><a href="mailto:{{site.email}}">{{site.email}}</a><!--/sse--></h4>
