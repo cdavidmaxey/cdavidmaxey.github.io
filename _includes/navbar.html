@@ -22,7 +22,7 @@
 		</nav>{% unless page.url == '/contact/' %}
 		<div class="digits">
 			<section>
-				<!--sse--><a href="tel:{{site.tel}}">{{site.telephone}}</a><!--/sse-->
-				<!--sse--><a class="right" href="mailto:{{site.email}}">{{site.email}}</a><!--/sse-->
+				<!--sse--><a rel="nofollow" href="tel:{{site.tel}}">{{site.telephone}}</a><!--/sse-->
+				<!--sse--><a class="right" rel="nofollow" href="mailto:{{site.email}}">{{site.email}}</a><!--/sse-->
 			</section>
 		</div>{% endunless %}
