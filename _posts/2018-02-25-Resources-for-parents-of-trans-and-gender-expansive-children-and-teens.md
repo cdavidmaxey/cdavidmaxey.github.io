@@ -43,7 +43,6 @@ style: ".quick-reference{display:flex;text-align:center;font-size:.875rem}
 .flexbook .credits{margin-top:2px;margin-bottom:-12px}
 .bookborder{border:black solid 1px;border-bottom:none}
 h3{font-size:1.5rem;text-align:center;margin:3rem -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
-.timeago+h3{margin-top:0}
 h3+.subheading{margin:-1rem 0 1rem;text-align:center}
 h5{font-size:1rem;margin:1rem 0 0}
 h5 .subheading{font-weight:normal}
