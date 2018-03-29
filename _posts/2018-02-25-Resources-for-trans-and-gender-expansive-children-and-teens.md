@@ -59,7 +59,8 @@ h5~p{margin: 0 0 .5rem 30px}
 .am-pm{font-size:.625rem}
 .booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#9c27b0;color:#fff;padding:.175rem 0}
 .booktopper+.bookborder{border-top:none}
-.svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}"
+.svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}
+.post p{text-align:left}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.bigstockphoto.com/image-48345461/stock-photo-side-view-of-a-relaxed-young-boy-in-superhero-costume-reading-book-on-armchair' target='_blank'>&copy;</a>&nbsp;Nosnibor137"
 title: "Resources for trans and gender expansive children and teens"
 description: "Gender Unicorn & Genderbread Person, Books, Biographies & Memoirs, Portland-Area Resources, Social Networks, Advocacy, Conferences, and Crisis Lines"

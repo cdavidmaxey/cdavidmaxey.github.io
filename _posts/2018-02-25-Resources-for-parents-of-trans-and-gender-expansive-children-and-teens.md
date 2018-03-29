@@ -51,7 +51,8 @@ h5~p{margin: 0 0 .5rem 30px}
 .a-tel{font-size:.875em}
 .a-tel~small,.a-tel~span,.a-tel~a{margin-left:1.5rem}
 .am-pm{font-size:.625rem}
-.svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}"
+.svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}
+.post p{text-align:left}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and gender-expansive children and teens"
 description: "Portland-Area Resources, Conferences, Information & News, Advocacy, Books for Parents, Social Networks & Online Forums, and Crisis Lines"
