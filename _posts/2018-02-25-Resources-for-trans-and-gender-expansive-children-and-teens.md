@@ -461,7 +461,7 @@ tags:
 <div class="subheading">in an emergency, call 9-1-1</div>
 <h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow" href="https://www.translifeline.org/" target="_blank">Trans Lifeline</a></h5>
 <p>for trans people (calls&nbsp;answered&nbsp;by&nbsp;trans&nbsp;people)</p>
-<p><a class="a-tel mono" rel="nofollow" href="tel:+1-877-565-8860">(877<span>)</span>565-8860</a><span>everyday&nbsp;8<span class="am-pm">A</span>&#8209;2<span class="am-pm">A</span>&nbsp;<small>Pacific</small></span></p>
+<p><a class="a-tel mono" rel="nofollow" href="tel:+1-877-565-8860">(877<span>)</span>565-8860</a><span>8<span class="am-pm">A</span>&#8209;2<span class="am-pm">A</span>&nbsp;<small>Pacific</small></span></p>
 <h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg><a rel="nofollow" href="https://www.thetrevorproject.org/" target="_blank">Trevor Project</a></h5>
 <p>for gender & sexual minority (LGBT) youth&nbsp;ages&nbsp;13&#8209;24</p>
 <p><a class="a-tel mono" rel="nofollow" href="tel:+1-866-488-7386">(866<span>)</span>488-7386</a><small>24/7/365</small></p>
