@@ -50,15 +50,15 @@ section>h4,h3{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:wh
 .bookborder{border:black solid 1px;border-bottom:none}
 h3{font-size:1.5rem;margin:3rem -1rem 1rem;text-align:center}
 h3+.subheading{margin:-1rem 0 1rem;text-align:center}
-h5{font-size:1rem;margin:1rem 0 0}
+h5{font-size:1rem;margin:1rem 0 0 30px}
 h5 .subheading{font-weight:normal}
-.post h5+div>p{margin:0 0 .5rem 1.5rem;text-align:left;padding-left:1.35rem;text-indent:-1.35rem}
-h5+div>p:first-child{margin-left:0;padding-left:0;text-indent:0}
-.a-tel{display:inline-block;width:7rem;margin-left:1.35rem;font-size:.875em}
+h5~p{margin: 0 0 .5rem 30px}
+.post h5+div>p{margin:0 0 .5rem;text-align:left}
+.a-tel{display:inline-block;width:8.35rem;font-size:.875em}
 .am-pm{font-size:.625rem}
 .booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#9c27b0;color:#fff;padding:.175rem 0}
 .booktopper+.bookborder{border-top:none}
-.svg-flag{vertical-align:bottom}"
+.svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.bigstockphoto.com/image-48345461/stock-photo-side-view-of-a-relaxed-young-boy-in-superhero-costume-reading-book-on-armchair' target='_blank'>&copy;</a>&nbsp;Nosnibor137"
 title: "Resources for trans and gender expansive children and teens"
 description: "Gender Unicorn & Genderbread Person, Books, Biographies & Memoirs, Portland-Area Resources, Social Networks, Advocacy, Conferences, and Crisis Lines"
