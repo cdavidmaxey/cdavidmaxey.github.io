@@ -49,7 +49,7 @@ h5 .subheading{font-weight:normal}
 h5~p{margin: 0 0 .5rem 30px}
 .post h5+div>p{margin:0 0 .5rem;text-align:left}
 .a-tel{font-size:.875em}
-.a-tel~small,.a-tel~span,.a-tel~a{margin-left:1.5rem}
+.a-tel~small,.a-tel~span,.a-tel~a{margin-left:1rem}
 .am-pm{font-size:.625rem}
 .svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}
 .post p{text-align:left}"

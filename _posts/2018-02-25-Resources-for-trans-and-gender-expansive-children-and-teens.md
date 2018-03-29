@@ -55,7 +55,7 @@ h5 .subheading{font-weight:normal}
 h5~p{margin: 0 0 .5rem 30px}
 .post h5+div>p{margin:0 0 .5rem;text-align:left}
 .a-tel{font-size:.875em}
-.a-tel~small,.a-tel~span,.a-tel~a{margin-left:1.5rem}
+.a-tel~small,.a-tel~span,.a-tel~a{margin-left:1rem}
 .am-pm{font-size:.625rem}
 .booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#9c27b0;color:#fff;padding:.175rem 0}
 .booktopper+.bookborder{border-top:none}
