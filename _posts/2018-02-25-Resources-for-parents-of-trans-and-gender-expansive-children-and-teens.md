@@ -48,7 +48,8 @@ h5{font-size:1rem;margin:1rem 0 0 30px}
 h5 .subheading{font-weight:normal}
 h5~p{margin: 0 0 .5rem 30px}
 .post h5+div>p{margin:0 0 .5rem;text-align:left}
-.a-tel{display:inline-block;width:8.35rem;font-size:.875em}
+.a-tel{font-size:.875em}
+.a-tel~small,.a-tel~span,.a-tel~a{margin-left:1.5rem}
 .am-pm{font-size:.625rem}
 .svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171' target='_blank'>&copy;</a>&nbsp;SolStock"
@@ -257,19 +258,19 @@ tags:
 <div class="subheading">in an emergency, call 9-1-1</div>
 <h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow" href="https://www.translifeline.org/" target="_blank">Trans Lifeline</a></h5>
 <p>for trans people (calls&nbsp;answered&nbsp;by&nbsp;trans&nbsp;people)</p>
-<p><a class="a-tel mono" rel="nofollow" href="tel:+1-877-565-8860">(877<span>)</span>565-8860</a>everyday&nbsp;8<span class="am-pm">A</span>&#8209;2<span class="am-pm">A</span>&nbsp;<small>Pacific</small></p>
+<p><a class="a-tel mono" rel="nofollow" href="tel:+1-877-565-8860">(877<span>)</span>565-8860</a><span>everyday&nbsp;8<span class="am-pm">A</span>&#8209;2<span class="am-pm">A</span>&nbsp;<small>Pacific</small></span></p>
 <h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg><a rel="nofollow" href="https://www.thetrevorproject.org/" target="_blank">Trevor Project</a></h5>
 <p>for gender & sexual minority (LGBT) youth&nbsp;ages&nbsp;13&#8209;24</p>
 <p><a class="a-tel mono" rel="nofollow" href="tel:+1-866-488-7386">(866<span>)</span>488-7386</a><small>24/7/365</small></p>
 <h5>Portland-Area Mental&nbsp;Health Crisis&nbsp;Lines</h5>
 <p>for anyone served by the county</p>
-<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-291-9111">(503<span>)</span>291-9111</a><small>24/7</small>&emsp;<a rel="nofollow" href="https://www.co.washington.or.us/HHS/MentalHealth/" target="_blank">Washington</a></p>
-<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-988-4888">(503<span>)</span>988-4888</a><small>24/7</small>&emsp;<a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention" target="_blank">Multnomah</a></p>
-<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-655-8585">(503<span>)</span>655-8585</a><small>24/7</small>&emsp;<a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/" target="_blank">Clackamas</a></p>
-<p><a class="a-tel mono" rel="nofollow" href="tel:+1-360-696-9560">(360<span>)</span>696-9560</a><small>24/7</small>&emsp;<a rel="nofollow" href="https://www.clark.wa.gov/community-services/clark-county-crisis-services" target="_blank">Clark</a></p>
+<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-291-9111">(503<span>)</span>291-9111</a><small>24/7</small><a rel="nofollow" href="https://www.co.washington.or.us/HHS/MentalHealth/" target="_blank">Washington</a></p>
+<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-988-4888">(503<span>)</span>988-4888</a><small>24/7</small><a rel="nofollow" href="https://multco.us/mhas/mental-health-crisis-intervention" target="_blank">Multnomah</a></p>
+<p><a class="a-tel mono" rel="nofollow" href="tel:+1-503-655-8585">(503<span>)</span>655-8585</a><small>24/7</small><a rel="nofollow" href="http://www.clackamas.us/behavioralhealth/" target="_blank">Clackamas</a></p>
+<p><a class="a-tel mono" rel="nofollow" href="tel:+1-360-696-9560">(360<span>)</span>696-9560</a><small>24/7</small><a rel="nofollow" href="https://www.clark.wa.gov/community-services/clark-county-crisis-services" target="_blank">Clark</a></p>
 <h5><a rel="nofollow" href="https://oregonyouthline.org/">Youth Suicide Prevention Lifeline</a></h5>
 <p>for&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by&nbsp;youth&nbsp;ages&nbsp;15&#8209;20)</p>
-<p><a class="a-tel mono" rel="nofollow" href="tel:+1-877-968-8491">(877<span>)</span>968-8491</a>4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>Pacific</small></p>
+<p><a class="a-tel mono" rel="nofollow" href="tel:+1-877-968-8491">(877<span>)</span>968-8491</a><span>4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>Pacific</small></span></p>
 <h5><a rel="nofollow" href="https://www.linesforlife.org/">Suicide Prevention Lifeline</a></h5>
 <p>for anyone</p>
 <p><a class="a-tel mono" rel="nofollow" href="tel:+1-800-273-8255">(800<span>)</span>273-8255</a><small>24/7</small></p>
