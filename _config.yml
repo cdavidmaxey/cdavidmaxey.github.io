@@ -32,8 +32,13 @@ Publisher:
     X: 408
     Y: 60
 feedTitle: "C. David Maxey, M.A."
-address: "PO Box 23931"
-city_state: "Portland, OR"
-zip: "97281"
-applemap: https://maps.apple.com/?q=2044%20E%20Burnside%20St,%20Portland,%20OR
-googlemap: https://www.google.com/maps/place/2044+E+Burnside+St,+Portland,+OR/
+mail:
+  address: "PO Box 23931"
+  city_state: "Portland, OR"
+  zip: "97281"
+office:
+  address: "7145 SW Varns St"
+  city_state: "Portland, OR"
+  zip: "97223"
+applemap: https://maps.apple.com/?q=7145%20SW%20Varns%20St,%20Portland,%20OR
+googlemap: https://www.google.com/maps/place/7145+SW+Varns+St,+Portland,+OR/
