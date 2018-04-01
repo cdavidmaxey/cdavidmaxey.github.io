@@ -234,7 +234,7 @@ tags:
 		</div>
 	</div>
 	<div class="flexbook">
-		<amp-img alt="Transitions of the Heart: Stories of Love, Struggle and Acceptance by Mothers of Transgender and Gender Variant Children" width="414" height="602" src="{{site.cache}}/books/Transitions-of-the-Heart-Stories-of-Love-Struggle-and-Acceptance-by-Mothers-of-Transgender-and-Gender-Variant-Children.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Transitions of the Heart: Stories of Love, Struggle and Acceptance by Mothers of Transgender and Gender Variant Children" width="414" height="602" src="{{site.cache}}/books/Transitions-of-the-Heart-Stories-of-Love-Struggle-and-Acceptance-by-Mothers-of-Transgender-and-Gender-Variant-Children.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/transitions-of-the-heart-9781573447881" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1573447889" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>

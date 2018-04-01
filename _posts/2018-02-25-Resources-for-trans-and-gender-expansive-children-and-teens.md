@@ -169,7 +169,7 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">Pre-K - 3<sup>rd</sup></div>
-		<amp-img alt="Be Who You Are" width="414" height="536" src="{{site.cache}}/books/Be-Who-You-Are.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Be Who You Are" width="414" height="536" src="{{site.cache}}/books/Be-Who-You-Are.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/be-who-you-are-9781452087252" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1452087253" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
@@ -281,7 +281,7 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">Teens</div>
-		<amp-img alt="parrotfish" width="414" height="621" src="{{site.cache}}/books/parrotfish.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="parrotfish" width="414" height="621" src="{{site.cache}}/books/parrotfish.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/parrotfish-9781481468107" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1481468103" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
@@ -321,7 +321,7 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">Teens</div>
-		<amp-img alt="Almost Perfect" width="414" height="630" src="{{site.cache}}/books/Almost-Perfect.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Almost Perfect" width="414" height="630" src="{{site.cache}}/books/Almost-Perfect.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/almost-perfect-9780385736657" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0385736657" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
