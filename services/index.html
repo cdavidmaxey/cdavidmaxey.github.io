@@ -20,15 +20,18 @@ p+ul{margin-top:-1.25em}
 h5{text-align:center;font-size:1rem;margin:1rem 0 .5rem}
 table{text-align:left;border-collapse:collapse;margin:-2em auto -.75em}
 tr{height:2.5em}
-td.right{padding-right:.25em}
+td.right{padding:0 .25em 0 0}
 td.left{padding-left:.25em}
-.innetwork{background:blue;color:white; border-top:2px solid black}
+.innetwork{background:blue;color:white;border-top:2px solid black;padding-top:calc(1.25em - 1px);padding-bottom:0}
 .innetwork>div:last-child{line-height:1}
 .allowedfee{background:linear-gradient(blue,green)}
 .insurancepays{background:green;color:white}
 .copay{background:linear-gradient(green,yellow)}
-.youpay{background:yellow;color:black; border-bottom:2px solid black}
-.innetwork,.insurancepays,.youpay{text-align:center;padding-left:1em;padding-right:1em}"
+.youpay{background:yellow;color:black;border-bottom:2px solid black;padding-top:0;padding-bottom:calc(1.25em - 1px)}
+.innetwork,.insurancepays,.youpay{text-align:center;padding-left:1em;padding-right:1em}
+.tablebottom{line-height:1}
+.tablebottom>div:first-child{height:1em;margin:2em 0}
+.tablebottom>div:last-child{height:1em;margin:-2.5em 0 0;padding:2em 0}"
 title: "Services | C. David Maxey, M.A."
 description: "Fees, Psychotherapist-Client Services Agreement, Privacy Practices Notice, Authorization to Use and Disclose Protected Health Information & Out-of-Network Insurance"
 ---
@@ -111,7 +114,7 @@ description: "Fees, Psychotherapist-Client Services Agreement, Privacy Practices
 					<td class="left">Allowed&nbsp;Fee</td>
 				</tr>
 				<tr>
-					<td rowspan="2">40%</td>
+					<td rowspan="2">60%</td>
 					<td rowspan="2" class="insurancepays"><strong>Insurance<br>Pays</strong></td>
 					<td rowspan="2"></td>
 				</tr>
@@ -122,10 +125,11 @@ description: "Fees, Psychotherapist-Client Services Agreement, Privacy Practices
 					<td class="left">Copay</td>
 				</tr>
 				<tr>
-					<td rowspan="3"><div>40%</div><div>$0</div></td>
+					<td class="tablebottom right" rowspan="3"><div>40%</div><div>$0</div></td>
 					<td rowspan="2" class="youpay"><strong>You Pay</strong></td>
 					<td rowspan="3"></td>
 				</tr>
+				<tr></tr>
 				<tr>
 					<td></td>
 				</tr>
