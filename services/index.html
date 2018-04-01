@@ -28,10 +28,8 @@ td.left{padding-left:.25em}
 .insurancepays{background:green;color:white}
 .copay{background:linear-gradient(green,yellow)}
 .youpay{background:yellow;color:black;border-bottom:2px solid black;padding-top:0;padding-bottom:calc(1.25em - 1px)}
-.innetwork,.insurancepays,.youpay{text-align:center;padding-left:1em;padding-right:1em}
-.tablebottom{line-height:1}
-.tablebottom>div:first-child{height:1em;margin:1.375em 0 2.625em}
-.tablebottom>div:last-child{height:1em;margin:-2.5em 0 0;padding:2em 0}"
+.youpay+td{padding-top:0;padding-bottom:calc(1.25em - 1px)}
+.innetwork,.insurancepays,.youpay{text-align:center;padding-left:1em;padding-right:1em}"
 title: "Services | C. David Maxey, M.A."
 description: "Fees, Psychotherapist-Client Services Agreement, Privacy Practices Notice, Authorization to Use and Disclose Protected Health Information & Out-of-Network Insurance"
 ---
@@ -94,9 +92,9 @@ description: "Fees, Psychotherapist-Client Services Agreement, Privacy Practices
 		<table>
 			<tbody>
 				<tr>
-					<td class="right" rowspan="2">$120</td>
+					<td rowspan="2" class="right">$120</td>
 					<td></td>
-					<td class="left" rowspan="2">Standard Fee</td>
+					<td rowspan="2" class="left">Standard Fee</td>
 				</tr>
 				<tr>
 					<td rowspan="2" class="innetwork">
@@ -114,9 +112,9 @@ description: "Fees, Psychotherapist-Client Services Agreement, Privacy Practices
 					<td class="left">Allowed&nbsp;Fee</td>
 				</tr>
 				<tr>
-					<td rowspan="2">60%</td>
-					<td rowspan="2" class="insurancepays"><strong>Insurance<br>Pays</strong></td>
 					<td rowspan="2"></td>
+					<td rowspan="2" class="insurancepays"><strong>Insurance<br>Pays</strong></td>
+					<td class="left" rowspan="2">60%</td>
 				</tr>
 				<tr></tr>
 				<tr>
@@ -125,12 +123,15 @@ description: "Fees, Psychotherapist-Client Services Agreement, Privacy Practices
 					<td class="left">Copay</td>
 				</tr>
 				<tr>
-					<td class="tablebottom right" rowspan="3"><div>40%</div><div>$0</div></td>
+					<td></td>
 					<td rowspan="2" class="youpay"><strong>You Pay</strong></td>
-					<td rowspan="3"></td>
+					<td rowspan="2" class="left">40%</td>
 				</tr>
-				<tr></tr>
 				<tr>
+					<td rowspan="2" class="right">$0</td>
+				</tr>
+				<tr>
+					<td></td>
 					<td></td>
 				</tr>
 			</tbody>
