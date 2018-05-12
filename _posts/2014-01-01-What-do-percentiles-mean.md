@@ -82,14 +82,14 @@ tags:
 <g text-anchor="middle" fill="#000" font-size="12px">
 <text x="40" y="247">Standard</text>
 <text x="40" y="260">Deviations</text>
-<text x="40" y="272" fill="#999" font-size="10px">(from the mean)</text>
+<text x="40" y="272" font-size="10px">(from the mean)</text>
 <text x="359.7" y="265" font-size="10px">Mean</text>
-<text x="359.7" y="276" fill="#999" font-size="10px">(Average)</text>
+<text x="359.7" y="276" font-size="10px">(Average)</text>
 <text x="77" y="308" text-anchor="end">Percentile</text>
 </g>
 <g text-anchor="middle" font-size="20px">	
 <text x="162.5" y="37.5">Standard Normal Distribution</text>
-<text x="162.5" y="62.5" fill="#888" font-style="italic">“Bell Curve”</text>
+<text x="162.5" y="62.5" font-style="italic">“Bell Curve”</text>
 </g>
 <g fill="#f1948a"><path d="m 121.9,227.3 c -12.4,0.3 -24.8,0.4 -37.2,0.5 h 68.8 v -2.3 c -10.5,1.1 -21,1.5 -31.5,1.8 z"/><path d="m 193.9,216.1 c -11.7,4.8 -24,7.4 -36.5,8.9 -1.3,0.2 -2.7,0.3 -4,0.5 v 2.3 h 68.7 v -29.2 c -8.6,7.2 -17.9,13.3 -28.2,17.4 z"/></g>
 <path fill="#c0392b" d="m 289.6,99.7 c -6.2,11.8 -12.4,23.5 -19,35 -6.3,11.2 -13.2,22.1 -20.5,32.6 -7.1,10.2 -15.3,20.2 -24.6,28.4 -1.1,1 -2.2,1.9 -3.4,2.9 v 29.2 h 68.7 V 97.2 c -0.4,0.8 -0.9,1.7 -1.3,2.5 z"/>
