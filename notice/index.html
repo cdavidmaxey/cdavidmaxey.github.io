@@ -12,8 +12,7 @@ h3{font-size:1em;padding-left:1.5em;text-indent:-1.5em}
 h3 span{width:1.5em;display:inline-block;text-indent:0}
 h3+div,h3+div>div,h3+div>div>div{margin-left:1.5em}
 ul{padding-left:1em}
-.shield{fill:#000}
-a[href^='tel:'].noticetext span:first-child {margin:0}"
+.shield{fill:#000}"
 title: "Privacy Practices Notice | C. David Maxey, M.A."
 description: "This notice describes how psychological and medical information about you may be used and disclosed and how you can get access to this information."
 ---
@@ -86,7 +85,7 @@ description: "This notice describes how psychological and medical information ab
 		</div>
 		<h3><span>V. </span>Questions and Complaints</h3>
 		<div>
-			<p>If you believe that your privacy rights have been violated and wish to file a complaint, you may send your written complaint to C. David Maxey<!--sse--> at <a rel="nofollow" href="mailto:privacy@CDavidMaxey.com">privacy@CDavidMaxey.com</a> or 7145 SW Varns St Suite 105, Portland, OR 97223<!--/sse-->. If you have questions, you may contact C. David Maxey<!--sse--> at <a rel="nofollow" href="tel:{{site.tel}}" class="noticetext">{{site.telephone | remove: '+1' | replace: '-', '&#8209;'}}</a><!--/sse-->.</p>
+			<p>If you believe that your privacy rights have been violated and wish to file a complaint, you may send your written complaint to C. David Maxey<!--sse--> at <a rel="nofollow" href="mailto:privacy@CDavidMaxey.com">privacy@CDavidMaxey.com</a> or 7145 SW Varns St Suite 105, Portland, OR 97223<!--/sse-->. If you have questions, you may contact C. David Maxey<!--sse--> at <a rel="nofollow" href="tel:{{site.tel}}">{{site.telephone | replace : '+1<span>(</span>', '(' | replace: '-', '&#8209;'}}</a><!--/sse-->.</p>
 		</div>
 		<h3><span>VI. </span>Effective Date, Restrictions and Changes to Privacy Policy</h3>
 		<div>
