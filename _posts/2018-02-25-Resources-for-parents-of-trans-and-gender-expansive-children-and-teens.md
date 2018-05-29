@@ -279,3 +279,6 @@ tags:
 <h5><a rel="nofollow" href="https://www.linesforlife.org/">Suicide Prevention Lifeline</a></h5>
 <p>for anyone</p>
 <p><a class="a-tel mono" rel="nofollow" href="tel:+1-800-273-8255">(800<span>)</span>273-8255</a><small>24/7</small></p>
+<h5><a rel="nofollow" href="https://www.linesforlife.org/">Drug & Alcohol Help Line</a></h5>
+<p>for help with drug & alcohol problems</p>
+<p><a class="a-tel mono" rel="nofollow" href="tel:+1-800-923-4357">(800<span>)</span>923-4357</a><small>24/7</small></p>
