@@ -72,6 +72,9 @@ description: "Tigard Triange in Portland, Oregon • C. David Maxey, M.A. can be
 		</nav>-->
 	</section>
 	<section class="map"><a rel="nofollow" href="{{site.googlemaps | replace: ',' '%2C' }}" target="_blank"></a></section>
+	<section>
+		<amp-img alt="Google Maps" src="{{ site.googlemapsapi.url | replace: '|', '%7C' | replace: ',', '%2C' | replace: ':', '%3A' | replace: '/' , '%2F' }}{{ site.googlemapsapi.signature }}" width="640" height="640" layout="fixed"></amp-img>
+	</section>
 	<section class="contact center streetview">
 		<h4>Street View</h4>
 		<amp-img alt="Street View of 7145 SW Varns St, Portland, OR 97223" src="{{site.cache}}/320/street-view.jpg" srcset="{{site.cache}}/320/street-view.jpg 320w,{{site.cache}}/640/street-view.jpg 640w,{{site.cache}}/1280/street-view.jpg 1280w,{{site.cache}}/1920/street-view.jpg 1920w" layout="responsive" width="1920" height="779"></amp-img>
