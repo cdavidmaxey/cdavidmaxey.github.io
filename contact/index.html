@@ -73,7 +73,7 @@ description: "Tigard Triange in Portland, Oregon • C. David Maxey, M.A. can be
 	</section>
 	<section class="map"><a rel="nofollow" href="{{site.googlemaps | replace: ',' '%2C' }}" target="_blank"></a></section>
 	<section>
-		<amp-img alt="Google Maps" src="{{ site.googlemapsapi.url | replace: '|', '%7C' | replace: ',', '%2C' | replace: ':', '%3A' | replace: '/' , '%2F' }}{{ site.googlemapsapi.signature }}" width="640" height="640" layout="fixed"></amp-img>
+		<amp-img alt="Google Maps" src="{{ site.googlemapsapi.url }}{{ site.googlemapsapi.parameters | replace: '|', '%7C' | replace: ',', '%2C' | replace: ':', '%3A' | replace: '/' , '%2F' }}{{ site.googlemapsapi.signature }}" width="640" height="640" layout="fixed"></amp-img>
 	</section>
 	<section class="contact center streetview">
 		<h4>Street View</h4>
