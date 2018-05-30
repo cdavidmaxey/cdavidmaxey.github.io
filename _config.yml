@@ -40,9 +40,15 @@ office:
   address: "7145 SW Varns St Suite&nbsp;105"
   city_state: "Portland, OR"
   zip: "97223"
-applemaps: "https://maps.apple.com/?q=7145+SW+Varns+St,+Portland,+OR"
-googlemaps: "https://www.google.com/maps/search/?api=1&query=C.+David+Maxey,+M.A.,+Psychologist+Associate+Resident&query_place_id=ChIJobOD-_sNlVQR4T-nHBAoTMw"
-googlemapsapi: 
-  url: "https://maps.googleapis.com/maps/api/staticmap"
+applemaps:
+  url: "https://maps.apple.com/?q=C.+David+Maxey,+M.A.,+Psychologist+Associate+Resident&t=m&sll=45.424516,-122.7530176"
+  documentation: "https://developer.apple.com/library/content/featuredarticles/iPhoneURLScheme_Reference/MapLinks/MapLinks.html"
+googlemaps:
+  url: "https://www.google.com/maps/search/?api=1&query=C.+David+Maxey,+M.A.,+Psychologist+Associate+Resident&query_place_id=ChIJobOD-_sNlVQR4T-nHBAoTMw"
+  documentation_url: "https://developers.google.com/maps/documentation/urls/guide"
+  documentation_place_id: "https://developers.google.com/places/place-id"
+  api: "https://maps.googleapis.com/maps/api/staticmap"
   parameters: "?zoom=15&size=640x640&scale=2&markers=scale:2|anchor:5,75|icon:https://cdavidmaxey.com/map-pin.png|7145+SW+Varns+St,Portland,OR&key=AIzaSyDCxo9x_qGwB3DbswOdJaEqbsMxEcalTgA"
   signature: "&signature=2LHCA-g8Cv6JEWu9LQu_ga66kN0="
+  api_console: "https://console.developers.google.com/google/maps-apis/api-list"
+  documentation_maps_static: "https://developers.google.com/maps/documentation/maps-static/intro"
