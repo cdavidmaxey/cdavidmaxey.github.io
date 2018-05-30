@@ -256,7 +256,7 @@
 			.address svg{height:7.5vw;width:7.5vw;vertical-align:text-bottom}
 			@media(min-width:640px){.address svg{height:48px;width:48px}}
 			.map{max-width:640px;margin:0 auto}
-			.map a{background:url('{{ site.googlemapsapi.url }}{{ site.googlemapsapi.parameters | replace: "|", "%7C" | replace: ",", "%2C" | replace: ":", "%3A" | replace: "/" , "%2F" }}{{ site.googlemapsapi.signature }}') center center/auto 640px no-repeat local;height:640px;display:block}
+			.map a{background:url('{{ site.googlemapsapi.url }}{{ site.googlemapsapi.parameters | replace: "|", "%7C" | replace: ",", "%2C" | replace: ":", "%3A" | replace: "/", "%2F" }}{{ site.googlemapsapi.signature }}') center center/auto 640px no-repeat local;height:640px;display:block}
 						
 			/* .input */
 			.subscription{margin:1rem auto;max-width:288px}
