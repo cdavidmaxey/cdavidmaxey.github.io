@@ -40,5 +40,8 @@ office:
   address: "7145 SW Varns St Suite&nbsp;105"
   city_state: "Portland, OR"
   zip: "97223"
-applemap: https://maps.apple.com/?q=7145%20SW%20Varns%20St,%20Portland,%20OR
-googlemap: https://www.google.com/maps/place/7145+SW+Varns+St,+Portland,+OR/
+applemaps: "https://maps.apple.com/?q=7145%20SW%20Varns%20St,%20Portland,%20OR"
+googlemaps: "https://www.google.com/maps/search/?api=1&query=C.+David+Maxey,+M.A.,+Psychologist+Associate+Resident&query_place_id=ChIJobOD-_sNlVQR4T-nHBAoTMw"
+googlemapsapi: 
+  url: "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=640x640&scale=2&markers=scale:2|anchor:5,75|icon:https://cdavidmaxey.com/map-pin.png?a|7145+SW+Varns+St,Portland,OR&key=AIzaSyDCxo9x_qGwB3DbswOdJaEqbsMxEcalTgA"
+  signature: ""
