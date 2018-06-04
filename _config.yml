@@ -37,7 +37,7 @@ mail:
   city_state: "Portland, OR"
   zip: "97281"
 office:
-  address: "<div>7145 SW Varns St&nbsp;</div><div>Suite105</div>"
+  address: "<div>7145 SW Varns St&nbsp;</div><div>Suite 105</div>"
   city_state: "Portland, OR"
   zip: "97223"
 applemaps:
