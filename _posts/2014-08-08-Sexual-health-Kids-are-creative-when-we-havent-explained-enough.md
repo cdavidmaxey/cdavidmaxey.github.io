@@ -59,7 +59,7 @@ Reflecting the reality of our modern time, <i>What Makes a Baby</i> by Cory Silv
 	</div>
 </div>
 
-<i>Sex is a Funny Word: A Book about Bodies, Feelings, and YOU</i> by Cory Silverberg and Fiona Smyth is a book about bodies, gender, and sexuality for kids that’s inclusive of children and families of all makeups, orientations, and gender identities.
+<i>Sex is a Funny Word: A Book about Bodies, Feelings, and YOU</i> by Cory Silverberg and Fiona Smyth is a kids’ book about bodies, gender, and sexuality that’s inclusive of children and families of all makeups, orientations, and gender identities.
 
 <div class="clear"></div>
 <h3><i>S&middot;E&middot;X</i></h3>
