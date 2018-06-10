@@ -62,17 +62,17 @@ Reflecting the reality of our modern time, <i>What Makes a Baby</i> by Cory Silv
 <i>Sex is a Funny Word: A Book about Bodies, Feelings, and YOU</i> by Cory Silverberg and Fiona Smyth is a kids’ book about bodies, gender, and sexuality that’s inclusive of children and families of all makeups, orientations, and gender identities.
 
 <div class="clear"></div>
-<h3><i>S&middot;E&middot;X</i></h3>
+<h3><i>s.e.x.</i></h3>
 <div class="float right side">
 	<div class="booktopper">Ages 12+</div>
-	<amp-img alt="S·E·X: The All-You-Need-To-Know Sexuality Guide to Get You Through Your Teens and Twenties by Heather Corinna" width="2073" height="2600" src="{{site.cache}}/books/S-E-X.jpg" sizes="8.625rem"></amp-img>
+	<amp-img alt="s.e.x.: the all-you-need-to-know sexuality guide to get you through your teens and twenties by Heather Corinna" width="2042" height="2560" src="{{site.cache}}/books/s-e-x.jpg" sizes="8.625rem"></amp-img>
 	<div class="merchants">
 		<a class="powells" rel="nofollow" href="http://www.powells.com/book/-9780738218847" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 		<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/0738218847" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
 	</div>
 </div>
 
-<i>S&middot;E&middot;X: The All-You-Need-To-Know Sexuality Guide to Get You Through Your Teens and Twenties</i> by Heather Corinna, Founder of <a href="http://www.scarleteen.com/" rel="nofollow" target="_blank">Scarleteen.com</a>, is an in-depth, progressive, and inclusive teen and young adult sexuality and relationships guide.
+<i>s.e.x.: the all-you-need-to-know sexuality guide to get you through your teens and twenties</i> by Heather Corinna, Founder of <a href="http://www.scarleteen.com/" rel="nofollow" target="_blank">Scarleteen.com</a>, is an in-depth, progressive, and inclusive teen and young adult sexuality and relationships guide.
 
 <div class="clear"></div>
 <h2>Anatomy Apps</h2>
