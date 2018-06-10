@@ -72,7 +72,7 @@ Reflecting the reality of our modern time, <i>What Makes a Baby</i> by Cory Silv
 	</div>
 </div>
 
-<i>S&middot;E&middot;X: The All-You-Need-To-Know Sexuality Guide to Get You Through Your Teens and Twenties</i> by Heather Corinna, Founder of <a href="http://www.scarleteen.com/" rel="nofollow" target="_blank">Scarleteen.com</a>, is an in-depth, progressive, and inclusive teen and young adult sexuality and relationships guide.
+<i>s.e.x.: The All-You-Need-To-Know Sexuality Guide to Get You Through Your Teens and Twenties</i> by Heather Corinna, Founder of <a href="http://www.scarleteen.com/" rel="nofollow" target="_blank">Scarleteen.com</a>, is an in-depth, progressive, and inclusive teen and young adult sexuality and relationships guide.
 
 <div class="clear"></div>
 <h2>Anatomy Apps</h2>
