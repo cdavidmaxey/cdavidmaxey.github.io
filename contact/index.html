@@ -5,12 +5,16 @@ sitemap:
   changefreq: yearly
 published: TRUE
 style: "h1{font-size:2rem;margin:2rem 0;color:#4a148c}
-.buttons{justify-content:center}
+.buttons{justify-content:center;margin:.75em 0 0}
 .buttons>a:hover{background:#9c27b0;color:white}
 .contact h4{font-size:1.5rem;margin:1.875rem 0 0}
 .contact.text{margin-top:1.875rem}
 .contact h4+p{line-height:1;margin: 0 0 .4rem}
 .contact form{width:300px;margin:.25rem auto 0}
+h6{font-size:1.125rem;margin:1rem 0 .375rem}
+table{margin:auto;border-collapse:collapse;border-top:2px solid black;border-bottom:2px solid black}
+th:nth-child(odd){border-bottom:1px dotted black;font-weight:bold}
+td:nth-child(2){padding:0 .5em;font-weight:bold}
 .crisis{max-width:480px;margin:0 auto 2rem;text-align:left}
 .crisis>div{margin:0 1rem}
 .crisis h4{text-align:center}
@@ -44,9 +48,56 @@ description: "Tigard Triange in Portland, Oregon • C. David Maxey, M.A. can be
 		<p>I’m often unable to answer the phone, so if I don’t answer your call, please leave a message with your availability for a return phone call. I usually return calls on the same or next day between 9am and 7pm, with the exception of weekends and holidays.</p>
 	</section>
 	<section class="contact center">
-		<h4 class="svg-lock"><svg class="fontawesome"><use xlink:href="#svg-lock"/></svg><a rel="nofollow" href="https://outlook.office365.com/owa/calendar/schedule@cdavidmaxey.com/bookings/" target="_blank">Online Scheduling</a></h4>
-		<p><small>You may also contact me directly <br>to schedule an appointment</small></p>
+		<h4 class="svg-lock"><svg class="fontawesome"><use xlink:href="#svg-lock"/></svg><a rel="nofollow" href="https://outlook.office365.com/owa/calendar/schedule@cdavidmaxey.com/bookings/" target="_blank">Appointments</a></h4>
+		<p><small>You’re welcome to schedule an appointment<br>online or by contacting me directly.</small></p>
 		<div class="buttons"><a rel="nofollow" href="https://outlook.office365.com/owa/calendar/schedule@cdavidmaxey.com/bookings/" target="_blank">Online Scheduling</a></div>
+		<h6>Appointment Times</h6>
+		<table>
+			<thead>
+				<tr>
+					<th>School Days</th>
+					<th></th>
+					<th>School Breaks</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>&nbsp;5pm&thinsp;-&thinsp;6pm&nbsp;</td>
+					<td>Mon</td>
+					<td>10am&thinsp;-&thinsp;6pm&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;5pm&thinsp;-&thinsp;6pm&nbsp;</td>
+					<td>Tue</td>
+					<td>10am&thinsp;-&thinsp;6pm&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;5pm&thinsp;-&thinsp;6pm&nbsp;</td>
+					<td>Wed</td>
+					<td>10am&thinsp;-&thinsp;6pm&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;5pm&thinsp;-&thinsp;6pm&nbsp;</td>
+					<td>Thu</td>
+					<td>10am&thinsp;-&thinsp;6pm&nbsp;</td>
+				</tr>
+				<tr>
+					<td>&nbsp;5pm&thinsp;-&thinsp;6pm&nbsp;</td>
+					<td>Fri</td>
+					<td>10am&thinsp;-&thinsp;6pm&nbsp;</td>
+				</tr>
+				<tr>
+					<td>10am&thinsp;-&thinsp;12pm</td>
+					<td>Sat</td>
+					<td>10am&thinsp;-&thinsp;12pm</td>
+				</tr>
+				<tr>
+					<td>by Appointment</td>
+					<td>Sun</td>
+					<td>by Appointment</td>
+				</tr>
+			</tbody>
+		</table>
 	</section>
 	<section class="contact center">
 		<h4 class="svg-lock"><svg id="svg-lock" class="fontawesome" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path fill="#12bc00" d="M640 768h512v-192q0-106-75-181t-181-75-181 75-75 181v192zm832 96v576q0 40-28 68t-68 28h-960q-40 0-68-28t-28-68v-576q0-40 28-68t68-28h32v-192q0-184 132-316t316-132 316 132 132 316v192h32q40 0 68 28t28 68z"/></svg><!--sse--><a rel="nofollow" href="tel:{{site.tel}}">{{site.telephone}}</a><!--/sse--></h4>
