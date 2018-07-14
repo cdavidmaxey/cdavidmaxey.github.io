@@ -20,10 +20,16 @@ ul{padding-left:1.5rem;text-align:left}
 p+ul{margin-top:-1.25em}
 #forms>p:last-child{margin-bottom:0.5rem}
 #forms+section>h3:first-child{margin-top:0;padding-top:1.5rem}
-table{text-align:left;border-collapse:collapse;margin:-2em auto -.75em 1rem}
-tr{height:2.5em}
-td.right{padding:0 .25em 0 0}
-td.left{padding-left:.25em}
+h6{font-size:1.125rem;margin:1rem 0 .375rem}
+table.hours{margin:auto;border-collapse:collapse;border-top:2px solid black;border-bottom:2px solid black}
+table.hours th:nth-child(odd){border-bottom:1px dotted black;font-weight:bold}
+table.hours td:nth-child(2){padding:0 .5em;font-weight:bold}
+table.hours tr:not(:last-child) td:nth-child(odd){font-family:Lucida Sans Typewriter,Lucida Console,monaco,monospace}
+table.hours td span{padding:0 .2em}
+#insurancegraph{text-align:left;border-collapse:collapse;margin:-2em auto -.75em 1rem}
+#insurancegraph tr{height:2.5em}
+#insurancegraph td.right{padding:0 .25em 0 0}
+#insurancegraph td.left{padding-left:.25em}
 .innetwork{background:blue;color:white;border-top:2px solid black;padding-top:calc(1.25em - 1px);padding-bottom:0}
 .innetwork>div:last-child{line-height:1}
 .allowedfee{background:linear-gradient(blue,green)}
@@ -50,6 +56,8 @@ description: "Tigard Triange in Portland, Oregon • Fees and forms for psycholo
 		<h3>Appointments</h3>
 		<p>You’re welcome to <a rel="nofollow" href="https://outlook.office365.com/owa/calendar/schedule@cdavidmaxey.com/bookings/" target="_blank">schedule an appointment online</a> or by <a href="{{site.url}}/contact/">contacting me directly</a>.</p>
 		<div class="buttons"><a rel="nofollow" href="https://outlook.office365.com/owa/calendar/schedule@cdavidmaxey.com/bookings/" target="_blank">Online Scheduling</a></div>
+		<h6>Appointment Times</h6>
+		{% include appointments.html %}
 	</section>
 	<section id="fees" class="text">
 		<h3>Fees</h3>
@@ -109,7 +117,7 @@ description: "Tigard Triange in Portland, Oregon • Fees and forms for psycholo
 	<section class="text">
 		<h3>In- and Out-of-Network Insurance&nbsp;Example</h3>
 		<p>Unfortunately, insurance plans are sometimes set up in a way that makes it hard to figure out what will be covered; therefore, this example might not fully capture the nuances of your insurance plan.</p>
-		<table>
+		<table id="insurancegraph">
 			<tbody>
 				<tr>
 					<td rowspan="2" class="right">$120</td>
