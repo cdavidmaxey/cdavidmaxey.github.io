@@ -27,9 +27,11 @@ tags:
 - Academic Acceleration
 - Grade Placement
 ---
-TAG is the acronym commonly used in Oregon for talented and gifted students. The excerpt below from <a rel="nofollow" href="http://nationempowered.org" title="A Nation Empowered: Evidence Trumps the Excuses Holding Back America’s Brightest Students" target="_blank"><i>A Nation Empowered</i></a> describes many of the options for these students who need academic acceleration. Language immersion programs are widely available in the Portland area, and the challenges of learning another lanugage can provide some students with the academic acceleration they need.
+TAG is the acronym commonly used in Oregon for talented and gifted students. Students in Oregon are identified as TAG based on multiple criteria, and school districts typically require scores at or above the 97<sup>th</sup> percentile on a nationally standardized test of mental ability, total reading, or total mathematics (see the <a rel="nofollow" href="https://www.oregon.gov/ode/learning-options/TAG/Pages/TAG-FAQ.aspx" target="_blank">Oregon Department of Education FAQs</a> for more information).
 
-Grade-skipping can be a good option for some students, but it is a decision that should not be taken lightly. The Iowa Acceleration Scale is often used by schools to assist in decision making.
+A variety of academic acceleration options are available to children who need them, regardless of whether they are identified as TAG. The excerpt below from <a rel="nofollow" href="http://nationempowered.org" title="A Nation Empowered: Evidence Trumps the Excuses Holding Back America’s Brightest Students" target="_blank"><i>A Nation Empowered</i></a> lists many options. I encourage parents considering their child’s needs to inform themselves about academic acceleration by reading both volumes of A Nation Empowered, which are available as free PDF downloads at. Working at a language immersion school, I’ve seen how the challenges of learning another lanugage can provide some students with the academic acceleration they need.
+
+There are practical limits to a teacher’s ability to differentiate instruction (i.e., giving your child higher-level work), so if your child needs or you want extensive differentiation, you should also consider grade-skipping, which can be a good option for some students. Schools often use the Iowa Acceleration Scale to assist in decision-making and guide discussion of how grade-skipping might fit with your child.
 
 <blockquote><div>
 <ol>
