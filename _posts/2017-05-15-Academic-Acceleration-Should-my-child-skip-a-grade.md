@@ -21,7 +21,7 @@ youtube:
   X:
   Y:
 variables:
-style ".bookborder{border:black solid 1px;border-bottom:none}"
+style: ".bookborder{border:black solid 1px;border-bottom:none}"
 credits: "Stock&nbsp;Photo <a href='https://www.dreamstime.com/royalty-free-stock-photo-elementary-chinese-applauding-school-teacher-young-girl-wrote-words-blackboard-image32555265' rel='nofollow' target='_blank'>&copy;</a>&nbsp;Hongqi&nbsp;Zhang (aka&nbsp;Michael&nbsp;Zhang)"
 title: "Academic Acceleration: Should my child skip a grade?"
 description: "Talented and Gifted (TAG) plans can include grade-skipping or many other options. Completing the Iowa Acceleration Scale can help with grade-skipping decisions."
