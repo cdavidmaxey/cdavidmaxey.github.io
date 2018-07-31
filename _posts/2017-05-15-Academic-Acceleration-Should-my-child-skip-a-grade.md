@@ -21,6 +21,7 @@ youtube:
   X:
   Y:
 variables:
+style ".bookborder{border:black solid 1px;border-bottom:none}"
 credits: "Stock&nbsp;Photo <a href='https://www.dreamstime.com/royalty-free-stock-photo-elementary-chinese-applauding-school-teacher-young-girl-wrote-words-blackboard-image32555265' rel='nofollow' target='_blank'>&copy;</a>&nbsp;Hongqi&nbsp;Zhang (aka&nbsp;Michael&nbsp;Zhang)"
 title: "Academic Acceleration: Should my child skip a grade?"
 description: "Talented and Gifted (TAG) plans can include grade-skipping or many other options. Completing the Iowa Acceleration Scale can help with grade-skipping decisions."
@@ -38,7 +39,7 @@ tags:
 	</div>
 	<div>
 		<a class="download" rel="nofollow" href="{{site.url}}/A-Nation-Empowered-Volume-2.pdf" download="A Nation Empowered Volume 2.pdf">
-		<amp-img alt="A Nation Empowered Volume 2" width="414" height="536" src="{{site.cache}}/books/A-Nation-Empowered-Volume-2.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="A Nation Empowered Volume 2" width="414" height="536" src="{{site.cache}}/books/A-Nation-Empowered-Volume-2.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
 		<div><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
 		</a>
 		<p class="credits"><a rel="nofollow" href="http://nationempowered.org/" target="_blank">&copy;&nbsp;NationEmpowered.org</a></p>
