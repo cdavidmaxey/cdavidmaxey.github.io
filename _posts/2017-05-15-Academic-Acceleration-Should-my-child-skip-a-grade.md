@@ -28,8 +28,6 @@ tags:
 - Academic Acceleration
 - Grade Placement
 ---
-TAG is the acronym commonly used in Oregon for talented and gifted students. Students in Oregon are identified as TAG based on multiple criteria, and school districts typically require scores at or above the 97<sup>th</sup> percentile on a nationally standardized test of mental ability, total reading, or total mathematics (see the <a rel="nofollow" href="https://www.oregon.gov/ode/learning-options/TAG/Pages/TAG-FAQ.aspx" target="_blank">Oregon Department of Education FAQs</a> for more information).
-
 <div class="float right side">
 	<div>
         <a class="download" rel="nofollow" href="{{site.url}}/A-Nation-Empowered-Volume-1.pdf" download="A Nation Empowered Volume 1.pdf">
@@ -46,6 +44,8 @@ TAG is the acronym commonly used in Oregon for talented and gifted students. Stu
 		<p class="credits"><a rel="nofollow" href="http://nationempowered.org/" target="_blank">&copy;&nbsp;NationEmpowered.org</a></p>
 	</div>
 </div>
+
+TAG is the acronym commonly used in Oregon for talented and gifted students. Students in Oregon are identified as TAG based on multiple criteria, and school districts typically require scores at or above the 97<sup>th</sup> percentile on a nationally standardized test of mental ability, total reading, or total mathematics (see the <a rel="nofollow" href="https://www.oregon.gov/ode/learning-options/TAG/Pages/TAG-FAQ.aspx" target="_blank">Oregon Department of Education FAQs</a> for more information).
 
 A variety of academic acceleration options are available to children who need them, regardless of whether they are identified as TAG. Working at a language immersion school, I’ve seen how the challenges of learning another lanugage can provide some students with the academic acceleration they need. The excerpt below from <a rel="nofollow" href="http://nationempowered.org" title="A Nation Empowered: Evidence Trumps the Excuses Holding Back America’s Brightest Students" target="_blank"><i>A Nation Empowered</i></a> lists many options. I encourage parents considering their child’s needs to inform themselves more about academic acceleration by reading both volumes of <a rel="nofollow" href="http://nationempowered.org" title="A Nation Empowered: Evidence Trumps the Excuses Holding Back America’s Brightest Students" target="_blank"><i>A Nation Empowered</i></a>, which are available as free PDF downloads.
 
