@@ -242,7 +242,7 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">4<sup>th</sup> - 8<sup>th</sup></div>
-		<amp-img alt="Magnus Chase and the Gods of Asgard, Book 2: The Hammer of Thor" width="414" height="639" src="{{site.cache}}/books/Magnus-Chase-and-the-Gods-of-Asgard-Book-2-The-Hammer-of-Thor.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Magnus Chase and the Gods of Asgard, Book 2: The Hammer of Thor" width="414" height="627" src="{{site.cache}}/books/Magnus-Chase-and-the-Gods-of-Asgard-Book-2-The-Hammer-of-Thor.jpg" sizes="8.625rem"></amp-img>
 		<div class="merchants">
 			<a class="powells" rel="nofollow" href="http://www.powells.com/book/the-hammer-of-thor-9781423160922" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" rel="nofollow" href="https://www.amazon.com/dp/1423160924" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
