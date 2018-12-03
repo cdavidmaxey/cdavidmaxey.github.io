@@ -57,4 +57,4 @@ googlemaps:
 collections:
   timerm:
     output: TRUE
-    permalink: "/:name"
+    permalink: "/:namem"
