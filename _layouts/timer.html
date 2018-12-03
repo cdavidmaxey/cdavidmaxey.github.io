@@ -39,7 +39,7 @@
 	</head>        
 	<body>
         <h1>Timer</h1>
-        <amp-date-countdown id="timer" timeleft-ms="{{page.minutes | times: '60000'}}" biggest-unit="minutes" layout="fixed-height" height="100" when-ended="stop">
+        <amp-date-countdown id="timer" timeleft-ms="{{page.minutes | times: '60000'}}" biggest-unit="minutes" layout="fill" when-ended="stop">
             <template type="amp-mustache">
                 <div>
                     <span>{% raw %}{{m}}{% endraw %}</span>
