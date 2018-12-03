@@ -56,8 +56,5 @@ googlemaps:
   documentation_maps_static: "https://developers.google.com/maps/documentation/maps-static/intro"
 collections:
   minutes:
-    output: true
-    permalink: "/:namem"
-  seconds:
-    output: true
-    permalink: "/:names"
+    output: TRUE
+    permalink: "/:name"
