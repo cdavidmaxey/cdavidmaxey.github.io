@@ -38,20 +38,20 @@
 		<meta name="format-detection" content="telephone=no">
 	</head>        
 	<body>
-        <h1>Timer</h1>
+        <h1>{{page.title | replace: '-', '‑'}}</h1>
         <amp-date-countdown id="timer" timeleft-ms="{% if page.minutes %}{{page.minutes | times: '60000'}}{% elsif page.seconds %}{{page.seconds | times: '1000'}}{% endif %}" biggest-unit="{% if page.minutes %}minutes{% elsif page.seconds %}seconds{% endif %}" layout="fixed-height" height="300" when-ended="stop">
             <template type="amp-mustache">{% if page.minutes %}
                 <div class="unit">
                     <span>{% raw %}{{m}}{% endraw %}</span>
-                    <div class="smalltext">Minutes</div>
+                    <div class="smalltext">{% raw %}{{minutes}}{% endraw %}</div>
                 </div>
                 <div class="unit">
                     <span>{% raw %}{{ss}}{% endraw %}</span>
-                    <div class="smalltext">Seconds</div>
+                    <div class="smalltext">{% raw %}{{seconds}}{% endraw %}</div>
                 </div>{% elsif page.seconds %}
                 <div class="unit">
                     <span>{% raw %}{{s}}{% endraw %}</span>
-                    <div class="smalltext">Seconds</div>
+                    <div class="smalltext">{% raw %}{{seconds}}{% endraw %}</div>
                 </div>{% endif %}
             </template>
         </amp-date-countdown>
