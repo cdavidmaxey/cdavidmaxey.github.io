@@ -57,7 +57,7 @@ googlemaps:
 collections:
   minutes:
     output: true
-    permalink: /:namem
+    permalink: "/:namem"
   seconds:
     output: true
-    permalink: /:names
+    permalink: "/:names"
