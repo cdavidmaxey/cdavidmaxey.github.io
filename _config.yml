@@ -55,6 +55,6 @@ googlemaps:
   api_console: "https://console.developers.google.com/google/maps-apis/api-list"
   documentation_maps_static: "https://developers.google.com/maps/documentation/maps-static/intro"
 collections:
-  timerm:
+  timer:
     output: TRUE
-    permalink: "/:namem"
+    permalink: "/:name"
