@@ -29,6 +29,10 @@
 		<meta name="format-detection" content="telephone=no">
 	</head>        
 	<body>
-{{content}}
-	</body>
+        <amp-date-countdown timeleft-ms="{{page.minutes | times: '60000'}}" biggest-unit="minutes" layout="fixed-height" height="100" when-ended="stop">
+            <template type="amp-mustache">
+                <p>{% raw %}{{m}}:{{ss}}{% endraw %}</p>
+            </template>
+        </amp-date-countdown>
+    </body>
 </html>
