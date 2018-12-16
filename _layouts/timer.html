@@ -11,12 +11,14 @@
 		<link href="{{site.url}}{{page.url}}" rel="canonical">
 		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
         <style amp-custom>
-            body{text-align:center;background:#00ECB9;font-family:sans-serif;font-weight:100}
-            h1{color:#396;font-weight:100;font-size:40px;margin:40px 0px 20px}
-            #timer{font-family:sans-serif;color:#fff;display:inline-block;font-weight:100;text-align: center;font-size:30px}
-            #timer .unit{padding:10px;border-radius:3px;background:#00BF96;display:inline-block}
-            #timer .unit>span{padding:15px;border-radius:3px;background:#00816A;display:inline-block;width:calc(100% - 30px)}
-            .smalltext{padding-top:5px;font-size:16px}
+            body{text-align:center;background:#00ecb9;font-size:16px;font-family:sans-serif;font-weight:100}
+            h1{color:#396;font-weight:100;font-size:2.5em;margin:1em 0px .6em}
+            #timer{font-family:sans-serif;color:#fff;display:inline-block;font-weight:100;text-align:center;font-size:2em}
+            #timer .unit{min-width:2.5em;padding:calc(1em / 3);border-radius:.1em;background:#00bf96;display:inline-block}
+            #timer .unit>span{padding:.5em;border-radius:.1em;background:#00816a;display:inline-block;width:calc(100% - 1em)}
+            .smalltext{padding-top:calc(1em / 3);font-size:.5em}
+            h2{font-size:1.5em}
+            #link a{padding:.2em}
         </style>
 		<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
 		<noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
@@ -38,7 +40,7 @@
 	</head>        
 	<body>
         <h1>Timer</h1>
-        <amp-date-countdown id="timer" timeleft-ms="{% if page.minutes %}{{page.minutes | times: '60000'}}{% elsif page.seconds %}{{page.seconds | times: '1000'}}{% endif %}" biggest-unit="{% if page.minutes %}minutes{% elsif page.seconds %}seconds{% endif %}" layout="fixed-height" height="300" when-ended="stop">
+        <amp-date-countdown id="timer" timeleft-ms="{% if page.minutes %}{{page.minutes | times: '60000'}}{% elsif page.seconds %}{{page.seconds | times: '1000'}}{% endif %}" biggest-unit="{% if page.minutes %}minutes{% elsif page.seconds %}seconds{% endif %}" layout="fixed-height" height="7em" when-ended="stop">
             <template type="amp-mustache">{% if page.minutes %}
                 <div class="unit">
                     <span>{% raw %}{{m}}{% endraw %}</span>
@@ -54,5 +56,53 @@
                 </div>{% endif %}
             </template>
         </amp-date-countdown>
+        <div class="links">
+            <h2>Seconds</h2>
+            <div>
+                <a href="{{site.url}}/15s">15</a>
+                <a href="{{site.url}}/30s">30</a>
+                <a href="{{site.url}}/45s">45</a>
+                <a href="{{site.url}}/60s">60</a>
+                <a href="{{site.url}}/90s">90</a>
+                <a href="{{site.url}}/120s">120</a>
+            </div>
+            <h2>Minutes</h2>
+            <div>
+                <a href="{{site.url}}/1m">1</a>
+                <a href="{{site.url}}/2m">2</a>
+                <a href="{{site.url}}/3m">3</a>
+                <a href="{{site.url}}/4m">4</a>
+                <a href="{{site.url}}/5m">5</a>
+                <a href="{{site.url}}/6m">6</a>
+                <a href="{{site.url}}/7m">7</a>
+                <a href="{{site.url}}/8m">8</a>
+                <a href="{{site.url}}/9m">9</a>
+                <a href="{{site.url}}/10m">10</a>
+            </div>
+            <div>
+                <a href="{{site.url}}/11m">11</a>
+                <a href="{{site.url}}/12m">12</a>
+                <a href="{{site.url}}/13m">13</a>
+                <a href="{{site.url}}/14m">14</a>
+                <a href="{{site.url}}/15m">15</a>
+                <a href="{{site.url}}/16m">16</a>
+                <a href="{{site.url}}/17m">17</a>
+                <a href="{{site.url}}/18m">18</a>
+                <a href="{{site.url}}/19m">19</a>
+                <a href="{{site.url}}/20m">20</a>
+            </div>
+            <div>
+                <a href="{{site.url}}/25m">25</a>
+                <a href="{{site.url}}/30m">30</a>
+                <a href="{{site.url}}/35m">35</a>
+                <a href="{{site.url}}/40m">40</a>
+                <a href="{{site.url}}/45m">45</a>
+                <a href="{{site.url}}/50m">50</a>
+                <a href="{{site.url}}/55m">55</a>
+                <a href="{{site.url}}/60m">60</a>
+                <a href="{{site.url}}/75m">75</a>
+                <a href="{{site.url}}/90m">90</a>
+            </div>
+        </div>
     </body>
 </html>
