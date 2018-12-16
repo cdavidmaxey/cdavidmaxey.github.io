@@ -40,7 +40,7 @@
 	</head>        
 	<body>
         <h1>Timer</h1>
-        <amp-date-countdown id="timer" timeleft-ms="{% if page.minutes %}{{page.minutes | times: '60000'}}{% elsif page.seconds %}{{page.seconds | times: '1000'}}{% endif %}" biggest-unit="{% if page.minutes %}minutes{% elsif page.seconds %}seconds{% endif %}" layout="fixed-height" height="7em" when-ended="stop">
+        <amp-date-countdown id="timer" timeleft-ms="{% if page.minutes %}{{page.minutes | times: '60000'}}{% elsif page.seconds %}{{page.seconds | times: '1000'}}{% endif %}" biggest-unit="{% if page.minutes %}minutes{% elsif page.seconds %}seconds{% endif %}" layout="fixed-height" height="3.5em" when-ended="stop">
             <template type="amp-mustache">{% if page.minutes %}
                 <div class="unit">
                     <span>{% raw %}{{m}}{% endraw %}</span>
