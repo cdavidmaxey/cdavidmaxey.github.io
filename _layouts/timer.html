@@ -49,7 +49,7 @@
 	<body>
         <div id="spread">
             <amp-date-countdown id="timer" timeleft-ms="{% if page.minutes %}{{page.minutes | times: '60000'}}{% elsif page.seconds %}{{page.seconds | times: '1000'}}{% endif %}" biggest-unit="{% if page.minutes > 1 %}minutes{% else %}seconds{% endif %}" layout="fixed-height" height="3.5em" when-ended="stop">
-                <template type="amp-mustache">{% if page.minutes %}
+                <template type="amp-mustache">{% if page.minutes > 1 %}
                     <div class="unit">
                         <span>{% raw %}{{m}}{% endraw %}</span>
                         <div class="smalltext">{% raw %}{{minutes}}{% endraw %}</div>
@@ -57,7 +57,7 @@
                     <div class="unit">
                         <span>{% raw %}{{ss}}{% endraw %}</span>
                         <div class="smalltext">{% raw %}{{seconds}}{% endraw %}</div>
-                    </div>{% elsif page.seconds %}
+                    </div>{% else %}
                     <div class="unit">
                         <span>{% raw %}{{s}}{% endraw %}</span>
                         <div class="smalltext">{% raw %}{{seconds}}{% endraw %}</div>
