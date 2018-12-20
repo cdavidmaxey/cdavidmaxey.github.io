@@ -48,7 +48,7 @@
 		<meta name="format-detection" content="telephone=no">
 	</head>        
 	<body>
-        <amp-video id="alarm" src="{{site.url}}/moonlight.mp4" layout="nodisplay" preload></amp-video>
+        <amp-video id="alarm" src="{{site.url}}/moonlight.mp4" layout="fixed" width="100" height="100"></amp-video>
         <div id="spread">
             <amp-date-countdown id="timer" timeleft-ms="{% if page.minutes %}{{page.minutes | times: '60000'}}{% elsif page.seconds %}{{page.seconds | times: '1000'}}{% endif %}" biggest-unit="{% if page.minutes > 1 %}minutes{% else %}seconds{% endif %}" layout="fixed-height" height="3.5em" when-ended="stop" on="timeout: alarm.play">
                 <template type="amp-mustache">{% if page.minutes > 1 %}
