@@ -11,11 +11,11 @@ alt: "child doing homework with hourglass sand timer"
 thumb:
   src: "child-doing-homework-with-hourglass-sand-timer.jpg"
   X: 1920
-  Y: 1253
+  Y: 997
 image:
   src: "child-doing-homework-with-hourglass-sand-timer.jpg"
   X: 1920
-  Y: 1253
+  Y: 997
 video:
   src:
   X:
