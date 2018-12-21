@@ -45,4 +45,6 @@ Many children struggle with developing a sense of time, and this is often a chal
 - The passage of time is represented by the red disk that disappears as time elapses.
 - Children with limited number sense can usually understand how much time is represented by the timer’s red disk.
 - The timer has an elegant presentation that eliminates distracting details commonly added to physical timers or website timers (e.g., seconds, milliseconds, eyecatching graphics, ads, links, etc.).
+{::nomarkdown}
 <amp-youtube data-videoid="5-9ugu9pBak" layout="responsive" width="560" height="315" credentials="omit" data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
