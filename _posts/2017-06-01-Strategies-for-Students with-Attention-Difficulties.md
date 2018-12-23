@@ -26,7 +26,7 @@ h3{font-size:2em;text-align:center}
 h4{font-size:1.5em}
 h5 {font-size:inherit}
 h6{font-size:inherit;display:inline}"
-title: "Accommodations for Difficulties with Attention"
+title: "Strategies for Students with Attention Difficulties"
 description: ""
 tags:
 - Attention
