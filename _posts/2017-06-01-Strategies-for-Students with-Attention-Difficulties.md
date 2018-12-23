@@ -133,6 +133,8 @@ The following strategies can be tried to help students who require extra assista
     <li><h6>Individual dry-erase boards</h6>. Ask the student to practice copying and erasing the target words on a small, personal dry-erase board. Two students can be paired to practice their target words together.</li>
     <li><h6>“Quiet places” for handwriting</h6>. Provide the student with a special “quiet place” (e.g., a table outside the classroom) to complete their handwriting assignments.</li>
     <li><h6>Spacing words on a page</h6>. Teach the student to use their finger to measure how much space to leave between each word in a written assignment.</li>
+    <li><h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening.</li>
+    <li><h6>Allowing cursive writing</h6> (instead of printing) can help students keep up the flow of writing becasue each letter naturally leads into the next one.</li>
     <li><h6>Special writing paper</h6>. Ask the student to use special paper with vertical lines to learn to space letters and words on a page.</li>
     <li><h6>Structured programs for handwriting</h6>. Teach handwriting skills through a structured program, such as Jan Olsen’s <i>Handwriting Without Tears</i> program (Olsen, 2003).</li>
 </ul>
