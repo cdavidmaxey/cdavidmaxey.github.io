@@ -250,10 +250,12 @@ Because students’ individual needs are different, it is important for teachers
     <li><h6>Seat the child near a student role model</h6>. Assign the child a seat near a student role model. This seat arrangement provides opportunity for children to work cooperatively and to learn from their peers in the class.</li>
     <li><h6>Provide low-distraction work areas</h6>. As space permits, teachers should make available a quiet, distraction-free room or area for quiet study time and test taking. Students should be directed to this room or area privately and discreetly in order to avoid the appearance of punishment.</li>
 </ul>
-<h4>Instructional Tools and the Physical Learning Environment</h4>
+<h3>Instructional Tools and the Physical Learning Environment</h3>
 <ul>
     <li><h6>Pointers</h6>. Teach the student to use a pointer to help visually track written words on a page. For example, provide the student with a bookmark to help them follow along when students are taking turns reading aloud.</li>
     <li><h6>Visual timers</h6>. <a href="{{site.url}}/timers/"><i>Time Timer</i> and hourglass sand timers, which I’ve reviewed</a>, can help students monitor the passage of time more independently.</li>
+    <li><h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening.</li>
+    <li><h6>Calming fidgets</h6> that can be manipulated quietly (unlike some toys and other objects that can be distracting for both the student and peers in the classroom) can provide some needed sensory input while still allowing the student to attend to the lesson.</li>
     <li><h6>Classroom lights</h6>. Turning the classroom lights on and off can prompt students that the noise level in the room is too high or they should be quiet. This practice can also be used to signal that it is time to begin preparing for the next lesson.</li>
     <li><h6>Music</h6>. Play music, a chime, or chords on a piano to prompt students that they are too noisy. In addition, playing different types of music can communicate to the students what level of activity is appropriate for a particular lesson (e.g., play quiet classical music for quiet activities done independently and jazz for active group activities).</li>
     <li><h6>Properly-adjusted furniture</h6>. The desk and chair used by students need to be the right size; if they are not, the student will be more inclined to squirm and fidget. A general rule of thumb is that a student should be able to put their elbows on the surface of the desk and have their chin fit comfortably in the palm of their hand.</li>
