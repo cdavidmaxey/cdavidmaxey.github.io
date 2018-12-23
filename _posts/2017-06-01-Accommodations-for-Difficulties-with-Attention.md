@@ -255,3 +255,4 @@ Because students’ individual needs are different, it is important for teachers
     <li><h6>Music</h6>. Play music, a chime, or chords on a piano to prompt students that they are too noisy. In addition, playing different types of music can communicate to the students what level of activity is appropriate for a particular lesson (e.g., play quiet classical music for quiet activities done independently and jazz for active group activities).</li>
     <li><h6>Properly-adjusted furniture</h6>. The desk and chair used by students need to be the right size; if they are not, the student will be more inclined to squirm and fidget. A general rule of thumb is that a student should be able to put their elbows on the surface of the desk and have their chin fit comfortably in the palm of their hand.</li>
 </ul>
+<p>Adapted from <i>Teaching Children with Attention Deficit Hyperactivity Disorder: Instructional Strategies and Practices</i> (U.S. Department of Education, 2008).
