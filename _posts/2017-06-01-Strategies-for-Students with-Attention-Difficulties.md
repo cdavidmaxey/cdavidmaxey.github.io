@@ -27,11 +27,11 @@ h4{font-size:1.5em}
 h5 {font-size:inherit}
 h6{font-size:inherit;display:inline}"
 title: "Strategies for Students with Attention Difficulties"
-description: "Students with attention difficulties may need special instructional practices, behavioral interventions, or accommodations to be successful in school."
+description: "Students with attention difficulties may need special instructional practices, behavioral approaches, or accommodations to be successful in school."
 tags:
 - Attention
 ---
-Students with attention difficulties may need special instructional practices, behavioral interventions, or accommodations to be successful in school. instructional practices, and many of the techiniques have the added benefit of enhancing the learning of students who do not have problems with attention.
+Students with attention difficulties may need special instructional practices, behavior management strategies, social-skills and problem-solving instruction, behavioral interventions, or classroom accommodations to be successful in school. Many of the instructional practices and behavior management strategies can have the added benefit of enhancing the learning of students who do not have problems with attention.
 <h3>Instructional Practices</h3>
 <h4>General Instructional Practices</h4>
 <h5>Lesson Introduction</h5>
