@@ -53,4 +53,4 @@ Developing a sense of time can be a struggle for many children, especially child
 <h3>Online Countdown Timers</h3>
 Because many of the online countdown timers have distracting details (e.g., milliseconds, eyecatching graphics, ads, links, etc.), I have created a simple ad-free countdown timer that can be used with an internet browser. Feel free to use it.
 
-<div class="buttons"><a href="https://cdavidmaxey.com/timer/">Timer</a></div>
+<div class="buttons"><a href="https://cdavidmaxey.com/timer/">Online Timer</a></div>
