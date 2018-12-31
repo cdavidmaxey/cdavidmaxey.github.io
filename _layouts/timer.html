@@ -20,9 +20,9 @@
             #timer .unit>span{padding:.5em;border-radius:.1em;background:#254e7b;display:inline-block;width:calc(100% - 1em)}
             .smalltext{padding-top:calc(1em / 3);font-size:.5em}
             h1,h2{color:#254e7b;font-weight:100;font-size:2.5em;padding:1em 0px .6em;margin:0}
-            h2{font-size:1.5em}{% else %}
-            h2{color:#254e7b;font-weight:100;font-size:1.5em;padding:1em 0px .6em;margin:0}{% endunless %}
-            #links{padding-bottom:4em}
+            h2{font-size:1.5em}{% endunless %}
+{% if page.intro %}            h2{color:#254e7b;font-weight:100;font-size:1.5em;padding:1em 0px .6em;margin:0}
+{% endif %}            #links{padding-bottom:4em}
             #links a{margin:.4em;padding:.4em;background-color:#5584b1;display:inline-block;border-radius:.25em;min-width:calc(1em / 3 * 4)}
             #links .seconds{padding-left:.5em}
             #links #120s{min-width:calc(1em / 6 * 11)}
@@ -64,9 +64,9 @@
                         <div class="smalltext">{% raw %}{{seconds}}{% endraw %}</div>
                     </div>{% endif %}
                 </template>
-            </amp-date-countdown>{% else %}
-            <h1>Countdown Timer</h1>{% endunless %}
-        </div>
+            </amp-date-countdown>{% endunless %}
+{% if page.intro %}            <h1>Countdown Timer</h1>
+{% endif %}        </div>
         <div id="links">
             <h2>Seconds</h2>
             <div class="seconds"><a {% if page.seconds == 15 %}class="active" {% endif %}href="{{site.url}}/15s">15</a><a {% if page.seconds == 30 %}class="active" {% endif %}href="{{site.url}}/30s">30</a><a {% if page.seconds == 45 %}class="active" {% endif %}href="{{site.url}}/45s">45</a><a {% if page.seconds == 60 %}class="active" {% endif %}href="{{site.url}}/60s">60</a><a {% if page.seconds == 90 %}class="active" {% endif %}href="{{site.url}}/90s">90</a><a id="120s" {% if page.seconds == 120 %}class="active" {% endif %}href="{{site.url}}/120s">120</a></div>
