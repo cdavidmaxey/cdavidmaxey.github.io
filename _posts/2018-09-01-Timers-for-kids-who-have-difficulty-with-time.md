@@ -42,11 +42,12 @@ Developing a sense of time can be a struggle for many children, especially child
 <h3>Features</h3>
 - The passage of time is represented by the red disk that disappears as time elapses.
 - With only a glance at the timer’s red disk, children who have limited number sense can usually understand how much time is left.
-- The timer has an elegant presentation that eliminates distracting details commonly added to physical timers or website timers (e.g., seconds, milliseconds, eyecatching graphics, ads, links, etc.).
+- The timer has an elegant presentation that eliminates distracting details commonly added to timers (e.g., seconds, milliseconds, blinking graphics, etc.).
 - The timer is virtually silent (and does not make “ticking” sounds).
 
 {::nomarkdown}
 <amp-youtube data-videoid="5-9ugu9pBak" layout="responsive" width="560" height="315" credentials="omit" data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
 
-Because many of the online countdown timers have distracting details, I have created a simple ad-free countdown timer that can be used with an internet browser. Feel free to use it.
+<h3>Online Countdown Timers</h3>
+Because many of the online countdown timers have distracting details (e.g., milliseconds, eyecatching graphics, ads, links, etc.), I have created a simple ad-free countdown timer that can be used with an internet browser. Feel free to use it.
