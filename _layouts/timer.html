@@ -14,13 +14,14 @@
             body{text-align:center;background:#85c1e5;font-size:16px;font-family:sans-serif;font-weight:100}
             a{text-decoration:none;color:#fff}
             #spread{min-height:9em}
-            @media(min-width:540px){#spread{height:calc(100vh - 28em)}#links br{display:none}}
+            @media(min-width:540px){#spread{height:calc(100vh - 28em)}#links br{display:none}}{% unless page.url == '/timer/' %}
             #timer{padding:1em 0 0;font-family:sans-serif;color:#fff;display:inline-block;font-weight:100;text-align:center;font-size:2em}
             #timer .unit{min-width:2.5em;padding:calc(1em / 3);border-radius:.1em;background:#5584b1;display:inline-block}
             #timer .unit>span{padding:.5em;border-radius:.1em;background:#254e7b;display:inline-block;width:calc(100% - 1em)}
             .smalltext{padding-top:calc(1em / 3);font-size:.5em}
             h1,h2{color:#254e7b;font-weight:100;font-size:2.5em;padding:1em 0px .6em;margin:0}
-            h2{font-size:1.5em}
+            h2{font-size:1.5em}{% else %}
+            h2{color:#254e7b;font-weight:100;font-size:1.5em;padding:1em 0px .6em;margin:0}{% endunless %}
             #links{padding-bottom:4em}
             #links a{margin:.4em;padding:.4em;background-color:#5584b1;display:inline-block;border-radius:.25em;min-width:calc(1em / 3 * 4)}
             #links .seconds{padding-left:.5em}
@@ -63,7 +64,8 @@
                         <div class="smalltext">{% raw %}{{seconds}}{% endraw %}</div>
                     </div>{% endif %}
                 </template>
-            </amp-date-countdown>{% endunless %}
+            </amp-date-countdown>{% else %}
+            <h1>Countdown Timer</h1>{% endunless %}
         </div>
         <div id="links">
             <h2>Seconds</h2>
