@@ -64,8 +64,8 @@
                         <div class="smalltext">{% raw %}{{seconds}}{% endraw %}</div>
                     </div>{% endif %}
                 </template>
-            </amp-date-countdown>{% else %}
-            <h1>Countdown Timer</h1>{% endunless %}
+            </amp-date-countdown>{% endunless %}{% if page.url == '/timer/' %}
+            <h1>Countdown Timer</h1>{% endif %}
         </div>
         <div id="links">
             <h2>Seconds</h2>
