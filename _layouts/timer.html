@@ -4,9 +4,9 @@
 <html ⚡ lang="en">
 	<head>
 		<meta charset="utf-8">
-		<script async src="https://cdn.ampproject.org/v0.js"></script>
+		<script async src="https://cdn.ampproject.org/v0.js"></script>{% unless page.url == '/timer/' %}
 		<script async custom-element="amp-date-countdown" src="https://cdn.ampproject.org/v0/amp-date-countdown-0.1.js"></script>
-        <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+        <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>{% endunless %}
 		<title>{{page.title}}</title>
 		<link href="{{site.url}}{{page.url}}" rel="canonical">
 		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
@@ -47,7 +47,7 @@
 		<meta name="format-detection" content="telephone=no">
 	</head>        
 	<body>
-        <div id="spread">
+        <div id="spread">{% unless page.url == '/timer/' %}
             <amp-date-countdown id="timer" timeleft-ms="{% if page.minutes %}{{page.minutes | times: '60000'}}{% elsif page.seconds %}{{page.seconds | times: '1000'}}{% endif %}" biggest-unit="{% if page.minutes > 1 %}minutes{% else %}seconds{% endif %}" layout="fixed-height" height="3.5em" when-ended="stop">
                 <template type="amp-mustache">{% if page.minutes > 1 %}
                     <div class="unit">
@@ -63,7 +63,7 @@
                         <div class="smalltext">{% raw %}{{seconds}}{% endraw %}</div>
                     </div>{% endif %}
                 </template>
-            </amp-date-countdown>
+            </amp-date-countdown>{% endunless %}
         </div>
         <div id="links">
             <h2>Seconds</h2>
@@ -74,5 +74,5 @@
             <div><a {% if page.minutes == 25 %}class="active" {% endif %}href="{{site.url}}/25m">25</a><a {% if page.minutes == 30 %}class="active" {% endif %}href="{{site.url}}/30m">30</a><a {% if page.minutes == 35 %}class="active" {% endif %}href="{{site.url}}/35m">35</a><a {% if page.minutes == 40 %}class="active" {% endif %}href="{{site.url}}/40m">40</a><a {% if page.minutes == 45 %}class="active" {% endif %}href="{{site.url}}/45m">45</a><br><a {% if page.minutes == 50 %}class="active" {% endif %}href="{{site.url}}/50m">50</a><a {% if page.minutes == 55 %}class="active" {% endif %}href="{{site.url}}/55m">55</a><a {% if page.minutes == 60 %}class="active" {% endif %}href="{{site.url}}/60m">60</a><a {% if page.minutes == 75 %}class="active" {% endif %}href="{{site.url}}/75m">75</a><a {% if page.minutes == 90 %}class="active" {% endif %}href="{{site.url}}/90m">90</a></div>
         </div>
     </body>
-    <footer><a href="{{site.url}}/">C. David Maxey, M.A.<br><small>Psychologist Associate Resident</small></a></footer>
+    <footer><a href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/">C. David Maxey, M.A.<br><small>Psychologist Associate Resident</small></a></footer>
 </html>
