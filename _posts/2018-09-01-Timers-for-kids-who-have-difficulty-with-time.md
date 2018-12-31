@@ -29,7 +29,8 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: ""
+style: ".buttons{justify-content:center;margin-bottom:1.25em}
+.buttons>a:hover{background:#9c27b0;color:white}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-cute-boy-child-home-image60487276' target='_blank'>&copy;</a>&nbsp;Yekophotostudio"
 title: "Visual timers for kids who have difficulty with time"
 description: "Kids who have difficulty managing to complete tasks in a timely manner can use a visual timer to help them stay on task as they develop a sense of time."
@@ -51,3 +52,5 @@ Developing a sense of time can be a struggle for many children, especially child
 
 <h3>Online Countdown Timers</h3>
 Because many of the online countdown timers have distracting details (e.g., milliseconds, eyecatching graphics, ads, links, etc.), I have created a simple ad-free countdown timer that can be used with an internet browser. Feel free to use it.
+
+<div class="buttons"><a href="https://cdavidmaxey.com/timer/">Timer</a></div>
