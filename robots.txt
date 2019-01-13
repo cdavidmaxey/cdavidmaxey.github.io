@@ -3,6 +3,7 @@
 User-agent: *
 Disallow: /CNAME
 Disallow: /README.md
+Disallow: /humans.txt
 Disallow: /secret/
 Disallow: /A-Nation-Empowered
 Sitemap: {{site.url}}/sitemap.xml
