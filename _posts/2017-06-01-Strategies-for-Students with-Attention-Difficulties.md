@@ -233,7 +233,7 @@ In addition to verbal reinforcement, the following set of generalized behavioral
 </ul>
 <h3>Social Skills & Problem Solving Instruction</h3>
 <ul>
-    <li><h6>Social skills classes</h6>. At some school, counselors teach students social skills using a structured class, and the students are given structured opportunities to use the social skills that they learn.</li>
+    <li><h6>Social skills classes</h6>. At some schools, counselors teach students social skills using a structured class, and the students are given structured opportunities to use the social skills that they learn.</li>
     <li><h6>Problem solving support</h6>. Teachers can discuss how to resolve social conflicts, and support problem solving when conflict arises among students.</li>
 </ul>
 <h3>Behavioral Interventions</h3>
