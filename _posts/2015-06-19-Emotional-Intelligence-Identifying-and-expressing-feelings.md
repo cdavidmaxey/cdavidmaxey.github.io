@@ -56,7 +56,7 @@ input[value=es]:checked~section.es{display:block}"
 title: "Emotional Intelligence: Identifying and expressing feelings"
 description: "Emotional Intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
-- Social Emotional Learning
+- 💛 Social Emotional Learning
 - Media
 - 🇫🇷 français
 - 🇲🇽 Español

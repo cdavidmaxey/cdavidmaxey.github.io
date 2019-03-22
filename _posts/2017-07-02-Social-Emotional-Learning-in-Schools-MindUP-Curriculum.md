@@ -37,7 +37,7 @@ title: "Social-Emotional Learning in Schools: MindUP Curriculum"
 description: "One of many SEL curricula, MindUP teachs children about the brain and meditation to help them bring mindful attention to the learning enviroment and beyond."
 tags:
 - MindUP
-- Social Emotional Learning
+- 💛 Social Emotional Learning
 - 📚 Books for Teachers
 - Mindfulness
 ---
