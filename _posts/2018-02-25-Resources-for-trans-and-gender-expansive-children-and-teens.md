@@ -102,8 +102,8 @@ tags:
 </section>
 <section class="genderbread" id="GenderbreadPerson">
 	<h4>Genderbread Person</h4>
-	<amp-img alt="Genderbread Person (minimal)" width="1920" height="1326" src="{{site.cache}}/320/Genderbread-Person-minimal.jpg" srcset="{{site.cache}}/320/Genderbread-Person-minimal.jpg 320w,{{site.cache}}/640/Genderbread-Person-minimal.jpg 640w,{{site.cache}}/1280/Genderbread-Person-minimal.jpg 1280w,{{site.cache}}/1920/Genderbread-Person-minimal.jpg 1920w" layout="responsive"></amp-img>
-	<p class="credits">The Genderbread Person v3.3 (minimal) | <a rel="nofollow" href="http://itspronouncedmetrosexual.com/2015/03/the-genderbread-person-v3/" target="_blank">ItsPronouncedMetroSexual.com</a></p>
+	<amp-img alt="Genderbread Person" width="1920" height="2216" src="{{site.cache}}/320/Genderbread-Person.jpg" srcset="{{site.cache}}/320/Genderbread-Person.jpg 320w,{{site.cache}}/640/Genderbread-Person.jpg 640w,{{site.cache}}/1280/Genderbread-Person.jpg 1280w,{{site.cache}}/1920/Genderbread-Person.jpg 1920w" layout="responsive"></amp-img>
+	<p class="credits">The Genderbread Person v4 | <a rel="nofollow" href="https://www.genderbread.org/" target="_blank">GenderBread.org</a></p>
 	<div class="buttons buttons-right">
 		<a href="{{site.url}}/Genderbread-Person.pdf" download="CDavidMaxey.com-Genderbread-Person.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
 		<a href="{{site.url}}/Personne-Gingenre.pdf" download="CDavidMaxey.com-Personne-Gingenre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
