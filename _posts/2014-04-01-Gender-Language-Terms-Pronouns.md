@@ -31,7 +31,8 @@ style: "input[type='radio']{visibility:hidden;height:0;width:0}
 input[value=en]:checked~section.en{display:block}
 input[value=fr]:checked~section.fr{display:block}
 input[value=es]:checked~section.es{display:block}
-label{margin:0 0 1rem 1rem;display:inline-block;text-align:center}
+label{margin:0 0 1rem;display:inline-block;text-align:center}
+label+label{margin-left:1rem}
 label:focus{outline:none}
 input[value=en]:checked~label[for=en],input[value=fr]:checked~label[for=fr],input[value=es]:checked~label[for=es]{color:#9c27b0}
 h4{font-size:1.5rem;text-align:center;margin:3rem -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
