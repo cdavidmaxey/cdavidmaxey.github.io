@@ -76,9 +76,9 @@ tags:
 <input type="radio" name="genderfigure" id="unicorn" value="unicorn" checked />
 <label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()">Unicorn</label>
 <input type="radio" name="genderfigure" id="genderbread" value="genderbread" />
-<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread</label>
+<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread</label><!--
 <input type="radio" name="genderfigure" id="elephant" value="elephant" />
-<label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant</label>
+<label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant</label>-->
 <section class="unicorn" id="GenderUnicorn">
 	<h4>Gender Unicorn</h4>
 	<amp-img alt="Gender Unicorn" width="1920" height="1243" src="{{site.cache}}/320/Gender-Unicorn.jpg" srcset="{{site.cache}}/320/Gender-Unicorn.jpg 320w,{{site.cache}}/640/Gender-Unicorn.jpg 640w,{{site.cache}}/1280/Gender-Unicorn.jpg 1280w,{{site.cache}}/1920/Gender-Unicorn.jpg 1920w" layout="responsive"></amp-img>
@@ -100,7 +100,7 @@ tags:
 		<a href="{{site.url}}/Genderbread-Person.pdf" download="CDavidMaxey.com-Genderbread-Person.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
 		<a href="{{site.url}}/Personne-Gingenre.pdf" download="CDavidMaxey.com-Personne-Gingenre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
 	</div>
-</section>
+</section><!--
 <section class="elephant" id="GenderElephant">
 	<h4>Gender Elephant</h4>
 	<amp-img alt="Gender Elephant" width="1920" height="1237" src="{{site.cache}}/320/Gender-Elephant.jpg" srcset="{{site.cache}}/320/Gender-Elephant.jpg 320w,{{site.cache}}/640/Gender-Elephant.jpg 640w,{{site.cache}}/1280/Gender-Elephant.jpg 1280w,{{site.cache}}/1920/Gender-Elephant.jpg 1920w" layout="responsive"></amp-img>
@@ -109,7 +109,7 @@ tags:
 		<a href="{{site.url}}/Gender-Elephant.pdf" download="CDavidMaxey.com-Gender-Elephant.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
 		<a href="{{site.url}}/Lelephant-de-Genre.pdf" download="CDavidMaxey.com-Lelephant-de-Genre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
 	</div>
-</section>
+</section>-->
 </div>
 <h3>Books for Children & Teens</h3>
 <div class="flexbooklist">
