@@ -74,9 +74,9 @@ tags:
 ---
 <div class="right" id="Unicorn">
 <input type="radio" name="genderfigure" id="unicorn" value="unicorn" checked />
-<label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()">Unicorn</label>
+<label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()">Gender Unicorn</label>
 <input type="radio" name="genderfigure" id="genderbread" value="genderbread" />
-<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread</label><!--
+<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread Person</label><!--
 <input type="radio" name="genderfigure" id="elephant" value="elephant" />
 <label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant</label>-->
 <section class="unicorn" id="GenderUnicorn">
