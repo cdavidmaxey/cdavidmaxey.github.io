@@ -79,8 +79,7 @@ As the movie follows Riley, her EQ and personality grow in complexity, with emot
 </section>
 <section id="PlutchikFR">
 	<div>
-		<a href="{{site.url}}/Roue-des-emotions-de-Plutchik.svg" target="_blank">
-			<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g id="svg-wheel" stroke="#999" fill="none" stroke-width="2">
+		<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><g id="svg-wheel" stroke="#999" fill="none" stroke-width="2">
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(2.142 0 0 2.163 -444.162 -797.943)" stroke-width=".929" stroke-dasharray="2.78784907, 2.78784907" stroke="#ddd"/>
 <path transform="matrix(1.052 0 0 1.062 -36.143 -207.555)" d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z"/>
 <path d="M490.91 536.45c0 64.328-52.148 116.477-116.477 116.477-64.328 0-116.477-52.148-116.477-116.477 0-64.328 52.148-116.477 116.477-116.477 64.328 0 116.477 52.148 116.477 116.477z" transform="matrix(1.607 0 0 1.623 -244.001 -508.319)" stroke-width="1.238" stroke-dasharray="2.47682023, 2.47682023"/>
@@ -149,13 +148,11 @@ As the movie follows Riley, her EQ and personality grow in complexity, with emot
 <text y="583.229" x="357.246">songerie</text>
 <text y="619.413" x="245.473">remords</text>
 <text y="619.413" x="471.494">désappointement</text></g></svg>
-		</a>
 	</div>
 </section>
 <section id="PlutchikES">
 	<div>
-		<a href="{{site.url}}/Rueda-de-las-Emociones-de-Plutchik.svg" target="_blank">
-			<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><use xlink:href="#svg-wheel"/><g font-size="14" font-weight="bold" text-anchor="middle" font-family="sans-serif">
+		<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 715.42 724.67" viewBox="0 0 715.42 724.67"><use xlink:href="#svg-wheel"/><g font-size="14" font-weight="bold" text-anchor="middle" font-family="sans-serif">
 <text y="117.146" x="245.989">optimismo</text>
 <text y="117.146" x="470.93">amor</text>
 <text y="148.854" x="357.412">serenidad</text>
@@ -188,7 +185,6 @@ As the movie follows Riley, her EQ and personality grow in complexity, with emot
 <text y="583.229" x="357.246">melancolía</text>
 <text y="619.413" x="245.473">remordimiento</text>
 <text y="619.413" x="471.494">decepción</text></g></svg>
-		</a>
 	</div>
 </section>
 </div>
