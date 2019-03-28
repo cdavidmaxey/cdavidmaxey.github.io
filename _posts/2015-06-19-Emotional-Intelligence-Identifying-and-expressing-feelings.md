@@ -56,7 +56,7 @@ input#plutchik-es:checked~section#PlutchikES{display:block}
 label{margin:0 0 0;display:inline-block;text-align:center}
 label+label{margin-left:1rem}
 label:focus{outline:none}
-input#plutchik-en:checked~label[for=en],input#plutchik-fr:checked~label[for=fr],input#plutchik-es:checked~label[for=es]{color:#9c27b0}"
+input#plutchik-en:checked~label[for=plutchik-en],input#plutchik-fr:checked~label[for=plutchik-fr],input#plutchik-es:checked~label[for=plutchik-es]{color:#9c27b0}"
 title: "Emotional Intelligence: Identifying and expressing feelings"
 description: "Emotional Intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
