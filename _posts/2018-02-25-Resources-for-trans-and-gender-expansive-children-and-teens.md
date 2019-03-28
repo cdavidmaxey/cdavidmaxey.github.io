@@ -29,15 +29,15 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "input[type='radio']{visibility:hidden;height:0;width:0}
-.unicorn,.genderbread,.elephant{display:none}
-input[value=unicorn]:checked~section.unicorn{display:block}
-input[value=genderbread]:checked~section.genderbread{display:block}
-input[value=elephant]:checked~section.elephant{display:block}
+#GenderUnicorn,#GenderbreadPerson,#GenderElephant{display:none}
+input#genderfigure-unicorn:checked~section#GenderUnicorn{display:block}
+input#genderfigure-genderbread:checked~section#GenderbreadPerson{display:block}
+input#genderfigure-elephant:checked~section#GenderElephant{display:block}
 .buttons+.buttons{margin-top:1.5em}
 label{margin:0 0 1rem;display:inline-block;text-align:center}
 label+label{margin-left:1rem}
 label:focus{outline:none}
-input[value=unicorn]:checked~label[for=unicorn],input[value=genderbread]:checked~label[for=genderbread],input[value=elephant]:checked~label[for=elephant]{color:#9c27b0}
+input#genderfigure-unicorn:checked~label[for=genderfigure-unicorn],input#genderfigure-genderbread:checked~label[for=genderfigure-genderbread],input#genderfigure-elephant:checked~label[for=genderfigure-elephant]{color:#9c27b0}
 h4{font-size:1.5rem;text-align:center;margin:3rem 0 1rem}
 section>h4,h3{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 #GenderFigure .credits{margin-top:1rem}
@@ -73,8 +73,8 @@ tags:
 - 🏳️‍🌈 Gender & Sexual Minorities
 - 📚 Books for Kids
 ---
-<div class="right" id="GenderFigure"><input type="radio" name="genderfigure" id="unicorn" value="unicorn" checked /><input type="radio" name="genderfigure" id="genderbread" value="genderbread" /><label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()">Gender Unicorn</label><label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread Person</label><!--<input type="radio" name="genderfigure" id="elephant" value="elephant" /><label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant</label>-->
-<section class="unicorn" id="GenderUnicorn">
+<div class="right" id="GenderFigure"><input type="radio" name="genderfigure" id="genderfigure-unicorn" value="genderfigure-unicorn" checked /><input type="radio" name="genderfigure" id="genderfigure-genderbread" value="genderfigure-genderbread" /><label tabindex="0" role="button" for="genderfigure-unicorn" on="tap:GenderUnicorn.show()">Gender Unicorn</label><label tabindex="0" role="button" for="genderfigure-genderbread" on="tap:GenderbreadPerson.show()">Genderbread Person</label><!--<input type="radio" name="genderfigure" id="genderfigure-elephant" value="genderfigure-elephant" /><label tabindex="0" role="button" for="genderfigure-elephant" on="tap:GenderElephant.show()">Elephant</label>-->
+<section id="GenderUnicorn">
 	<h4>Gender Unicorn</h4>
 	<amp-img alt="Gender Unicorn" width="1920" height="1243" src="{{site.cache}}/320/Gender-Unicorn.jpg" srcset="{{site.cache}}/320/Gender-Unicorn.jpg 320w,{{site.cache}}/640/Gender-Unicorn.jpg 640w,{{site.cache}}/1280/Gender-Unicorn.jpg 1280w,{{site.cache}}/1920/Gender-Unicorn.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Design by Landyn Pan and Anna Moore | <a rel="nofollow" href="http://www.transstudent.org/gender" target="_blank">TransStudent.org/gender</a></p>
@@ -87,7 +87,7 @@ tags:
 		<a href="{{site.url}}/El-Unicornio-del-Genero.pdf" download="CDavidMaxey.com-El-Unicornio-del-Genero.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Descargar</a>
 	</div>
 </section>
-<section class="genderbread" id="GenderbreadPerson">
+<section id="GenderbreadPerson">
 	<h4>Genderbread Person</h4>
 	<amp-img alt="Genderbread Person" width="1920" height="2216" src="{{site.cache}}/320/Genderbread-Person.jpg" srcset="{{site.cache}}/320/Genderbread-Person.jpg 320w,{{site.cache}}/640/Genderbread-Person.jpg 640w,{{site.cache}}/1280/Genderbread-Person.jpg 1280w,{{site.cache}}/1920/Genderbread-Person.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">The Genderbread Person v4 | <a rel="nofollow" href="https://www.genderbread.org/" target="_blank">GenderBread.org</a></p>
@@ -96,7 +96,7 @@ tags:
 		<a href="{{site.url}}/Personne-Gingenre.pdf" download="CDavidMaxey.com-Personne-Gingenre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
 	</div>
 </section><!--
-<section class="elephant" id="GenderElephant">
+<section id="GenderElephant">
 	<h4>Gender Elephant</h4>
 	<amp-img alt="Gender Elephant" width="1920" height="1237" src="{{site.cache}}/320/Gender-Elephant.jpg" srcset="{{site.cache}}/320/Gender-Elephant.jpg 320w,{{site.cache}}/640/Gender-Elephant.jpg 640w,{{site.cache}}/1280/Gender-Elephant.jpg 1280w,{{site.cache}}/1920/Gender-Elephant.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Inspired by the Gender Unicorn & Genderbread Person | <a rel="nofollow" href="https://ccgsd-ccdgs.org/gender-elephant/" target="_blank">CCGSD-CCDGS.org/gender-elephant/</a></p>
