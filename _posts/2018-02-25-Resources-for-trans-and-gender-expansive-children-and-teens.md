@@ -34,7 +34,7 @@ input[value=unicorn]:checked~section.unicorn{display:block}
 input[value=genderbread]:checked~section.genderbread{display:block}
 input[value=elephant]:checked~section.elephant{display:block}
 .buttons+.buttons{margin-top:1.5em}
-label{margin:0 0 1rem;display:inline-block;text-align:center}
+label{margin:0 0 1rem 1rem;display:inline-block;text-align:center}
 label:focus{outline:none}
 input[value=unicorn]:checked~label[for=unicorn],input[value=genderbread]:checked~label[for=genderbread],input[value=elephant]:checked~label[for=elephant]{color:#9c27b0}
 h4{font-size:1.5rem;text-align:center;margin:3rem 0 1rem}
@@ -72,13 +72,7 @@ tags:
 - 🏳️‍🌈 Gender & Sexual Minorities
 - 📚 Books for Kids
 ---
-<div class="right" id="GenderFigure">
-<input type="radio" name="genderfigure" id="unicorn" value="unicorn" checked />
-<input type="radio" name="genderfigure" id="genderbread" value="genderbread" />
-<label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()">Gender Unicorn</label>
-<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread Person</label><!--
-<input type="radio" name="genderfigure" id="elephant" value="elephant" />
-<label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant</label>-->
+<div class="right" id="GenderFigure"><input type="radio" name="genderfigure" id="unicorn" value="unicorn" checked /><input type="radio" name="genderfigure" id="genderbread" value="genderbread" /><label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()">Gender Unicorn</label><label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread Person</label><!--<input type="radio" name="genderfigure" id="elephant" value="elephant" /><label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant</label>-->
 <section class="unicorn" id="GenderUnicorn">
 	<h4>Gender Unicorn</h4>
 	<amp-img alt="Gender Unicorn" width="1920" height="1243" src="{{site.cache}}/320/Gender-Unicorn.jpg" srcset="{{site.cache}}/320/Gender-Unicorn.jpg 320w,{{site.cache}}/640/Gender-Unicorn.jpg 640w,{{site.cache}}/1280/Gender-Unicorn.jpg 1280w,{{site.cache}}/1920/Gender-Unicorn.jpg 1920w" layout="responsive"></amp-img>
