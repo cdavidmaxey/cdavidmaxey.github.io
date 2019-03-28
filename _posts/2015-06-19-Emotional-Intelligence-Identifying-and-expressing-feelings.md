@@ -53,8 +53,9 @@ input[type='radio']{visibility:hidden;height:0;width:0}
 input[value=en]:checked~section.en{display:block}
 input[value=fr]:checked~section.fr{display:block}
 input[value=es]:checked~section.es{display:block}
+label{margin:0 0 0 1rem;display:inline-block;text-align:center}
 label:focus{outline:none}
-input:checked+label{color:#9c27b0}"
+input[value=en]:checked~label[for=en],input[value=fr]:checked~label[for=fr],input[value=es]:checked~label[for=es]{color:#9c27b0}"
 title: "Emotional Intelligence: Identifying and expressing feelings"
 description: "Emotional Intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
@@ -70,13 +71,7 @@ tags:
 <p class="credits"><a rel="nofollow" href="https://youtu.be/yRUAzGQ3nSY" target="_blank"><em>Inside Out - Official US Trailer</em></a> by <a rel="nofollow" href="https://youtube.com/user/DisneyPixar" target="_blank">Disney/Pixar
 </a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</p>
 As the movie follows Riley, her EQ and personality grow in complexity, with emotions coloring memories and mixing to nuance emotional expression. In 1980, Plutchik introduced his wheel of emotions that explored the notion of relations among and mixtures of emotions (see an adaptation of Plutchik’s Wheel of Emotions below). Some EQ experts posit that four emotions (i.e., Joy, Sadness, Fear/Surprise, and Anger/Disgust) are the basic building blocks of complex emotional expression.
-<div class="right">
-<input type="radio" name="plutchik" id="plutchik-en" value="en" checked />
-<label tabindex="0" role="button" for="plutchik-en">English</label>
-<input type="radio" name="plutchik" id="plutchik-fr" value="fr" />
-<label tabindex="0" role="button" for="plutchik-fr">français</label>
-<input type="radio" name="plutchik" id="plutchik-es" value="es" />
-<label tabindex="0" role="button" for="plutchik-es">Español</label>
+<div class="right"><input type="radio" name="plutchik" id="plutchik-en" value="en" checked /><input type="radio" name="plutchik" id="plutchik-fr" value="fr" /><input type="radio" name="plutchik" id="plutchik-es" value="es" /><label tabindex="0" role="button" for="plutchik-en">English</label><label tabindex="0" role="button" for="plutchik-fr">français</label><label tabindex="0" role="button" for="plutchik-es">Español</label>
 <section class="en">
 	<amp-img alt="Plutchik’s Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
 	<p class="credits">&copy; <a rel="nofollow" href="http://www.copypress.com/blog/your-fragile-emotions-illustrated/" target="_blank">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>

@@ -31,9 +31,9 @@ style: "input[type='radio']{visibility:hidden;height:0;width:0}
 input[value=en]:checked~section.en{display:block}
 input[value=fr]:checked~section.fr{display:block}
 input[value=es]:checked~section.es{display:block}
-label{margin:0 0 1rem;display:inline-block;text-align:center}
+label{margin:0 0 1rem 1rem;display:inline-block;text-align:center}
 label:focus{outline:none}
-input:checked+label{color:#9c27b0}
+input[value=en]:checked~label[for=en],input[value=fr]:checked~label[for=fr],input[value=es]:checked~label[for=es]{color:#9c27b0}
 h4{font-size:1.5rem;text-align:center;margin:3rem -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 section>h4{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 p~ul{margin-top:-1.25rem}
@@ -47,13 +47,7 @@ tags:
 - 🇫🇷 français
 - 🇲🇽 Español
 ---
-<div class="right" id="Pronouns">
-<input type="radio" name="pronouns" id="pronouns-en" value="en" checked />
-<label tabindex="0" role="button" for="pronouns-en" on="tap:GenderNeutralPronouns.show()">English</label>
-<input type="radio" name="pronouns" id="pronouns-fr" value="fr" />
-<label tabindex="0" role="button" for="pronouns-fr" on="tap:PronomsNeutres.show()">français</label>
-<input type="radio" name="pronouns" id="pronouns-es" value="es" />
-<label tabindex="0" role="button" for="pronouns-es" on="tap:PronombresNeutros.show()">Español</label>
+<div class="right" id="Pronouns"><input type="radio" name="pronouns" id="pronouns-en" value="en" checked /><input type="radio" name="pronouns" id="pronouns-fr" value="fr" /><input type="radio" name="pronouns" id="pronouns-es" value="es" /><label tabindex="0" role="button" for="pronouns-en" on="tap:GenderNeutralPronouns.show()">English</label><label tabindex="0" role="button" for="pronouns-fr" on="tap:PronomsNeutres.show()">français</label><label tabindex="0" role="button" for="pronouns-es" on="tap:PronombresNeutros.show()">Español</label>
 <section class="en" id="GenderNeutralPronouns">
 	<h4>Gender&#8209;Specific & Gender&#8209;Neutral&nbsp;Pronouns</h4>
 	<amp-img alt="Gender Neutral Pronouns (Infographic)" width="1920" height="2884" src="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg" srcset="{{site.cache}}/320/Gender-Neutral-Pronouns-Infographic.jpg 320w,{{site.cache}}/640/Gender-Neutral-Pronouns-Infographic.jpg 640w,{{site.cache}}/1280/Gender-Neutral-Pronouns-Infographic.jpg 1280w,{{site.cache}}/1920/Gender-Neutral-Pronouns-Infographic.jpg 1920w" layout="responsive"></amp-img>
