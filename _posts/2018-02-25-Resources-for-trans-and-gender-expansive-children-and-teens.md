@@ -29,11 +29,12 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "input[type='radio']{visibility:hidden;height:0;width:0}
-.en,.fr,.es,.genderbread{display:none}
+.en,.fr,.es,.genderbread,.elephant{display:none}
 input[value=en]:checked~section.en{display:block}
 input[value=fr]:checked~section.fr{display:block}
 input[value=es]:checked~section.es{display:block}
 input[value=genderbread]:checked~section.genderbread{display:block}
+input[value=elephant]:checked~section.elephant{display:block}
 label{display:inline-block;text-align:center;margin:0 0 1rem}
 h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 section>h4,h3{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
@@ -79,6 +80,8 @@ tags:
 <label tabindex="0" role="button" for="unicorn-es" on="tap:ElUnicorniodelGenero.show()">El Unicornio<br>(Español)</label>
 <input type="radio" name="unicorn" id="genderbread" value="genderbread" />
 <label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread<br>(English/français)</label>
+<input type="radio" name="unicorn" id="elephant" value="elephant" />
+<label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant<br>(English/français)</label>
 <section class="en" id="GenderUnicorn">
 	<h4>Gender Unicorn</h4>
 	<amp-img alt="Gender Unicorn" width="1920" height="1243" src="{{site.cache}}/320/Gender-Unicorn.jpg" srcset="{{site.cache}}/320/Gender-Unicorn.jpg 320w,{{site.cache}}/640/Gender-Unicorn.jpg 640w,{{site.cache}}/1280/Gender-Unicorn.jpg 1280w,{{site.cache}}/1920/Gender-Unicorn.jpg 1920w" layout="responsive"></amp-img>
@@ -107,6 +110,15 @@ tags:
 	<div class="buttons buttons-right">
 		<a href="{{site.url}}/Genderbread-Person.pdf" download="CDavidMaxey.com-Genderbread-Person.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
 		<a href="{{site.url}}/Personne-Gingenre.pdf" download="CDavidMaxey.com-Personne-Gingenre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
+	</div>
+</section>
+<section class="elephant" id="GenderElephant">
+	<h4>Gender Elephant</h4>
+	<amp-img alt="Gender Elephant" width="1920" height="2216" src="{{site.cache}}/320/Gender-Elephant.jpg" srcset="{{site.cache}}/320/Gender-Elephant.jpg 320w,{{site.cache}}/640/Gender-Elephant.jpg 640w,{{site.cache}}/1280/Gender-Elephant.jpg 1280w,{{site.cache}}/1920/Gender-Elephant.jpg 1920w" layout="responsive"></amp-img>
+	<p class="credits">The Gender Elephant | <a rel="nofollow" href="https://ccgsd-ccdgs.org/gender-elephant/" target="_blank">CCGSD-CCDGS.org/gender-elephant/</a></p>
+	<div class="buttons buttons-right">
+		<a href="{{site.url}}/Gender-Elephant.pdf" download="CDavidMaxey.com-Gender-Elephant.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
+		<a href="{{site.url}}/Lelephant-de-Genre.pdf" download="CDavidMaxey.com-Lelephant-de-Genre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
 	</div>
 </section>
 </div>
