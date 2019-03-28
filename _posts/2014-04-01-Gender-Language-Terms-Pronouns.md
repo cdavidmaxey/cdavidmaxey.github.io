@@ -33,6 +33,7 @@ input[value=fr]:checked~section.fr{display:block}
 input[value=es]:checked~section.es{display:block}
 label{margin:0 0 1rem;display:inline-block;text-align:center}
 label:focus{outline:none}
+input:checked+label{color:#9c27b0}
 h4{font-size:1.5rem;text-align:center;margin:3rem -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 section>h4{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 p~ul{margin-top:-1.25rem}
