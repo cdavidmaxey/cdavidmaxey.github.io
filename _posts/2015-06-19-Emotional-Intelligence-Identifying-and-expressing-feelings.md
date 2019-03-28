@@ -52,7 +52,8 @@ input[type='radio']{visibility:hidden;height:0;width:0}
 .en,.fr,.es{display:none}
 input[value=en]:checked~section.en{display:block}
 input[value=fr]:checked~section.fr{display:block}
-input[value=es]:checked~section.es{display:block}"
+input[value=es]:checked~section.es{display:block}
+label:focus{outline:none}"
 title: "Emotional Intelligence: Identifying and expressing feelings"
 description: "Emotional Intelligence starts with building a nuanced vocabulary for your child to use as they develop their ability to identify and express their feelings."
 tags:
