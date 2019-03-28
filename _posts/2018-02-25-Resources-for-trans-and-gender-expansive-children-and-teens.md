@@ -114,7 +114,7 @@ tags:
 </section>
 <section class="elephant" id="GenderElephant">
 	<h4>Gender Elephant</h4>
-	<amp-img alt="Gender Elephant" width="1920" height="1419" src="{{site.cache}}/320/Gender-Elephant.jpg" srcset="{{site.cache}}/320/Gender-Elephant.jpg 320w,{{site.cache}}/640/Gender-Elephant.jpg 640w,{{site.cache}}/1280/Gender-Elephant.jpg 1280w,{{site.cache}}/1920/Gender-Elephant.jpg 1920w" layout="responsive"></amp-img>
+	<amp-img alt="Gender Elephant" width="1920" height="1237" src="{{site.cache}}/320/Gender-Elephant.jpg" srcset="{{site.cache}}/320/Gender-Elephant.jpg 320w,{{site.cache}}/640/Gender-Elephant.jpg 640w,{{site.cache}}/1280/Gender-Elephant.jpg 1280w,{{site.cache}}/1920/Gender-Elephant.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Inspired by the Gender Unicorn & Genderbread Person | <a rel="nofollow" href="https://ccgsd-ccdgs.org/gender-elephant/" target="_blank">CCGSD-CCDGS.org/gender-elephant/</a></p>
 	<div class="buttons buttons-right">
 		<a href="{{site.url}}/Gender-Elephant.pdf" download="CDavidMaxey.com-Gender-Elephant.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
