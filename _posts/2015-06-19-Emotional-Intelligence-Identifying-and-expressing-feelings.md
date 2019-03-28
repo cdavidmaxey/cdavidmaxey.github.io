@@ -49,7 +49,7 @@ style: "h4#emoji{font-size:2rem;margin:3rem 0 1rem;clear:both}
 #emojitable>div>div:last-child{padding:0 0 1.5rem;font-size:1.25rem}
 @media(max-width:400px){#emojitable>div>div:last-child{font-size:.875rem}}
 input[type='radio']{visibility:hidden;height:0;width:0}
-#PlutchikEN,#PlutchikFR,PlutchikES{display:none}
+#PlutchikEN,#PlutchikFR,#PlutchikES{display:none}
 input#plutchik-en:checked~section#PlutchikEN{display:block}
 input#plutchik-fr:checked~section#PlutchikFR{display:block}
 input#plutchik-es:checked~section#PlutchikES{display:block}

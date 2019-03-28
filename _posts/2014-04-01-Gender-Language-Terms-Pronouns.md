@@ -27,14 +27,14 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "input[type='radio']{visibility:hidden;height:0;width:0}
-.en,.fr,.es{display:none}
-input[value=en]:checked~section.en{display:block}
-input[value=fr]:checked~section.fr{display:block}
-input[value=es]:checked~section.es{display:block}
+#GenderNeutralPronouns,#PronomsNeutres,#PronombresNeutros{display:none}
+input#pronouns-en:checked~section#GenderNeutralPronouns{display:block}
+input#pronouns-fr:checked~section#PronomsNeutres{display:block}
+input#pronouns-es:checked~section#PronombresNeutros{display:block}
 label{margin:0 0 1rem;display:inline-block;text-align:center}
 label+label{margin-left:1rem}
 label:focus{outline:none}
-input[value=en]:checked~label[for=en],input[value=fr]:checked~label[for=fr],input[value=es]:checked~label[for=es]{color:#9c27b0}
+input#pronouns-en:checked~label[for=pronouns-en],input#pronouns-fr:checked~label[for=pronouns-fr],input#pronouns-es:checked~label[for=pronouns-es]{color:#9c27b0}
 h4{font-size:1.5rem;text-align:center;margin:3rem -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 section>h4{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 p~ul{margin-top:-1.25rem}
