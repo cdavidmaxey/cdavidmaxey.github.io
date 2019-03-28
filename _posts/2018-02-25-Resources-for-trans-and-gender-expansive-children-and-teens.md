@@ -29,10 +29,8 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "input[type='radio']{visibility:hidden;height:0;width:0}
-.en,.fr,.es,.genderbread,.elephant{display:none}
-input[value=en]:checked~section.en{display:block}
-input[value=fr]:checked~section.fr{display:block}
-input[value=es]:checked~section.es{display:block}
+.unicorn,.genderbread,.elephant{display:none}
+input[value=unicorn]:checked~section.unicorn{display:block}
 input[value=genderbread]:checked~section.genderbread{display:block}
 input[value=elephant]:checked~section.elephant{display:block}
 label{display:inline-block;text-align:center;margin:0 0 1rem}
@@ -72,17 +70,13 @@ tags:
 - 📚 Books for Kids
 ---
 <div class="right" id="Unicorn">
-<input type="radio" name="unicorn" id="unicorn-en" value="en" checked />
-<label tabindex="0" role="button" for="unicorn-en" on="tap:GenderUnicorn.show()">Unicorn<br>(English)</label>
-<input type="radio" name="unicorn" id="unicorn-fr" value="fr" />
-<label tabindex="0" role="button" for="unicorn-fr" on="tap:Lalicornedugenre.show()">La licorne<br>(français)</label>
-<input type="radio" name="unicorn" id="unicorn-es" value="es" />
-<label tabindex="0" role="button" for="unicorn-es" on="tap:ElUnicorniodelGenero.show()">El Unicornio<br>(Español)</label>
+<input type="radio" name="unicorn" id="unicorn" value="unicorn" checked />
+<label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()">Unicorn</label>
 <input type="radio" name="unicorn" id="genderbread" value="genderbread" />
-<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread<br>(English/français)</label>
+<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread</label>
 <input type="radio" name="unicorn" id="elephant" value="elephant" />
-<label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant<br>(English/français)</label>
-<section class="en" id="GenderUnicorn">
+<label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant</label>
+<section class="unicorn" id="GenderUnicorn">
 	<h4>Gender Unicorn</h4>
 	<amp-img alt="Gender Unicorn" width="1920" height="1243" src="{{site.cache}}/320/Gender-Unicorn.jpg" srcset="{{site.cache}}/320/Gender-Unicorn.jpg 320w,{{site.cache}}/640/Gender-Unicorn.jpg 640w,{{site.cache}}/1280/Gender-Unicorn.jpg 1280w,{{site.cache}}/1920/Gender-Unicorn.jpg 1920w" layout="responsive"></amp-img>
 	<p class="credits">Design by Landyn Pan and Anna Moore | <a rel="nofollow" href="http://www.transstudent.org/gender" target="_blank">TransStudent.org/gender</a></p>
@@ -90,18 +84,10 @@ tags:
 		<a href="{{site.url}}/Gender-Unicorn.pdf" download="CDavidMaxey.com-Gender-Unicorn.pdf"><svg id="download" class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><path d="M1344 928q0-14-9-23t-23-9h-224v-352q0-13-9.5-22.5t-22.5-9.5h-192q-13 0-22.5 9.5t-9.5 22.5v352h-224q-13 0-22.5 9.5t-9.5 22.5q0 14 9 23l352 352q9 9 23 9t23-9l351-351q10-12 10-24zm640 224q0 159-112.5 271.5t-271.5 112.5h-1088q-185 0-316.5-131.5t-131.5-316.5q0-130 70-240t188-165q-2-30-2-43 0-212 150-362t362-150q156 0 285.5 87t188.5 231q71-62 166-62 106 0 181 75t75 181q0 76-41 138 130 31 213.5 135.5t83.5 238.5z"/></svg>&ensp;Download</a>
 		<a href="{{site.url}}/Gender-Unicorn-Coloring-Page.pdf" download="CDavidMaxey.com-Gender-Unicorn-Coloring-Page.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Coloring Page</a>
 	</div>
-</section>
-<section class="fr" id="Lalicornedugenre">
-	<h4>La licorne du genre</h4>
-	<amp-img alt="La licorne du genre" width="1920" height="1241" src="{{site.cache}}/320/La-licorne-du-genre.jpg" srcset="{{site.cache}}/320/La-licorne-du-genre.jpg 320w,{{site.cache}}/640/La-licorne-du-genre.jpg 640w,{{site.cache}}/1280/La-licorne-du-genre.jpg 1280w,{{site.cache}}/1920/La-licorne-du-genre.jpg 1920w" layout="responsive"></amp-img>
-	<p class="credits">Design par Landyn Pan | <a rel="nofollow" href="http://www.transstudent.org/gender" target="_blank">TransStudent.org/gender</a></p>
-	<div class="buttons buttons-right"><a href="{{site.url}}/La-licorne-du-genre.pdf" download="CDavidMaxey.com-La-licorne-du-genre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a></div>
-</section>
-<section class="es" id="ElUnicorniodelGenero">
-	<h4>El Unicornio del Género</h4>
-	<amp-img alt="El Unicornio del Género" width="1920" height="1302" src="{{site.cache}}/320/El-Unicornio-del-Genero.jpg" srcset="{{site.cache}}/320/El-Unicornio-del-Genero.jpg 320w,{{site.cache}}/640/El-Unicornio-del-Genero.jpg 640w,{{site.cache}}/1280/El-Unicornio-del-Genero.jpg 1280w,{{site.cache}}/1920/El-Unicornio-del-Genero.jpg 1920w" layout="responsive"></amp-img>
-	<p class="credits">Diseño de Landyn Pan y Anna Moore | <a rel="nofollow" href="http://www.transstudent.org/gender" target="_blank">TransStudent.org/gender</a></p>
-	<div class="buttons buttons-right"><a href="{{site.url}}/El-Unicornio-del-Genero.pdf" download="CDavidMaxey.com-El-Unicornio-del-Genero.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Descargar</a></div>
+	<div class="buttons buttons-right">
+		<a href="{{site.url}}/La-licorne-du-genre.pdf" download="CDavidMaxey.com-La-licorne-du-genre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
+		<a href="{{site.url}}/El-Unicornio-del-Genero.pdf" download="CDavidMaxey.com-El-Unicornio-del-Genero.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Descargar</a>
+	</div>
 </section>
 <section class="genderbread" id="GenderbreadPerson">
 	<h4>Genderbread Person</h4>
