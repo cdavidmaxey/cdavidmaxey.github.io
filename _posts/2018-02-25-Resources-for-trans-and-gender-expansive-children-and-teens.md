@@ -70,11 +70,11 @@ tags:
 - 📚 Books for Kids
 ---
 <div class="right" id="Unicorn">
-<input type="radio" name="unicorn" id="unicorn" value="unicorn" checked />
+<input type="radio" name="genderfigure" id="unicorn" value="unicorn" checked />
 <label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()">Unicorn</label>
-<input type="radio" name="unicorn" id="genderbread" value="genderbread" />
+<input type="radio" name="genderfigure" id="genderbread" value="genderbread" />
 <label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread</label>
-<input type="radio" name="unicorn" id="elephant" value="elephant" />
+<input type="radio" name="genderfigure" id="elephant" value="elephant" />
 <label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant</label>
 <section class="unicorn" id="GenderUnicorn">
 	<h4>Gender Unicorn</h4>
