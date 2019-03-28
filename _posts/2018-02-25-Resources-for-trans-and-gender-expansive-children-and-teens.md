@@ -36,7 +36,7 @@ input[value=elephant]:checked~section.elephant{display:block}
 .buttons+.buttons{margin-top:1.5em}
 label{margin:0 0 1rem;display:inline-block;text-align:center}
 label:focus{outline:none}
-input.unicorn:checked~label.unicornlabel,input.genderbread:checked~label.genderbreadlabel,input.elephant:checked~label.elephantlabel{color:#9c27b0}
+input[value=unicorn]:checked~label[for=unicorn],input[value=genderbread]:checked~label[for=genderbread],input[value=elephant]:checked~label[for=elephant]{color:#9c27b0}
 h4{font-size:1.5rem;text-align:center;margin:3rem 0 1rem}
 section>h4,h3{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
 #GenderFigure .credits{margin-top:1rem}
@@ -73,11 +73,11 @@ tags:
 - 📚 Books for Kids
 ---
 <div class="right" id="GenderFigure">
-<input type="radio" name="genderfigure" id="unicorn" value="unicorn" checked />
-<input type="radio" name="genderfigure" id="genderbread" value="genderbread" />
-<label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()" id="unicornlabel">Gender Unicorn</label>
-<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()" id="genderbreadlabel">Genderbread Person</label><!--
-<input type="radio" name="genderfigure" id="elephant" value="elephant" />
+<input type="radio" name="genderfigure" value="unicorn" checked />
+<input type="radio" name="genderfigure" value="genderbread" />
+<label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()">Gender Unicorn</label>
+<label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread Person</label><!--
+<input type="radio" name="genderfigure" value="elephant" />
 <label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant</label>-->
 <section class="unicorn" id="GenderUnicorn">
 	<h4>Gender Unicorn</h4>
