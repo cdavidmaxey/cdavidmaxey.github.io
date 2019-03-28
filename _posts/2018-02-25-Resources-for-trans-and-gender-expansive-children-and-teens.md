@@ -33,6 +33,7 @@ style: "input[type='radio']{visibility:hidden;height:0;width:0}
 input[value=unicorn]:checked~section.unicorn{display:block}
 input[value=genderbread]:checked~section.genderbread{display:block}
 input[value=elephant]:checked~section.elephant{display:block}
+.buttons+.buttons{margin-top:1.5em}
 label{display:inline-block;text-align:center;margin:0 0 1rem}
 h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 section>h4,h3{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
