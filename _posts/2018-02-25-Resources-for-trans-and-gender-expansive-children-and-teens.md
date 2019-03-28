@@ -73,11 +73,11 @@ tags:
 - 📚 Books for Kids
 ---
 <div class="right" id="GenderFigure">
-<input type="radio" name="genderfigure" value="unicorn" checked />
-<input type="radio" name="genderfigure" value="genderbread" />
+<input type="radio" name="genderfigure" id="unicorn" value="unicorn" checked />
+<input type="radio" name="genderfigure" id="genderbread" value="genderbread" />
 <label tabindex="0" role="button" for="unicorn" on="tap:GenderUnicorn.show()">Gender Unicorn</label>
 <label tabindex="0" role="button" for="genderbread" on="tap:GenderbreadPerson.show()">Genderbread Person</label><!--
-<input type="radio" name="genderfigure" value="elephant" />
+<input type="radio" name="genderfigure" id="elephant" value="elephant" />
 <label tabindex="0" role="button" for="elephant" on="tap:GenderElephant.show()">Elephant</label>-->
 <section class="unicorn" id="GenderUnicorn">
 	<h4>Gender Unicorn</h4>
