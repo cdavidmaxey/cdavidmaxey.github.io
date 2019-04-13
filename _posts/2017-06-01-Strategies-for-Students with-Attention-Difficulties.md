@@ -150,7 +150,12 @@ The following strategies can be tried to help students who require extra assista
     <li><h6>Individual dry-erase boards</h6>. Ask the student to practice copying and erasing the target words on a small, personal dry-erase board. Two students can be paired to practice their target words together.</li>
     <li><h6>“Quiet places” for handwriting</h6>. Provide the student with a special “quiet place” (e.g., a table outside the classroom) to complete their handwriting assignments.</li>
     <li><h6>Spacing words on a page</h6>. Teach the student to use their finger to measure how much space to leave between each word in a written assignment.</li>
-    <li><h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening.</li>
+<div class="float right side">
+	<div>
+		<amp-img alt="Paper Mate Yellow Mechanical Pencils, 1.3mm HB #2 Lead (1862167)" width="414" height="945" src="{{site.cache}}/books/Paper-Mate-Yellow-Mechanical-Pencils-1.3mm-Lead-1862167.jpg" sizes="8.625rem"></amp-img>
+	</div>
+</div>
+    <li><h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening. I prefer the Paper Mate Mechanical Pencils that have a thick 1.3mm lead and are usually available at Office Depot or on <a href="https://www.amazon.com/s?k=paper+mate+mechanical+pencil+1.3&dc" rel="nofollow" target="_blank">Amazon</a>.</li>
     <li><h6>Allowing cursive writing</h6> (instead of printing) can help students keep up the flow of writing becasue each letter naturally leads into the next one.</li>
     <li><h6>Special writing paper</h6>. Ask the student to use special paper with vertical lines to learn to space letters and words on a page.</li>
     <li><h6>Structured programs for handwriting</h6>. Teach handwriting skills through a structured program, such as Jan Olsen’s <i>Handwriting Without Tears</i> program (Olsen, 2003).</li>
@@ -271,11 +276,6 @@ Because students’ individual needs are different, it is important for teachers
 <ul>
     <li><h6>Pointers</h6>. Teach the student to use a pointer to help visually track written words on a page. For example, provide the student with a bookmark to help them follow along when students are taking turns reading aloud.</li>
     <li><h6>Visual timers</h6>. <a href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/"><i>Time Timer</i> and hourglass sand timers, which I’ve reviewed</a>, can help students monitor the passage of time more independently.</li>
-<div class="float right side">
-	<div>
-		<amp-img alt="Paper Mate Yellow Mechanical Pencils, 1.3mm HB #2 Lead (1862167)" width="414" height="945" src="{{site.cache}}/books/Paper-Mate-Yellow-Mechanical-Pencils-1.3mm-Lead-1862167.jpg" sizes="8.625rem"></amp-img>
-	</div>
-</div>
     <li><h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening. I prefer the Paper Mate Mechanical Pencils that have a thick 1.3mm lead and are usually available at Office Depot or on <a href="https://www.amazon.com/s?k=paper+mate+mechanical+pencil+1.3&dc" rel="nofollow" target="_blank">Amazon</a>.</li>
     <li><h6>Calming fidgets</h6> that can be manipulated quietly (unlike some toys and other objects that can be distracting for both the student and peers in the classroom) can provide some needed sensory input while still allowing the student to attend to the lesson.</li>
     <li><h6>Classroom lights</h6>. Turning the classroom lights on and off can prompt students that the noise level in the room is too high or they should be quiet. This practice can also be used to signal that it is time to begin preparing for the next lesson.</li>
