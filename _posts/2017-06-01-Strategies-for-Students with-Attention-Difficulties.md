@@ -145,9 +145,14 @@ The following strategies can be tried to help students who require extra assista
     <li><h6>Movement activities</h6>. Combine movement activities with spelling lessons (e.g., jump rope while spelling words out loud).</li>
     <li><h6>Word banks</h6>. Use 3” x 5” index cards of frequently misspelled words sorted alphabetically.</li>
 </ul>
+<div class="float right side">
+	<div>
+		<amp-img alt="U Brands 9” x 12” Double-Sided Dry Erase Lap Board with Ruled and Plain Sides" width="414" height="327" src="{{site.cache}}/books/U-Brands-9-x-12-inch-Double-Sided-Dry-Erase-Lap-Board-with-Ruled-and-Plain-Sides.jpg" sizes="8.625rem"></amp-img>
+	</div>
+</div>
 <h5>Handwriting</h5>
 <ul>
-    <li><h6>Individual dry-erase boards</h6>. Ask the student to practice copying and erasing the target words on a small, personal dry-erase board. Two students can be paired to practice their target words together.</li>
+    <li><h6>Individual dry-erase boards</h6>. Ask the student to practice copying and erasing the target words on a small, personal dry-erase board. Two students can be paired to practice their target words together. I prefer the widely-available 9” x 12” Double-Sided Dry Erase Lap Boards with Ruled and Plain Sides.</li>
     <li><h6>“Quiet places” for handwriting</h6>. Provide the student with a special “quiet place” (e.g., a table outside the classroom) to complete their handwriting assignments.</li>
     <li><h6>Spacing words on a page</h6>. Teach the student to use their finger to measure how much space to leave between each word in a written assignment.</li>
 <div class="float right side">
