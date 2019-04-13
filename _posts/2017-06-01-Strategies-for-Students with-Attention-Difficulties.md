@@ -26,7 +26,10 @@ h3{font-size:2em;text-align:center}
 h4{font-size:1.5em}
 h5 {font-size:inherit}
 h6{font-size:inherit;display:inline}
-.yellowhighlighter{background-color:yellow}"
+.yellowhighlighter{background-color:yellow}
+.greencolor{color:green}
+.redcolor{color:red}
+.orangecolor{color:orange}"
 title: "Strategies for Students with Attention Difficulties"
 description: "Students with attention difficulties may need special instructional practices, behavioral approaches, or accommodations to be successful in school."
 tags:
@@ -172,7 +175,7 @@ The following strategies can be tried to help students who require extra assista
     <li><h6>Mastery of math symbols</h6>. If students do not understand the symbols used in math, they will not be able to do the work. For instance, do they understand that the “plus” in 1 + 3 means to add and that the “minus” in 5 – 3 means to take away?</li>
     <li><h6>Mnemonics for basic computation</h6>. Teach the child mnemonics that describe basic steps in computing whole numbers. For example, “Don’t Miss Susie’s Boat” can be used to help the student recall the basic steps in long division (i.e., divide, multiply, subtract, and bring down).</li>
     <li><h6>Real-life examples of money skills</h6>. Provide the student with real-life opportunities to practice target money skills. For example, ask them to calculate their change when paying for lunch in the school cafeteria, or set up a class store where students can practice calculating change.</li>
-    <li><h6>Color code arithmetic symbols</h6>, such as +, –, and =, to provide visual cues for students when they are computing whole numbers.</li>
+    <li><h6>Color code arithmetic symbols</h6>, such as <strong class="greencolor">+</strong>, <strong class="redcolor">–</strong>, and <strong class="orangecolor">=</strong>, to provide visual cues for students when they are computing whole numbers.</li>
     <li><h6>Use calculators to check basic computation</h6> (e.g., addition, subtraction, multiplication, or division).</li>
     <li><h6>Board games</h6> can help students practice basic computation (e.g., adding, subtracting, multiplying, and dividing whole numbers).</li>    
     <li><h6>Basic math computation apps</h6> (or computer games) can provide opportunities for students to drill and practice basic computations.</li>
