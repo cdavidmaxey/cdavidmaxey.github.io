@@ -96,7 +96,7 @@ The following strategies can be tried to help students who require extra assista
     <li><h6>Word bank</h6>. Keep a word bank or dictionary of new or “hard-to-read” sight-vocabulary words.</li>
     <li><h6>Board games for reading comprehension</h6>. Play board games that provide practice with target reading-comprehension skills or sight-vocabulary words.</li>
     <li><h6>Computer games for reading comprehension</h6>. Schedule computer time for the child to have drill-and-practice with sight vocabulary words.</li>
-    <li><h6>Audiobooks</h6> (or “recorded books”), available from many libraries, can stimulate interest in traditional reading and can be used to reinforce and complement reading lessons.</li>
+    <li><h6>Audiobooks</h6>, available from many libraries, can stimulate interest in traditional reading and can be used to reinforce and complement reading lessons.</li>
     <li><h6>Summary materials</h6>. Allow and encourage students to use published book summaries, synopses, and digests of major reading assignments to review (not replace) reading assignments.</li>
 </ul>
 <h5>Phonics</h5>
@@ -114,8 +114,7 @@ The following strategies can be tried to help students who require extra assista
     <li><h6>Post office</h6>. Establish a post office in the classroom, and provide students with opportunities to write, mail, and receive letters to and from their classmates and teacher.</li>
     <li><h6>Visualize compositions</h6>. Ask the child to close his or her eyes and visualize a paragraph that the teacher reads aloud. Another variation of this technique is to ask a student to describe a recent event while the other students close their eyes and visualize what is being said as a written paragraph.</li>
     <li><h6>Proofread compositions</h6>. Require that the child proofread his or her work before turning in written assignments. Provide the child with a list of items to check when proofreading his or her own work.</li>
-    <li><h6>Tape recorders</h6>. Ask the student to dictate writing assignments into a tape recorder, as an alternative to writing them.</li>
-    <li><h6>Allow the student to dictate writing assignments</h6> to the teacher, another student, an audio recorder, or a computer with dictation software.</li>
+    <li><h6>Allow the student to dictate writing assignments</h6> to the teacher, another student, an audio recorder, or a computer with a speech-to-text app (or dictation capabilities).</li>
 </ul>
 <h5>Spelling</h5>
 <ul>
