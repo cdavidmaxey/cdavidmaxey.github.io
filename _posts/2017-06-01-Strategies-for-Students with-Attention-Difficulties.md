@@ -290,7 +290,7 @@ Because students’ individual needs are different, it is important for teachers
 <ul>
 <div class="float right side">
 	<div>
-		<amp-img alt="Pointers" width="414" height="627" src="{{site.cache}}/books/Pointers.jpg" sizes="8.625rem"></amp-img>
+		<amp-img alt="Pointers" width="414" height="586" src="{{site.cache}}/books/Pointers.jpg" sizes="8.625rem"></amp-img>
 	</div>
 </div>
     <li><h6>Pointers or Bookmarks</h6>. Teach the student to use a pointer or bookmark to help visually track written words on a page (e.g., when reading aloud, reading silently, or following along as someone else reads aloud).</li>
