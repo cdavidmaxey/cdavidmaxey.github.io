@@ -27,6 +27,8 @@ h4{font-size:1.5em}
 h5 {font-size:inherit}
 h6{font-size:inherit;display:inline}
 .yellowhighlighter{background-color:yellow}
+.yellowhighlighter-left{background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 49%,rgba(255,255,0,1) 51%, rgba(255,255,0,1) 100%)}
+.yellowhighlighter-right{background:linear-gradient(90deg,rgba(255,255,0,1) 0%,rgba(255,255,0,1) 49%,rgba(255,255,255,0) 51%, rgba(255,255,255,0) 100%)}
 .greencolor{color:green}
 .redcolor{color:red}
 .orangecolor{color:orange}"
@@ -76,7 +78,7 @@ Students with attention difficulties may need special instructional practices, b
 	<ul>
 		<li>On worksheets, underline keywords in the instructions before the lesson begins or as you and students read the directions together.</li>
 		<li>When reading, show students how to identify and highlight or flag (with Post-it Arrow Flags) a key sentence, before asking them to summarize the entire book.</li>
-		<li>In math, show students how to identify and mark the important facts and operations (e.g., “Mary has <u class="yellowhighlighter">two</u> apples, <u class="yellowhighlighter">and</u> John has <u class="yellowhighlighter">three</u>”).</li>
+		<li>In math, show students how to identify and mark the important facts and operations (e.g., “Mary has<span class="yellowhighlighter-left"> </span><u class="yellowhighlighter">two</u><span class="yellowhighlighter-right"> </span>apples,<span class="yellowhighlighter-left"> </span><u class="yellowhighlighter">and</u><span class="yellowhighlighter-right"> </span>John has<span class="yellowhighlighter-left"> </span><u class="yellowhighlighter">three</u><span class="yellowhighlighter-right">”</span>).</li>
 	</ul>
 	<li><h6>Eliminate all or most timed tests</h6> because students can become preoccupied with elapsed time instead of demonstrating their knowledge.</li>
     <ul>
