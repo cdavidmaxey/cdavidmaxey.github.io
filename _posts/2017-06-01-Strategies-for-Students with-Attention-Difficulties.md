@@ -25,7 +25,8 @@ style: "h3,h4,h5{margin:1em 0 .5em}
 h3{font-size:2em;text-align:center}
 h4{font-size:1.5em}
 h5 {font-size:inherit}
-h6{font-size:inherit;display:inline}"
+h6{font-size:inherit;display:inline}
+.yellowhighlighter{background-color:yellow}"
 title: "Strategies for Students with Attention Difficulties"
 description: "Students with attention difficulties may need special instructional practices, behavioral approaches, or accommodations to be successful in school."
 tags:
@@ -49,7 +50,7 @@ Students with attention difficulties may need special instructional practices, b
     <li><h6>Be predictable</h6>. Provide structure and consistency with clear expectations that allows students to easily understand exactly what is being asked of them and what will happen if they do not meet the expectations.</li>
     <li><h6>Support participation in class</h6>. Discreetly provide private cues to get back on task and advance warning that they will be called upon shortly, to avoid bringing attention to differences between students.</li>
     <li><h6>Avoid using sarcasm and criticism</h6>.</li>
-    <li><h6>Use visuals to present lessons</h6>. (e.g., difficult, overhead projector, document camera, slideshow presentation).</li>
+    <li><h6>Use visuals to present lessons</h6>. (e.g., overhead projector, document camera, slideshow presentation).</li>
     <li><h6>Check for mastery of the lesson</h6> (e.g., ask students doing independent work to demonstrate how they arrived at an answer or ask individual students to state in their own words, how a main character felt at the end of the story).</li>
     <li><h6>Ask probing or follow-up questions</h6> when a student struggles to answer a question. Allow sufficient time for them work out the answer (e.g., waiting at least 15 seconds before providing the correct answer or calling on another student). Ask follow-up questions that give them an opportunity to demonstrate what they do know.</li>
 	<li><h6>Provide additional assistance as needed</h6> to students showing signs of daydreaming, frustration, or lack of comprehension (e.g., provide extra explanations, or ask another student to serve as a peer tutor for the lesson).</li>
@@ -58,11 +59,16 @@ Students with attention difficulties may need special instructional practices, b
     <li><h6>Provide follow-up directions</h6> by repeating the directions together with the student one-on-one or providing written directions to the class (e.g., write the page number for an assignment on the board and remind students to look at the board if they forget the assignment).</li>
     <li><h6>Maintain a low noise level.</h6> Offer noise blocking headphones or monitor the volume level in the classroom. Noise volume meter apps can help students to monitor their volume level with more independence. If noise exceeds the level appropriate for the type of lesson, remind the class or individual students of voice level expectations.</li>
 	<li><h6>Break assignments into smaller, less complex chunks</h6> (e.g., allow students to complete half of the math problems before presenting them with the remaining problems).</li>
+<div class="float right side">
+	<div>
+		<amp-img alt="Post-it Arrow Flags" width="414" height="824" src="{{site.cache}}/books/Post-it-Arrow-Flags.jpg" sizes="8.625rem"></amp-img>
+	</div>
+</div>    
     <li><h6>Highlight keywords</h6></li>
 	<ul>
 		<li>On worksheets, underline keywords in the instructions before the lesson begins or as you and students read the directions together.</li>
-		<li>When reading, show students how to identify and highlight (or flag) a key sentence, before asking them to summarize the entire book.</li>
-		<li>In math, show students how to identify and mark the important facts and operations (e.g., “Mary has <u>two</u> apples, <u>and</u> John has <u>three</u>”).</li>
+		<li>When reading, show students how to identify and highlight or flag (with Post-it Arrow Flags) a key sentence, before asking them to summarize the entire book.</li>
+		<li>In math, show students how to identify and mark the important facts and operations (e.g., “Mary has <u class="yellowhighlighter">two</u> apples, <u class="yellowhighlighter">and</u> John has <u class="yellowhighlighter">three</u>”).</li>
 	</ul>
 	<li><h6>Eliminate all or most timed tests</h6> because students can become preoccupied with elapsed time instead of demonstrating their knowledge.</li>
     <ul>
