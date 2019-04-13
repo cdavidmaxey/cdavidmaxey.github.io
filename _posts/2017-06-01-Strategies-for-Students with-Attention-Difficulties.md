@@ -247,6 +247,11 @@ In addition to verbal reinforcement, the following set of generalized behavioral
         <li>intended solely to gain the attention of teachers or classmates without disrupting the classroom or interfering with the learning of others</li>
     </ul>
     <li><h6>Remove nuisance items</h6> (e.g., rubber bands and toys) that distract the student. The removal of nuisance items is generally most effective after the student has been given the choice of putting it away immediately and then fails to do so.</li>
+<div class="float right side">
+	<div>
+		<amp-img alt="Fidgets" width="414" height="1532" src="{{site.cache}}/books/Fidgets.jpg" sizes="8.625rem"></amp-img>
+	</div>
+</div>
     <li><h6>Provide calming fidgets</h6>. While some toys and other objects can be distracting for both the student and peers in the classroom, some students can benefit from having objects that can be manipulated quietly. Calming fidgets may help students gain some needed sensory input while still allowing them to attend to the lesson.</li>
     <li><h6>Allow for a “change of scene”</h6>. Permitting a student to leave class for a moment, perhaps on an errand (e.g., returning a book to the library), can be an effective way for them to settle down and return to the classroom ready to concentrate.</li>
     <li><h6>Activity reinforcement</h6>. Students receive activity reinforcement when they are encouraged to do a less preferred activity before a preferred one.</li>
