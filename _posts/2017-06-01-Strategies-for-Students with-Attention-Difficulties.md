@@ -64,12 +64,12 @@ Students with attention difficulties may need special instructional practices, b
 </div>
     <li><h6>Maintain a low noise level.</h6> Offer noise-blocking earmuffs, sometimes referred to as or “hearing protectors” or “headphones” (that don’t have speakers), or monitor the volume level in the classroom. Noise volume meter apps can help students to monitor their volume level with more independence. If noise exceeds the level appropriate for the type of lesson, remind the class or individual students of voice level expectations.</li>
 	<li><h6>Break assignments into smaller, less complex chunks</h6> (e.g., allow students to complete half of the math problems before presenting them with the remaining problems).</li>
+    <li><h6>Highlight keywords</h6></li>
 <div class="float right side">
 	<div>
 		<amp-img alt="Post-it Arrow Flags" width="414" height="824" src="{{site.cache}}/books/Post-it-Arrow-Flags.jpg" sizes="8.625rem"></amp-img>
 	</div>
 </div>    
-    <li><h6>Highlight keywords</h6></li>
 	<ul>
 		<li>On worksheets, underline keywords in the instructions before the lesson begins or as you and students read the directions together.</li>
 		<li>When reading, show students how to identify and highlight or flag (with Post-it Arrow Flags) a key sentence, before asking them to summarize the entire book.</li>
@@ -84,6 +84,13 @@ Students with attention difficulties may need special instructional practices, b
     <li><h6>Offer “assistive technology”</h6> (such as computers or projectors) to make your instruction more visual and allow students to participate actively.</li>
 </ul>
 <h5>Concluding Lessons</h5>
+<div class="float right side">
+	<div>
+		<a class="download" rel="nofollow" href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/">
+			<amp-img alt="Time Timer Plus" width="414" height="528" src="{{site.cache}}/books/Time-Timer-Plus.jpg" sizes="8.625rem"></amp-img>
+		</a>
+	</div>
+</div>
 <ul>
     <li><h6>Provide advance warnings</h6> of the end of the time for a task, such as independent work or group projects</li>
     <ul>
