@@ -57,7 +57,12 @@ Students with attention difficulties may need special instructional practices, b
     <li><h6>Help students identify and correct their own mistakes</h6> (e.g., reiterate how to check calculations and remind students of difficult spelling rules and easy-to-make errors).</li>
     <li><h6>Help students focus</h6> by reminding them to keep working, providing follow-up directions, or assigning learning partners (for individual students or the entire class).</li>
     <li><h6>Provide follow-up directions</h6> by repeating the directions together with the student one-on-one or providing written directions to the class (e.g., write the page number for an assignment on the board and remind students to look at the board if they forget the assignment).</li>
-    <li><h6>Maintain a low noise level.</h6> Offer noise blocking headphones or monitor the volume level in the classroom. Noise volume meter apps can help students to monitor their volume level with more independence. If noise exceeds the level appropriate for the type of lesson, remind the class or individual students of voice level expectations.</li>
+<div class="float right side">
+	<div>
+		<amp-img alt="Snug Noise-Blocking Earmuffs Hearing Protectors" width="414" height="550" src="{{site.cache}}/books/Snug-Noise-Blocking-Earmuffs-Hearing-Protectors.jpg" sizes="8.625rem"></amp-img>
+	</div>
+</div>
+    <li><h6>Maintain a low noise level.</h6> Offer noise-blocking earmuffs, sometimes referred to as or “hearing protectors” or “headphones” (that don’t have speakers), or monitor the volume level in the classroom. Noise volume meter apps can help students to monitor their volume level with more independence. If noise exceeds the level appropriate for the type of lesson, remind the class or individual students of voice level expectations.</li>
 	<li><h6>Break assignments into smaller, less complex chunks</h6> (e.g., allow students to complete half of the math problems before presenting them with the remaining problems).</li>
 <div class="float right side">
 	<div>
