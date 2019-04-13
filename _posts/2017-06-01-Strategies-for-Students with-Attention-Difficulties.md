@@ -141,12 +141,11 @@ The following strategies can be tried to help students who require extra assista
 <ul>
     <li><h6>Everyday examples of hard-to-spell words</h6>. Take advantage of everyday events to teach difficult spelling words in context. For example, ask a child eating a cheese sandwich to spell “sandwich.”</li>
     <li><h6>Frequently used words</h6>. Assign spelling words that the child routinely uses in his or her speech each day.</li>
-    <li><h6>Dictionary of misspelled words</h6>. Ask the child to keep a personal dictionary of frequently misspelled words.</li>
+    <li><h6>Word bank or dictionary of frequently-misspelled words</h6>. Ask the child to keep a personal dictionary of frequently-misspelled words (on 3” x 5” index cards sorted alphabetically).</li>
     <li><h6>Partner spelling activities</h6>. Pair the student with another student. Ask the partners to quiz each other on the spelling of new words. Encourage both students to guess the correct spelling.</li>
     <li><h6>Manipulatives</h6>. Use cutout letters or other manipulatives to spell out hard-to-learn words.</li>
     <li><h6>Color-coded letters</h6>. Color code different letters in hard-to-spell words (e.g., “r<span class="redcolor">e</span>c<span class="redcolor">ei</span>pt”).</li>
     <li><h6>Movement activities</h6>. Combine movement activities with spelling lessons (e.g., jump rope while spelling words out loud).</li>
-    <li><h6>Word banks</h6>. Use 3” x 5” index cards of frequently misspelled words sorted alphabetically.</li>
 </ul>
 <div class="float right side">
 	<div>
