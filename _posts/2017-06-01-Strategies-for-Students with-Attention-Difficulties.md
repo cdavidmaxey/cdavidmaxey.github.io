@@ -293,7 +293,7 @@ Because students’ individual needs are different, it is important for teachers
 		<amp-img alt="Pointers" width="414" height="586" src="{{site.cache}}/books/Pointers.jpg" sizes="8.625rem"></amp-img>
 	</div>
 </div>
-    <li><h6>Pointers or Bookmarks</h6>. Teach the student to use a pointer or bookmark to help visually track written words on a page (e.g., when reading aloud, reading silently, or following along as someone else reads aloud).</li>
+    <li><h6>Pointers, Bookmarks, or Reading Guides</h6>. Teach the student to use a pointer, bookmark, or reading guide to help visually track written words on a page (e.g., when reading aloud, reading silently, or following along as someone else reads aloud).</li>
     <li><h6>Visual timers</h6>. <a href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/"><i>Time Timer</i> and hourglass sand timers, which I’ve reviewed</a>, can help students monitor the passage of time more independently.</li>
     <li><h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening. I prefer the Paper Mate Mechanical Pencils that have a thick 1.3mm lead and are usually available at Office Depot or on <a href="https://www.amazon.com/s?k=paper+mate+mechanical+pencil+1.3&dc" rel="nofollow" target="_blank">Amazon</a>.</li>
     <li><h6>Calming fidgets</h6> that can be manipulated quietly (unlike some toys and other objects that can be distracting for both the student and peers in the classroom) can provide some needed sensory input while still allowing the student to attend to the lesson.</li>
