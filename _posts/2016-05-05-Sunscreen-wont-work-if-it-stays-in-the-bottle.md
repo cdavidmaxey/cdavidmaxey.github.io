@@ -1,5 +1,5 @@
 ---
-date: "2018-05-15T00:00:00-08:00"
+date: "2019-06-05T00:00:00-08:00"
 updated: "2017-06-30T00:00:00-08:00"
 layout: post
 published: TRUE
@@ -62,7 +62,7 @@ Sunscreen Tips:
 </aside>
 <ol class="compact paragraph tail">
 	<li>SPF is a measure of protection only from UVB rays; “broad spectrum” sunscreen protects against both UVB and UVA rays.</li>
-	<li>Don’t misunderstand SPF ratings&mdash;SPF 50 and 100 block only about 1% and 2% more UVB rays than SPF 30, respectively. The <a rel="nofollow" href="http://www.cdc.gov/cancer/skin/basic_info/sun-safety.htm" target="_blank"><abbr title="Centers for Disease Control and Prevention">CDC</abbr></a>, <a rel="nofollow" href="http://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/understandingover-the-countermedicines/ucm239463.htm" target="_blank"><abbr title="U.S. Food and Drug Administration">FDA</abbr></a> and <a rel="nofollow" href="https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Sun-Safety.aspx" target="_blank"><abbr title="American Academy of Pediatrics">AAP</abbr></a> recommend using at least SPF 15; the <a rel="nofollow" href="https://www.aad.org/media/stats/prevention-and-care/sunscreen-faqs" target="_blank"><abbr title="American Academy of Dermatology">AAD</abbr></a> recommends using at least SPF 30 (accessed July 1, 2017).</li>
+	<li>Don’t misunderstand SPF ratings&mdash;SPF 50 and 100 block only about 1% and 2% more UVB rays than SPF 30, respectively. The <a rel="nofollow" href="http://www.cdc.gov/cancer/skin/basic_info/sun-safety.htm" target="_blank"><abbr title="Centers for Disease Control and Prevention">CDC</abbr></a>, <a rel="nofollow" href="http://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/understandingover-the-countermedicines/ucm239463.htm" target="_blank"><abbr title="U.S. Food and Drug Administration">FDA</abbr></a> and <a rel="nofollow" href="https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Sun-Safety.aspx" target="_blank"><abbr title="American Academy of Pediatrics">AAP</abbr></a> recommend using at least SPF 15; the <a rel="nofollow" href="https://www.aad.org/media/stats/prevention-and-care/sunscreen-faqs" target="_blank"><abbr title="American Academy of Dermatology">AAD</abbr></a> recommends using at least SPF 30 (accessed 5 June 2019).</li>
 	<li>Choose a water-resistant product if you’ll be in the water.</li>
 	<li>Follow recommendations about applying the sunscreen <i>before</i> going out into the sun.</li>
 	<li>A common mistake is applying too little&mdash;make sure you apply the correct amount.</li>
