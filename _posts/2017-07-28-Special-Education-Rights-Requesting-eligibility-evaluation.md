@@ -60,14 +60,14 @@ tags:
 </div></blockquote>
 <p>I encourage you to know your rights, which the Oregon Department of Education reviews in their <a rel="nofollow" href="http://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank">Procedural Safeguards Notice</a>. I recommend you make your request for an evaluation <i>in writing</i> with clear requests, your signature, and the date, so there are no misunderstandings that might delay the process (see example below).</p>
 <section class="paper">
-<p>[full name of parent]<br>[address of parent]</p>
-<p>[date]</p>
-<p>[name of school]<br>[address of school]</p>
+<p>[<mark>full name of parent</mark>]<br>[<mark>address of parent</mark>]</p>
+<p>[<mark>date</mark>]</p>
+<p>[<mark>name of school</mark>]<br>[<mark>address of school</mark>]</p>
 <p>To whom it may concern,</p>
-<p>I am [<span class="blue">full name of your child</span>]’s parent. My child has been struggling at school. [<span class="blue">Provide detailed information about your concerns, using supporting evidence such as test scores, teacher communications, work samples, etc.</span>]</p>
-<p>I have been working with [<span class="blue">name of your child’s teacher(s)</span>], and [<span class="blue">I have not seen any improvement or the problems have been getting worse</span>], despite having tried the following things. [<span class="blue">Describe any interventions that were tried, including response to intervention (RtI) and informal accommodations in the classroom</span>]</p>
+<p>I am [<mark>full name of your child</mark>]’s parent. My child has been struggling at school. [<mark>Provide detailed information about your concerns, using supporting evidence such as test scores, teacher communications, work samples, etc.</mark>]</p>
+<p>I have been working with [<mark>name of your child’s teacher(s)</mark>], and [<mark>I have not seen any improvement or the problems have been getting worse</mark>], despite having tried the following things. [<mark>Describe any interventions that were tried, including response to intervention (RtI) and informal accommodations in the classroom</mark>]</p>
 <p>Therefore, I am writing to formally request that my child be evaluated for special education services under the Child Find obligations of the Individuals with Disabilities Education Act (IDEA).</p>
-<p>I look forward to working with you within the next [<span class="blue">10 school days</span>] to develop an assessment plan to begin the evaluation process. Please ensure that I receive copies of assessment results [<span class="blue">7 days</span>] prior to any meeting because I cannot effectively inspect and review the records unless I receive those copies. Thank you very much for your help.</p>
+<p>I look forward to working with you within the next [<mark>10 school days</mark>] to develop an assessment plan to begin the evaluation process. Please ensure that I receive copies of assessment results [<mark>7 days</mark>] prior to any meeting because I cannot effectively inspect and review the records unless I receive those copies. Thank you very much for your help.</p>
 <p>Sincerely,</p>
 <p class="cursif">Signature of Parent</p>
 </section>
