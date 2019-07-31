@@ -141,9 +141,8 @@
 			.paper>p:last-of-type{padding-bottom:2rem}
 			
 			/* Colors */
-			.blue{color:blue}
-			::selection.blue,::-moz-selection.blue{color:inherit}
-			
+			.blue:not(::selection){color:blue}
+            
 			/* .float */
 			.float{margin-bottom:1rem}
 			.float.left{float:left;margin-right:1.25rem}
