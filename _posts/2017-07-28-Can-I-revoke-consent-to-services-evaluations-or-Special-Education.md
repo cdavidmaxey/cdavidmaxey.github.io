@@ -35,13 +35,13 @@ tags:
 </div></blockquote>
 <p>Usually consent to mental health services, medical treatments, evaluations, or Special Education is voluntary. Typically, parents (of children under 18 years) can revoke consent at anytime. If you become dissatisfied with whatever you’ve consented to your child receiving, a simple written letter revoking consent is often all it takes to end it (see example below). I recommend being specific about what you want to end. Do you want to revoke consent to mental health services, medical treatment, an evaluation, Special Education, etc.? Do you want to revoke consent to some or all of it?</p>
 <section class="paper">
-<p class="blue">[full name of parent]<br>[address of parent]</p>
-<p class="blue">[date]</p>
-<p class="blue">[name of school or provider]<br>[address of school or provider]</p>
+<p>[<mark><span>full name of parent</span></mark>]<br>[<mark><span>address of parent</span></mark>]</p>
+<p>[<mark><span>date</span></mark>]</p>
+<p>[<mark><span>name of school or provider</span></mark>]<br>[<mark><span>address of school or provider</span></mark>]</p>
 <p>To whom it may concern,</p>
-<p>I am <span class="blue">[full name of your child]</span>’s parent. I revoke consent to <span class="blue">[describe the services]</span>.</p>
+<p>I am [<mark><span>full name of your child</span></mark>]’s parent. I revoke consent to [<mark><span>describe the services</span></mark>].</p>
 <p>Sincerely,</p>
-<p class="blue cursif">Signature of Parent</p>
+<p class="cursif">Signature of Parent</p>
 </section>
 <h2>If I consent to a Special Education evaluation for IEP eligibility, am I also consenting to my child getting Special Education?</h2>
 <p>Sometimes parents are concerned that if they consent to an evaluation for Special Education eligibility, they might be also consenting to their child getting Special Education&mdash;the Oregon Department of Education explains below that “consent for initial evaluation does not mean that you have also given your consent for&hellip;special education”, and that you can revoke your consent. I encourage you to know your rights, which the Oregon Department of Education reviews in their <a rel="nofollow" href="http://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21" target="_blank">Procedural Safeguards Notice</a>. I also suggest you consider the value of a full evaluation that should help you make a more informed decision about your child’s education.</p>
