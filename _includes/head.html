@@ -141,9 +141,9 @@
 			.paper>p:last-of-type{padding-bottom:2rem}
 			
 			/* Colors */
-			::moz-selection,::selection{background-color:rgba(255,255,255,.50)}
+			::selection{background-color:rgba(255,255,255,.50)}
 			.blue{color:blue}
-			.blue::selection,.blue::moz-selection{color:black;background-color:rgba(255,255,255,.50)}
+			::selection.blue{color:inherit}
 			
 			/* .float */
 			.float{margin-bottom:1rem}
