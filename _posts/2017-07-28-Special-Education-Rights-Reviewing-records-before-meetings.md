@@ -49,7 +49,7 @@ tags:
 <p>[<mark><span>date</span></mark>]</p>
 <p>[<mark><span>name of school</span></mark>]<br>[<mark><span>address of school</span></mark>]</p>
 <p>To whom it may concern,</p>
-<p>I am [<mark><span>full name of your child</span>]’s parent. I am requesting you provide me [<mark><span>and full name of someone you’d like to review the records</span></mark>] with copies of all evaluation records 7 days before any meeting because I cannot effectively inspect and review the records unless I receive those copies. Thank you in advance for providing me with the information I need to participate meaningfully in meetings.</p>
+<p>I am [<mark><span>full name of your child</span></mark>]’s parent. I am requesting you provide me [<mark><span>and full name of someone you’d like to review the records</span></mark>] with copies of all evaluation records 7 days before any meeting because I cannot effectively inspect and review the records unless I receive those copies. Thank you in advance for providing me with the information I need to participate meaningfully in meetings.</p>
 <p>Sincerely,</p>
 <p class="cursif">Signature of Parent</p>
 </section>
