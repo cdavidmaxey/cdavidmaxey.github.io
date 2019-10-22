@@ -1,8 +1,9 @@
 ---
+date:
+updated:
 redirect_from:
 - "/allowance/"
 - "/Allowance/"
-updated:
 layout: post
 published: FALSE
 alt: "child receiving allowance pocket money from parent"

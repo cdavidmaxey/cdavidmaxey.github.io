@@ -1,6 +1,6 @@
 ---
 date: "2014-03-24T00:00:00-08:00"
-updated: "2014-03-24T00:00:00-08:00"
+updated:
 layout: post
 published: TRUE
 alt: "child brushing teeth in the bath"

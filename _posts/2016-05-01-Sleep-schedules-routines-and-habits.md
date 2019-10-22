@@ -1,6 +1,6 @@
 ---
 date: "2016-05-01T00:00:00-08:00"
-updated: "2016-05-01T00:00:00-08:00"
+updated:
 redirect_from:
 - "/sleep/"
 layout: post

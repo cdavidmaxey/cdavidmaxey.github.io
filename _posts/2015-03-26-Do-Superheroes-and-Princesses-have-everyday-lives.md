@@ -1,6 +1,6 @@
 ---
 date: "2015-03-26T00:00:00-08:00"
-updated: "2015-03-26T00:00:00-08:00"
+updated:
 layout: post
 published: TRUE
 alt:

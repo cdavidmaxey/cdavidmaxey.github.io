@@ -1,6 +1,6 @@
 ---
 date: "2018-02-25T00:00:00-08:00"
-updated: "2018-02-25T00:00:00-08:00"
+updated:
 redirect_from:
 - "/Resources-for-trans-and-gender-non-conforming-children-and-teens/"
 layout: post

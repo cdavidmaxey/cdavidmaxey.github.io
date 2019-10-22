@@ -1,6 +1,6 @@
 ---
 date: "2016-12-31T00:00:00-08:00"
-updated: "2016-12-31T00:00:00-08:00"
+updated:
 redirect_from:
 - "/positive-discipline/"
 - "/Positive-discipline/"

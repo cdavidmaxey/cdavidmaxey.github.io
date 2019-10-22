@@ -1,11 +1,12 @@
 ---
+date:
+updated:
 redirect_from:
 - "/mindup/"
 - "/Mindup/"
 - "/MindUP/"
 - "/MindUp/"
 - "/mindUp/"
-updated:
 layout: post
 published: TRUE
 alt: "Students practicing mindful meditation at school"

@@ -1,9 +1,10 @@
 ---
+date:
+updated:
 redirect_from:
 - "/chores/"
 - "/Chores/"
 - "/CHORES/"
-updated:
 layout: post
 published: FALSE
 alt: "children washing and drying dishes"

@@ -1,6 +1,6 @@
 ---
 date: "2017-08-31T00:00:00-08:00"
-updated: "2017-08-31T00:00:00-08:00"
+updated:
 redirect_from:
 - "/Special-Education-Rights-Reviewing-Records-Before-Meetings/"
 layout: post

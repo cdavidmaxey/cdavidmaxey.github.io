@@ -1,6 +1,6 @@
 ---
 date: "2016-08-25T00:00:00-08:00"
-updated: "2016-08-25T00:00:00-08:00"
+updated:
 layout: post
 published: TRUE
 alt: "Here comes a thought on Mindful Education episode of Steven Universe on Cartoon Network"
