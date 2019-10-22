@@ -1,5 +1,4 @@
 ---
-date:
 updated:
 layout: post
 published: FALSE

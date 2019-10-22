@@ -1,5 +1,4 @@
 ---
-date:
 updated:
 redirect_from:
 - "/allowance/"
