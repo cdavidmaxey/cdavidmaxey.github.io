@@ -71,10 +71,10 @@ tags:
 <p>Sincerely,</p>
 <p class="cursif">Signature of Parent</p>
 </section>
-<p>You can follow the typical paths from an evaluation to an Individualized Education Program (IEP) in the infographic below from <a rel="nofollow" href="https://www.understood.org/en/school-learning/special-services/ieps/iep-roadmap-how-to-seek-out-special-education-services-for-your-child" target="_blank">Understood.org</a> and titled <i>IEP Roadmap: How to Seek Out Special Education Services for Your Child</i>.</p>
+<p>You can follow the typical paths from an evaluation to an Individualized Education Program (IEP) in the infographic below from <a rel="nofollow" href="https://www.understood.org/en/school-learning/special-services/ieps/iep-roadmap-how-to-seek-out-special-education-services-for-your-child" target="_blank">Understood.org</a> and titled <i>IEP Roadmap: How Kids Get Special Education</i>.</p>
 <hr>
-<amp-img alt="IEP Roadmap: How to seek out special education services for your child (Infographic)" width="2985" height="9918" src="{{site.cache}}/320/IEP-Roadmap-Infographic.jpg" srcset="{{site.cache}}/320/IEP-Roadmap-Infographic.jpg 320w,{{site.cache}}/640/IEP-Roadmap-Infographic.jpg 640w,{{site.cache}}/1280/IEP-Roadmap-Infographic.jpg 1280w,{{site.cache}}/1920/IEP-Roadmap-Infographic.jpg 1920w" layout="responsive"></amp-img>
-<p class="credits">&copy; <a rel="nofollow" href="https://www.understood.org/en/school-learning/special-services/ieps/iep-roadmap-how-to-seek-out-special-education-services-for-your-child" target="_blank">Understood.org</a> | unendorsed cropped infographic used by invitation to download and embed</p>
+<amp-img alt="IEP Roadmap: How Kids Get Special Education" width="2985" height="9918" src="{{site.cache}}/320/IEP-Roadmap.jpg" srcset="{{site.cache}}/320/IEP-Roadmap.jpg 320w,{{site.cache}}/640/IEP-Roadmap.jpg 640w,{{site.cache}}/1280/IEP-Roadmap.jpg 1280w,{{site.cache}}/1920/IEP-Roadmap.jpg 1920w" layout="responsive"></amp-img>
+<p class="credits">&copy; <a rel="nofollow" href="https://www.understood.org/en/school-learning/special-services/ieps/iep-roadmap-how-to-seek-out-special-education-services-for-your-child" target="_blank">Understood.org</a> | unendorsed cropped infographic used by invitation to download and share</p>
 <p>The following table provides descriptions of disability categories of Special Education eligibility adapted from the Oregon Administrative Rules.</p>
 <table>
 	<thead>
