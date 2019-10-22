@@ -1,6 +1,6 @@
 ---
-date: "2018-07-29T00:00:00-08:00"
-updated: "2017-05-15T00:00:00-08:00"
+date: "2017-05-15T00:00:00-08:00"
+updated: "2018-07-29T00:00:00-08:00"
 layout: post
 published: TRUE
 alt: "student working at board in immersion school"
