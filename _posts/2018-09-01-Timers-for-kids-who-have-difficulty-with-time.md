@@ -1,6 +1,6 @@
 ---
 date: "2018-09-01T00:00:00-08:00"
-updated: "2018-09-01T00:00:00-08:00"
+updated:
 redirect_from:
 - "/Timers-for-kids-who-have-difficulty-managing-time/"
 layout: post
