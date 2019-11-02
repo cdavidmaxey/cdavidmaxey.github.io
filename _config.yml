@@ -46,7 +46,8 @@ applemaps:
   url: "https://maps.apple.com/?q=C.+David+Maxey,+M.A.,+Psychologist+Associate+Resident&t=m&sll=45.424516,-122.7530176"
   documentation: "https://developer.apple.com/library/content/featuredarticles/iPhoneURLScheme_Reference/MapLinks/MapLinks.html"
 googlemaps:
-  url: "https://www.google.com/maps/search/?api=1&query=C.+David+Maxey,+M.A.,+Psychologist+Associate+Resident&query_place_id=ChIJobOD-_sNlVQR4T-nHBAoTMw"
+  url: "https://g.page/cdavidmaxey"
+  url_full: "https://www.google.com/maps/search/?api=1&query=C.+David+Maxey,+M.A.,+Psychologist+Associate+Resident&query_place_id=ChIJobOD-_sNlVQR4T-nHBAoTMw"
   documentation_url: "https://developers.google.com/maps/documentation/urls/guide"
   documentation_place_id: "https://developers.google.com/places/place-id"
   api: "https://maps.googleapis.com/maps/api/staticmap"
