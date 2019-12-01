@@ -6,5 +6,8 @@ Disallow: /README.md
 Disallow: /humans.txt
 Disallow: /secret/
 Disallow: /schedule/
+Disallow: /parent/
+Disallow: /school/
+Disallow: /youth/
 Disallow: /A-Nation-Empowered
 Sitemap: {{site.url}}/sitemap.xml
