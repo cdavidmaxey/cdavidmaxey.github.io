@@ -19,10 +19,10 @@
 				<a class="link{% if page.url == '/services/' %} active{% endif %}" href="{{site.url}}/services/{% if page.url == '/services/' %}#{% endif %}">Services</a>
 				<a class="link{% if page.url contains '/blog/' or page.layout == 'post' %} active{% endif %}" href="{{site.url}}/blog/{% for post in site.posts %}{% if page.id == post.id and forloop.index > site.paginate %}page{{forloop.index0 | divided_by:site.paginate | plus:1}}/{% break %}{% endif %}{% endfor %}{% if page.url contains '/blog/' %}#{% endif %}">blog</a>
 			</section>
-		</nav>{% unless page.url == '/contact/' %}
-		<div class="digits">
+		</nav>
+		<div class="digits">{% unless page.url == '/contact/' %}
 			<section>
 				<!--sse--><a rel="nofollow" href="tel:{{site.tel}}">{{site.telephone}}</a><!--/sse-->
 				<!--sse--><a class="right" rel="nofollow" href="mailto:{{site.email}}">{{site.email}}</a><!--/sse-->
 			</section>
-		</div>{% endunless %}
+		{% endunless %}</div>
