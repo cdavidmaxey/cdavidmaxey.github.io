@@ -23,7 +23,7 @@ youtube:
 variables:
 style: "p~ul{margin-top:-1.25rem}.humanbody,.incrediblebody{border-radius:1em}
 h3{font-size:1rem;font-weight:bold;margin:1.25rem 0 .25rem}
-.booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#9c27b0;color:#fff;padding:.175rem 0}
+.booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#3949ab;color:#fff;padding:.175rem 0}
 .booktopper+.bookborder{border-top:none}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://us.fotolia.com/id/89405292' target='_blank'>&copy;</a>&nbsp;John&nbsp;Wilhelm</a>"
 credits_full: "<a rel='nofollow' href='https://vimeo.com/70414395' target='_blank'><em>The Human Body by Tinybop</em></a> by <a rel='nofollow' href='https://vimeo.com/tinybop' target='_blank'>Tinybop</a> is embeded under <a rel='nofollow' href='https://vimeo.com/terms' target='_blank'>Vimeo Terms of Service</a>.<br><a rel='nofollow' href='https://youtu.be/lC3jImrtioY' target='_blank'><em>My Incredible Body: Amazing Anatomy Just for Kids (iPad/iPhone)</em></a> by <a rel='nofollow' href='https://www.youtube.com/user/VisibleBody' target='_blank'>Visible Body</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms' target='_blank'>Standard YouTube License</a>."

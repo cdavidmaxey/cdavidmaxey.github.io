@@ -37,9 +37,9 @@ input#genderfigure-elephant:checked~section#GenderElephant{display:block}
 label{margin:0 0 1rem;display:inline-block;text-align:center}
 label+label{margin-left:1rem}
 label:focus{outline:none}
-input#genderfigure-unicorn:checked~label[for=genderfigure-unicorn],input#genderfigure-genderbread:checked~label[for=genderfigure-genderbread],input#genderfigure-elephant:checked~label[for=genderfigure-elephant]{color:#9c27b0}
+input#genderfigure-unicorn:checked~label[for=genderfigure-unicorn],input#genderfigure-genderbread:checked~label[for=genderfigure-genderbread],input#genderfigure-elephant:checked~label[for=genderfigure-elephant]{color:#3949ab}
 h4{font-size:1.5rem;text-align:center;margin:3rem 0 1rem}
-section>h4,h3{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#4a148c;color:white}
+section>h4,h3{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#1a237e;color:white}
 #GenderFigure .credits{margin-top:1rem}
 .flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start;align-items:flex-end;margin:-1rem -.25rem}
 .flexbook{flex:0 0 calc(50% - .5rem);margin:1rem .25rem}
@@ -60,11 +60,11 @@ h5~p{margin: 0 0 .5rem 30px}
 .a-tel{font-size:.875em}
 .a-tel~small,.a-tel~span,.a-tel~a{margin-left:1rem}
 .am-pm{font-size:.625rem}
-.booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#9c27b0;color:#fff;padding:.175rem 0}
+.booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#3949ab;color:#fff;padding:.175rem 0}
 .booktopper+.bookborder{border-top:none}
 .svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}
 .post p{text-align:left}
-.buttons>a:hover{background:#9c27b0;color:white;fill:white}"
+.buttons>a:hover{background:#3949ab;color:white;fill:white}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.bigstockphoto.com/image-48345461/stock-photo-side-view-of-a-relaxed-young-boy-in-superhero-costume-reading-book-on-armchair' target='_blank'>&copy;</a>&nbsp;Nosnibor137"
 title: "Resources for trans and gender expansive children and teens"
 description: "Gender Unicorn & Genderbread Person, Books, Biographies & Memoirs, Portland-Area Resources, Social Networks, Advocacy, Conferences, and Crisis Lines"
