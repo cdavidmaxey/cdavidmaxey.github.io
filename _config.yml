@@ -19,7 +19,7 @@ Person:
   familyName: Maxey
   honorificSuffix: M.A.
   additionalName: Charles David Maxey
-  jobTitle: Psychologist Associate Resident
+  jobTitle: Licensed Psychologist Associate
   naics: 621330
   disambiguatingDescription: "C. David Maxey’s full name is Charles David Maxey, and he goes by David. Maxey is sometimes misspelled Maxcy, Maxi, Maxcey, Macksey, Maxe, or Maxie."
   image: "DavidMaxey.jpg"
@@ -43,11 +43,11 @@ office:
   city_state: "Tigard, OR"
   zip: "97223"
 applemaps:
-  url: "https://maps.apple.com/?q=C.+David+Maxey,+M.A.,+Psychologist+Associate+Resident&t=m&sll=45.424516,-122.7530176"
+  url: "https://maps.apple.com/?q=C.+David+Maxey,+M.A.,+Licensed+Psychologist+Associate&t=m&sll=45.424516,-122.7530176"
   documentation: "https://developer.apple.com/library/content/featuredarticles/iPhoneURLScheme_Reference/MapLinks/MapLinks.html"
 googlemaps:
   url: "https://g.page/cdavidmaxey"
-  url_full: "https://www.google.com/maps/search/?api=1&query=C.+David+Maxey,+M.A.,+Psychologist+Associate+Resident&query_place_id=ChIJobOD-_sNlVQR4T-nHBAoTMw"
+  url_full: "https://www.google.com/maps/search/?api=1&query=C.+David+Maxey,+M.A.,+Licensed+Psychologist+Associate&query_place_id=ChIJobOD-_sNlVQR4T-nHBAoTMw"
   documentation_url: "https://developers.google.com/maps/documentation/urls/guide"
   documentation_place_id: "https://developers.google.com/places/place-id"
   api: "https://maps.googleapis.com/maps/api/staticmap"
