@@ -282,16 +282,16 @@
 		<meta name="robots" content="noarchive{{page.robots}}">
 		<meta name="author" content="{{site.Person.name}}">
 		<link href="{{site.url}}/humans.txt" rel="author">
-		<link rel="apple-touch-icon" sizes="180x180" href="{{site.url}}/apple-touch-icon.png?v=20180309">
-		<link rel="icon" type="image/png" sizes="32x32" href="{{site.url}}/favicon-32x32.png?v=20180309">
-		<link rel="icon" type="image/png" sizes="16x16" href="{{site.url}}/favicon-16x16.png?v=20180309">
-		<link rel="manifest" href="{{site.url}}/site.webmanifest?v=20180309">
-		<link rel="mask-icon" href="{{site.url}}/safari-pinned-tab.svg?v=20180309" color="#3949ab">
-		<link rel="shortcut icon" href="{{site.url}}/favicon.ico?v=20180309">
-		<meta name="apple-mobile-web-app-title" content="C. David Maxey">
-		<meta name="application-name" content="C. David Maxey">
-		<meta name="msapplication-TileColor" content="#a58ac5">
-		<meta name="theme-color" content="#ffffff">
+        <link rel="apple-touch-icon" sizes="180x180" href="{{site.url}}/apple-touch-icon.png?v=2">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{site.url}}/favicon-32x32.png?v=2">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{site.url}}/favicon-16x16.png?v=2">
+        <link rel="manifest" href="{{site.url}}/site.webmanifest?v=2">
+        <link rel="mask-icon" href="{{site.url}}/safari-pinned-tab.svg?v=2" color="#1a237e">
+        <link rel="shortcut icon" href="{{site.url}}/favicon.ico?v=2">
+        <meta name="apple-mobile-web-app-title" content="C. David Maxey, M.A.">
+        <meta name="application-name" content="C. David Maxey, M.A.">
+        <meta name="msapplication-TileColor" content="#1a237e">
+        <meta name="theme-color" content="#1a237e">
 		<meta name="format-detection" content="telephone=no">{% if page.layout == 'post' %}
 		<script type="application/ld+json">{
 			"@context": "http://schema.org",
@@ -316,11 +316,6 @@
 				"email": "{{site.Person.email}}",
 				"image": "{{site.url}}/{{site.Person.image}}",
 				"address": {"@type":"PostalAddress","addressLocality":"{{site.Person.addressLocality}}","addressRegion": "{{site.Person.addressRegion}}","postalCode":"{{site.Person.postalCode}}","streetAddress":"{{site.Person.streetAddress}}"}},
-			"publisher": {
-				"@type": "Organization",
-				"name": "{{site.Publisher.name}}",
-				"logo": {"@type":"ImageObject","url":"{{site.url}}/{{site.Publisher.logo.src}}","width":{{site.Publisher.logo.X}},"height":{{site.Publisher.logo.Y}}}
-			},
 			"description": "{{page.description}}"
 		}</script>
 		<script type="application/ld+json">{
