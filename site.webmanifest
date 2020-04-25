@@ -3,18 +3,18 @@
     "short_name": "C. David Maxey, M.A.",
     "icons": [
         {
-            "src": "{{site.url}}/android-chrome-192x192.png?v=2",
+            "src": "/android-chrome-192x192.png?v=2",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "{{site.url}}/android-chrome-512x512.png?v=2",
+            "src": "/android-chrome-512x512.png?v=2",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
     "theme_color": "#1a237e",
     "background_color": "#1a237e",
-    "start_url": "{{site.url}}/",
+    "start_url": "https://cdavidmaxey.com/",
     "display": "standalone"
 }
