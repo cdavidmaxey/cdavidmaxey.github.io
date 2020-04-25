@@ -9,7 +9,7 @@
 		<link href="{{site.url}}{{page.url}}" rel="canonical">{% if page.url contains '/blog/' %}{% if paginator.previous_page %}
 		<link href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}" rel="prev">{% endif %}{% if paginator.next_page %}
 		<link href="{{site.url}}{{paginator.next_page_path}}" rel="next">{% endif %}{% endif %}
-		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">{{page.head}}{% if page.url == '/' or page.url == '/about/' %}
+		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,viewport-fit=cover">{{page.head}}{% if page.url == '/' or page.url == '/about/' %}
 		<link href="https://fonts.googleapis.com/css?family=Tangerine:700" rel="stylesheet" type="text/css">
 		<script type="application/ld+json">{
 		"@context": "http://schema.org",
