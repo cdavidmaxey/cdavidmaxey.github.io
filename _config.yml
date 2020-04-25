@@ -51,8 +51,8 @@ googlemaps:
   documentation_url: "https://developers.google.com/maps/documentation/urls/guide"
   documentation_place_id: "https://developers.google.com/places/place-id"
   api: "https://maps.googleapis.com/maps/api/staticmap"
-  parameters: "?zoom=15&size=640x640&scale=2&markers=scale:2|anchor:5,75|icon:https://cdavidmaxey.com/map-pin.png?v=2|7145+SW+Varns+St,Tigard,OR&key=AIzaSyDCxo9x_qGwB3DbswOdJaEqbsMxEcalTgA"
-  signature: "&signature=9o5sK5MkOU-DiChGQT0KApto0X8="
+  parameters: "?zoom=15&size=640x640&scale=2&markers=scale:2|anchor:5,75|icon:https://cdavidmaxey.com/map-pin.png?v=3|7145+SW+Varns+St,Tigard,OR&key=AIzaSyDCxo9x_qGwB3DbswOdJaEqbsMxEcalTgA"
+  signature: "&signature=hB6INO18QM6M0jyjZXFDtA4zN2g="
   api_console: "https://console.developers.google.com/google/maps-apis/api-list"
   documentation_maps_static: "https://developers.google.com/maps/documentation/maps-static/intro"
 collections:
