@@ -316,6 +316,11 @@
 				"email": "{{site.Person.email}}",
 				"image": "{{site.url}}/{{site.Person.image}}",
 				"address": {"@type":"PostalAddress","addressLocality":"{{site.Person.addressLocality}}","addressRegion": "{{site.Person.addressRegion}}","postalCode":"{{site.Person.postalCode}}","streetAddress":"{{site.Person.streetAddress}}"}},
+            "publisher": {
+				"@type": "Organization",
+				"name": "{{site.Publisher.name}}",
+				"logo": {"@type":"ImageObject","url":"{{site.url}}/{{site.Publisher.logo.src}}","width":{{site.Publisher.logo.X}},"height":{{site.Publisher.logo.Y}}}
+			},
 			"description": "{{page.description}}"
 		}</script>
 		<script type="application/ld+json">{
