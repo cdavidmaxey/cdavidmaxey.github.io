@@ -77,8 +77,8 @@ Reflecting the reality of our modern time, <i>What Makes a Baby</i> by Cory Silv
 <div class="clear"></div>
 <h2>Anatomy Apps</h2>
 <aside class="float right side center">
-	<div><a rel="nofollow" href="http://tinybop.com/apps/the-human-body" target="_blank"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg"></amp-img><br>The Human Body</a><br><small>$4 (+$1 In-App)<sup>*</sup></small></div>
-	<div><a rel="nofollow" href="http://www.visiblebody.com/mib_overview/" target="_blank"><amp-img class="incrediblebody" src="{{site.cache}}/x/incrediblebody.jpg" width="100" height="100"></amp-img><br>My Incredible Body</a><br><small>$25 (+$1 In-App)<sup>*</sup></small></div>
+	<div><a rel="nofollow" href="http://tinybop.com/apps/the-human-body" target="_blank"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg" alt="The Human Body"></amp-img><br>The Human Body</a><br><small>$4 (+$1 In-App)<sup>*</sup></small></div>
+	<div><a rel="nofollow" href="http://www.visiblebody.com/mib_overview/" target="_blank"><amp-img class="incrediblebody" src="{{site.cache}}/x/incrediblebody.jpg" width="100" height="100" alt="My Incredible Body"></amp-img><br>My Incredible Body</a><br><small>$25 (+$1 In-App)<sup>*</sup></small></div>
 	<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
