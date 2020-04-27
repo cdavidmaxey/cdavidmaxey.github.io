@@ -39,7 +39,8 @@ mail:
   city_state: "Tigard, OR"
   zip: "97223"
 office:
-  address: "<div>7145 SW Varns St&nbsp;</div><div>Suite 105</div>"
+  address: "7145 SW Varns St Suite 105"
+  address_formatted: "<div>7145 SW Varns St&nbsp;</div><div>Suite 105</div>"
   city_state: "Tigard, OR"
   zip: "97223"
 applemaps:
