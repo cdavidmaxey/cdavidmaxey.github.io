@@ -40,7 +40,8 @@ h5~p{margin: 0 0 .5rem 30px}
 .signal-icon span:last-of-type{margin:0 .09375em}
 .signal-font,.signal-font:hover{font-weight:normal;color:#1377c9;font-size:small}
 div.signal-font{margin:0 -1em}
-.digits{background-color:transparent}"
+.digits{background-color:transparent}
+.staticmap amp-img img{object-fit:cover}"
 head:
 title: "Contact C. David Maxey, M.A."
 description: "Near I-5 in the Tigard Triangle on 72nd Ave. at 217 • C. David Maxey, M.A. can be contacted by email, phone, and Signal."
@@ -101,7 +102,10 @@ description: "Near I-5 in the Tigard Triangle on 72nd Ave. at 217 • C. David M
 		</nav>-->
 	</section>
 	<section class="map"><a rel="nofollow noopener" href="{{site.googlemaps.url | replace: ',', '%2C' }}" target="_blank" aria-label="Google Maps"></a></section>
-	<section class="contact center streetview">
+    <section class="staticmap">
+    <amp-img src="{{ site.googlemaps.api }}{{ site.googlemaps.parameters | replace: "|", "%7C" | replace: ",", "%2C" | replace: ":", "%3A" | replace: "/", "%2F" }}{{ site.googlemaps.signature }}" height="640" width="640"></amp-img>
+    </section>
+    <section class="contact center streetview">
 		<h4>Street View</h4>
 		<amp-img alt="Street View of 7145 SW Varns St, Tigard, OR 97223" src="{{site.cache}}/320/street-view.jpg" srcset="{{site.cache}}/320/street-view.jpg 320w,{{site.cache}}/640/street-view.jpg 640w,{{site.cache}}/1280/street-view.jpg 1280w,{{site.cache}}/1920/street-view.jpg 1920w" layout="responsive" width="1920" height="842"></amp-img>
 	</section>
