@@ -142,7 +142,7 @@ tags:
 	</div>
 	<div class="flexbook">
 		<div class="booktopper">Pre-K - 1<sup>st</sup></div>
-		<amp-img class="bookborder" alt="Red: A Crayon's Story" width="414" height="534" src="{{site.cache}}/books/Red-A-Crayons-Story.jpg" sizes="calc(8.625rem - 2px)"></amp-img>
+		<amp-img class="bookborder" alt="Red: A Crayon's Story" width="414" height="572" src="{{site.cache}}/books/Red-A-Crayons-Story.jpg" sizes="calc(8.625rem - 2px)"></amp-img>
 		<div class="merchants">
 			<a class="powells" title="Powells" rel="nofollow" href="http://www.powells.com/book/red-a-crayons-story-9780062252074" target="_blank"><svg><use xlink:href="#svg-powells"/></svg></a>
 			<a class="amazon" title="Amazon" rel="nofollow" href="https://www.amazon.com/dp/0062252070" target="_blank"><svg><use xlink:href="#svg-amazon"/></svg></a>
