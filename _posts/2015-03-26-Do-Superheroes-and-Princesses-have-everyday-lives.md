@@ -6,12 +6,12 @@ published: TRUE
 alt:
 thumb:
   src: "limpan.org.jpg"
-  X: 3047
-  Y: 1657
+  X: 1920
+  Y: 1057
 image:
   src: "limpan.org.jpg"
-  X: 3047
-  Y: 1657
+  X: 1920
+  Y: 1057
 video:
   src: 
   X: 
