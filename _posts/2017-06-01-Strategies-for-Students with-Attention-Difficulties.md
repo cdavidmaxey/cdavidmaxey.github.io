@@ -30,7 +30,7 @@ h6{font-size:inherit;display:inline}
 .yellowhighlighter-left{background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 49%,rgba(255,255,0,1) 51%, rgba(255,255,0,1) 100%)}
 .yellowhighlighter-right{background:linear-gradient(90deg,rgba(255,255,0,1) 0%,rgba(255,255,0,1) 49%,rgba(255,255,255,0) 51%, rgba(255,255,255,0) 100%)}
 .greencolor{color:green}
-.redcolor{color:red}
+.redcolor{color:#eb0000}
 .orangecolor{color:orange}"
 title: "Strategies for Students with Attention Difficulties"
 description: "Students with attention difficulties may need special instructional practices, behavioral approaches, or accommodations to be successful in school."
@@ -62,47 +62,55 @@ Students with attention difficulties may need special instructional practices, b
     <li><h6>Help students identify and correct their own mistakes</h6> (e.g., reiterate how to check calculations and remind students of difficult spelling rules and easy-to-make errors).</li>
     <li><h6>Help students focus</h6> by reminding them to keep working, providing follow-up directions, or assigning learning partners (for individual students or the entire class).</li>
     <li><h6>Provide follow-up directions</h6> by repeating the directions together with the student one-on-one or providing written directions to the class (e.g., write the page number for an assignment on the board and remind students to look at the board if they forget the assignment).</li>
-<div class="float right side">
-	<div>
-		<amp-img alt="Snug Noise-Blocking Earmuffs Hearing Protectors" width="414" height="550" src="{{site.cache}}/books/Snug-Noise-Blocking-Earmuffs-Hearing-Protectors.jpg" sizes="8.625rem"></amp-img>
-	</div>
-</div>
-    <li><h6>Maintain a low noise level.</h6> Offer noise-blocking earmuffs, sometimes referred to as or “hearing protectors” or “headphones” (that don’t have speakers), or monitor the volume level in the classroom. Noise volume meter apps can help students to monitor their volume level with more independence. If noise exceeds the level appropriate for the type of lesson, remind the class or individual students of voice level expectations.</li>
+    <li>
+        <div class="float right side">
+            <div>
+                <amp-img alt="Snug Noise-Blocking Earmuffs Hearing Protectors" width="414" height="550" src="{{site.cache}}/books/Snug-Noise-Blocking-Earmuffs-Hearing-Protectors.jpg" sizes="8.625rem"></amp-img>
+            </div>
+        </div>
+        <h6>Maintain a low noise level.</h6> Offer noise-blocking earmuffs, sometimes referred to as or “hearing protectors” or “headphones” (that don’t have speakers), or monitor the volume level in the classroom. Noise volume meter apps can help students to monitor their volume level with more independence. If noise exceeds the level appropriate for the type of lesson, remind the class or individual students of voice level expectations.
+    </li>
 	<li><h6>Break assignments into smaller, less complex chunks</h6> (e.g., allow students to complete half of the math problems before presenting them with the remaining problems).</li>
-    <li><h6>Highlight keywords</h6></li>
-<div class="float right side">
-	<div>
-		<amp-img alt="Post-it Arrow Flags" width="414" height="824" src="{{site.cache}}/books/Post-it-Arrow-Flags.jpg" sizes="8.625rem"></amp-img>
-	</div>
-</div>    
-	<ul>
-		<li>On worksheets, underline keywords in the instructions before the lesson begins or as you and students read the directions together.</li>
-		<li>When reading, show students how to identify and highlight or flag (with Post-it Arrow Flags) a key sentence, before asking them to summarize the entire book.</li>
-		<li>In math, show students how to identify and mark the important facts and operations (e.g., “Mary has<span class="yellowhighlighter-left"> </span><u class="yellowhighlighter">two</u><span class="yellowhighlighter-right"> </span>apples,<span class="yellowhighlighter-left"> </span><u class="yellowhighlighter">and</u><span class="yellowhighlighter-right"> </span>John has<span class="yellowhighlighter-left"> </span><u class="yellowhighlighter">three</u><span class="yellowhighlighter-right">”</span>).</li>
-	</ul>
-	<li><h6>Eliminate all or most timed tests</h6> because students can become preoccupied with elapsed time instead of demonstrating their knowledge.</li>
-    <ul>
-	   <li>Allow extra time to complete quizzes and tests to eliminate pressure to complete them in time.</li>
-	   <li>Provide other opportunities, methods, or test formats for demonstrating their knowledge.</li>
-    </ul>
+    <li>
+        <div class="float right side">
+            <div>
+                <amp-img alt="Post-it Arrow Flags" width="414" height="824" src="{{site.cache}}/books/Post-it-Arrow-Flags.jpg" sizes="8.625rem"></amp-img>
+            </div>
+        </div>    
+        <h6>Highlight keywords</h6>
+        <ul>
+            <li>On worksheets, underline keywords in the instructions before the lesson begins or as you and students read the directions together.</li>
+            <li>When reading, show students how to identify and highlight or flag (with Post-it Arrow Flags) a key sentence, before asking them to summarize the entire book.</li>
+            <li>In math, show students how to identify and mark the important facts and operations (e.g., “Mary has<span class="yellowhighlighter-left"> </span><u class="yellowhighlighter">two</u><span class="yellowhighlighter-right"> </span>apples,<span class="yellowhighlighter-left"> </span><u class="yellowhighlighter">and</u><span class="yellowhighlighter-right"> </span>John has<span class="yellowhighlighter-left"> </span><u class="yellowhighlighter">three</u><span class="yellowhighlighter-right">”</span>).</li>
+        </ul>
+    </li>
+	<li>
+        <h6>Eliminate all or most timed tests</h6> because students can become preoccupied with elapsed time instead of demonstrating their knowledge.
+        <ul>
+           <li>Allow extra time to complete quizzes and tests to eliminate pressure to complete them in time.</li>
+           <li>Provide other opportunities, methods, or test formats for demonstrating their knowledge.</li>
+        </ul>
+    </li>
     <li><h6>Use cooperative learning strategies</h6> with small groups, such as Think-Pair-Share, in which students think about a topic, pair with a partner to discuss it, and share ideas with the group (Slavin, 2002)</li>
     <li><h6>Offer “assistive technology”</h6> (such as computers or projectors) to make your instruction more visual and allow students to participate actively.</li>
 </ul>
 <h5>Concluding Lessons</h5>
 <ul>
-<div class="float right side">
-	<div>
-		<a rel="nofollow" href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/">
-			<amp-img alt="Time Timer Plus" width="414" height="528" src="{{site.cache}}/books/Time-Timer-Plus.jpg" sizes="8.625rem"></amp-img>
-		</a>
-	</div>
-</div>
-    <li><h6>Provide advance warnings</h6> of the end of the time for a task, such as independent work or group projects</li>
-    <ul>
-        <li>At the beginning of a task, tell students how much time they will have to complete it.</li>
-        <li>When about 5-10 minutes are left, announce how much time remains.</li>
-        <li><h6>Display a visual timer</h6> (such as <a href="{{site.url}}/timers/">the <i>Time Timer</i> or hourglass sand timers I’ve reviewed</a>) to help students monitor the passage of time more independently.</li>
-    </ul>
+    <li>
+        <div class="float right side">
+            <div>
+                <a rel="nofollow" href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/" title="Visual timers for kids who have difficulty with time">
+                    <amp-img alt="Time Timer Plus" width="414" height="528" src="{{site.cache}}/books/Time-Timer-Plus.jpg" sizes="8.625rem"></amp-img>
+                </a>
+            </div>
+        </div>
+        <h6>Provide advance warnings</h6> of the end of the time for a task, such as independent work or group projects
+        <ul>
+            <li>At the beginning of a task, tell students how much time they will have to complete it.</li>
+            <li>When about 5-10 minutes are left, announce how much time remains.</li>
+            <li><h6>Display a visual timer</h6> (such as <a href="{{site.url}}/timers/">the <i>Time Timer</i> or hourglass sand timers I’ve reviewed</a>) to help students monitor the passage of time more independently.</li>
+        </ul>
+    </li>
     <li><h6>Check completed assignments</h6> (for at least some students) to get a sense of how ready the class was for the lesson and how to plan the next lesson.</li>
 	<li><h6>Preview the next activity</h6>, instructing students on how to begin preparing for it (e.g., ask students to put away workbooks and come to the carpet for a circle activity).</li>
 </ul>
@@ -151,20 +159,24 @@ The following strategies can be tried to help students who require extra assista
 </ul>
 <h5>Handwriting</h5>
 <ul>
-<div class="float right side">
-	<div>
-		<amp-img alt="U Brands 9” x 12” Double-Sided Dry Erase Lap Board with Ruled and Plain Sides" width="414" height="327" src="{{site.cache}}/books/U-Brands-9-x-12-inch-Double-Sided-Dry-Erase-Lap-Board-with-Ruled-and-Plain-Sides.jpg" sizes="8.625rem"></amp-img>
-	</div>
-</div>
-    <li><h6>Individual dry-erase boards</h6>. Ask the student to practice copying and erasing the target words on a small, personal dry-erase board. Two students can be paired to practice their target words together. I prefer the widely-available 9” x 12” Double-Sided Dry Erase Lap Boards with Ruled and Plain Sides.</li>
+    <li>
+        <div class="float right side">
+            <div>
+                <amp-img alt="U Brands 9” x 12” Double-Sided Dry Erase Lap Board with Ruled and Plain Sides" width="414" height="327" src="{{site.cache}}/books/U-Brands-9-x-12-inch-Double-Sided-Dry-Erase-Lap-Board-with-Ruled-and-Plain-Sides.jpg" sizes="8.625rem"></amp-img>
+            </div>
+        </div>
+        <h6>Individual dry-erase boards</h6>. Ask the student to practice copying and erasing the target words on a small, personal dry-erase board. Two students can be paired to practice their target words together. I prefer the widely-available 9” x 12” Double-Sided Dry Erase Lap Boards with Ruled and Plain Sides.
+    </li>
     <li><h6>“Quiet places” for handwriting</h6>. Provide the student with a special “quiet place” (e.g., a table outside the classroom) to complete their handwriting assignments.</li>
     <li><h6>Spacing words on a page</h6>. Teach the student to use their finger to measure how much space to leave between each word in a written assignment.</li>
-<div class="float right side">
-	<div>
-		<amp-img alt="Paper Mate Yellow Mechanical Pencils, 1.3mm HB #2 Lead (1862167)" width="414" height="945" src="{{site.cache}}/books/Paper-Mate-Yellow-Mechanical-Pencils-1.3mm-Lead-1862167.jpg" sizes="8.625rem"></amp-img>
-	</div>
-</div>
-    <li><h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening. I prefer the Paper Mate Mechanical Pencils that have a thick 1.3mm lead and are usually available at Office Depot or on <a href="https://www.amazon.com/s?k=paper+mate+mechanical+pencil+1.3&dc" rel="nofollow" target="_blank">Amazon</a>.</li>
+    <li>
+        <div class="float right side">
+            <div>
+                <amp-img alt="Paper Mate Yellow Mechanical Pencils, 1.3mm HB #2 Lead (1862167)" width="414" height="945" src="{{site.cache}}/books/Paper-Mate-Yellow-Mechanical-Pencils-1.3mm-Lead-1862167.jpg" sizes="8.625rem"></amp-img>
+            </div>
+        </div>
+        <h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening. I prefer the Paper Mate Mechanical Pencils that have a thick 1.3mm lead and are usually available at Office Depot or on <a href="https://www.amazon.com/s?k=paper+mate+mechanical+pencil+1.3&dc" rel="nofollow" target="_blank">Amazon</a>.
+    </li>
     <li><h6>Allowing cursive writing</h6> (instead of printing) can help students keep up the flow of writing becasue each letter naturally leads into the next one.</li>
     <li><h6>Special writing paper</h6>. Ask the student to use special paper with vertical lines to learn to space letters and words on a page.</li>
     <li><h6>Structured programs for handwriting</h6>. Teach handwriting skills through a structured program, such as Jan Olsen’s <i>Handwriting Without Tears</i> program (Olsen, 2003).</li>
@@ -186,12 +198,14 @@ The following strategies can be tried to help students who require extra assista
 <ul>
     <li><h6>Reread the problem</h6>. Teach the student to read a story problem two times before beginning to compute the answer.</li>
     <li><h6>Clue words</h6>. Teach the student clue words that identify which operation to use when solving story problems. For example, words such as “sum,” “total,” or “all together” may indicate an addition operation.</li>
-    <li><h6>Guiding questions for story problems</h6>. Teach students to ask guiding questions in solving story problems. For example:</li>
-    <ul>
-        <li>What is the question asked in the problem?</li>
-        <li>What information do you need to figure out the answer?</li>
-        <li>What operation should you use to compute the answer?</li>
-    </ul>
+    <li>
+        <h6>Guiding questions for story problems</h6>. Teach students to ask guiding questions in solving story problems. For example:
+        <ul>
+            <li>What is the question asked in the problem?</li>
+            <li>What information do you need to figure out the answer?</li>
+            <li>What operation should you use to compute the answer?</li>
+        </ul>
+    </li>
     <li><h6>Real-life examples of story problems</h6>. Ask the student to create and solve story problems that provide practice with specific target operations, such as addition, subtraction, multiplication, or division. These problems can be based on recent, real-life events in the student’s life.</li>
     <li><h6>Calculators to check story problems</h6>. Ask the student to use a calculator to check computations made in answering assigned story problems.</li>
 </ul>
@@ -242,19 +256,23 @@ Perhaps the most important and effective of behavior management techniques is lo
 Punishment may temporarily change behavior, but it rarely changes attitudes and may actually increase the frequency and intensity of unwanted behavior by rewarding misbehaving students with attention. Moreover, punishment may only teach children what not to do; it does not provide children with the skills that they need to do what is expected. Positive reinforcement can produce the changes in attitudes that shape a student’s behavior over the long term.
 In addition to verbal reinforcement, the following set of generalized behavioral intervention techniques has proven helpful with students with ADHD as well:
 <ul>
-    <li><h6>Selectively ignoring unwanted behavior</h6> is sometimes helpful for teachers, especially when the behavior is:</li>
-    <ul>
-        <li>unintentional,</li>
-        <li>unlikely to recur, or</li>
-        <li>intended solely to gain the attention of teachers or classmates without disrupting the classroom or interfering with the learning of others</li>
-    </ul>
+    <li>
+        <h6>Selectively ignoring unwanted behavior</h6> is sometimes helpful for teachers, especially when the behavior is:
+        <ul>
+            <li>unintentional,</li>
+            <li>unlikely to recur, or</li>
+            <li>intended solely to gain the attention of teachers or classmates without disrupting the classroom or interfering with the learning of others</li>
+        </ul>
+    </li>
     <li><h6>Remove nuisance items</h6> (e.g., rubber bands and toys) that distract the student. The removal of nuisance items is generally most effective after the student has been given the choice of putting it away immediately and then fails to do so.</li>
-<div class="float right side">
-	<div>
-		<amp-img alt="Fidgets" width="414" height="1532" src="{{site.cache}}/books/Fidgets.jpg" sizes="8.625rem"></amp-img>
-	</div>
-</div>
-    <li><h6>Provide calming fidgets</h6>. While some toys and other objects can be distracting for both the student and peers in the classroom, some students can benefit from having objects that can be manipulated quietly. Calming fidgets may help students gain some needed sensory input while still allowing them to attend to the lesson.</li>
+    <li>
+        <div class="float right side">
+            <div>
+                <amp-img alt="Fidgets" width="414" height="1532" src="{{site.cache}}/books/Fidgets.jpg" sizes="8.625rem"></amp-img>
+            </div>
+        </div>
+        <h6>Provide calming fidgets</h6>. While some toys and other objects can be distracting for both the student and peers in the classroom, some students can benefit from having objects that can be manipulated quietly. Calming fidgets may help students gain some needed sensory input while still allowing them to attend to the lesson.
+    </li>
     <li><h6>Allow for a “change of scene”</h6>. Permitting a student to leave class for a moment, perhaps on an errand (e.g., returning a book to the library), can be an effective way for them to settle down and return to the classroom ready to concentrate.</li>
     <li><h6>Activity reinforcement</h6>. Students receive activity reinforcement when they are encouraged to do a less preferred activity before a preferred one.</li>
     <li><h6>Hurdle helping</h6>. Teachers can offer encouragement, support, and assistance to prevent students from becoming frustrated with an assignment. This help can take many forms, from enlisting a peer for support to supplying additional materials or information.</li>
@@ -288,12 +306,14 @@ Because students’ individual needs are different, it is important for teachers
 </ul>
 <h3>Instructional Tools and the Physical Learning Environment</h3>
 <ul>
-<div class="float right side">
-	<div>
-		<amp-img alt="Pointers" width="414" height="586" src="{{site.cache}}/books/Pointers.jpg" sizes="8.625rem"></amp-img>
-	</div>
-</div>
-    <li><h6>Pointers, Bookmarks, or Reading Guides</h6>. Teach the student to use a pointer, bookmark, or reading guide to help visually track written words on a page (e.g., when reading aloud, reading silently, or following along as someone else reads aloud).</li>
+    <li>
+        <div class="float right side">
+            <div>
+                <amp-img alt="Pointers" width="414" height="586" src="{{site.cache}}/books/Pointers.jpg" sizes="8.625rem"></amp-img>
+            </div>
+        </div>
+        <h6>Pointers, Bookmarks, or Reading Guides</h6>. Teach the student to use a pointer, bookmark, or reading guide to help visually track written words on a page (e.g., when reading aloud, reading silently, or following along as someone else reads aloud).
+    </li>
     <li><h6>Visual timers</h6>. <a href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/"><i>Time Timer</i> and hourglass sand timers, which I’ve reviewed</a>, can help students monitor the passage of time more independently.</li>
     <li><h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening. I prefer the Paper Mate Mechanical Pencils that have a thick 1.3mm lead and are usually available at Office Depot or on <a href="https://www.amazon.com/s?k=paper+mate+mechanical+pencil+1.3&dc" rel="nofollow" target="_blank">Amazon</a>.</li>
     <li><h6>Calming fidgets</h6> that can be manipulated quietly (unlike some toys and other objects that can be distracting for both the student and peers in the classroom) can provide some needed sensory input while still allowing the student to attend to the lesson.</li>
