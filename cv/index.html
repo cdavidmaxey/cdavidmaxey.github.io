@@ -17,7 +17,6 @@ published: TRUE
 <head>
 <meta charset="utf-8">
 <script async src="https://cdn.ampproject.org/v0.js"></script>
-<script async custom-element="amp-font" src="https://cdn.ampproject.org/v0/amp-font-0.1.js"></script>
 <title>Curriculum Vitæ | C. David Maxey, M.A.</title>
 <link rel="canonical" href="https://cdavidmaxey.com/cv/">
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
@@ -42,7 +41,8 @@ published: TRUE
 	"streetAddress": "7145 SW Varns St Suite 105"}
 }</script>
 <style amp-custom>
-body{background:black;font-family:"Open Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",Helvetica,Arial,Tahoma,sans-serif;font-size:16px}
+@font-face{font-family:"Tangerine";font-style:normal;font-weight:700;src:url("{{site.url}}/tangerine.eot");src:local("Tangerine Bold"),local("Tangerine-Bold"),url("{{site.url}}/tangerine.eot?#iefix")format("embedded-opentype"),url("{{site.url}}/tangerine.woff2")format("woff2"),url("{{site.url}}/tangerine.woff")format("woff"),url("{{site.url}}/tangerine.ttf")format("truetype"),url("{{site.url}}/tangerine.svg#Tangerine")format("svg");}
+body{background:black;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",Helvetica,Arial,Tahoma,"Open Sans",sans-serif;font-size:16px}
 main{margin:0 auto;padding:1rem 1rem .25rem;background:#edf0f0 url(https://cda.vidmaxey.com/x/Handmade-Paper.png) top/100px repeat}
 #update{float:right;margin:0 0 2rem}
 #webcv,#web,#email,#tel{text-align:right}
@@ -69,6 +69,7 @@ aside footer{font-size:.75em}
 #name{font-size:48px;font-weight:normal;color:#000;line-height:1;margin:.25rem auto 2rem}
 #name .tangerine{font-family:Tangerine,sans-serif;font-weight:700}
 /*#name .gray{color:#767676}*/
+#name .comma{font-size:.67em}
 #name .suffix{font-size:.395em}
 #name #title{font-size:1rem;margin-top:.35rem}
 @media(max-width:360px){#name{font-size:42px}}
@@ -79,7 +80,6 @@ aside footer{font-size:.75em}
 <meta name="description" content="Curriculum Vitæ for C. David Maxey, M.A., Licensed Psychologist Associate, who provides psychological services to children, youth, and families.">
 <meta name="robots" content="noarchive"> 
 <meta name="author" content="C. David Maxey">
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic|Tangerine:700">
 <link rel="author" href="https://cdavidmaxey.com/humans.txt">
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdavidmaxey.com/apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdavidmaxey.com/apple-touch-icon-114x114.png" />
@@ -103,14 +103,12 @@ aside footer{font-size:.75em}
 <meta name="msapplication-square310x310logo" content="https://cdavidmaxey.com/mstile-310x310.png" />
 </head>
 <body>
-<amp-font layout="nodisplay" font-family="Open Sans" timeout="3000"></amp-font>
-<amp-font layout="nodisplay" font-family="Tangerine" timeout="3000"></amp-font>
 <main>
 <div class="center">
 	<p id="update">{{ page.date | date: "%B %Y" }}</p>
 	<h1>
 		<div>Curriculum Vit&aelig;</div>
-		<div id="name"><div><span class="gray tangerine">C.</span>&nbsp;<span class="tangerine">David Maxey</span><span class="suffix">,&nbsp;<span class="gray">M.A.</span></span></div><div id="title">Licensed Psychologist Associate</div></div>
+		<div id="name"><div><span class="gray tangerine">C.</span>&nbsp;<span class="tangerine">David Maxey</span><span class="comma tangerine">,</span><span class="suffix">&nbsp;<span class="gray">M.A.</span></span></div><div id="title">Licensed Psychologist Associate</div></div>
 	</h1>
 	<p id="webcv" class="print"><a href="https://cdavidmaxey.com/cv/">CDavidMaxey.com/cv</a></p>
 	<p id="web"><a href="https://cdavidmaxey.com/">CDavidMaxey.com</a></p>
