@@ -46,7 +46,7 @@
 		<meta name="theme-color" content="#ffffff">
 		<meta name="format-detection" content="telephone=no">
 	</head>        
-	<body>
+	<body data-amp-auto-lightbox-disable>
         <div id="spread">{% unless page.url == '/timer/' %}
             <amp-date-countdown id="timer" timeleft-ms="{% if page.minutes %}{{page.minutes | times: '60000'}}{% elsif page.seconds %}{{page.seconds | times: '1000'}}{% endif %}" biggest-unit="{% if page.minutes > 1 %}minutes{% else %}seconds{% endif %}" layout="fixed-height" height="3.5em" when-ended="stop">
                 <template type="amp-mustache">{% if page.minutes > 1 %}
