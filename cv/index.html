@@ -49,6 +49,8 @@ published: TRUE
 @font-face{font-family:'Lato';font-style:italic;font-weight:700;src:url('{{site.url}}/lato-bold-italic.eot');src:local('Lato Bold Italic'),local('Lato-BoldItalic'),url('{{site.url}}/lato-bold-italic.eot?#iefix') format('embedded-opentype'),url('{{site.url}}/lato-bold-italic.woff2') format('woff2'),url('{{site.url}}/lato-bold-italic.woff') format('woff'),url('{{site.url}}/lato-bold-italic.ttf') format('truetype'),url('{{site.url}}/lato-bold-italic.svg#Lato') format('svg');}
 body{background:black;font-family:"Lato",sans-serif;font-size:16px}
 main{margin:0 auto;padding:1rem 1rem .25rem;background:#edf0f0 url(https://cda.vidmaxey.com/x/Handmade-Paper.png) top/100px repeat}
+#months .months{display:none}
+#months:target .months{display:inherit}
 #update{float:right;margin:0 0 2rem}
 #webcv,#web,#email,#tel{text-align:right}
 @media(min-width:54rem){main{margin:2rem auto;padding:3rem 3rem 2.25rem;max-width:44rem}}
@@ -108,7 +110,7 @@ aside footer{font-size:.75em}
 <meta name="msapplication-square310x310logo" content="https://cdavidmaxey.com/mstile-310x310.png" />
 </head>
 <body>
-<main>
+<main id="months">
 <div class="center">
 	<p id="update">{{ page.date | date: "%B %Y" }}</p>
 	<h1>
@@ -121,12 +123,12 @@ aside footer{font-size:.75em}
 	<!--sse--><p id="tel"><a rel="nofollow" href="tel:+1-503-928-4182">503-928-4182</a></p><!--/sse-->
 </div>
 <h3 id="education">Education</h3>
-	<p>M.A. in Psychology, Bowling Green State University, Bowling Green, Ohio, 2009.</p>
+	<p>M.A. in Psychology, Bowling Green State University, Bowling Green, Ohio, <span class="months">August 2002-December </span>2009.</p>
 		<ul>
 			<li><a rel="nofollow" href="http://rave.ohiolink.edu/etdc/view?acc_num=bgsu1231523036" target="_blank"><i>Social-cognitive information processing of social conflict in fifth-grade children.</i></a> (Master’s thesis).</li>
 			<li>Eric F. Dubow, Ph.D., Advisor.</li>
 		</ul>
-	<p>B.S. in Biological Science, University of Mississippi, Oxford, Mississippi, 2000.</p>
+	<p>B.S. in Biological Science, University of Mississippi, Oxford, Mississippi, <span class="months">August 1996-December </span>2000.</p>
 <h3>Licenses</h3>
 	<p><strong>Psychologist Associate</strong>, Oregon Board of Psychology License 5067.</p>
 	<p><strong>Limited Student Services License</strong>, Oregon Teacher Standards and Practices Commission License 510723.</p>
