@@ -1,7 +1,8 @@
 ---
-date: "2018-02-25T00:00:00-08:00"
-updated:
+date: "2020-05-13T00:00:00-08:00"
+updated: "2018-02-25T00:00:00-08:00"
 redirect_from:
+- "/Resources-for-trans-and-gender-expansive-children-and-teens/"
 - "/Resources-for-trans-and-gender-non-conforming-children-and-teens/"
 layout: post
 published: TRUE
@@ -66,7 +67,7 @@ h5~p{margin: 0 0 .5rem 30px}
 .post p{text-align:left}
 .buttons>a:hover{background:#3949ab;color:white;fill:white}"
 credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.bigstockphoto.com/image-48345461/stock-photo-side-view-of-a-relaxed-young-boy-in-superhero-costume-reading-book-on-armchair' target='_blank'>&copy;</a>&nbsp;Nosnibor137"
-title: "Resources for trans and gender expansive children and teens"
+title: "Resources for trans and non-binary children and teens"
 description: "Gender Unicorn & Genderbread Person, Books, Biographies & Memoirs, Portland-Area Resources, Social Networks, Advocacy, Conferences, and Crisis Lines"
 tags:
 - Trans & Gender-Expansive
