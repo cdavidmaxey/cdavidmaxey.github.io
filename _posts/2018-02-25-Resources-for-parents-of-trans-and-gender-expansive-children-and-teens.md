@@ -22,6 +22,7 @@ youtube:
   id:
   X:
   Y:
+  body: TRUE
 variables:
 - rel=0
 - showinfo=0
@@ -252,6 +253,11 @@ tags:
 <h3>Documentaries</h3>
 <div class="videoimage"><a rel="nofollow" href="https://www.pbs.org/wgbh/frontline/film/growing-up-trans/"><amp-img alt="Growing Up Trans (Frontline PBS)" width="1920" height="1080" src="{{site.cache}}/320/Growing-Up-Trans-Frontline-PBS.jpg" srcset="{{site.cache}}/320/Growing-Up-Trans-Frontline-PBS.jpg 320w,{{site.cache}}/640/Growing-Up-Trans-Frontline-PBS.jpg 640w,{{site.cache}}/1280/Growing-Up-Trans-Frontline-PBS.jpg 1280w,{{site.cache}}/1920/Growing-Up-Trans-Frontline-PBS.jpg 1920w" layout="responsive"></amp-img></a></div>
 <div class="videoimage"><a rel="nofollow" href="https://www.nationalgeographic.com/tv/movies-and-specials/gender-revolution-a-journey-with-katie-couric"><amp-img alt="Gender Revolution: A Journey with Katie Couric (National Geographic)" width="1920" height="885" src="{{site.cache}}/320/Gender-Revolution-National-Geographic.jpg" srcset="{{site.cache}}/320/Gender-Revolution-National-Geographic.jpg 320w,{{site.cache}}/640/Gender-Revolution-National-Geographic.jpg 640w,{{site.cache}}/1280/Gender-Revolution-National-Geographic.jpg 1280w,{{site.cache}}/1920/Gender-Revolution-National-Geographic.jpg 1920w" layout="responsive"></amp-img></a></div>
+<div class="videoimage">
+{::nomarkdown}
+<amp-youtube data-videoid="B67OVJTyV0I" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
+</div>
 <h3>Social Networks & Online Forums</h3>
 <h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow" href="https://genderspectrum.org/lounge/" target="_blank">Gender Spectrum Lounge</a></h5>
 <p>online community for trans teens & their parents</p>
