@@ -47,6 +47,7 @@ h3+.subheading{margin:-.75rem 0 1rem;text-align:center}
 h5{font-size:1rem;margin:1rem 0 0 30px}
 h5 .subheading{font-weight:normal}
 h5~p{margin: 0 0 .5rem 30px}
+h4{margin:1.25em 0 .25em}
 .post h5+div>p{margin:0 0 .5rem;text-align:left}
 .a-tel{font-size:.875em}
 .a-tel~small,.a-tel~span,.a-tel~a{margin-left:1rem}
@@ -249,10 +250,10 @@ tags:
 	</div>
 </div>
 <h3>Documentaries</h3>
-<h4>Growing Up Trans (Frontline PBS)</h4>
-<a rel="nofollow" href="https://www.pbs.org/wgbh/frontline/film/growing-up-trans/"><amp-img alt="Growing Up Trans (Frontline PBS)" width="1920" height="1080" src="{{site.cache}}/320/Growing-Up-Trans-Frontline-PBS.jpg" srcset="{{site.cache}}/320/Growing-Up-Trans-Frontline-PBS.jpg 320w,{{site.cache}}/640/Growing-Up-Trans-Frontline-PBS.jpg 640w,{{site.cache}}/1280/Growing-Up-Trans-Frontline-PBS.jpg 1280w,{{site.cache}}/1920/Growing-Up-Trans-Frontline-PBS.jpg 1920w" layout="responsive"></amp-img></a>
-<h4>Gender Revolution: A Journey with Katie Couric (National Geographic)</h4>
-<a rel="nofollow" href="https://www.nationalgeographic.com/tv/movies-and-specials/gender-revolution-a-journey-with-katie-couric"><amp-img alt="Gender Revolution: A Journey with Katie Couric (National Geographic)" width="1920" height="885" src="{{site.cache}}/320/Gender-Revolution-National-Geographic.jpg" srcset="{{site.cache}}/320/Gender-Revolution-National-Geographic.jpg 320w,{{site.cache}}/640/Gender-Revolution-National-Geographic.jpg 640w,{{site.cache}}/1280/Gender-Revolution-National-Geographic.jpg 1280w,{{site.cache}}/1920/Gender-Revolution-National-Geographic.jpg 1920w" layout="responsive"></amp-img></a>
+<h4>Growing Up Trans (Frontline&nbsp;PBS)</h4>
+<div><a rel="nofollow" href="https://www.pbs.org/wgbh/frontline/film/growing-up-trans/"><amp-img alt="Growing Up Trans (Frontline PBS)" width="1920" height="1080" src="{{site.cache}}/320/Growing-Up-Trans-Frontline-PBS.jpg" srcset="{{site.cache}}/320/Growing-Up-Trans-Frontline-PBS.jpg 320w,{{site.cache}}/640/Growing-Up-Trans-Frontline-PBS.jpg 640w,{{site.cache}}/1280/Growing-Up-Trans-Frontline-PBS.jpg 1280w,{{site.cache}}/1920/Growing-Up-Trans-Frontline-PBS.jpg 1920w" layout="responsive"></amp-img></a></div>
+<h4>Gender Revolution: A&nbsp;Journey with Katie&nbsp;Couric (National&nbsp;Geographic)</h4>
+<div><a rel="nofollow" href="https://www.nationalgeographic.com/tv/movies-and-specials/gender-revolution-a-journey-with-katie-couric"><amp-img alt="Gender Revolution: A Journey with Katie Couric (National Geographic)" width="1920" height="885" src="{{site.cache}}/320/Gender-Revolution-National-Geographic.jpg" srcset="{{site.cache}}/320/Gender-Revolution-National-Geographic.jpg 320w,{{site.cache}}/640/Gender-Revolution-National-Geographic.jpg 640w,{{site.cache}}/1280/Gender-Revolution-National-Geographic.jpg 1280w,{{site.cache}}/1920/Gender-Revolution-National-Geographic.jpg 1920w" layout="responsive"></amp-img></a></div>
 <h3>Social Networks & Online Forums</h3>
 <h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow" href="https://genderspectrum.org/lounge/" target="_blank">Gender Spectrum Lounge</a></h5>
 <p>online community for trans teens & their parents</p>
