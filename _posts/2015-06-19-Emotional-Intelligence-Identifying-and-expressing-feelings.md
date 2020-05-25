@@ -33,7 +33,6 @@ youtube:
   body: TRUE
 variables:
 - rel=0
-- showinfo=0
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
@@ -67,7 +66,7 @@ tags:
 ---
 <p>Inside Out is a popular Disney/Pixar movie exploring the emotions experienced by an 11-year-old girl, Riley, who moves across the country to San Francisco with her parents. Anger, Disgust, Joy, Fear, and Sadness live in headquarters (in Riley’s head). In Riley’s early years, Joy rules headquarters most of the time (and thus how Riley feels), but as Riley grows, other emotions exert more influence on the buttons, knobs, and levers that control Riley’s feelings, eventually leading to growth in Riley’s Emotional Intelligence (EQ).</p>
 {::nomarkdown}
-<amp-youtube data-videoid="yRUAzGQ3nSY" layout="responsive" width="16" height="9" data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1 data-param-start=7 data-param-end=135></amp-youtube>
+<amp-youtube data-videoid="yRUAzGQ3nSY" layout="responsive" width="16" height="9" data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1 data-param-start=7 data-param-end=135></amp-youtube>
 {:/nomarkdown}
 <p class="credits"><a rel="nofollow" href="https://youtu.be/yRUAzGQ3nSY" target="_blank"><em>Inside Out - Official US Trailer</em></a> by <a rel="nofollow" href="https://youtube.com/user/DisneyPixar" target="_blank">Disney/Pixar
 </a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</p>

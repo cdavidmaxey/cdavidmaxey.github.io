@@ -45,7 +45,7 @@ Brushing teeth well requires:
 There are a number of apps that aim to help kids focus on brushing their teeth, attend to the amount of time they’ve spend brushing each tooth, and learn good brushing technique. Consult your dentist or dental hygenist about your child’s teeth brushing and how apps could help. 
 
 {::nomarkdown}
-<amp-youtube data-videoid='a4oWI7XLZOU' layout='responsive' width='16' height='9' data-param-rel=0 data-param-showinfo=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1 data-param-start=11></amp-youtube>
+<amp-youtube data-videoid='a4oWI7XLZOU' layout='responsive' width='16' height='9' data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1 data-param-start=11></amp-youtube>
 {:/nomarkdown}
 
 <div class="credits"><a rel="nofollow" href="https://youtu.be/a4oWI7XLZOU" target="_blank"><em>MyTeeth: Bass, right • MeineZähne: Bass, rechts • Mes Dents : Bass, pour droitier</em></a> by <a rel="nofollow" href="https://www.youtube.com/channel/UCiLLIar6NuTg3jlD7tcAxrQ" target="_blank">GrowingUp.Today</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</div>
