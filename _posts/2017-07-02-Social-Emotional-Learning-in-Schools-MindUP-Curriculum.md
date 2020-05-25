@@ -78,7 +78,7 @@ Built on positive psychology research, MindUP promotes pro-social behavior to he
 In the TEDMED below, Goldie Hawn talks about MindUP with Dan Siegel, M.D., one of the MindUP curriculum developers, which also include neuroscientists, positive psychologists, teachers, and mindfulness practitioners. 
 
 {::nomarkdown}
-<amp-youtube data-videoid='1OdBXGHwNCk' layout='responsive' width='16' height='9' data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+<amp-youtube data-videoid='1OdBXGHwNCk' layout='responsive' width='16' height='9' credentials="omit" data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
 
 <div class="credits"><a rel='nofollow' href='https://youtu.be/1OdBXGHwNCk' target='_blank'><em>Goldie Hawn and Dan Siegel at TEDMED 2009</em></a> by <a rel='nofollow' href='https://youtube.com/user/tedmed' target='_blank'>TEDMED</a> is licensed under <a rel='nofollow' href='https://www.youtube.com/static?template=terms' target='_blank'>Standard YouTube License</a>.</div>
