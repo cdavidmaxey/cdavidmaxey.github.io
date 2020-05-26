@@ -23,10 +23,17 @@ td span{padding:0 .2em}
 .contact h4+p{text-align:center}
 .streetview{max-width:640px;margin:0 auto}
 .contact.streetview h4{margin:.625rem 0}
+
 h5{font-size:1rem;margin:1rem 0 0 30px}
-h5~p{margin: 0 0 .5rem 30px}
-h6{font-size:1rem;margin: .5rem 0 .5rem 60px}
-h6+div.buttons{margin: 0 0 .5rem 90px;justify-content:normal}
+h5+div{display:flex;margin:.5rem 0 .5rem 60px}
+h5+div>.buttons{display:initial}
+h5+p{margin:0 0 .5rem 30px}
+h5+p+div{display:flex;margin:0 0 .5rem 60px}
+h5+p+div>.buttons{display:initial}
+h6{font-size:1rem;margin:.5rem 0 .5rem 60px}
+h6+div{display:flex;margin:0 0 0 90px}
+h6+div>.buttons{display:initial}
+
 .a-tel{font-size:.875em}
 .a-tel~small,.a-tel~span,.a-tel~a{margin-left:1rem}
 .am-pm{font-size:.625rem}
