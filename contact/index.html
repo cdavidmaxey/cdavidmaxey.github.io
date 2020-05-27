@@ -22,8 +22,13 @@ td span{padding:0 .2em}
 .crisis>div{margin:0 1rem}
 .crisis h4{text-align:center}
 .contact h4+p{text-align:center}
+#mapaddress{font-size:1rem;font-weight:normal;position:relative;z-index:100;margin-bottom:-.5rem}
+@media(min-width:375px){#mapaddress{font-size:1.5rem;margin-bottom:-.75rem}
+#mapaddress span {color:white;background-color:#3949ab;border-radius:.5rem}
+#mapaddress span:first-child {padding:.3rem .6rem}
+#mapaddress span:last-child {padding:0 .6rem .3rem;border-top-left-radius:0;border-top-right-radius:0}
 .streetview{max-width:640px;margin:2rem auto 0}
-.contact.streetview h4{height:3rem;padding-top:0.3rem;margin-bottom:-2.3rem;position:relative;z-index:100}
+.contact.streetview h4{padding-top:0.3rem;margin-bottom:-.75rem;position:relative;z-index:100}
 .contact.streetview h4>span{color:white;background-color:#3949ab;border-radius:.5rem;padding:.3rem .6rem}
 h5{font-size:1rem;margin:1rem 0 0 0}
 h5+section>div>div{display:flex;align-items:center;margin:0 0 0 15px}
@@ -65,9 +70,7 @@ description: "Near I-5 in the Tigard Triangle on 72nd Ave. at 217 • C. David M
 		<h4><a rel="nofollow" href="mailto:{{site.email}}">{{site.email}}</a></h4>
 		<p><small>My email supports encryption in transit<br>with compatible senders and recipients.<br>email may not be a private way to communicate.</small></p>
 	</section><!--/sse-->
-	<section class="address">
-        <div><h4><div id="address" class="anchor"><div class="wrap-address">{{site.office.address_formatted}}</div><div>{{site.office.city_state}} {{site.office.zip}}</div></div></h4></div>
-	</section>
+    <h4 id="address" class="center anchor"><span>{{site.office.address}}</span><br><span>{{site.office.city_state}} {{site.zip}}</span></h4>
     <section class="map">
         <a rel="nofollow noopener" href="{{site.googlemaps.url | replace: ',', '%2C' }}" target="_blank" aria-label="Google Maps of Office Location"><amp-img src="{{ site.googlemaps.api }}{{ site.googlemaps.parameters | replace: "|", "%7C" | replace: ",", "%2C" | replace: ":", "%3A" | replace: "/", "%2F" }}{{ site.googlemaps.signature }}" height="640" width="640" alt="Google Maps of Office Location"></amp-img></a>
     </section>
