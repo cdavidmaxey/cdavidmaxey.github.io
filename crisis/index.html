@@ -4,30 +4,13 @@ sitemap:
   priority: 0.3
   changefreq: yearly
 published: TRUE
-style: "h1{font-size:2rem;margin:2rem 0;color:#1a237e}
+style: "h1{font-size:2rem;margin:2rem 0 0;color:#1a237e}
+h1+p{text-align:center;line-height:1}
 .buttons{justify-content:center;margin:.75em 0 0}
 .buttons>a:hover{background:#3949ab;color:white}
-.contact h4{font-size:1.5rem;margin:1.875rem 0 0}
-.contact h4 a{font-weight:normal}
-.contact.text{margin-top:1.875rem}
-.contact h4+p{text-align:center;line-height:1;margin: 0 0 .4rem}
-.contact form{width:300px;margin:.25rem auto 0}
-h6{font-size:1.125rem;margin:1rem 0 .375rem}
-table{margin:auto;border-collapse:collapse;border-top:2px solid black;border-bottom:2px solid black}
-th:nth-child(odd){border-bottom:1px dotted black;font-weight:bold}
-td:nth-child(2){padding:0 .5em;font-weight:bold}
-tr:not(:last-child) td:nth-child(odd){font-family:Lucida Sans Typewriter,Lucida Console,monaco,monospace}
-td span{padding:0 .2em}
 .crisis{max-width:480px;margin:0 auto 2rem;text-align:left}
 .crisis>div{margin:0 1rem}
 .crisis h4{text-align:center}
-#addressmap h4{font-size:1.25rem;font-weight:normal;position:relative;z-index:100;margin-bottom:-.625rem}
-@media(min-width:350px){#addressmap h4{font-size:1.5rem;margin-bottom:-.75rem}}
-#addressmap span:not(:first-child){padding:.3rem .6rem;color:white;background-color:#3949ab;border-radius:.5rem}
-#addressmap span:last-child {padding-top:0;border-top-left-radius:0;border-top-right-radius:0}
-.streetview{max-width:640px;margin:2.175rem auto 0}
-.contact.streetview h4{padding-top:0.3rem;margin-bottom:-.75rem;font-weight:normal;position:relative;z-index:100}
-.contact.streetview h4>span{color:white;background-color:#3949ab;border-radius:.5rem;padding:.3rem .6rem}
 h5{font-size:1rem;margin:1rem 0 0 0}
 h5+section>div>div{display:flex;align-items:center;margin:0 0 0 15px}
 h5+section>div>div>div{display:flex}
@@ -36,53 +19,17 @@ h5+section>div>div>.buttons{margin:.5rem 0}
 .a-tel{font-size:.875em}
 .a-tel~small,.a-tel~span,.a-tel~a{margin-left:1rem}
 .am-pm{font-size:.625rem}
-.svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}
-.svg-lock{padding-right:1.2857em}
-.signal-icon{margin-bottom:-3.5px}
-.signal-icon .fontawesome{padding-left:calc(2.75rem - 1.2857em)}
-.signal-icon>a{height:2.25rem;margin-left:.5rem}
-.signal-icon>a>div,.signal-icon>div{display:inline-block;vertical-align:middle}
-.signal-icon>a>div{border-radius:.35rem;background-color:#2090ea;width:2.25rem;height:2.25rem}
-.signal-icon>a>div>div{height:2.25rem}
-.signal-icon span:first-of-type{margin:0 .09375em;color:transparent}
-.signal-icon span:last-of-type{margin:0 .09375em}
-.signal-font,.signal-font:hover{font-weight:normal;color:#1377c9;font-size:small}
-div.signal-font{margin:0 -1em}
-.digits{background-color:transparent}
-.map{width:100%;height:640px}
-.map amp-img{position:relative;width:640px;height:640px;top:50%;left:50%;margin-top:-320px;margin-left:-320px;}"
+.digits{background-color:transparent}"
 head:
-title: "Contact C. David Maxey, M.A."
-description: "Near I-5 in the Tigard Triangle on 72nd Ave. at 217 • C. David Maxey, M.A. can be contacted by phone or email."
+title: "Portland-Area & Nationwide Crisis Services"
+description: ""
 ---
 <main>
-	<h1 class="center">Contacting me</h1>
-	<section class="contact text">
-		<p>I’m often unable to answer the phone, so if I don’t answer your call, please leave a message with your availability for a return phone call. I usually return calls on the same or next day between 9am and 7pm, with the exception of weekends and holidays.</p>
-	</section><!--sse-->
-	<section class="contact center">
-		<h4><a rel="nofollow" href="tel:{{site.tel}}">{{site.telephone}}</a></h4>
-		<p><small>phone with confidential voicemail</small></p>
-	</section><!--/sse--><!--sse-->
-	<section class="contact center">
-		<h4><a rel="nofollow" href="mailto:{{site.email}}">{{site.email}}</a></h4>
-		<p><small>My email supports encryption in transit<br>with compatible senders and recipients.<br>email may not be a private way to communicate.</small></p>
-	</section><!--/sse-->
-    <section id="addressmap" class="center">
-        <h4><span id="address" class="anchor"></span><span>{{site.office.address}}</span><br><span>{{site.office.city_state}} {{site.zip}}</span></h4>
-    </section>
-    <section class="map">
-        <a rel="nofollow noopener" href="{{site.googlemaps.url | replace: ',', '%2C' }}" target="_blank" aria-label="Google Maps of Office Location"><amp-img src="{{ site.googlemaps.api }}{{ site.googlemaps.parameters | replace: "|", "%7C" | replace: ",", "%2C" | replace: ":", "%3A" | replace: "/", "%2F" }}{{ site.googlemaps.signature }}" height="640" width="640" alt="Google Maps of Office Location"></amp-img></a>
-    </section>
-    <section class="contact center streetview">
-        <h4><span>Street View</span></h4>
-		<amp-img alt="Street View of 7145 SW Varns St, Tigard, OR 97223" src="{{site.cache}}/320/street-view.jpg" srcset="{{site.cache}}/320/street-view.jpg 320w,{{site.cache}}/640/street-view.jpg 640w,{{site.cache}}/1280/street-view.jpg 1280w,{{site.cache}}/1920/street-view.jpg 1920w" layout="responsive" width="1920" height="842"></amp-img>
-	</section>
+	<h1 class="center">Crisis Services</h1>
+    <p class="center"><small>available all day and night except as noted<br>in an emergency, call 9-1-1</small></p>
 	<section class="contact center crisis">
 		<div>
-			<h4>Crisis Services</h4>
-			<p><small>available all day and night except as noted<br>in an emergency, call 9-1-1</small></p>
-			<h5>Portland&#8209;Area Crisis&nbsp;Lines and&nbsp;Walk&#8209;in&nbsp;Crisis&nbsp;Clinics</h5>
+            <h5>Portland&#8209;Area Crisis&nbsp;Lines and&nbsp;Walk&#8209;in&nbsp;Crisis&nbsp;Clinics</h5>
             <section>
                 <div>
                     <div>
@@ -115,7 +62,7 @@ description: "Near I-5 in the Tigard Triangle on 72nd Ave. at 217 • C. David M
                     </div>
                 </div>
             </section>
-			<h5>Nationwide Lifelines</h5>
+            <h5>Nationwide Lifelines</h5>
             <section>
                 <div>
                     <div>
@@ -148,6 +95,6 @@ description: "Near I-5 in the Tigard Triangle on 72nd Ave. at 217 • C. David M
                     </div>
                 </div>
             </section>
-		</div>
-	</section>
+        </div>
+    </section>
 </main>
