@@ -4,6 +4,7 @@ User-agent: *
 Disallow: /CNAME
 Disallow: /README.md
 Disallow: /humans.txt
+Disallow: /crisis/
 Disallow: /secret/
 Disallow: /schedule/
 Disallow: /parent/
