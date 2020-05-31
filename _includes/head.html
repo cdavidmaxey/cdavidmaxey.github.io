@@ -64,7 +64,7 @@
 			nav.bar{background:#1a237e;color:white;position:fixed;width:calc(100% - env(safe-area-inset-right) - env(safe-area-inset-left));z-index: 200;padding:0 env(safe-area-inset-right) 0 env(safe-area-inset-left)}
 			nav.bar section{margin:0 auto;display:flex;flex-flow:row wrap;justify-content:flex-start;max-width:1200px}
 			nav.bar section:last-child a.link {padding:.75rem}
-			nav.bar a{display:block}
+			nav.bar a{text-decoration:none;display:block}
 			nav.bar a.active,nav.bar a:hover,nav.bar:hover a.active:hover{background:rgba(255,255,255,.1)}
 			nav.bar:hover a.active{background:none}
 			a.logo{margin:auto 0}
@@ -88,8 +88,7 @@
 			/* .digits */
 			.digits{color:white;background:#3949ab}
 			.digits section{margin:0 auto;display:flex;flex-flow:row wrap;justify-content:flex-start;max-width:1200px;padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right)}
-			.digits a{display:block}
-			.digits a{font-size:4vw;padding:.5em;line-height:1}
+			.digits a{font-size:4vw;text-decoration:none;display:block;padding:.5em;line-height:1}
 			@media(min-width:600px){.digits a{font-size:24px}}
 			.digits a.right{margin-left:auto}
 			
