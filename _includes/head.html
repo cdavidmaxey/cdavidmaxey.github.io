@@ -201,7 +201,10 @@
 			.input{display:flex}
 			a[href^="tel:"] span:first-child,.fax span:first-child{margin:0 0 0 .1875em}
 			a[href^="tel:"] span:last-child,.fax span:last-child{margin:0 .1875em 0 0}
-			
+            footer .cta a[href^="tel:"],footer .cta a[href^="mailto:"],footer .cta address a{background:rgba(255,255,255,.1);border-radius:.5rem;padding:3rem 6rem;margin:-.3rem -.6rem}
+            footer .cta address a{display:block}
+            footer .cta a[href^="tel:"]:hover,footer .cta a[href^="mailto:"]:hover,footer .cta address a:hover{background:rgba(255,255,255,.1)}
+            
 			/* .buttons */
 			.buttons{display:flex}
 			.buttons-right{justify-content:flex-end}
