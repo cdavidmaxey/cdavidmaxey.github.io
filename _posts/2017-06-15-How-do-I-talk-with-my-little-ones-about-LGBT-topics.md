@@ -27,7 +27,7 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "p~ul{margin-top:-1.25rem}h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/stock-photo-little-girl-unicorn-painted-face-closeup-picture-happy-her-image43537025' target='_blank'>&copy;</a>&nbsp;Bill&nbsp;Pell"
+credits: "Stock&nbsp;Photo <a rel='nofollow' target='_blank' href='https://www.dreamstime.com/stock-photo-little-girl-unicorn-painted-face-closeup-picture-happy-her-image43537025'>&copy;</a>&nbsp;Bill&nbsp;Pell"
 title: "How do I talk with my little ones about LGBT topics?"
 description: "Parents sometimes need to talk with young kids about gender & sexual minorities (e.g., a classmate has gay parents, a cousin comes out, a playmate transitions)."
 tags:
@@ -40,7 +40,7 @@ tags:
 	<li>a playmate transitions;</li>
 	<li>a neighborhood kid is gender nonconforming.</li>
 </ul>
-<p>Even if your child doesn’t have a situation that sparks a conversation, you might decide to teach your child about gender and sexual diversity, just because it’s good to understand others and foster acceptance. Lindsey Amer creates and posts videos on the <a rel="nofollow" href="https://www.youtube.com/QueerKidStuff" target="_blank">YouTube channel, Queer Kid Stuff</a>. Lindsey recommends the videos for kids ages 3-7 years old. Check them out to see if one might be right for sharing with your child. Four videos are embedded below&mdash;find more at <a rel="nofollow" href="https://www.youtube.com/QueerKidStuff" target="_blank">YouTube.com/QueerKidStuff</a></p>
+<p>Even if your child doesn’t have a situation that sparks a conversation, you might decide to teach your child about gender and sexual diversity, just because it’s good to understand others and foster acceptance. Lindsey Amer creates and posts videos on the <a rel="nofollow" target="_blank" href="https://www.youtube.com/QueerKidStuff">YouTube channel, Queer Kid Stuff</a>. Lindsey recommends the videos for kids ages 3-7 years old. Check them out to see if one might be right for sharing with your child. Four videos are embedded below&mdash;find more at <a rel="nofollow" target="_blank" href="https://www.youtube.com/QueerKidStuff">YouTube.com/QueerKidStuff</a></p>
 <h4>Allies: 3 Ways To Be A Good ALLY</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="RQKKJ7PppEs" layout="responsive" width="16" height="9" credentials="omit" data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>

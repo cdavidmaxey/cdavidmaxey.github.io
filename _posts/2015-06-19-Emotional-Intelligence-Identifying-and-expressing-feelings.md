@@ -68,13 +68,13 @@ tags:
 {::nomarkdown}
 <amp-youtube data-videoid="yRUAzGQ3nSY" layout="responsive" width="16" height="9" credentials="omit" data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1 data-param-start=7 data-param-end=135></amp-youtube>
 {:/nomarkdown}
-<p class="credits"><a rel="nofollow" href="https://youtu.be/yRUAzGQ3nSY" target="_blank"><em>Inside Out - Official US Trailer</em></a> by <a rel="nofollow" href="https://youtube.com/user/DisneyPixar" target="_blank">Disney/Pixar
-</a> is licensed under <a rel="nofollow" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</p>
+<p class="credits"><a rel="nofollow" target="_blank" href="https://youtu.be/yRUAzGQ3nSY" target="_blank"><em>Inside Out - Official US Trailer</em></a> by <a rel="nofollow" target="_blank" href="https://youtube.com/user/DisneyPixar" target="_blank">Disney/Pixar
+</a> is licensed under <a rel="nofollow" target="_blank" href="https://www.youtube.com/static?template=terms" target="_blank">Standard YouTube License</a>.</p>
 As the movie follows Riley, her EQ and personality grow in complexity, with emotions coloring memories and mixing to nuance emotional expression. In 1980, Plutchik introduced his wheel of emotions that explored the notion of relations among and mixtures of emotions (see an adaptation of Plutchik’s Wheel of Emotions below). Some EQ experts posit that four emotions (i.e., Joy, Sadness, Fear/Surprise, and Anger/Disgust) are the basic building blocks of complex emotional expression.
 <div class="right" id="Plutchik"><input type="radio" name="plutchik" id="plutchik-en" value="plutchik-en" checked /><input type="radio" name="plutchik" id="plutchik-fr" value="plutchik-fr" /><input type="radio" name="plutchik" id="plutchik-es" value="plutchik-es" /><label tabindex="0" role="button" for="plutchik-en" on="tap:PlutchikEN.show()">English</label><label tabindex="0" role="button" for="plutchik-fr">français</label><label tabindex="0" role="button" for="plutchik-es">Español</label>
 <section id="PlutchikEN">
 	<amp-img alt="Plutchik’s Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
-	<p class="credits">&copy; <a rel="nofollow" href="http://www.copypress.com/blog/your-fragile-emotions-illustrated/" target="_blank">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>
+	<p class="credits">&copy; <a rel="nofollow" target="_blank" href="http://www.copypress.com/blog/your-fragile-emotions-illustrated/" target="_blank">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>
 </section>
 <section id="PlutchikFR">
 	<div>
@@ -195,7 +195,7 @@ As the movie follows Riley, her EQ and personality grow in complexity, with emot
 		</a>
 	</div>
 </div>
-Although a cartoon certainly can’t do justice to the depth and breadth of EQ research, it highlights the variety of emotions we experience, and the need for adequate vocabulary to communicate feelings effectively. If your child usually says they’re happy or mad in simplistic terms, expanding your child’s vocabulary might help them express themself more effectively. There are many feelings charts out on the Internet. Jim Borgman’s popular <i>How are you feeling today?</i> posters are available from <a rel="nofollow" href="http://www.ctherapy.com/feelings/" target="_blank">CTherapy.com</a>. Emoji feelings are shown below, and they’re downloadable as a coloring page on the right. If your child is having substantial problems with emotional expression, treatment from a mental health professional is recommended, and working on emotion identification with a feelings chart could possibly be a component of that treatment.
+Although a cartoon certainly can’t do justice to the depth and breadth of EQ research, it highlights the variety of emotions we experience, and the need for adequate vocabulary to communicate feelings effectively. If your child usually says they’re happy or mad in simplistic terms, expanding your child’s vocabulary might help them express themself more effectively. There are many feelings charts out on the Internet. Jim Borgman’s popular <i>How are you feeling today?</i> posters are available from <a rel="nofollow" target="_blank" href="http://www.ctherapy.com/feelings/" target="_blank">CTherapy.com</a>. Emoji feelings are shown below, and they’re downloadable as a coloring page on the right. If your child is having substantial problems with emotional expression, treatment from a mental health professional is recommended, and working on emotion identification with a feelings chart could possibly be a component of that treatment.
 <h4 id="emoji" class="center">Emoji Feelings</h4>
 <div id="emojitable" class="center">
 	<div><div>&#x1f60a;</div><div>Happy</div></div>

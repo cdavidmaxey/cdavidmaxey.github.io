@@ -175,7 +175,7 @@ The following strategies can be tried to help students who require extra assista
                 <amp-img alt="Paper Mate Yellow Mechanical Pencils, 1.3mm HB #2 Lead (1862167)" width="414" height="945" src="{{site.cache}}/books/Paper-Mate-Yellow-Mechanical-Pencils-1.3mm-Lead-1862167.jpg" sizes="8.625rem"></amp-img>
             </div>
         </div>
-        <h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening. I prefer the Paper Mate Mechanical Pencils that have a thick 1.3mm lead and are usually available at Office Depot or on <a href="https://www.amazon.com/s?k=paper+mate+mechanical+pencil+1.3&dc" rel="nofollow" target="_blank">Amazon</a>.
+        <h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening. I prefer the Paper Mate Mechanical Pencils that have a thick 1.3mm lead and are usually available at Office Depot or on <a rel="nofollow" target="_blank" href="https://www.amazon.com/s?k=paper+mate+mechanical+pencil+1.3&dc">Amazon</a>.
     </li>
     <li><h6>Allowing cursive writing</h6> (instead of printing) can help students keep up the flow of writing becasue each letter naturally leads into the next one.</li>
     <li><h6>Special writing paper</h6>. Ask the student to use special paper with vertical lines to learn to space letters and words on a page.</li>

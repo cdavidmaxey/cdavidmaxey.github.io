@@ -89,7 +89,7 @@ tags:
 </ul>
 <p><strong>Gender Binary</strong>: a construct in which gender is defined according to only two discrete and opposite categories: girls/women and boys/men.</p>
 <p><strong>Gender Expression</strong>: the outward expression of gender through clothing, hairstyles, mannerism, speech, social interactions, etc.</p>
-<p><strong>Gender Dysphoria</strong>: a diagnosis defined in the <a rel="nofollow" href="https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria" target="_blank">American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders (DSM-5)</a>, and commonly used to bill insurance companies for services. Gender dysphoria involves a conflict between a person’s sex assigned at birth and their gender identity.</p>
+<p><strong>Gender Dysphoria</strong>: a diagnosis defined in the <a rel="nofollow" target="_blank" href="https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria" target="_blank">American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders (DSM-5)</a>, and commonly used to bill insurance companies for services. Gender dysphoria involves a conflict between a person’s sex assigned at birth and their gender identity.</p>
 <p id="Transition" class="anchor"><strong>Transition</strong>: steps a trans person takes to make their life more congruent with their gender identity. Although many of the changes listed below are commonly chosen, not all of these changes are for all trans people (e.g., someone might not choose to change their name, and many trans people elect not to take the health risks associated with hormones and surgery).</p>
 <ul>
 	<li>
