@@ -22,7 +22,7 @@ youtube:
   Y:
 variables:
 style: ".bookborder{border:black solid 1px;border-bottom:none}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' href='https://www.dreamstime.com/royalty-free-stock-photos-primary-school-children-cutting-out-shapes-image15539128' target='_blank'>&copy;</a>&nbsp;Monkey Business Images Ltd"
+credits: "Stock&nbsp;Photo <a rel='nofollow' target='_blank' href='https://www.dreamstime.com/royalty-free-stock-photos-primary-school-children-cutting-out-shapes-image15539128'>&copy;</a>&nbsp;Monkey Business Images Ltd"
 title: "Grade Retention: Should my child repeat a grade?"
 description: "Decisions about repeating a grade or holding your child back should be made considering the research leading experts to caution against grade retention."
 tags:
@@ -31,7 +31,7 @@ tags:
 ---
 <blockquote><div>
 <p>NASP urges educators to use methods other than grade retention and social promotion&hellip;. When retained and promoted peers are compared in the same grade, retained students experience a short-term boost that dissipates within 4 years&hellip;. Except in very rare circumstances when a student has missed a large number of school days, grade retention and social promotion are not recommended. Instead, students whose performance is substantially below their grade level peers need an intensive individualized intervention plan with frequent progress monitoring and involvement with specialists and related services providers&hellip;.</p>
-<div class="citation"><small><a rel="nofollow" target="_blank" href="https://www.nasponline.org/research-and-policy/professional-positions/position-statements" title="NASP Position Statements" target="_blank"><cite>Position&nbsp;Statement:<br>Grade&nbsp;Retention and&nbsp;Social&nbsp;Promotion</cite><br>National&nbsp;Association of&nbsp;School&nbsp;Psychologists&nbsp;(2011)</a></small></div>
+<div class="citation"><small><a rel="nofollow" target="_blank" href="https://www.nasponline.org/research-and-policy/professional-positions/position-statements" title="NASP Position Statements"><cite>Position&nbsp;Statement:<br>Grade&nbsp;Retention and&nbsp;Social&nbsp;Promotion</cite><br>National&nbsp;Association of&nbsp;School&nbsp;Psychologists&nbsp;(2011)</a></small></div>
 </div></blockquote>
 <div class="float right side">
 	<a class="download" rel="nofollow" href="{{site.url}}/NASP-Position-Statement-on-Grade-Retention-and-Social-Promotion-2011.pdf" download="CDavidMaxey.com-NASP-Position-Statement-on-Grade-Retention-and-Social-Promotion-2011.pdf">
@@ -42,7 +42,7 @@ tags:
 <p>In the Position Statement excerpted above, the National Association of School Psychologists (NASP) takes a strong stance against the practice of repeating a grade or holding students back (i.e., grade retention), and in favor of intensive individualized intervention. To elaborate on this issue, they have published a White Paper, excerpted below. If your child’s academic performance is substantially below their grade level peers, I suggest you meet with a qualified professional to consider whether your child might have a learning disability or other difficulties interfering with their learning, such as inattention, anxiety, or depression.</p>
 <blockquote><div>
 <p>Researchers have attempted to assess the effects of grade retention on achievement for more than three decades&hellip;. The unanimous conclusion from these reviews is that grade retention offers few if any benefits to the retained student and may increase the retained child’s risk for poor school outcomes, including dropping out of school prior to high school graduation.</p>
-<div class="citation"><small><a rel="nofollow" target="_blank" href="https://www.nasponline.org/research-and-policy/professional-positions/white-papers" title="NASP White Papers" target="_blank"><cite>White&nbsp;Paper:<br>Grade&nbsp;Retention and&nbsp;Social&nbsp;Promotion</cite><br>National&nbsp;Association of&nbsp;School&nbsp;Psychologists&nbsp;(2011)</a></small></div>
+<div class="citation"><small><a rel="nofollow" target="_blank" href="https://www.nasponline.org/research-and-policy/professional-positions/white-papers" title="NASP White Papers"><cite>White&nbsp;Paper:<br>Grade&nbsp;Retention and&nbsp;Social&nbsp;Promotion</cite><br>National&nbsp;Association of&nbsp;School&nbsp;Psychologists&nbsp;(2011)</a></small></div>
 </div></blockquote>
 <div class="float right side">
 	<a class="download" rel="nofollow" href="{{site.url}}/NASP-White-Paper-on-Grade-Retention-and-Social-Promotion-2011.pdf" download="CDavidMaxey.com-NASP-White-Paper-on-Grade-Retention-and-Social-Promotion-2011.pdf">
