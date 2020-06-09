@@ -99,7 +99,7 @@ Students with attention difficulties may need special instructional practices, b
     <li>
         <div class="float right side">
             <div>
-                <a rel="nofollow" href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/" title="Visual timers for kids who have difficulty with time">
+                <a href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/" title="Visual timers for kids who have difficulty with time">
                     <amp-img alt="Time Timer Plus" width="414" height="528" src="{{site.cache}}/books/Time-Timer-Plus.jpg" sizes="8.625rem"></amp-img>
                 </a>
             </div>
@@ -108,7 +108,7 @@ Students with attention difficulties may need special instructional practices, b
         <ul>
             <li>At the beginning of a task, tell students how much time they will have to complete it.</li>
             <li>When about 5-10 minutes are left, announce how much time remains.</li>
-            <li><h6>Display a visual timer</h6> (such as <a href="{{site.url}}/timers/">the <i>Time Timer</i> or hourglass sand timers I’ve reviewed</a>) to help students monitor the passage of time more independently.</li>
+            <li><h6>Display a visual timer</h6> (such as <a href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/" title="Visual timers for kids who have difficulty with time">the <i>Time Timer</i> or hourglass sand timers I’ve reviewed</a>) to help students monitor the passage of time more independently.</li>
         </ul>
     </li>
     <li><h6>Check completed assignments</h6> (for at least some students) to get a sense of how ready the class was for the lesson and how to plan the next lesson.</li>
@@ -314,7 +314,7 @@ Because students’ individual needs are different, it is important for teachers
         </div>
         <h6>Pointers, Bookmarks, or Reading Guides</h6>. Teach the student to use a pointer, bookmark, or reading guide to help visually track written words on a page (e.g., when reading aloud, reading silently, or following along as someone else reads aloud).
     </li>
-    <li><h6>Visual timers</h6>. <a href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/"><i>Time Timer</i> and hourglass sand timers, which I’ve reviewed</a>, can help students monitor the passage of time more independently.</li>
+    <li><h6>Visual timers</h6>. <a href="{{site.url}}/Timers-for-kids-who-have-difficulty-with-time/" title="Visual timers for kids who have difficulty with time"><i>Time Timer</i> and hourglass sand timers, which I’ve reviewed</a>, can help students monitor the passage of time more independently.</li>
     <li><h6>Mechanical pencils</h6> can help students avoid being distracted by pencil sharpening. I prefer the Paper Mate Mechanical Pencils that have a thick 1.3mm lead and are usually available at Office Depot or on <a rel="nofollow" href="https://www.amazon.com/s?k=paper+mate+mechanical+pencil+1.3&dc">Amazon</a>.</li>
     <li><h6>Calming fidgets</h6> that can be manipulated quietly (unlike some toys and other objects that can be distracting for both the student and peers in the classroom) can provide some needed sensory input while still allowing the student to attend to the lesson.</li>
     <li><h6>Classroom lights</h6>. Turning the classroom lights on and off can prompt students that the noise level in the room is too high or they should be quiet. This practice can also be used to signal that it is time to begin preparing for the next lesson.</li>
