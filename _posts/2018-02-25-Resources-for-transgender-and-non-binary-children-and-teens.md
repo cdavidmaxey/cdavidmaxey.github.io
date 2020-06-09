@@ -65,7 +65,7 @@ h5~p{margin: 0 0 .5rem 30px}
 .svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}
 .post p{text-align:left}
 .buttons>a:hover{background:#3949ab;color:white;fill:white}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' target='_blank' href='https://www.bigstockphoto.com/image-48345461/stock-photo-side-view-of-a-relaxed-young-boy-in-superhero-costume-reading-book-on-armchair'>&copy;</a>&nbsp;Nosnibor137"
+credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.bigstockphoto.com/image-48345461/stock-photo-side-view-of-a-relaxed-young-boy-in-superhero-costume-reading-book-on-armchair'>&copy;</a>&nbsp;Nosnibor137"
 title: "Resources for trans and non-binary children and teens"
 description: "Gender Unicorn & Genderbread Person, Books, Biographies & Memoirs, Portland-Area Resources, Social Networks, Advocacy, Conferences, and Crisis Lines"
 tags:

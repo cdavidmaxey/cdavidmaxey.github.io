@@ -27,7 +27,7 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "p~ul{margin-top:-1.25rem}h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' target='_blank' href='https://www.dreamstime.com/stock-photo-little-girl-unicorn-painted-face-closeup-picture-happy-her-image43537025'>&copy;</a>&nbsp;Bill&nbsp;Pell"
+credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.dreamstime.com/stock-photo-little-girl-unicorn-painted-face-closeup-picture-happy-her-image43537025'>&copy;</a>&nbsp;Bill&nbsp;Pell"
 title: "How do I talk with my little ones about LGBT topics?"
 description: "Parents sometimes need to talk with young kids about gender & sexual minorities (e.g., a classmate has gay parents, a cousin comes out, a playmate transitions)."
 tags:

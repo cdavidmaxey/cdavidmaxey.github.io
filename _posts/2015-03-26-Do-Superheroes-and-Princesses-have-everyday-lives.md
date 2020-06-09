@@ -21,7 +21,7 @@ youtube:
   X:
   Y:
 variables:
-credits: "Unendorsed&nbsp;adaptation&nbsp;of <a rel='nofollow' target='_blank' href='http://limpan.org/supermjukahjaltar/'>Super-Mjuka&nbsp;Hjältar &copy;&nbsp;Linnéa&nbsp;Johansson</a>"
+credits: "Unendorsed&nbsp;adaptation&nbsp;of <a rel='nofollow noreferrer' target='_blank' href='http://limpan.org/supermjukahjaltar/'>Super-Mjuka&nbsp;Hjältar &copy;&nbsp;Linnéa&nbsp;Johansson</a>"
 svg:
 title: "Do Superheroes and Princesses have everyday lives?"
 description: "Linnéa Johansson has created a series of coloring books that can be the start of a conversation exploring questions about the everyday lives of heros."

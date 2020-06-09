@@ -31,7 +31,7 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-credits: "Stock&nbsp;Photo <a rel='nofollow' target='_blank' href='https://stock.adobe.com/stock-photo/pupils-meditating-on-classroom-desks/89371077'>&copy;</a>&nbsp;WavebreakmediaMicro"
+credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://stock.adobe.com/stock-photo/pupils-meditating-on-classroom-desks/89371077'>&copy;</a>&nbsp;WavebreakmediaMicro"
 title: "Social-Emotional Learning in Schools: MindUP Curriculum"
 description: "One of many SEL curricula, MindUP teachs children about the brain and meditation to help them bring mindful attention to the learning enviroment and beyond."
 tags:
@@ -81,4 +81,4 @@ In the TEDMED below, Goldie Hawn talks about MindUP with Dan Siegel, M.D., one o
 <amp-youtube data-videoid='1OdBXGHwNCk' layout='responsive' width='16' height='9' credentials="omit" data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
 
-<div class="credits"><a rel='nofollow' target='_blank' href='https://youtu.be/1OdBXGHwNCk'><em>Goldie Hawn and Dan Siegel at TEDMED 2009</em></a> by <a rel='nofollow' target='_blank' href='https://youtube.com/user/tedmed'>TEDMED</a> is licensed under <a rel='nofollow' target='_blank' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>.</div>
+<div class="credits"><a rel='nofollow noreferrer' target='_blank' href='https://youtu.be/1OdBXGHwNCk'><em>Goldie Hawn and Dan Siegel at TEDMED 2009</em></a> by <a rel='nofollow noreferrer' target='_blank' href='https://youtube.com/user/tedmed'>TEDMED</a> is licensed under <a rel='nofollow noreferrer' target='_blank' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>.</div>

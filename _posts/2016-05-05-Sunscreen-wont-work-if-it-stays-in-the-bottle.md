@@ -25,7 +25,7 @@ youtube:
   Y:
 variables:
 style: "p~ul,p~ol{margin-top:-1.25rem}.epa{background-color:#369;border-radius:1em}.darksky{border-radius:1em}table{border-collapse:collapse}th{border-bottom:3px double black;vertical-align:bottom}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' target='_blank' href='http://www.dreamstime.com/royalty-free-stock-images-sun-protection-image9977129'>&copy;</a>&nbsp;Monika&nbsp;Adamczyk"
+credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='http://www.dreamstime.com/royalty-free-stock-images-sun-protection-image9977129'>&copy;</a>&nbsp;Monika&nbsp;Adamczyk"
 title: "Sunscreen won’t work if it stays in the bottle"
 description: "Using sunscreen and other sun protection methods are critial to skin cancer prevention. How do you help your child develop healthy sun safety habits?"
 tags:

@@ -23,7 +23,7 @@ youtube:
   body: TRUE
 variables:
 style: "p~ul{margin-top:-1.25rem}.myteeth{border-radius:1em}p~ul{margin-top:-1.25rem}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' target='_blank' href='http://www.dreamstime.com/royalty-free-stock-photos-little-girl-brushing-teeth-bath-image38469828'>&copy;</a>&nbsp;Tan4ikk"
+credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='http://www.dreamstime.com/royalty-free-stock-photos-little-girl-brushing-teeth-bath-image38469828'>&copy;</a>&nbsp;Tan4ikk"
 title: "Brushing teeth: Having trouble getting them clean?"
 description: "Your dentist or dental hygenist can teach proper teeth-brushing, and advise you about apps for helping your child make a healthy habit of brushing their teeth."
 tags:

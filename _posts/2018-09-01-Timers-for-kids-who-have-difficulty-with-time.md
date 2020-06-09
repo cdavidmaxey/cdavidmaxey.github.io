@@ -30,7 +30,7 @@ variables:
 - disablekb=1
 style: ".buttons{justify-content:center;margin-bottom:1.25em}
 .buttons>a:hover{background:#3949ab;color:white}"
-credits: "Stock&nbsp;Photo <a rel='nofollow' target='_blank' href='https://www.dreamstime.com/stock-photo-cute-boy-child-home-image60487276'>&copy;</a>&nbsp;Yekophotostudio"
+credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.dreamstime.com/stock-photo-cute-boy-child-home-image60487276'>&copy;</a>&nbsp;Yekophotostudio"
 title: "Visual timers for kids who have difficulty with time"
 description: "Kids who have difficulty managing to complete tasks in a timely manner can use a visual timer to help them stay on task as they develop a sense of time."
 tags:
