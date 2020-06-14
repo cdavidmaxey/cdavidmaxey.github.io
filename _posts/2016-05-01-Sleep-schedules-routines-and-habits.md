@@ -29,7 +29,10 @@ variables:
 - disablekb=1
 style: "table{border-collapse:collapse}
 thead{vertical-align:bottom}
-tr:not(:first-child) th,td:not(:first-child){padding:0 .5em}
+tr:not(:first-child) th{padding:0 .5em}
+td:nth-child(3n-1){padding-left:.5em;text-align:right}
+td:nth-child(3n){width:1em;padding:0}
+td:nth-child(3n+1){padding-right:.5em;text-align:left}
 td:first-child span{font-size:.75em}
 td,thead>tr{border-bottom:1px solid black}
 @media(max-width:413px){thead>tr:not(:first-child){font-size:.75em}}
@@ -51,58 +54,94 @@ tags:
 	<thead>
 		<tr>
 			<th rowspan="2">Age&nbsp;Group</th>
-			<th colspan="2">Hours per&nbsp;Day</th>
+			<th colspan="6">Hours per&nbsp;Day</th>
 		</tr>
 		<tr>
-			<th>Recommended</th>
-			<th>May&nbsp;be Appropriate<sup>*</sup></th>
+			<th colspan="3">Recommended</th>
+			<th colspan="3">May&nbsp;be Appropriate<sup>*</sup></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>Newborn<br><span>(&le;3 months)</span></td>
-			<td class="mono">14&#8209;17</td>
-			<td class="mono">11&#8209;19</td>
+			<td>14</td>
+			<td>&#8209;</td>
+			<td>17</td>
+			<td>11</td>
+			<td>&#8209;</td>
+			<td>19</td>
 		</tr>
 		<tr>
 			<td>Infant<br><span>(4&#8209;11 months)</span></td>
-			<td class="mono">12&#8209;15</td>
-			<td class="mono">10&#8209;18</td>
+			<td>12</td>
+			<td>&#8209;</td>
+			<td>15</td>
+			<td>10</td>
+			<td>&#8209;</td>
+			<td>18</td>
 		</tr>
 		<tr>
 			<td>Toddler<br><span>(1&#8209;2 years)</span></td>
-			<td class="mono">11&#8209;14</td>
-			<td class="mono">&nbsp;9&#8209;16</td>
+			<td>11</td>
+			<td>&#8209;</td>
+			<td>14</td>
+			<td>9</td>
+			<td>&#8209;</td>
+			<td>16</td>
 		</tr>
 		<tr>
 			<td>Preschool<br><span>(3&#8209;5 years)</span></td>
-			<td class="mono">10&#8209;13</td>
-			<td class="mono">&nbsp;8&#8209;14</td>
+			<td>10</td>
+			<td>&#8209;</td>
+			<td>13</td>
+			<td>8</td>
+			<td>&#8209;</td>
+			<td>14</td>
 		</tr>
 		<tr>
 			<td>School&nbsp;Age<br><span>(6&#8209;13 years)</span></td>
-			<td class="mono">&nbsp;9&#8209;11</td>
-			<td class="mono">&nbsp;7&#8209;12</td>
+			<td>9</td>
+			<td>&#8209;</td>
+			<td>11</td>
+			<td>7</td>
+			<td>&#8209;</td>
+			<td>12</td>
 		</tr>
 		<tr>
 			<td>Teens<br><span>(14&#8209;17 years)</span></td>
-			<td class="mono">&nbsp;8&#8209;10</td>
-			<td class="mono">&nbsp;7&#8209;11</td>
+			<td>8</td>
+			<td>&#8209;</td>
+			<td>10</td>
+			<td>7</td>
+			<td>&#8209;</td>
+			<td>11</td>
 		</tr>
 		<tr>
 			<td>Young&nbsp;Adults<br><span>(18&#8209;25 years)</span></td>
-			<td class="mono">&nbsp;7&#8209;9&nbsp;</td>
-			<td class="mono">&nbsp;6&#8209;11</td>
+			<td>7</td>
+			<td>&#8209;</td>
+			<td>9</td>
+			<td>6</td>
+			<td>&#8209;</td>
+			<td>11</td>
 		</tr>
 		<tr>
 			<td>Adults<br><span>(26&#8209;64 years)</span></td>
-			<td class="mono">&nbsp;7&#8209;9&nbsp;</td>
-			<td class="mono">&nbsp;6&#8209;10</td>
+			<td>7</td>
+			<td>&#8209;</td>
+			<td>9</td>
+			<td>6</td>
+			<td>&#8209;</td>
+			<td>10</td>
 		</tr>
 		<tr>
 			<td>Older&nbsp;Adults<br><span>(&ge;65 years)</span></td>
-			<td class="mono">&nbsp;7&#8209;8&nbsp;</td>
-			<td class="mono">&nbsp;5&#8209;9&nbsp;</td>
+			<td>7</td>
+			<td>&#8209;</td>
+			<td>8</td>
+			<td>5</td>
+			<td>&#8209;</td>
+			<td>9</td>
 		</tr>
 	</tbody>
 </table>
