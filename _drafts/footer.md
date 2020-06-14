@@ -1,0 +1,1 @@
+<div class="timeago"><span>Site updated&nbsp;</span><amp-timeago height="19" width="160" datetime="{{ site.time | date_to_xmlschema }}" locale="en">{{ site.time | date: "%e %B %Y" }}</amp-timeago></div>

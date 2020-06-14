@@ -193,7 +193,9 @@
 			footer section{margin:1rem}
             .footerpronouns{float:right}
 			footer .cta{text-align:center}
-			footer .tel,footer .mailto,footer address,footer .subscribe{font-size:1.5rem;margin:1.5rem 0}
+            footer .cta>*{font-size:1.5rem;margin:1.5rem 0}
+            footer .cta>:first-child{margin-top:.5rem}
+            footer .cta>:last-child{margin-bottom:.5rem}
 			footer address>div{display:inline-block}
 			footer .details>div+div{margin-top:1rem;max-width:320px}
             footer .details>div>small>a{padding:.15rem .3rem;margin:-.15rem -.3rem;border-radius:.25rem}
@@ -207,6 +209,7 @@
             footer .cta a[href^="tel:"],footer .cta a[href^="mailto:"],footer .cta address a{border-radius:.5rem;padding:.3rem .6rem;margin:-.3rem -.6rem}
             footer .cta address a{display:block}
             footer .cta a[href^="tel:"]:hover,footer .cta a[href^="mailto:"]:hover,footer .cta address a:hover{background:rgba(255,255,255,.1)}
+            footer>div{width:100%;text-align:center;padding:.5rem 0;font-size:.75rem}
             
 			/* .buttons */
 			.buttons{display:flex}
