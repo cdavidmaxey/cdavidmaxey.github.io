@@ -31,8 +31,8 @@ style: "table{border-collapse:collapse}
 thead{vertical-align:bottom}
 tr:not(:first-child) th{padding:0 .5em}
 td:nth-child(3n-1){padding-left:.5em;text-align:right}
-td:nth-child(3n){width:1em;padding:0}
-td:nth-child(3n+1){padding-right:.5em;text-align:left}
+td:nth-child(3n){width:.5em;padding:0}
+td:nth-child(3n+4){padding-right:.5em;text-align:left}
 td:first-child span{font-size:.75em}
 td,thead>tr{border-bottom:1px solid black}
 @media(max-width:413px){thead>tr:not(:first-child){font-size:.75em}}
