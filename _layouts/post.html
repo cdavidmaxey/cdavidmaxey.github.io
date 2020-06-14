@@ -1,9 +1,9 @@
 ---
 ---
 <!doctype html>{% capture mercury %}{% for tag in site.tags %}{% if tag[1].size > 9 %}{{tag[1].size}}{% else %}{{tag[1].size | prepend: '0'}}{% endif %}|{{tag[0]}}^{% endfor %}{% endcapture %}{% assign size_tag = mercury | split:'^' | sort %}
-<html ⚡ lang="en">{% capture venus %}{% for odlaw in size_tag reversed %}{{odlaw}}|{% cycle 'size_tag_color_cycle': 'red', 'orange', 'yellow', 'olive', 'green', 'teal', 'blue', 'violet', 'purple', 'pink' %}^{% endfor %}{% endcapture %}{% assign size_tag_color = venus | split:'^' | sort %}
+<html ⚡ lang="en" data-amp-auto-lightbox-disable>{% capture venus %}{% for odlaw in size_tag reversed %}{{odlaw}}|{% cycle 'size_tag_color_cycle': 'red', 'orange', 'yellow', 'olive', 'green', 'teal', 'blue', 'violet', 'purple', 'pink' %}^{% endfor %}{% endcapture %}{% assign size_tag_color = venus | split:'^' | sort %}
 {% include head.html %}
-	<body data-amp-auto-lightbox-disable>
+	<body>
 {% include navbar.html %}
 		<main>
 			<section class="post">
