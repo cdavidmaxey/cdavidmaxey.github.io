@@ -4,8 +4,8 @@ sitemap:
   priority: 0.3
   changefreq: yearly
 published: TRUE
-style: "h1{font-size:2rem;margin:2rem 0 0;color:#1a237e}
-h1+p{margin:0 0 2rem;text-align:center;line-height:1}
+style: "h1,h2{font-size:2rem;margin:2rem 0 0;color:#1a237e}
+h1+p,h2+p{margin:0 0 2rem;text-align:center;line-height:1}
 .buttons{justify-content:center;margin:.75em 0 0}
 .buttons>a{border:none}
 .buttons>a:hover{background:#3949ab;color:white}
@@ -13,11 +13,10 @@ h1+p{margin:0 0 2rem;text-align:center;line-height:1}
 .crisis>div{margin:0 1rem}
 .crisis h4{text-align:center}
 h5{font-size:1rem;margin:1rem 0 0}
-h5 small{font-weight:normal}
-h5+section>div>div{display:flex;align-items:center;margin:0 0 0 15px}
-h5+section>div>div>div{display:flex}
-h5+section>div>div>span{margin:.75rem 0 .75rem .75rem}
-h5+section>div>div>.buttons{margin:.75rem 0}
+.crisis section>div>div{display:flex;align-items:center;margin:0 0 0 15px}
+.crisis section>div>div>div{display:flex}
+.crisis section>div>div>span{margin:.75rem 0 .75rem .75rem}
+.crisis section>div>div>.buttons{margin:.75rem 0}
 a.a-tel{font-size:.875em;color:white;background:#3949ab;font-variant-numeric:tabular-nums}
 a.a-tel:hover{background:#008000}
 .a-tel~small,.a-tel~span,.a-tel~a{margin-left:1rem}
@@ -60,7 +59,8 @@ description: ""
                     </div>
                 </div>                
             </section>
-            <h5 class="center">Lifelines for Specific People<br><small>available all day and night except as noted</small></h5>
+            <h2 class="center">Lifelines for Specific People<br><small>available all day and night except as noted</small></h2>
+            <p class="center"><small>available all day and night except as noted</small></p>
             <section>
                 <div>
                     <div>
