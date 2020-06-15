@@ -2,6 +2,8 @@
 date: "2018-02-25T00:00:00-08:00"
 updated: "2020-05-13T00:00:00-08:00"
 redirect_from:
+- "/Gender-Language-Terms-Pronouns/"
+- "/Resources-for-transgender-and-non-binary-children-and-teens/"
 - "/Resources-for-trans-and-gender-expansive-children-and-teens/"
 - "/Resources-for-trans-and-gender-non-conforming-children-and-teens/"
 layout: post
@@ -28,19 +30,7 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: "input[type='radio']{visibility:hidden;height:0;width:0}
-#GenderUnicorn,#GenderbreadPerson,#GenderElephant{display:none}
-input#genderfigure-unicorn:checked~section#GenderUnicorn{display:block}
-input#genderfigure-genderbread:checked~section#GenderbreadPerson{display:block}
-input#genderfigure-elephant:checked~section#GenderElephant{display:block}
-.buttons+.buttons{margin-top:1.5em}
-label{margin:0 0 1rem;display:inline-block;text-align:center}
-label+label{margin-left:1rem}
-label:focus{outline:none}
-input#genderfigure-unicorn:checked~label[for=genderfigure-unicorn],input#genderfigure-genderbread:checked~label[for=genderfigure-genderbread],input#genderfigure-elephant:checked~label[for=genderfigure-elephant]{color:#3949ab}
-h4{font-size:1.5rem;text-align:center;margin:3rem 0 1rem}
-section>h4,h3{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#1a237e;color:white}
-#GenderFigure .credits{margin-top:1rem}
+style: "h3{font-size:1.5rem;margin:3rem -1rem 1rem;padding:.5rem 1rem;background:#1a237e;color:white;text-align:center}
 .flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start;align-items:flex-end;margin:-1rem -.25rem}
 .flexbook{flex:0 0 calc(50% - .5rem);margin:1rem .25rem}
 @media(min-width:477px){.flexbook{flex:0 0 calc((100% / 3) - .5rem)}}
@@ -51,61 +41,17 @@ section>h4,h3{margin:0 -1rem 1rem;padding:.5rem 1rem;background:#1a237e;color:wh
 .download>div{width:7.625rem}
 .flexbook .credits{margin-top:2px;margin-bottom:-12px}
 .bookborder{border:black solid 1px;border-bottom:none}
-h3{font-size:1.5rem;margin:3rem -1rem 1rem;text-align:center}
-h3+.subheading{margin:-.75rem 0 1rem;text-align:center}
-h5{font-size:1rem;margin:1rem 0 0 30px}
-h5 .subheading{font-weight:normal}
-h5~p{margin: 0 0 .5rem 30px}
-.post h5+div>p{margin:0 0 .5rem;text-align:left}
-.a-tel{font-size:.875em;font-variant-numeric:tabular-nums}
-.a-tel~small,.a-tel~span,.a-tel~a{margin-left:1rem}
-.am-pm{font-size:.625rem}
 .booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#3949ab;color:#fff;padding:.175rem 0}
 .booktopper+.bookborder{border-top:none}
-.svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}
-.post p{text-align:left}
-.buttons>a:hover{background:#3949ab;color:white;fill:white}"
+.post p{text-align:right}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.bigstockphoto.com/image-48345461/stock-photo-side-view-of-a-relaxed-young-boy-in-superhero-costume-reading-book-on-armchair'>&copy;</a>&nbsp;Nosnibor137"
-title: "Resources for trans and non-binary children and teens"
-description: "Gender Unicorn & Genderbread Person, Books, Biographies & Memoirs, Portland-Area Resources, Social Networks, Advocacy, Conferences, and Crisis Lines"
+title: "Transgender and nonbinary: Books for children and teens"
+description: "Books, informational texts, and biographies & memoirs about transgender and nonbinary topics for children and teens"
 tags:
 - Trans & Gender-Expansive
 - 🏳️‍🌈 Gender & Sexual Minorities
 - 📚 Books for Kids
 ---
-<div class="right" id="GenderFigure"><input type="radio" name="genderfigure" id="genderfigure-unicorn" value="genderfigure-unicorn" checked /><input type="radio" name="genderfigure" id="genderfigure-genderbread" value="genderfigure-genderbread" /><label tabindex="0" role="button" for="genderfigure-unicorn" on="tap:GenderUnicorn.show()">Gender Unicorn</label><label tabindex="0" role="button" for="genderfigure-genderbread" on="tap:GenderbreadPerson.show()">Genderbread Person</label><!--<input type="radio" name="genderfigure" id="genderfigure-elephant" value="genderfigure-elephant" /><label tabindex="0" role="button" for="genderfigure-elephant" on="tap:GenderElephant.show()">Elephant</label>-->
-<section id="GenderUnicorn">
-	<h4>Gender Unicorn</h4>
-	<amp-img alt="Gender Unicorn" width="1920" height="1243" src="{{site.cache}}/320/Gender-Unicorn.jpg" srcset="{{site.cache}}/320/Gender-Unicorn.jpg 320w,{{site.cache}}/640/Gender-Unicorn.jpg 640w,{{site.cache}}/1280/Gender-Unicorn.jpg 1280w,{{site.cache}}/1920/Gender-Unicorn.jpg 1920w" layout="responsive"></amp-img>
-	<p class="credits">Design by Landyn Pan and Anna Moore | <a rel="nofollow noreferrer" target="_blank" href="http://www.transstudent.org/gender">TransStudent.org/gender</a></p>
-	<div class="buttons buttons-right">
-		<a href="{{site.url}}/Gender-Unicorn.pdf" download="CDavidMaxey.com-Gender-Unicorn.pdf"><svg id="download" class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><path d="M1344 928q0-14-9-23t-23-9h-224v-352q0-13-9.5-22.5t-22.5-9.5h-192q-13 0-22.5 9.5t-9.5 22.5v352h-224q-13 0-22.5 9.5t-9.5 22.5q0 14 9 23l352 352q9 9 23 9t23-9l351-351q10-12 10-24zm640 224q0 159-112.5 271.5t-271.5 112.5h-1088q-185 0-316.5-131.5t-131.5-316.5q0-130 70-240t188-165q-2-30-2-43 0-212 150-362t362-150q156 0 285.5 87t188.5 231q71-62 166-62 106 0 181 75t75 181q0 76-41 138 130 31 213.5 135.5t83.5 238.5z"/></svg>&ensp;Download</a>
-		<a href="{{site.url}}/Gender-Unicorn-Coloring-Page.pdf" download="CDavidMaxey.com-Gender-Unicorn-Coloring-Page.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Coloring Page</a>
-	</div>
-	<div class="buttons buttons-right">
-		<a href="{{site.url}}/La-licorne-du-genre.pdf" download="CDavidMaxey.com-La-licorne-du-genre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
-		<a href="{{site.url}}/El-Unicornio-del-Genero.pdf" download="CDavidMaxey.com-El-Unicornio-del-Genero.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Descargar</a>
-	</div>
-</section>
-<section id="GenderbreadPerson">
-	<h4>Genderbread Person</h4>
-	<amp-img alt="Genderbread Person" width="1920" height="2216" src="{{site.cache}}/320/Genderbread-Person.jpg" srcset="{{site.cache}}/320/Genderbread-Person.jpg 320w,{{site.cache}}/640/Genderbread-Person.jpg 640w,{{site.cache}}/1280/Genderbread-Person.jpg 1280w,{{site.cache}}/1920/Genderbread-Person.jpg 1920w" layout="responsive"></amp-img>
-	<p class="credits">The Genderbread Person v4 | <a rel="nofollow noreferrer" target="_blank" href="https://www.genderbread.org/">GenderBread.org</a></p>
-	<div class="buttons buttons-right">
-		<a href="{{site.url}}/Genderbread-Person.pdf" download="CDavidMaxey.com-Genderbread-Person.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
-		<a href="{{site.url}}/Personne-Gingenre.pdf" download="CDavidMaxey.com-Personne-Gingenre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
-	</div>
-</section><!--
-<section id="GenderElephant">
-	<h4>Gender Elephant</h4>
-	<amp-img alt="Gender Elephant" width="1920" height="1237" src="{{site.cache}}/320/Gender-Elephant.jpg" srcset="{{site.cache}}/320/Gender-Elephant.jpg 320w,{{site.cache}}/640/Gender-Elephant.jpg 640w,{{site.cache}}/1280/Gender-Elephant.jpg 1280w,{{site.cache}}/1920/Gender-Elephant.jpg 1920w" layout="responsive"></amp-img>
-	<p class="credits">Inspired by the Gender Unicorn & Genderbread Person | <a rel="nofollow noreferrer" target="_blank" href="https://ccgsd-ccdgs.org/gender-elephant/">CCGSD-CCDGS.org/gender-elephant/</a></p>
-	<div class="buttons buttons-right">
-		<a href="{{site.url}}/Gender-Elephant.pdf" download="CDavidMaxey.com-Gender-Elephant.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Download</a>
-		<a href="{{site.url}}/Lelephant-de-Genre.pdf" download="CDavidMaxey.com-Lelephant-de-Genre.pdf"><svg class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><use xlink:href="#download"/></svg>&ensp;Télécharger</a>
-	</div>
-</section>-->
-</div>
 <h3>Books for Children & Teens</h3>
 <div class="flexbooklist">
 	<div class="flexbook">
@@ -408,76 +354,3 @@ tags:
 		</div>
 	</div>
 </div>
-<h3>Portland-Area Resources</h3>
-<h5><svg id="svg-trans" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" width="24.82" class="svg-flag"><path d="M0 23.853v50.335c93.679 50.033 187.36-60.56 281.038-10.522v-50.335c-93.68-50.038-187.359 60.556-281.038 10.522z" fill="#5bcefa"/><path d="M0 59.337v44.739c93.679 50.033 187.36-60.56 281.038-10.522v-45.495c-93.68-50.038-187.359 61.311-281.038 11.277z" fill="#f5a9b8"/><path d="M0 94.961v41.992c93.679 50.033 187.36-60.56 281.038-10.522v-43.644c-93.68-50.038-187.359 62.207-281.038 12.173z" fill="#fff"/><path d="M0 130.726v38.371c93.679 50.033 187.36-60.56 281.038-10.522v-41.059c-93.68-50.038-187.359 63.244-281.038 13.21z" fill="#f5a9b8"/><path d="M0 166.35v35.624c93.679 50.033 187.36-60.56 281.038-10.522v-39.208c-93.68-50.038-187.359 64.14-281.038 14.106z" fill="#5bcefa"/></svg><a rel="nofollow noreferrer" target="_blank" href="http://www.ohsu.edu/xd/health/services/transgender-health/">OHSU Transgender Health Program</a></h5>
-<p>Research, Education & Medical&nbsp;Support</p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-503-494-7970">503-494-7970</a></p>
-<p><a rel="nofollow" href="mailto:TransHealth@OHSU.edu">TransHealth@OHSU.edu</a></p>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://graduate.lclark.edu/programs/continuing_education/transactive/">TransActive Gender Project</a></h5>
-<p>Education, Advocacy & Transistion&nbsp;Support</p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-503-768-6024">503-768-6024</a></p>
-<p><a rel="nofollow" href="mailto:transactive@lclark.edu">transactive@lclark.edu</a></p>
-<h5><svg id="svg-gsm" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 281.038 215.304" viewBox="0 0 281.038 215.304" height="19" width="24.82" class="svg-flag"><path d="m 0,22.149816 v 46.7401 C 93.679,115.34958 187.36,12.65508 281.038,59.119392 v -46.7401 C 187.358,-34.08502 93.679,68.610413 0,22.149816 Z" fill="#f00"/><path d="M 0,49.90323 V 96.643322 C 93.679,143.10299 187.36,40.408495 281.038,86.872802 V 40.132706 C 187.358,-6.3316053 93.679,96.363822 0,49.90323 Z" fill="#ff8000"/><path d="m 0,80.432172 v 46.740098 c 93.679,46.45966 187.36,-56.234834 281.038,-9.77053 V 70.661648 C 187.358,24.197336 93.679,126.89276 0,80.432172 Z" fill="#ff0"/><path d="m 0,110.28046 v 46.7401 c 93.679,46.45967 187.36,-56.23484 281.038,-9.77053 v -46.7401 C 187.358,54.045628 93.679,156.74106 0,110.28046 Z" fill="#007940"/><path d="m 0,140.8094 v 46.7401 c 93.679,46.45967 187.36,-56.23484 281.038,-9.77052 v -46.7401 C 187.358,84.574572 93.679,187.27 0,140.8094 Z" fill="#4040ff"/><path d="m 0,171.33741 v 31.58938 c 93.679,46.45967 187.36,-56.23483 281.038,-9.77052 V 161.08124 C 187.358,114.61693 93.679,217.79894 0,171.33741 Z" fill="#a000c0"/></svg><a rel="nofollow noreferrer" target="_blank" href="http://pdxqcenter.org/">Q Center</a></h5>
-<p>Community Center for Gender&nbsp;and Sexual&nbsp;Minorities&nbsp;(LGBT)</p>
-<p>4115 N Mississippi Ave, Portland OR</p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-503-494-7970">503-234-7837</a></p>
-<p><a rel="nofollow" href="mailto:info@pdxQcenter.org">info@pdxQcenter.org</a></p>
-<h3>Social Networks & Online Forums</h3>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://genderspectrum.org/lounge/">Gender Spectrum Lounge</a></h5>
-<p>online community for trans teens & their parents</p>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://www.transgenderpulse.com/">Trans Pulse</a> <span class="subheading">(formerly&nbsp;Lauras&#8209;Playground.<small>com</small>)</span></h5>
-<p>forums for trans people and their friends, family & allies</p>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://www.trevorspace.org/">Trevor Space</a></h5>
-<p>social network for gender & sexual minority youth ages&nbsp;13&#8209;24</p>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg><a rel="nofollow noreferrer" target="_blank" href="http://youth-guard.org/">Youth Guardian</a></h5>
-<p>social network for gender & sexual minority youth ages 13&#8209;25</p>
-<h3>Information & News</h3>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://www.genderspectrum.org/">Gender Spectrum</a></h5>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="http://imatyfa.org/">TransYouth Family Allies</a></h5>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="http://www.mermaidsuk.org.uk/">Mermaids</a> <span class="subheading">United Kingdon</span></h5>
-<h3>Advocacy</h3>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="http://www.transgenderlaw.org/">Transgender Law & Policy Institute</a></h5>
-<p>works to improve law and policy to advance trans equality</p>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://transgenderlawcenter.org/">Transgender Law Center</a></h5>
-<p>works to improve law, policy, and attitudes to advance trans equality</p>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://www.glsen.org/">GLSEN</a></h5>
-<p>focuses on safe schools for all students</p>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://itgetsbetter.org/">It gets better Project</a></h5>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg><a rel="nofollow noreferrer" target="_blank" href="http://www.thetaskforce.org/">National LGBTQ Task Force</a></h5>
-<p>political action for gender & sexual minorities</p>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg><a rel="nofollow noreferrer" target="_blank" href="http://www.hrc.org/">Human Rights Campaign</a> <span class="subheading">(HRC)</span></h5>
-<p>works to improve civil rights for gender & sexual minorities</p>
-<h5><a rel="nofollow noreferrer" target="_blank" href="https://www.aclu.org/issues/lgbt-rights">American Civil Liberties Union</a> <span class="subheading">(ACLU)</span></h5>
-<p>works to defend individual rights and liberties</p>
-<h3>Conferences</h3>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="http://www.genderodyssey.org/">Gender Odyssey</a> <span class="subheading">Every&nbsp;August</span></h5>
-<p>produced by <a rel="nofollow noreferrer" target="_blank" href="http://www.genderdiversity.org/">GenderDiversity.<small>org</small></a></p>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://www.genderspectrum.org/quick-links/events/">Gender Spectrum</a> <span class="subheading">Every July in California</span></h5>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://www.ourtruecolors.org/conference/">True Colors</a> <span class="subheading">Annually in Hartford CT</span></h5>
-<h3>Crisis Lines</h3>
-<div class="subheading">in an emergency, call 9-1-1</div>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-trans"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://www.translifeline.org/">Trans Lifeline</a></h5>
-<p>for trans people (calls&nbsp;answered&nbsp;by&nbsp;trans&nbsp;people)</p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-877-565-8860">877-565-8860</a><span>7<span class="am-pm">A</span>&#8209;1<span class="am-pm">A</span>&nbsp;<small>Pacific</small></span></p>
-<h5><svg height="19" width="24.82" class="svg-flag"><use xlink:href="#svg-gsm"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://www.thetrevorproject.org/">Trevor Project</a></h5>
-<p>for gender & sexual minority (LGBT) youth&nbsp;under&nbsp;age&nbsp;25</p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-866-488-7386">866-488-7386</a><small>24/7/365</small></p>
-<h5>Portland-Area Mental&nbsp;Health Crisis&nbsp;Lines</h5>
-<p>for anyone served by the county</p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-503-291-9111">503-291-9111</a><small>24/7</small><a rel="nofollow noreferrer" target="_blank" href="https://www.co.washington.or.us/HHS/MentalHealth/">Washington</a></p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-503-988-4888">503-988-4888</a><small>24/7</small><a rel="nofollow noreferrer" target="_blank" href="https://multco.us/mhas/mental-health-crisis-intervention">Multnomah</a></p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-503-655-8585">503-655-8585</a><small>24/7</small><a rel="nofollow noreferrer" target="_blank" href="http://www.clackamas.us/behavioralhealth/">Clackamas</a></p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-800-626-8137">800-626-8137</a><small>24/7</small><a rel="nofollow noreferrer" target="_blank" href="https://www.clark.wa.gov/community-services/clark-county-crisis-services">Clark</a></p>
-<h5><a rel="nofollow" href="https://calltosafety.org/">Portland-Area Domestic & Sexual Violence Crisis Line</a></h5>
-<p>for domestic or sexual violence survivors</p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-503-488-7386">503-235-5333</a><small>24/7</small><span>Portland</span></p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-888-488-7386">888-235-5333</a><small>24/7</small><span>Toll-Free</span></p>
-<h5><a rel="nofollow" href="https://oregonyouthline.org/">Youth Suicide Prevention Lifeline</a></h5>
-<p>for&nbsp;ages&nbsp;11&#8209;21 (calls&nbsp;answered&nbsp;by youth&nbsp;ages&nbsp;15&#8209;20)</p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-877-968-8491">877-968-8491</a><span>4<span class="am-pm">P</span>&#8209;10<span class="am-pm">P</span>&nbsp;<small>Pacific</small></span></p>
-<h5><a rel="nofollow" href="https://www.linesforlife.org/">Suicide Prevention Lifeline</a></h5>
-<p>for anyone</p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-800-273-8255">800-273-8255</a><small>24/7</small></p>
-<h5><a rel="nofollow" href="https://www.linesforlife.org/">Drug & Alcohol Help Line</a></h5>
-<p>for help with drug & alcohol problems</p>
-<p><a class="a-tel" rel="nofollow" href="tel:+1-800-923-4357">800-923-4357</a><small>24/7</small></p>
