@@ -52,7 +52,7 @@ h5~p{margin: 0 0 .5rem 30px}
 .post p{text-align:left}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and non-binary children and teens"
-description: "Portland-Area Resources, Conferences, Information & News, Advocacy, Books for Parents, Documentary Films, Social Networks & Online Forums, and Crisis Lines"
+description: "Portland-Area Resources, Books for Parents, Biographies & Memoirs, and Documentary Films"
 tags:
 - Trans & Gender-Expansive
 - 🏳️‍🌈 Gender & Sexual Minorities
