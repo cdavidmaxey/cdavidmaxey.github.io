@@ -33,6 +33,7 @@ style: ".quick-reference{display:flex;text-align:center;font-size:.875rem}
 .quick-reference>div{width:calc(100% / 3);padding:0 .35rem}
 .quick-reference svg{width:50%;padding:0 0 .35rem}
 .quick-reference span{font-weight:bold;color:#3949ab}
+.svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}
 .flexbooklist{display:flex;flex-flow:row wrap;justify-content:flex-start;align-items:flex-end;margin:-1rem -.25rem}
 .flexbook{flex:0 0 calc(50% - .5rem);margin:1rem .25rem}
 @media(min-width:477px){.flexbook{flex:0 0 calc((100% / 3) - .5rem)}}
