@@ -49,11 +49,6 @@ h5{font-size:1rem;margin:1rem 0 0 30px}
 h5 .subheading{font-weight:normal}
 h5~p{margin: 0 0 .5rem 30px}
 .videoimage,amp-youtube{margin:1.5em 0}
-.post h5+div>p{margin:0 0 .5rem;text-align:left}
-.a-tel{font-size:.875em;font-variant-numeric:tabular-nums}
-.a-tel~small,.a-tel~span,.a-tel~a{margin-left:1rem}
-.am-pm{font-size:.625rem}
-.svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}
 .post p{text-align:left}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.istockphoto.com/photo/young-boy-dressed-in-a-fairy-costume-doing-chores-gm519090630-90366171'>&copy;</a>&nbsp;SolStock"
 title: "Resources for parents of trans and non-binary children and teens"
