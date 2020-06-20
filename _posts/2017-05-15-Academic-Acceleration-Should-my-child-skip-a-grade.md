@@ -22,7 +22,7 @@ youtube:
   Y:
 variables:
 style: ".bookborder{border:1px solid #000;border-bottom:none}
-.download>.bookborder{border-top:1px solid #3949ab}
+.download>.bookborder{border:none;border-top:1px solid #3949ab}
 .download>.bookborder:hover{border-top:1px solid #000}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.dreamstime.com/royalty-free-stock-photo-elementary-chinese-applauding-school-teacher-young-girl-wrote-words-blackboard-image32555265'>&copy;</a>&nbsp;Hongqi&nbsp;Zhang (aka&nbsp;Michael&nbsp;Zhang)"
 title: "Academic Acceleration: Should my child skip a grade?"

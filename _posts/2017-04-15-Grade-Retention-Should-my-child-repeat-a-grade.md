@@ -22,7 +22,7 @@ youtube:
   Y:
 variables:
 style: ".bookborder{border:1px solid #000;border-bottom:none}
-.download>.bookborder{border-top:1px solid #3949ab}
+.download>.bookborder{border:none;border-top:1px solid #3949ab}
 .download>.bookborder:hover{border-top:1px solid #000}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.dreamstime.com/royalty-free-stock-photos-primary-school-children-cutting-out-shapes-image15539128'>&copy;</a>&nbsp;Monkey Business Images Ltd"
 title: "Grade Retention: Should my child repeat a grade?"
