@@ -19,8 +19,8 @@ table.hours td:nth-child(2){padding:0 .5em;font-weight:bold}
 table.hours tr:not(:last-child) td:nth-child(odd){font-family:Lucida Sans Typewriter,Lucida Console,monaco,monospace}
 table.hours td span{padding:0 .2em}
 .bookborder{border:1px solid #000;border-bottom:none}
-.bookborder+div{border-top:1px solid #3949ab}
-.bookborder+div:hover{border-top:1px solid #000}
+.bookborder+div:not(.merchants){border-top:1px solid #3949ab}
+.bookborder+div:hover:not(.merchants){border-top:1px solid #000}
 .paperwork+section{max-width:450px}
 .paperwork+section h3{margin:0 -.75rem;padding:1.5rem 2.25rem .5rem;text-indent:-2.25rem;text-align:center;line-height:1.125;clear:both}
 .paperwork+section h3 svg.fontawesome{width:2rem;padding-right:.25rem;fill:inherit}

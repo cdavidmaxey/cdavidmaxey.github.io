@@ -36,8 +36,8 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: ".bookborder{border:1px solid #000;border-bottom:none}
-.bookborder+div{border-top:1px solid #3949ab}
-.bookborder+div:hover{border-top:1px solid #000}
+.bookborder+div:not(.merchants){border-top:1px solid #3949ab}
+.bookborder+div:hover:not(.merchants){border-top:1px solid #000}
 .PositiveDisciplineLink{height:1.3125em}
 .PositiveDisciplineLink>span{font-size:.8125em}
 p~ul{margin-top:-1.25rem}"
