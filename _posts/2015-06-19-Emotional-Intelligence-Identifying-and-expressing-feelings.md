@@ -74,7 +74,7 @@ As the movie follows Riley, her EQ and personality grow in complexity, with emot
 <div class="right" id="Plutchik"><input type="radio" name="plutchik" id="plutchik-en" value="plutchik-en" checked /><input type="radio" name="plutchik" id="plutchik-fr" value="plutchik-fr" /><input type="radio" name="plutchik" id="plutchik-es" value="plutchik-es" /><label tabindex="0" role="button" for="plutchik-en" on="tap:PlutchikEN.show()">English</label><label tabindex="0" role="button" for="plutchik-fr">français</label><label tabindex="0" role="button" for="plutchik-es">Español</label>
 <section id="PlutchikEN">
 	<amp-img alt="Plutchik’s Wheel of Emotions" src="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg" srcset="{{site.cache}}/320/Plutchik-Wheel-of-Emotions.jpg 320w,{{site.cache}}/640/Plutchik-Wheel-of-Emotions.jpg 640w,{{site.cache}}/1280/Plutchik-Wheel-of-Emotions.jpg 1280w,{{site.cache}}/1920/Plutchik-Wheel-of-Emotions.jpg 1920w" layout="responsive" width="1920" height="1920"></amp-img>
-	<p class="credits">&copy; <a rel="nofollow noreferrer" target="_blank" href="http://www.copypress.com/blog/your-fragile-emotions-illustrated/">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>
+	<p class="credits">&copy; <a rel="nofollow noreferrer" target="_blank" href="https://www.copypress.com/blog/your-fragile-emotions-illustrated/">Copypress.org</a> | unendorsed adaptation used by invitation to share</p>
 </section>
 <section id="PlutchikFR">
 	<div>
