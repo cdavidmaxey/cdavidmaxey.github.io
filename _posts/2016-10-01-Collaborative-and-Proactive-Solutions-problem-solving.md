@@ -32,8 +32,8 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: ".bookborder{border:1px solid #000;border-bottom:none}
-.bookborder+div:not(.merchants){border-top:1px solid #3949ab}
-.bookborder+div:hover:not(.merchants){border-top:1px solid #000}
+.bookborder+:not(.merchants){border-top:1px solid #3949ab}
+.bookborder+:hover:not(.merchants){border-top:1px solid #000}
 @media(max-width:474px){amp-youtube{clear:both}}
 .othermerchant>div>div{font-size:7px}
 h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}

@@ -41,8 +41,8 @@ style: "h3{font-size:1.5rem;margin:3rem -1rem 1rem;padding:.5rem 1rem;background
 .download>div{width:7.625rem}
 .flexbook .credits{margin-top:2px;margin-bottom:-12px}
 .bookborder{border:1px solid #000;border-bottom:none}
-.bookborder+div:not(.merchants){border-top:1px solid #3949ab}
-.bookborder+div:hover:not(.merchants){border-top:1px solid #000}
+.bookborder+:not(.merchants){border-top:1px solid #3949ab}
+.bookborder+:hover:not(.merchants){border-top:1px solid #000}
 .booktopper{text-align:center;width:8.625rem;border-top-left-radius:.25em;border-top-right-radius:.25em;background:#3949ab;color:#fff;padding:.175rem 0}
 .booktopper+.bookborder{border-top:none}
 .post p{text-align:right}"
