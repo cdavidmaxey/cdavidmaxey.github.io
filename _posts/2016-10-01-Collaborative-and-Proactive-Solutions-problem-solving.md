@@ -31,7 +31,11 @@ variables:
 - iv_load_policy=3
 - modestbranding=1
 - disablekb=1
-style: ".bookborder{border:black solid 1px;border-bottom:none}@media(max-width:474px){amp-youtube{clear:both}}.othermerchant>div>div{font-size:7px}
+style: ".bookborder{border:1px solid #000;border-bottom:none}
+.bookborder+div{border-top:1px solid #3949ab}
+.bookborder+div:hover{border-top:1px solid #000}
+@media(max-width:474px){amp-youtube{clear:both}}
+.othermerchant>div>div{font-size:7px}
 h4{font-size:1.5rem;margin:3rem 0 1rem;text-align:center}
 p+ul{margin-top:-1.25em}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.dreamstime.com/royalty-free-stock-images-dad-comfort-image7839949'>&copy;</a>&nbsp;Nathan&nbsp;Allred"
