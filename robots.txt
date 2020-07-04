@@ -7,6 +7,7 @@ Disallow: /humans.txt
 Disallow: /crisis/
 Disallow: /secret/
 Disallow: /schedule/
+Disallow: /search/
 Disallow: /parent/
 Disallow: /school/
 Disallow: /youth/
