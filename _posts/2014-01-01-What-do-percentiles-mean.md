@@ -65,7 +65,7 @@ tags:
         <text font-size="10" y="265" x="359.7">Mean</text>
         <text font-size="10" y="276" x="359.7">(Average)</text>
         <text text-anchor="end" y="308" x="77">Percentile</text>
-        <text text-anchor="end" x="77.036" y="353.589">IQ</text>
+        <text text-anchor="end" x="77.036" y="354.089">IQ</text>
     </g>
     <g font-size="20" text-anchor="middle">
         <text y="37.5" x="162.5">Standard Normal Distribution</text>
