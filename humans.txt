@@ -10,9 +10,6 @@ Location: Portland, Oregon, USA
 /* All content used via Creative Commons SA (ShareAlike) licenses are distributed under the same license as the original. */
 
 Font Awesome icons by Font Awesome [CC-BY-3.0 (creativecommons.org/licenses/by/3.0)] via FontAwesome.com
-favicon.svg is an unendorsed adaptation of "swirly hexagon 6 color" by 10binary [Public Domain] via OpenClipArt.org/detail/148909/swirly-hexagon-6-color
-equality-peace-and-love.jpg is an unendorsed adaptation of "We must teach the children of the world equality, peace, and love" by Purple Sherbet Photography [CC-BY-2.0 (creativecommons.org/licenses/by/2.0)] via flickr.com/photos/purplesherbet/10713802043
-love-makes-a-family.jpg is an unendorsed adaptation of "Families are made with hearts filled with love" by Purple Sherbet Photography [CC-BY-2.0 (creativecommons.org/licenses/by/2.0)] via flickr.com/photos/purplesherbet/11997048715
 Handmade-Paper.png is "Handmade paper" by Le Marquis [CC-BY-SA-3.0 (creativecommons.org/licenses/by-sa/3.0)] via SubtlePatterns.com/handmade-paper
 
 /* DISCLAIMER NOTICE */
@@ -28,7 +25,7 @@ Christophe Beaumale for Cursif freeware fonts from FontSpace.com/christophe-beau
 /* SITE TECHNOLOGY */
 
 Language: English
-Standards: HTML5, CSS3, Schema.org, AMPProject.org, SSL
-Components: HTML5Boilerplate.com, Semantic-UI.com, FontAwesome.io, jQuery.com, LunrJS.com
+Standards: HTML5, CSS3, Schema.org, AMP.dev, SSL
+Components: HTML5Boilerplate.com, Semantic-UI.com, LunrJS.com
 Services: Pages.GitHub.com, favicomatic.com
-Software: Brackets.io, CyberDuck.io, Mac.GitHub.com, JekyllRB.com, Pixelmator.com, ImageOptim.com, SVGo
+Software: Brackets.io, CyberDuck.io, Mac.GitHub.com, JekyllRB.com, Pixelmator.com, Image-Shrinker.com
