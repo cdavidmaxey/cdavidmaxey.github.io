@@ -36,17 +36,8 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "p~ul{margin-top:-1.25rem}
-table{border-collapse:collapse}thead{font-size:12px}th{vertical-align:bottom}tbody{border-top:1px solid #000;border-bottom:1px solid #000}
-tbody{color:#fff}
-tbody>tr:nth-child(1){background:#f1948a}
-tbody>tr:nth-child(2){background:linear-gradient(#f1948a,#f1948a,#f1948a,#f1948a,#f1948a,#f1948a,#f1948a,#f1948a,#c0392b,#c0392b,#c0392b,#c0392b,#c0392b,#c0392b,#c0392b,#c0392b)}
-tbody>tr:nth-child(3){background:linear-gradient(#c0392b,#c0392b,#c0392b,#c0392b,#c0392b,#c0392b,#c0392b,#c0392b,#28b463,#28b463,#28b463,#28b463,#28b463,#28b463,#28b463,#28b463)}
-tbody>tr:nth-child(4){background:#28b463}
-tbody>tr:nth-child(5){background:linear-gradient(#28b463,#28b463,#28b463,#28b463,#28b463,#28b463,#28b463,#28b463,#2980b9,#2980b9,#2980b9,#2980b9,#2980b9,#2980b9,#2980b9,#2980b9)}
-tbody>tr:nth-child(6){background:linear-gradient(#2980b9,#2980b9,#2980b9,#2980b9,#2980b9,#2980b9,#2980b9,#2980b9,#85c1e9,#85c1e9,#85c1e9,#85c1e9,#85c1e9,#85c1e9,#85c1e9,#85c1e9)}
-tbody>tr:nth-child(7){background:#85c1e9}
 .bell-r,.bell-g,.bell-b{padding:.0 .2em .15em;margin:0 -.2em -.15em;border-radius:.333em;color:white}
-.bell-r{background:#c0392b}.bell-g{background:#28b463}.bell-b{background:#2980b9}"
+.bell-r{background:#c0392b}.bell-g{background:#1e8549}.bell-b{background:#2980b9}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://pixabay.com/en/pay-digits-number-fill-series-819587/'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 384.017' enable-background='new 0 0 384 384.017'><path d='M192 .017c-106.036 0-192 85.964-192 192 0 106.024 85.964 192 192 192s192-85.976 192-192c0-106.037-85.964-192-192-192zm0 347.998c-86.023 0-156.004-69.987-156.004-155.998 0-18.007 3.103-35.299 8.746-51.394l61.013 27.169c-1.643 8.165-2.534 16.682-2.534 25.479 0 76.65 57.212 98.247 93.208 98.247 21.227 0 39.598-6.852 53.979-16.904 2.733-1.959 5.209-3.93 7.484-5.936l-27.99-34.009c-.821.938-1.678 1.83-2.557 2.628-10.887 10.323-22.853 10.323-25.527 10.323-29.286 0-41.545-30.899-41.709-55.651l168.157 74.867.527.07c-26.534 48.309-77.903 81.109-136.793 81.109zm150.332-116.137l-173.436-77.412c6.258-11.332 16.218-19.849 31.122-19.849 8.64 0 15.491 2.862 20.887 6.476 2.24 1.619 4.188 3.237 5.83 4.868l31.263-32.178c-20.998-18.054-44.871-21.28-60.484-21.28-36.688 0-62.649 15.86-77.952 39.944l-57.998-25.867c27.914-42.466 75.946-70.573 130.436-70.573 86.022 0 156.01 69.976 156.01 156.01 0 13.925-1.865 27.403-5.303 40.261l-.375-.4z'/></svg></a>&nbsp;geralt"
 title: "What do percentiles mean?"
 description: "A percentile is the percent who have the same or a lower score; therefore, a percentile shows how your child’s score relates to the scores of other children."
@@ -62,20 +53,6 @@ tags:
 	<li><strong>Behavior Checklist</strong>: A score at the 85<sup>th</sup> percentile on a problem behavior scale typically means that you rated your child as having as many or more problem behaviors than 85% of other children (in their age range).</li>
 	<li><strong>IQ</strong>: An IQ score is often reported with a corresponding percentile. If a child has an IQ of 100, the corresponding percentile is typically the 50<sup>th</sup> percentile, meaning that the child’s IQ is the same as or higher than 50% of other children’s IQ.</li>
 </ul>
-<aside class="float right side">
-	<table>
-	<thead><tr><th class="right">IQ&thinsp;</th><th class="center">&ensp;Percentile</th><th class="center">SD</th></tr></thead>
-		<tbody>
-			<tr class="table-lr"><td class="right">&thinsp;55</td><td class="right"><1%&emsp;</td><td class="right">−3&thinsp;</td></tr>
-			<tr class="table-r"><td class="right">&thinsp;70</td><td class="right">2%&emsp;</td><td class="right">−2&thinsp;</td></tr>
-			<tr class="table-g"><td class="right">&thinsp;85</td><td class="right">16%&emsp;</td><td class="right">−1&thinsp;</td></tr>
-			<tr class="table-g"><td class="right">&thinsp;100</td><td class="right">50%&emsp;</td><td class="right">0&thinsp;</td></tr>
-			<tr class="table-g"><td class="right">&thinsp;115</td><td class="right">84%&emsp;</td><td class="right">+1&thinsp;</td></tr>
-			<tr class="table-b"><td class="right">&thinsp;130</td><td class="right">98%&emsp;</td><td class="right">+2&thinsp;</td></tr>
-			<tr class="table-lb"><td class="right">&thinsp;145</td><td class="right">>99%&emsp;</td><td class="right">+3&thinsp;</td></tr>
-		</tbody>
-	</table>
-</aside>
 <p>Intelligence is usually assumed to approximate a normal distribution, and IQ is commonly reported with a mean of 100 and a standard deviation (SD) of 15 (see table on the right). In the standard normal distribution shown below, the <span class="bell-g">green</span> part is usually called the <span class="bell-g">“Average”</span> range, which is within 1 standard deviation of the mean (or average). In a normal distribution, most children (i.e., about two-thirds or 68.2%) score in the <span class="bell-g">“Average”</span> range within the 16<sup>th</sup> and 84<sup>th</sup> percentiles.</p>
 <p class="clear"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 375" font-family="sans-serif" stroke-width="1">
     <defs>
