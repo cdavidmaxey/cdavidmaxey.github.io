@@ -77,114 +77,107 @@ tags:
 	</table>
 </aside>
 <p>Intelligence is usually assumed to approximate a normal distribution, and IQ is commonly reported with a mean of 100 and a standard deviation (SD) of 15 (see table on the right). In the standard normal distribution shown below, the <span class="bell-g">green</span> part is usually called the <span class="bell-g">“Average”</span> range, which is within 1 standard deviation of the mean (or average). In a normal distribution, most children (i.e., about two-thirds or 68.2%) score in the <span class="bell-g">“Average”</span> range within the 16<sup>th</sup> and 84<sup>th</sup> percentiles.</p>
-<p class="clear"><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 650 328.5" viewBox="0 0 650 328.5" font-family="sans-serif" stroke-width="1">
-<defs><marker id="ab" overflow="visible" orient="auto"><path transform="matrix(-0.4,0,0,-0.4,-4,0)" stroke="#000" d="M 0,0 5,-5 -12.5,0 5,5 Z"/></marker></defs>
-<g text-anchor="middle" fill="#000" font-size="12px">
-<text x="40" y="247">Standard</text>
-<text x="40" y="260">Deviations</text>
-<text x="40" y="272" font-size="10px">(from the mean)</text>
-<text x="359.7" y="265" font-size="10px">Mean</text>
-<text x="359.7" y="276" font-size="10px">(Average)</text>
-<text x="77" y="308" text-anchor="end">Percentile</text>
-</g>
-<g text-anchor="middle" font-size="20px">	
-<text x="162.5" y="37.5">Standard Normal Distribution</text>
-<text x="162.5" y="62.5" font-style="italic">“Bell Curve”</text>
-</g>
-<g fill="#f1948a"><path d="m 121.9,227.3 c -12.4,0.3 -24.8,0.4 -37.2,0.5 h 68.8 v -2.3 c -10.5,1.1 -21,1.5 -31.5,1.8 z"/><path d="m 193.9,216.1 c -11.7,4.8 -24,7.4 -36.5,8.9 -1.3,0.2 -2.7,0.3 -4,0.5 v 2.3 h 68.7 v -29.2 c -8.6,7.2 -17.9,13.3 -28.2,17.4 z"/></g>
-<path fill="#c0392b" d="m 289.6,99.7 c -6.2,11.8 -12.4,23.5 -19,35 -6.3,11.2 -13.2,22.1 -20.5,32.6 -7.1,10.2 -15.3,20.2 -24.6,28.4 -1.1,1 -2.2,1.9 -3.4,2.9 v 29.2 h 68.7 V 97.2 c -0.4,0.8 -0.9,1.7 -1.3,2.5 z"/>
-<g fill="#28b463"><path d="m 359.1,12.5 c -6.1,0.5 -12,2.8 -16.9,6.8 -5,4.1 -9.5,8.7 -13.5,13.9 -7.8,9.9 -14.5,21 -20.7,32.1 -5.9,10.6 -11.5,21.2 -17.2,31.9 V 227.8 h 68.7 V 12.5 c -0.2,0 -0.4,0 -0.6,0 z"/><path d="m 410.8,64.5 c -6.4,-11.2 -13,-22.6 -21.2,-32.5 -4,-4.8 -8.2,-9.8 -13.4,-13.3 -4.8,-3.3 -10.5,-6.4 -16.5,-6.2 V 227.8 h 68.7 V 97.2 C 422.6,86.3 416.9,75.3 410.8,64.5 Z"/></g>
-<path fill="#2980b9" d="m 492.9,194.9 c -9.5,-8.9 -17.7,-19 -25.2,-29.7 -7.3,-10.4 -13.9,-21.4 -20.2,-32.6 -6.5,-11.5 -12.7,-23.2 -18.8,-34.9 0,-0.2 -0.2,-0.3 -0.2,-0.4 V 227.8 H 497.1 V 198.7 c -1.4,-1.2 -2.9,-2.5 -4.3,-3.8 z"/>
-<g fill="#85c1e9"><path d="m 559.4,224.7 c -11.9,-1.5 -24.1,-4.2 -35.1,-9.1 -9.8,-4.3 -18.9,-9.9 -27.1,-16.9 v 29.1 h 68.8 v -2.4 c -2.2,-0.2 -4.3,-0.4 -6.5,-0.7 z"/><path d="m 632.8,227.8 c -12.2,0 -24.4,-0.2 -36.5,-0.5 -10.2,-0.3 -20.3,-0.8 -30.3,-1.9 v 2.4 h 68.7 c -0.6,0 -1.2,0 -1.9,0 z"/></g>
-<g text-anchor="middle" font-size="14px">
-<text x="79.8" y="253">−4</text>
-<text x="148.5" y="253">−3</text>
-<text x="217.3" y="253">−2</text>
-<text x="286.3" y="253">−1</text>
-<text x="359.7" y="253">0</text>
-<text x="423.4" y="253">+1</text>
-<text x="492.2" y="253">+2</text>
-<text x="560.9" y="253">+3</text>
-<text x="629.6" y="253">+4</text>
-</g>
-<rect x="1657.7" y="675.1" width="803.5" height="500.8"/>
-<g fill="#000" text-anchor="middle" font-size="12px">
-<text x="159.9" y="291.5">0.1%</text>
-<text x="228.6" y="291.5">2.3%</text>
-<text x="297.3" y="291.5">15.9%</text>
-<text x="366.1" y="291.5">50%</text>
-<text x="434.8" y="291.5">84.1%</text>
-<text x="503.6" y="291.5">97.7%</text>
-<text x="572.3" y="291.5">99.9%</text>
-</g>
-<g fill="#000" text-anchor="middle" font-size="12px">
-<text x="205.6" y="328.3">1%</text>
-<text x="262.6" y="328.3">6.7%</text>
-<text x="331.3" y="328.3">30.9%</text>
-<text x="400.1" y="328.3">69.1%</text>
-<text x="468.8" y="328.3">93.3%</text>
-<text x="520.6" y="328.3">99%</text>
-</g>
-<g stroke="#000">
-<path d="m 153.9,293.8 v 10.2"/>
-<path d="m 222.6,293.8 v 10.2"/>
-<path d="m 291.3,293.8 v 10.2"/>
-<path d="m 360.1,293.8 v 10.2"/>
-<path d="m 428.8,293.8 v 10.2"/>
-<path d="m 497.6,293.8 v 10.2"/>
-<path d="m 566.3,293.8 v 10.2"/>
-<path d="M 199.6,304.8 V 315"/>
-<path d="M 256.6,304.8 V 315"/>
-<path d="M 325.3,304.8 V 315"/>
-<path d="M 394.1,304.8 V 315"/>
-<path d="M 462.8,304.8 V 315"/>
-<path d="M 514.6,304.8 V 315"/>
-<path d="M 81.5,304.7 H 637.2"/>
-</g>
-<g stroke="#f5b7b1"><path d="m 153.5,225.3 V 227.8"/><path d="m 187.9,218.1 V 227.8"/><path d="m 222.3,198.5 V 227.8"/><path d="m 256.6,157.8 V 227.8"/></g>
-<path stroke="#000" d="M 291,97.3 V 227.8"/>
-<g stroke="#abebc6"><path d="M 325.3,37.9 V 227.8"/><path d="M 359.7,12.5 V 227.8"/><path d="M 394.1,37.9 V 227.8"/></g>
-<path stroke="#000" d="M 428.4,97.3 V 227.8"/>
-<g stroke="#aed6f1"><path d="M 462.8,157.8 V 227.8"/><path d="M 497.2,198.5 V 227.8"/><path d="M 531.5,218.1 V 227.8"/><path d="M 565.9,225.3 V 227.8"/></g>
-<g stroke="#000">
-<path d="m 84.8,228 v 10.8"/>
-<path d="m 119.2,228 v 10.8"/>
-<path d="m 153.5,228 v 10.8"/>
-<path d="m 187.9,228 v 10.8"/>
-<path d="m 222.3,228 v 10.8"/>
-<path d="m 256.6,228 v 10.8"/>
-<path d="m 291,228 v 10.8"/>
-<path d="m 325.3,228 v 10.8"/>
-<path d="m 359.7,228 v 10.8"/>
-<path d="m 394.1,228 v 10.8"/>
-<path d="m 428.4,228 v 10.8"/>
-<path d="m 462.8,228 v 10.8"/>
-<path d="m 497.2,228 v 10.8"/>
-<path d="m 531.5,228 v 10.8"/>
-<path d="m 565.9,228 v 10.8"/>
-<path d="m 600.2,228 v 10.8"/>
-<path d="m 634.6,228 v 10.8"/>
-<path d="M 42.3,227.8 H 649.9"/>
-</g>
-<g fill="#fff" text-anchor="middle" font-size="10px">
-<text x="136.35" y="222" fill="#000">0.1%</text>
-<text x="170.7" y="201.6" fill="#000">0.5%</text>
-<text x="205.1" y="224.8">1.7%</text>
-<text x="239.45" y="213">4.4%</text>
-<text x="273.8" y="194">9.2%</text>
-<text x="308.15" y="157.5">15.0%</text>
-<text x="342.5" y="119">19.1%</text>
-<text x="376.9" y="119">19.1%</text>
-<text x="411.25" y="157.5">15.0%</text>
-<text x="445.6" y="194">9.2%</text>
-<text x="480" y="213">4.4%</text>
-<text x="514.45" y="224.8">1.7%</text>
-<text x="548.7" y="201.6" fill="#000">0.5%</text>
-<text x="583.05" y="222" fill="#000">0.1%</text>
-<text x="361" y="210" font-size="36px">68.2%</text>
-</g>
-<path fill="none" stroke="#000" d="m 84.7,227.8 c 12.4,0 24.8,-0.2 37.2,-0.5 11.8,-0.3 23.8,-0.8 35.5,-2.3 12.5,-1.6 24.7,-4.2 36.5,-8.9 11.7,-4.7 22.1,-11.9 31.6,-20.3 9.3,-8.2 17.4,-18.2 24.6,-28.4 7.4,-10.5 14.2,-21.4 20.5,-32.6 6.5,-11.6 12.8,-23.3 19,-35 6.1,-11.5 12.2,-23 18.5,-34.4 6.2,-11.1 12.8,-22.2 20.7,-32.1 4,-5.2 8.5,-9.8 13.5,-13.9 4.9,-4 10.7,-6.3 16.9,-6.8 6.2,-0.5 12.1,2.7 17.1,6.1 5.1,3.5 9.4,8.5 13.4,13.3 8.2,10 14.8,21.3 21.2,32.5 6.2,10.9 12,22.1 17.9,33.1 6.2,11.7 12.3,23.4 18.8,34.9 6.3,11.2 12.9,22.2 20.2,32.6 7.5,10.7 15.8,20.8 25.2,29.7 9.3,8.8 19.9,15.6 31.4,20.7 11.1,4.9 23.2,7.6 35.1,9.1 12.2,1.5 24.5,2.2 36.8,2.6 12.2,0.4 24.4,0.4 36.5,0.5 0.6,0 1.2,0 1.9,0"/>
-<g stroke="#000" marker-end="url(#ab)"><path d="m 170.7,204.7 12.1,18.5"/><path d="m 548.7,204.7 -12.1,18.5"/></g>
+<p class="clear"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 375" font-family="sans-serif" stroke-width="1">
+    <defs>
+        <marker orient="auto" overflow="visible" id="a"><path d="M0 0l5-5-17.5 5L5 5z" stroke="#000" transform="matrix(-.4 0 0 -.4 -4 0)"/></marker>
+    </defs>
+    <g font-size="12" text-anchor="middle">
+        <text y="247" x="40">Standard</text>
+        <text y="260" x="40">Deviations</text>
+        <text font-size="10" y="272" x="40">(from the mean)</text>
+        <text font-size="10" y="265" x="359.7">Mean</text>
+        <text font-size="10" y="276" x="359.7">(Average)</text>
+        <text text-anchor="end" y="308" x="77">Percentile</text>
+        <text text-anchor="end" x="77.036" y="353.589">IQ</text>
+    </g>
+    <g font-size="20" text-anchor="middle">
+        <text y="37.5" x="162.5">Standard Normal Distribution</text>
+        <text font-style="italic" y="62.5" x="162.5">“Bell Curve”</text>
+    </g>
+    <g fill="#f1948a">
+        <path d="M121.9 227.3c-12.4.3-24.8.4-37.2.5h68.8v-2.3c-10.5 1.1-21 1.5-31.5 1.8z"/>
+        <path d="M193.9 216.1c-11.7 4.8-24 7.4-36.5 8.9-1.3.2-2.7.3-4 .5v2.3h68.7v-29.2c-8.6 7.2-17.9 13.3-28.2 17.4z"/>
+    </g>
+    <path fill="#c0392b" d="M289.6 99.7c-6.2 11.8-12.4 23.5-19 35-6.3 11.2-13.2 22.1-20.5 32.6-7.1 10.2-15.3 20.2-24.6 28.4-1.1 1-2.2 1.9-3.4 2.9v29.2h68.7V97.2c-.4.8-.9 1.7-1.3 2.5z"/>
+    <path fill="#1a7541" d="M359.1 12.5c-6.1.5-12 2.8-16.9 6.8-5 4.1-9.5 8.7-13.5 13.9-7.8 9.9-14.5 21-20.7 32.1-5.9 10.6-11.5 21.2-17.2 31.9v130.6h68.7V12.5h-.6zM410.8 64.5c-6.4-11.2-13-22.6-21.2-32.5-4-4.8-8.2-9.8-13.4-13.3-4.8-3.3-10.5-6.4-16.5-6.2v215.3h68.7V97.2c-5.8-10.9-11.5-21.9-17.6-32.7z"/>
+    <path fill="#2980b9" d="M492.9 194.9c-9.5-8.9-17.7-19-25.2-29.7-7.3-10.4-13.9-21.4-20.2-32.6-6.5-11.5-12.7-23.2-18.8-34.9 0-.2-.2-.3-.2-.4v130.5h68.6v-29.1c-1.4-1.2-2.9-2.5-4.3-3.8z"/>
+    <path fill="#85c1e9" d="M559.4 224.7c-11.9-1.5-24.1-4.2-35.1-9.1-9.8-4.3-18.9-9.9-27.1-16.9v29.1H566v-2.4c-2.2-.2-4.3-.4-6.5-.7zM632.8 227.8c-12.2 0-24.4-.2-36.5-.5-10.2-.3-20.3-.8-30.3-1.9v2.4h68.7-1.9z"/>
+    <g font-size="14" text-anchor="middle">
+        <text y="253" x="79.8">−4</text>
+        <text y="253" x="148.5">−3</text>
+        <text y="253" x="217.3">−2</text>
+        <text y="253" x="286.3">−1</text>
+        <text y="253" x="359.7">0</text>
+        <text y="253" x="423.4">+1</text>
+        <text y="253" x="492.2">+2</text>
+        <text y="253" x="560.9">+3</text>
+        <text y="253" x="629.6">+4</text>
+    </g>
+    <path d="M1657.7 675.1h803.5v500.8h-803.5z"/>
+    <g font-size="12" text-anchor="middle">
+        <text y="291.5" x="159.9">0.1%</text>
+        <text y="291.5" x="228.6">2.3%</text>
+        <text y="291.5" x="297.3">15.9%</text>
+        <text y="291.5" x="366.1">50%</text>
+        <text y="291.5" x="434.8">84.1%</text>
+        <text y="291.5" x="503.6">97.7%</text>
+        <text y="291.5" x="572.3">99.9%</text>
+    </g>
+    <g font-size="12" text-anchor="middle">
+        <text y="328.3" x="205.6">1%</text>
+        <text y="328.3" x="262.6">6.7%</text>
+        <text y="328.3" x="331.3">30.9%</text>
+        <text y="328.3" x="400.1">69.1%</text>
+        <text y="328.3" x="468.8">93.3%</text>
+        <text y="328.3" x="520.6">99%</text>
+    </g>
+    <path stroke="#000" d="M153.9 293.8V304M222.6 293.8V304M291.3 293.8V304M360.1 293.8V304M428.8 293.8V304M497.6 293.8V304M566.3 293.8V304M199.6 304.8V315M256.6 304.8V315M325.3 304.8V315M394.1 304.8V315M462.8 304.8V315M514.6 304.8V315M81.5 304.7h555.7"/>
+    <path stroke="#000" d="M153.5 225.3v2.5"/>
+    <path stroke="#f5b7b1" d="M187.9 218.1v9.7"/>
+    <path stroke="#000" d="M222.3 198.5v29.3"/>
+    <path stroke="#f5b7b1" d="M256.6 157.8v70"/>
+    <path stroke="#000" d="M291 97.3v130.5"/>
+    <path stroke="#28b463" d="M325.3 37.9v189.9"/>
+    <path stroke="#28b463" d="M359.7 12.5v215.3"/>
+    <path stroke="#28b463" d="M394.1 37.9v189.9"/>
+    <path stroke="#000" d="M428.4 97.3v130.5"/>
+    <path stroke="#aed6f1" d="M462.8 157.8v70"/>
+    <path stroke="#000" d="M497.2 198.5v29.3"/>
+    <path stroke="#aed6f1" d="M531.5 218.1v9.7"/>
+    <path stroke="#000" d="M565.9 225.3v2.5"/>
+    <path stroke="#000" d="M84.8 228v10.8M119.2 228v10.8M153.5 228v10.8M187.9 228v10.8M222.3 228v10.8M256.6 228v10.8M291 228v10.8M325.3 228v10.8M359.7 228v10.8M394.1 228v10.8M428.4 228v10.8M462.8 228v10.8M497.2 228v10.8M531.5 228v10.8M565.9 228v10.8M600.2 228v10.8M634.6 228v10.8M42.3 227.8h607.6"/>
+    <g font-size="10" text-anchor="middle" fill="#fff">
+        <text fill="#000" y="222" x="136.35">0.1%</text>
+        <text fill="#000" y="201.6" x="170.7">0.5%</text>
+        <text fill="#000" y="224.8" x="205.1">1.7%</text>
+        <text y="213" x="239.45">4.4%</text>
+        <text y="194" x="273.8">9.2%</text>
+        <text y="157.5" x="308.15">15.0%</text>
+        <text y="119" x="342.5">19.1%</text>
+        <text y="119" x="376.9">19.1%</text>
+        <text y="157.5" x="411.25">15.0%</text>
+        <text y="194" x="445.6">9.2%</text>
+        <text y="213" x="480">4.4%</text>
+        <text fill="#000" y="224.8" x="514.45">1.7%</text>
+        <text fill="#000" y="201.6" x="548.7">0.5%</text>
+        <text fill="#000" y="222" x="583.05">0.1%</text>
+        <text font-size="36" y="210" x="361"><tspan font-weight="bold">68</tspan>.<tspan font-weight="bold">2</tspan>%</text>
+    </g>
+    <path stroke="#000" fill="none" d="M84.7 227.8c12.4 0 24.8-.2 37.2-.5 11.8-.3 23.8-.8 35.5-2.3 12.5-1.6 24.7-4.2 36.5-8.9 11.7-4.7 22.1-11.9 31.6-20.3 9.3-8.2 17.4-18.2 24.6-28.4 7.4-10.5 14.2-21.4 20.5-32.6 6.5-11.6 12.8-23.3 19-35 6.1-11.5 12.2-23 18.5-34.4 6.2-11.1 12.8-22.2 20.7-32.1 4-5.2 8.5-9.8 13.5-13.9 4.9-4 10.7-6.3 16.9-6.8 6.2-.5 12.1 2.7 17.1 6.1 5.1 3.5 9.4 8.5 13.4 13.3 8.2 10 14.8 21.3 21.2 32.5 6.2 10.9 12 22.1 17.9 33.1 6.2 11.7 12.3 23.4 18.8 34.9 6.3 11.2 12.9 22.2 20.2 32.6 7.5 10.7 15.8 20.8 25.2 29.7 9.3 8.8 19.9 15.6 31.4 20.7 11.1 4.9 23.2 7.6 35.1 9.1 12.2 1.5 24.5 2.2 36.8 2.6 12.2.4 24.4.4 36.5.5h1.9"/>
+    <g stroke="#000">
+        <path marker-end="url(#a)" d="M170.7 204.7l12.1 18.5"/>
+        <path marker-end="url(#a)" d="M548.7 204.7l-12.1 18.5"/>
+    </g>
+    <g text-anchor="middle" font-size="12">
+        <text x="153.464" y="372.436">55</text>
+        <text x="222.009" y="372.436">70</text>
+        <text x="290.92" y="372.436">85</text>
+        <text x="359.342" y="372.436">100</text>
+        <text x="428.168" y="372.436">115</text>
+        <text x="496.842" y="372.436">130</text>
+        <text x="565.668" y="372.436">145</text>
+    </g>
+    <path stroke="#000" d="M153.9 361.4v-10.2M222.6 361.4v-10.2M291.3 361.4v-10.2M360.1 361.4v-10.2M428.8 361.4v-10.2M497.6 361.4v-10.2M566.3 361.4v-10.2M81.5 350.5h555.7"/>
 </svg></p>
 <p>In a school setting, a student who scores near the <i>top</i> of the <span class="bell-g">“Average”</span> range is generally considered average, usually meaning that they don’t qualify as talented and gifted (TAG). Likewise, a student who scores near the <i>bottom</i> of the <span class="bell-g">“Average”</span> range is generally considered average, usually meaning that there’s no reason to suspect a disability that would need specially designed instruction (SDI) through a individualized education plan (IEP) from Special Education. Nonetheless, it is your right to request a Special Education eligibility evaluation from your child’s school (<a href="{{site.url}}/Special-Education-Rights-Requesting-eligibility-evaluation/">see my article on requesting an evaluation</a>), and if you do, it might be helpful to clearly explain why you believe your child has a disability, because on the surface, your child’s performance is in the <span class="bell-g">“Average”</span> range. Although your school might not provide Special Education, teachers often offer these students informal supports, sometimes called “tiered” or “Tier 2” supports, which might include small-group instruction in class while others are doing independant work, after-school tutoring, etc. If you think that your child is not performing up to their potential, you might also consider other explainations, such as difficulties with attention or focus. Children with a diagnosis, such as ADHD, usually qualify for a Section 504 Plan that can include accommidations. Note that a 504 Plan is usually simplier to get than an IEP.</p>
 <p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" enable-background="new 0 0 8572.697 476.845" viewBox="0 0 8572.697 476.845"><defs>
