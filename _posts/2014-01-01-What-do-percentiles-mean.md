@@ -36,8 +36,8 @@ variables:
 - modestbranding=1
 - disablekb=1
 style: "p~ul{margin-top:-1.25rem}
-.bell-r,.bell-g,.bell-b{padding:.0 .2em .15em;margin:0 -.2em -.15em;border-radius:.333em;color:white}
-.bell-r{background:#c0392b}.bell-g{background:#1e8549}.bell-b{background:#277cb4}"
+.bell-r,.bell-g,.bell-b{padding:.0 .2em .15em;margin:0 -.2em -.15em;border-radius:.333em;font-weight:bold}
+.bell-r{color:#c0392b}.bell-g{color:#1e8549}.bell-b{color:#277cb4}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://pixabay.com/en/pay-digits-number-fill-series-819587/'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 384.017' enable-background='new 0 0 384 384.017'><path d='M192 .017c-106.036 0-192 85.964-192 192 0 106.024 85.964 192 192 192s192-85.976 192-192c0-106.037-85.964-192-192-192zm0 347.998c-86.023 0-156.004-69.987-156.004-155.998 0-18.007 3.103-35.299 8.746-51.394l61.013 27.169c-1.643 8.165-2.534 16.682-2.534 25.479 0 76.65 57.212 98.247 93.208 98.247 21.227 0 39.598-6.852 53.979-16.904 2.733-1.959 5.209-3.93 7.484-5.936l-27.99-34.009c-.821.938-1.678 1.83-2.557 2.628-10.887 10.323-22.853 10.323-25.527 10.323-29.286 0-41.545-30.899-41.709-55.651l168.157 74.867.527.07c-26.534 48.309-77.903 81.109-136.793 81.109zm150.332-116.137l-173.436-77.412c6.258-11.332 16.218-19.849 31.122-19.849 8.64 0 15.491 2.862 20.887 6.476 2.24 1.619 4.188 3.237 5.83 4.868l31.263-32.178c-20.998-18.054-44.871-21.28-60.484-21.28-36.688 0-62.649 15.86-77.952 39.944l-57.998-25.867c27.914-42.466 75.946-70.573 130.436-70.573 86.022 0 156.01 69.976 156.01 156.01 0 13.925-1.865 27.403-5.303 40.261l-.375-.4z'/></svg></a>&nbsp;geralt"
 title: "What do percentiles mean?"
 description: "A percentile is the percent who have the same or a lower score; therefore, a percentile shows how your child’s score relates to the scores of other children."
