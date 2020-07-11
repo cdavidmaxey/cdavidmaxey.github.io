@@ -60,3 +60,4 @@ collections:
   timer:
     output: TRUE
     permalink: "/:name"
+alert: "<strong>COVID-19 Notice:</strong> All services are being provided by video conferencing."

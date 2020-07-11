@@ -23,4 +23,5 @@
 				<!--sse--><a rel="nofollow" href="tel:{{site.tel}}">{{site.telephone}}</a><!--/sse-->
 				<!--sse--><a class="right" rel="nofollow" href="mailto:{{site.email}}">{{site.email}}</a><!--/sse-->
 			</section>
-		{% endunless %}</div>
+		{% endunless %}</div>{% unless page.url == '/crisis/' %}{% if site.alert %}
+        <div>{{site.alert}}</div>{% endif %}{% endunless %}
