@@ -11,6 +11,9 @@ redirect_from:
 - "/percentiles/"
 - "/Percentiles/"
 - "/PERCENTILES/"
+- "/bell/"
+- "/Bell/"
+- "/BELL/"
 layout: post
 published: TRUE
 alt: "swirl of numbers"
