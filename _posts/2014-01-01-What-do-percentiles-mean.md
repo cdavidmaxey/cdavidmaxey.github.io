@@ -57,7 +57,7 @@ tags:
 	<li><strong>IQ</strong>: An IQ score is often reported with a corresponding percentile. If a child has an IQ of 100, the corresponding percentile is typically the 50<sup>th</sup> percentile, meaning that the child’s IQ is the same as or higher than 50% of other children’s IQ.</li>
 </ul>
 <p>Intelligence is usually assumed to approximate a normal distribution, and IQ is commonly reported with a mean of 100 and a standard deviation (SD) of 15 (see table on the right). In the standard normal distribution shown below, the <span class="bell-g">green</span> part is usually called the <span class="bell-g">“Average”</span> range, which is within 1 standard deviation of the mean (or average). In a normal distribution, most children (i.e., about two-thirds or 68.2%) score in the <span class="bell-g">“Average”</span> range within the 16<sup>th</sup> and 84<sup>th</sup> percentiles.</p>
-<p class="clear"><a href="{{site.url}}/Standard-Normal-Distribution-Bell-Curve.pdf"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 467" font-family="sans-serif" stroke-width="1">
+<p class="clear"><a href="{{site.url}}/Standard-Normal-Distribution-Bell-Curve.pdf"><svg xmlns="http://www.w3.org/2000/svg" viewBox="14 10 636 442" font-family="sans-serif" stroke-width="1">
     <defs>
         <marker orient="auto" overflow="visible" id="a"><path d="M0 0l5-5-17.5 5L5 5z" stroke="#000" transform="matrix(-.4 0 0 -.4 -4 0)"/></marker>
     </defs>
@@ -69,9 +69,9 @@ tags:
         <text font-size="10" y="265" x="359.7">Average</text>
         <text font-size="10" y="276" x="359.7">(Mean)</text>
         <text text-anchor="end" x="120" y="308">Percentile</text>
-        <text text-anchor="end" x="120" y="353.589">IQ / Standard Score</text>
-        <text text-anchor="end" x="120" y="399.389">Scaled Score</text>
-        <text text-anchor="end" x="120" y="445.189">T-score</text>
+        <text text-anchor="end" x="120" y="348.589">IQ / Standard Score</text>
+        <text text-anchor="end" x="120" y="389.389">Scaled Score</text>
+        <text text-anchor="end" x="120" y="430.189">T-score</text>
     </g>
     <g font-size="20" text-anchor="middle">
         <text y="37.5" x="162.5">Standard Normal Distribution</text>
@@ -179,69 +179,69 @@ tags:
         <text y="291.5" x="520.6">99%</text>
     </g>
     <g stroke="#000">
-        <path d="M153.5 350.5v+10"/>
-        <path d="M222.3 350.5v+10"/>
-        <path d="M291 350.5v+10"/>
-        <path d="M359.7 350.5v+10"/>
-        <path d="M428.4 350.5v+10"/>
-        <path d="M497.2 350.5v+10"/>
-        <path d="M565.9 350.5v+10"/>
-        <path d="M124.5 350.5h525.5"/>
+        <path d="M153.5 345.5v+10"/>
+        <path d="M222.3 345.5v+10"/>
+        <path d="M291 345.5v+10"/>
+        <path d="M359.7 345.5v+10"/>
+        <path d="M428.4 345.5v+10"/>
+        <path d="M497.2 345.5v+10"/>
+        <path d="M565.9 345.5v+10"/>
+        <path d="M124.5 345.5h525.5"/>
     </g>
     <g text-anchor="middle" font-size="12">
-        <text x="153.5" y="372.4">55</text>
-        <text x="222.3" y="372.4">70</text>
-        <text x="291" y="372.4">85</text>
-        <text x="359.7" y="372.4">100</text>
-        <text x="428.4" y="372.4">115</text>
-        <text x="497.2" y="372.4">130</text>
-        <text x="565.9" y="372.4">145</text>
+        <text x="153.5" y="367.4">55</text>
+        <text x="222.3" y="367.4">70</text>
+        <text x="291" y="367.4">85</text>
+        <text x="359.7" y="367.4">100</text>
+        <text x="428.4" y="367.4">115</text>
+        <text x="497.2" y="367.4">130</text>
+        <text x="565.9" y="367.4">145</text>
     </g>
     <g stroke="#000">
-        <path d="M153.5 396.3v+10"/>
-        <path d="M222.3 396.3v+10"/>
-        <path d="M291 396.3v+10"/>
-        <path d="M359.7 396.3v+10"/>
-        <path d="M428.4 396.3v+10"/>
-        <path d="M497.2 396.3v+10"/>
-        <path d="M565.9 396.3v+10"/>
-        <path d="M124.5 396.3h525.5"/>
+        <path d="M153.5 386.3v+10"/>
+        <path d="M222.3 386.3v+10"/>
+        <path d="M291 386.3v+10"/>
+        <path d="M359.7 386.3v+10"/>
+        <path d="M428.4 386.3v+10"/>
+        <path d="M497.2 386.3v+10"/>
+        <path d="M565.9 386.3v+10"/>
+        <path d="M124.5 386.3h525.5"/>
     </g>
     <g text-anchor="middle" font-size="12">
-        <text x="153.5" y="418.2">1</text>
-        <text x="222.3" y="418.2">4</text>
-        <text x="291" y="418.2">7</text>
-        <text x="359.7" y="418.2">10</text>
-        <text x="428.4" y="418.2">13</text>
-        <text x="497.2" y="418.2">16</text>
-        <text x="565.9" y="418.2">19</text>
+        <text x="153.5" y="408.2">1</text>
+        <text x="222.3" y="408.2">4</text>
+        <text x="291" y="408.2">7</text>
+        <text x="359.7" y="408.2">10</text>
+        <text x="428.4" y="408.2">13</text>
+        <text x="497.2" y="408.2">16</text>
+        <text x="565.9" y="408.2">19</text>
     </g>
     <g stroke="#000">
-        <path d="M153.5 442.1v+10"/>
-        <path d="M187.9 442.1v+10"/>
-        <path d="M222.3 442.1v+10"/>
-        <path d="M256.6 442.1v+10"/>
-        <path d="M291 442.1v+10"/>
-        <path d="M359.7 442.1v+10"/>
-        <path d="M428.4 442.1v+10"/>
-        <path d="M462.8 442.1v+10"/>
-        <path d="M497.2 442.1v+10"/>
-        <path d="M531.5 442.1v+10"/>
-        <path d="M565.9 442.1v+10"/>
-        <path d="M124.5 442.1h525.5"/>
+        <path d="M153.5 427.1v+10"/>
+        <path d="M187.9 427.1v+10"/>
+        <path d="M222.3 427.1v+10"/>
+        <path d="M256.6 427.1v+10"/>
+        <path d="M291 427.1v+10"/>
+        <path d="M359.7 427.1v+10"/>
+        <path d="M428.4 427.1v+10"/>
+        <path d="M462.8 427.1v+10"/>
+        <path d="M497.2 427.1v+10"/>
+        <path d="M531.5 427.1v+10"/>
+        <path d="M565.9 427.1v+10"/>
+        <path d="M124.5 427.1h525.5"/>
     </g>
     <g text-anchor="middle" font-size="12">
-        <text x="153.5" y="464">20</text>
-        <text x="187.9" y="464">25</text>
-        <text x="222.3" y="464">30</text>
-        <text x="256.6" y="464">35</text>
-        <text x="291" y="464">40</text>
-        <text x="359.7" y="464">50</text>
-        <text x="428.4" y="464">60</text>
-        <text x="462.8" y="464.036">65</text>
-        <text x="497.2" y="464.036">70</text>
-        <text x="531.5" y="464.036">75</text>
-        <text x="565.9" y="464.036">80</text>
+        <text x="153.5" y="449">20</text>
+        <text x="187.9" y="449">25</text>
+        <text x="222.3" y="449">30</text>
+        <text x="256.6" y="449">35</text>
+        <text x="291" y="449">40</text>
+        <text x="359.7" y="449">50</text>
+        <text x="428.4" y="449">60</text>
+        <text x="462.8" y="449">65</text>
+        <text x="497.2" y="449">70</text>
+        <text x="531.5" y="449">75</text>
+        <text x="565.9" y="449">80</text>
     </g>
 </svg></a></p>
 <p>In a school setting, students who score near the <i>top</i> of the <span class="bell-g">“Average”</span> range (up to the 84<sup>th</sup> percentile) are generally considered average, usually meaning that they don’t qualify as talented and gifted (TAG). Likewise, student who score near the <i>bottom</i> of the <span class="bell-g">“Average”</span> range (down to the 16<sup>th</sup> percentile) are generally considered average, usually meaning that there’s no reason to suspect a disability that would need specially designed instruction (SDI) through a individualized education plan (IEP) from Special Education. If your child’s performance is in the <span class="bell-g">“Average”</span> range, it is still your right to request a Special Education eligibility evaluation from your child’s school (<a href="{{site.url}}/Special-Education-Rights-Requesting-eligibility-evaluation/">see my article on requesting an evaluation</a>), and if you do, it might be helpful to clearly explain why you believe your child has a disability, because your child’s performance is not substantially impaired&ndash;it’s average. Although your school might not provide Special Education, teachers often offer struggling students informal supports, sometimes called “tiered” or “Tier 2” or “Tier 3” supports, which might include small-group instruction in class while others are doing independant work, after-school tutoring, etc. If you think that your child is not performing up to their potential, you might also consider other explainations, such as difficulties with attention or focus. Children with a diagnosis, such as ADHD, usually qualify for a Section 504 Plan that can include accommodations. Note that getting a 504 Plan is usually less involved than getting an IEP.</p>
