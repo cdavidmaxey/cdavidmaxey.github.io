@@ -54,61 +54,31 @@ tags:
 	<li><strong>IQ</strong>: An IQ score is often reported with a corresponding percentile. If a child has an IQ of 100, the corresponding percentile is typically the 50<sup>th</sup> percentile, meaning that the child’s IQ is the same as or higher than 50% of other children’s IQ.</li>
 </ul>
 <p>Intelligence is usually assumed to approximate a normal distribution, and IQ is commonly reported with a mean of 100 and a standard deviation (SD) of 15 (see table on the right). In the standard normal distribution shown below, the <span class="bell-g">green</span> part is usually called the <span class="bell-g">“Average”</span> range, which is within 1 standard deviation of the mean (or average). In a normal distribution, most children (i.e., about two-thirds or 68.2%) score in the <span class="bell-g">“Average”</span> range within the 16<sup>th</sup> and 84<sup>th</sup> percentiles.</p>
-<p class="clear"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 375" font-family="sans-serif" stroke-width="1">
+<p class="clear"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 467" font-family="sans-serif" stroke-width="1">
     <defs>
         <marker orient="auto" overflow="visible" id="a"><path d="M0 0l5-5-17.5 5L5 5z" stroke="#000" transform="matrix(-.4 0 0 -.4 -4 0)"/></marker>
     </defs>
     <g font-size="12" text-anchor="middle">
-        <text y="247" x="40">Standard</text>
-        <text y="260" x="40">Deviations</text>
-        <text font-size="10" y="272" x="40">(from the mean)</text>
-        <text font-size="10" y="265" x="359.7">Mean</text>
-        <text font-size="10" y="276" x="359.7">(Average)</text>
-        <text text-anchor="end" y="308" x="77">Percentile</text>
-        <text text-anchor="end" x="77.036" y="354.089">IQ</text>
+        <text text-anchor="end" x="80.2" y="231.1">Z-score</text>
+        <text y="253" x="610">Standard</text>
+        <text y="266" x="610">Deviations</text>
+        <text font-size="10" y="278" x="610">(from the mean)</text>
+        <text font-size="10" y="265" x="359.7">Average</text>
+        <text font-size="10" y="276" x="359.7">(Mean)</text>
+        <text text-anchor="end" x="120" y="308">Percentile</text>
+        <text text-anchor="end" x="120" y="353.589">IQ / Standard Score</text>
+        <text text-anchor="end" x="120" y="399.389">Scaled Score</text>
+        <text text-anchor="end" x="120" y="445.189">T-score</text>
     </g>
     <g font-size="20" text-anchor="middle">
         <text y="37.5" x="162.5">Standard Normal Distribution</text>
         <text font-style="italic" y="62.5" x="162.5">“Bell Curve”</text>
     </g>
-    <g fill="#f1948a">
-        <path d="M121.9 227.3c-12.4.3-24.8.4-37.2.5h68.8v-2.3c-10.5 1.1-21 1.5-31.5 1.8z"/>
-        <path d="M193.9 216.1c-11.7 4.8-24 7.4-36.5 8.9-1.3.2-2.7.3-4 .5v2.3h68.7v-29.2c-8.6 7.2-17.9 13.3-28.2 17.4z"/>
-    </g>
+    <path fill="#f1948a" d="M121.9 227.3c-12.4.3-24.8.4-37.2.5h68.8v-2.3c-10.5 1.1-21 1.5-31.5 1.8zM193.9 216.1c-11.7 4.8-24 7.4-36.5 8.9-1.3.2-2.7.3-4 .5v2.3h68.7v-29.2c-8.6 7.2-17.9 13.3-28.2 17.4z"/>
     <path fill="#c0392b" d="M289.6 99.7c-6.2 11.8-12.4 23.5-19 35-6.3 11.2-13.2 22.1-20.5 32.6-7.1 10.2-15.3 20.2-24.6 28.4-1.1 1-2.2 1.9-3.4 2.9v29.2h68.7V97.2c-.4.8-.9 1.7-1.3 2.5z"/>
-    <path fill="#1e8549" d="M359.1 12.5c-6.1.5-12 2.8-16.9 6.8-5 4.1-9.5 8.7-13.5 13.9-7.8 9.9-14.5 21-20.7 32.1-5.9 10.6-11.5 21.2-17.2 31.9v130.6h68.7V12.5h-.6zM410.8 64.5c-6.4-11.2-13-22.6-21.2-32.5-4-4.8-8.2-9.8-13.4-13.3-4.8-3.3-10.5-6.4-16.5-6.2v215.3h68.7V97.2c-5.8-10.9-11.5-21.9-17.6-32.7z"/>
+    <path fill="#1a7541" d="M359.1 12.5c-6.1.5-12 2.8-16.9 6.8-5 4.1-9.5 8.7-13.5 13.9-7.8 9.9-14.5 21-20.7 32.1-5.9 10.6-11.5 21.2-17.2 31.9v130.6h68.7V12.5h-.6zM410.8 64.5c-6.4-11.2-13-22.6-21.2-32.5-4-4.8-8.2-9.8-13.4-13.3-4.8-3.3-10.5-6.4-16.5-6.2v215.3h68.7V97.2c-5.8-10.9-11.5-21.9-17.6-32.7z"/>
     <path fill="#2980b9" d="M492.9 194.9c-9.5-8.9-17.7-19-25.2-29.7-7.3-10.4-13.9-21.4-20.2-32.6-6.5-11.5-12.7-23.2-18.8-34.9 0-.2-.2-.3-.2-.4v130.5h68.6v-29.1c-1.4-1.2-2.9-2.5-4.3-3.8z"/>
     <path fill="#85c1e9" d="M559.4 224.7c-11.9-1.5-24.1-4.2-35.1-9.1-9.8-4.3-18.9-9.9-27.1-16.9v29.1H566v-2.4c-2.2-.2-4.3-.4-6.5-.7zM632.8 227.8c-12.2 0-24.4-.2-36.5-.5-10.2-.3-20.3-.8-30.3-1.9v2.4h68.7-1.9z"/>
-    <g font-size="14" text-anchor="middle">
-        <text y="253" x="79.8">−4</text>
-        <text y="253" x="148.5">−3</text>
-        <text y="253" x="217.3">−2</text>
-        <text y="253" x="286.3">−1</text>
-        <text y="253" x="359.7">0</text>
-        <text y="253" x="423.4">+1</text>
-        <text y="253" x="492.2">+2</text>
-        <text y="253" x="560.9">+3</text>
-        <text y="253" x="629.6">+4</text>
-    </g>
-    <path d="M1657.7 675.1h803.5v500.8h-803.5z"/>
-    <g font-size="12" text-anchor="middle">
-        <text y="291.5" x="159.9">0.1%</text>
-        <text y="291.5" x="228.6">2.3%</text>
-        <text y="291.5" x="297.3">15.9%</text>
-        <text y="291.5" x="366.1">50%</text>
-        <text y="291.5" x="434.8">84.1%</text>
-        <text y="291.5" x="503.6">97.7%</text>
-        <text y="291.5" x="572.3">99.9%</text>
-    </g>
-    <g font-size="12" text-anchor="middle">
-        <text y="328.3" x="205.6">1%</text>
-        <text y="328.3" x="262.6">6.7%</text>
-        <text y="328.3" x="331.3">30.9%</text>
-        <text y="328.3" x="400.1">69.1%</text>
-        <text y="328.3" x="468.8">93.3%</text>
-        <text y="328.3" x="520.6">99%</text>
-    </g>
-    <path stroke="#000" d="M153.9 293.8V304M222.6 293.8V304M291.3 293.8V304M360.1 293.8V304M428.8 293.8V304M497.6 293.8V304M566.3 293.8V304M199.6 304.8V315M256.6 304.8V315M325.3 304.8V315M394.1 304.8V315M462.8 304.8V315M514.6 304.8V315M81.5 304.7h555.7"/>
     <path stroke="#000" d="M153.5 225.3v2.5"/>
     <path stroke="#f5b7b1" d="M187.9 218.1v9.7"/>
     <path stroke="#000" d="M222.3 198.5v29.3"/>
@@ -122,39 +92,154 @@ tags:
     <path stroke="#000" d="M497.2 198.5v29.3"/>
     <path stroke="#aed6f1" d="M531.5 218.1v9.7"/>
     <path stroke="#000" d="M565.9 225.3v2.5"/>
-    <path stroke="#000" d="M84.8 228v10.8M119.2 228v10.8M153.5 228v10.8M187.9 228v10.8M222.3 228v10.8M256.6 228v10.8M291 228v10.8M325.3 228v10.8M359.7 228v10.8M394.1 228v10.8M428.4 228v10.8M462.8 228v10.8M497.2 228v10.8M531.5 228v10.8M565.9 228v10.8M600.2 228v10.8M634.6 228v10.8M42.3 227.8h607.6"/>
+    <g stroke="#000">
+        <path d="M119.2 227.8v10.8"/>
+        <path d="M153.5 227.8v10.8"/>
+        <path d="M187.9 227.8v10.8"/>
+        <path d="M222.3 227.8v10.8"/>
+        <path d="M256.6 227.8v10.8"/>
+        <path d="M291 227.8v10.8"/>
+        <path d="M325.3 227.8v10.8"/>
+        <path d="M359.7 227.8v10.8"/>
+        <path d="M394.1 227.8v10.8"/>
+        <path d="M428.4 227.8v10.8"/>
+        <path d="M462.8 227.8v10.8"/>
+        <path d="M497.2 227.8v10.8"/>
+        <path d="M531.5 227.8v10.8"/>
+        <path d="M565.9 227.8v10.8"/>
+        <path d="M600.2 227.8v10.8"/>
+        <path d="M84.7 227.8h565.3"/>
+    </g>
     <g font-size="10" text-anchor="middle" fill="#fff">
         <text fill="#000" y="222" x="136.35">0.1%</text>
         <text fill="#000" y="201.6" x="170.7">0.5%</text>
         <text fill="#000" y="224.8" x="205.1">1.7%</text>
         <text y="213" x="239.45">4.4%</text>
         <text y="194" x="273.8">9.2%</text>
-        <text y="157.5" x="308.15">15.0%</text>
-        <text y="119" x="342.5">19.1%</text>
-        <text y="119" x="376.9">19.1%</text>
-        <text y="157.5" x="411.25">15.0%</text>
+        <text y="160" x="308.15">15.0%</text>
+        <text y="140" x="342.5">19.1%</text>
+        <text y="140" x="376.9">19.1%</text>
+        <text y="160" x="411.25">15.0%</text>
         <text y="194" x="445.6">9.2%</text>
         <text y="213" x="480">4.4%</text>
         <text fill="#000" y="224.8" x="514.45">1.7%</text>
         <text fill="#000" y="201.6" x="548.7">0.5%</text>
         <text fill="#000" y="222" x="583.05">0.1%</text>
         <text font-size="36" y="210" x="361"><tspan font-weight="bold">68</tspan>.<tspan font-weight="bold">2</tspan>%</text>
+        <text font-size="24" y="110" x="361">“<tspan font-weight="bold">Average</tspan>”</text>
     </g>
     <path stroke="#000" fill="none" d="M84.7 227.8c12.4 0 24.8-.2 37.2-.5 11.8-.3 23.8-.8 35.5-2.3 12.5-1.6 24.7-4.2 36.5-8.9 11.7-4.7 22.1-11.9 31.6-20.3 9.3-8.2 17.4-18.2 24.6-28.4 7.4-10.5 14.2-21.4 20.5-32.6 6.5-11.6 12.8-23.3 19-35 6.1-11.5 12.2-23 18.5-34.4 6.2-11.1 12.8-22.2 20.7-32.1 4-5.2 8.5-9.8 13.5-13.9 4.9-4 10.7-6.3 16.9-6.8 6.2-.5 12.1 2.7 17.1 6.1 5.1 3.5 9.4 8.5 13.4 13.3 8.2 10 14.8 21.3 21.2 32.5 6.2 10.9 12 22.1 17.9 33.1 6.2 11.7 12.3 23.4 18.8 34.9 6.3 11.2 12.9 22.2 20.2 32.6 7.5 10.7 15.8 20.8 25.2 29.7 9.3 8.8 19.9 15.6 31.4 20.7 11.1 4.9 23.2 7.6 35.1 9.1 12.2 1.5 24.5 2.2 36.8 2.6 12.2.4 24.4.4 36.5.5h1.9"/>
-    <g stroke="#000">
-        <path marker-end="url(#a)" d="M170.7 204.7l12.1 18.5"/>
-        <path marker-end="url(#a)" d="M548.7 204.7l-12.1 18.5"/>
+    <g stroke="#000" marker-end="url(#a)">
+        <path d="M170.7 204.7l12.1 18.5"/>
+        <path d="M548.7 204.7l-12.1 18.5"/>
     </g>
     <g font-size="14" text-anchor="middle">
-        <text y="374" x="153.5">55</text>
-        <text y="374" x="222.3">70</text>
-        <text y="374" x="291">85</text>
-        <text y="374" x="359.7">100</text>
-        <text y="374" x="428.4">115</text>
-        <text y="374" x="497.2">130</text>
-        <text y="374" x="565.9">145</text>
+        <text y="253" x="148.5">−3</text>
+        <text y="253" x="217.3">−2</text>
+        <text y="253" x="286.3">−1</text>
+        <text y="253" x="359.7">0</text>
+        <text y="253" x="423.4">+1</text>
+        <text y="253" x="492.2">+2</text>
+        <text y="253" x="560.9">+3</text>
     </g>
-    <path stroke="#000" d="M153.9 361.4v-10.2M222.6 361.4v-10.2M291.3 361.4v-10.2M360.1 361.4v-10.2M428.8 361.4v-10.2M497.6 361.4v-10.2M566.3 361.4v-10.2M81.5 350.5h555.7"/>
+    <g font-size="12" text-anchor="middle">
+        <text y="328.3" x="159.9">0.1%</text>
+        <text y="328.3" x="228.6">2.3%</text>
+        <text y="328.3" x="297.3">15.9%</text>
+        <text y="328.3" x="366.1">50%</text>
+        <text y="328.3" x="434.8">84.1%</text>
+        <text y="328.3" x="503.6">97.7%</text>
+        <text y="328.3" x="572.3">99.9%</text>
+    </g>
+    <g stroke="#000">
+        <path d="M153.9 304.7v+10"/>
+        <path d="M222.6 304.7v+10"/>
+        <path d="M291.3 304.7v+10"/>
+        <path d="M360.1 304.7v+10"/>
+        <path d="M428.8 304.7v+10"/>
+        <path d="M497.6 304.7v+10"/>
+        <path d="M566.3 304.7v+10"/>
+        <path d="M199.6 304.7v-10"/>
+        <path d="M256.6 304.7v-10"/>
+        <path d="M325.3 304.7v-10"/>
+        <path d="M394.1 304.7v-10"/>
+        <path d="M462.8 304.7v-10"/>
+        <path d="M514.6 304.7v-10"/>
+        <path d="M124.5 304.7h525.5"/>
+    </g>
+    <g font-size="12" text-anchor="middle">
+        <text y="291.5" x="205.6">1%</text>
+        <text y="291.5" x="262.6">6.7%</text>
+        <text y="291.5" x="331.3">30.9%</text>
+        <text y="291.5" x="400.1">69.1%</text>
+        <text y="291.5" x="468.8">93.3%</text>
+        <text y="291.5" x="520.6">99%</text>
+    </g>
+    <g stroke="#000">
+        <path d="M153.5 350.5v+10"/>
+        <path d="M222.3 350.5v+10"/>
+        <path d="M291 350.5v+10"/>
+        <path d="M359.7 350.5v+10"/>
+        <path d="M428.4 350.5v+10"/>
+        <path d="M497.2 350.5v+10"/>
+        <path d="M565.9 350.5v+10"/>
+        <path d="M124.5 350.5h525.5"/>
+    </g>
+    <g text-anchor="middle" font-size="12">
+        <text x="153.5" y="372.4">55</text>
+        <text x="222.3" y="372.4">70</text>
+        <text x="291" y="372.4">85</text>
+        <text x="359.7" y="372.4">100</text>
+        <text x="428.4" y="372.4">115</text>
+        <text x="497.2" y="372.4">130</text>
+        <text x="565.9" y="372.4">145</text>
+    </g>
+    <g stroke="#000">
+        <path d="M153.5 396.3v+10"/>
+        <path d="M222.3 396.3v+10"/>
+        <path d="M291 396.3v+10"/>
+        <path d="M359.7 396.3v+10"/>
+        <path d="M428.4 396.3v+10"/>
+        <path d="M497.2 396.3v+10"/>
+        <path d="M565.9 396.3v+10"/>
+        <path d="M124.5 396.3h525.5"/>
+    </g>
+    <g text-anchor="middle" font-size="12">
+        <text x="153.5" y="418.2">1</text>
+        <text x="222.3" y="418.2">4</text>
+        <text x="291" y="418.2">7</text>
+        <text x="359.7" y="418.2">10</text>
+        <text x="428.4" y="418.2">13</text>
+        <text x="497.2" y="418.2">16</text>
+        <text x="565.9" y="418.2">19</text>
+    </g>
+    <g stroke="#000">
+        <path d="M153.5 442.1v+10"/>
+        <path d="M187.9 442.1v+10"/>
+        <path d="M222.3 442.1v+10"/>
+        <path d="M256.6 442.1v+10"/>
+        <path d="M291 442.1v+10"/>
+        <path d="M359.7 442.1v+10"/>
+        <path d="M428.4 442.1v+10"/>
+        <path d="M462.8 442.1v+10"/>
+        <path d="M497.2 442.1v+10"/>
+        <path d="M531.5 442.1v+10"/>
+        <path d="M565.9 442.1v+10"/>
+        <path d="M124.5 442.1h525.5"/>
+    </g>
+    <g text-anchor="middle" font-size="12">
+        <text x="153.5" y="464">20</text>
+        <text x="187.9" y="464">25</text>
+        <text x="222.3" y="464">30</text>
+        <text x="256.6" y="464">35</text>
+        <text x="291" y="464">40</text>
+        <text x="359.7" y="464">50</text>
+        <text x="428.4" y="464">60</text>
+        <text x="462.8" y="464.036">65</text>
+        <text x="497.2" y="464.036">70</text>
+        <text x="531.5" y="464.036">75</text>
+        <text x="565.9" y="464.036">80</text>
+    </g>
 </svg></p>
 <p>In a school setting, students who score near the <i>top</i> of the <span class="bell-g">“Average”</span> range (up to the 84<sup>th</sup> percentile) are generally considered average, usually meaning that they don’t qualify as talented and gifted (TAG). Likewise, student who score near the <i>bottom</i> of the <span class="bell-g">“Average”</span> range (down to the 16<sup>th</sup> percentile) are generally considered average, usually meaning that there’s no reason to suspect a disability that would need specially designed instruction (SDI) through a individualized education plan (IEP) from Special Education. If your child’s performance is in the <span class="bell-g">“Average”</span> range, it is still your right to request a Special Education eligibility evaluation from your child’s school (<a href="{{site.url}}/Special-Education-Rights-Requesting-eligibility-evaluation/">see my article on requesting an evaluation</a>), and if you do, it might be helpful to clearly explain why you believe your child has a disability, because your child’s performance is not substantially impaired&ndash;it’s average. Although your school might not provide Special Education, teachers often offer struggling students informal supports, sometimes called “tiered” or “Tier 2” or “Tier 3” supports, which might include small-group instruction in class while others are doing independant work, after-school tutoring, etc. If you think that your child is not performing up to their potential, you might also consider other explainations, such as difficulties with attention or focus. Children with a diagnosis, such as ADHD, usually qualify for a Section 504 Plan that can include accommodations. Note that getting a 504 Plan is usually less involved than getting an IEP.</p>
 <p><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" enable-background="new 0 0 8572.697 476.845" viewBox="0 0 8572.697 476.845"><defs>
