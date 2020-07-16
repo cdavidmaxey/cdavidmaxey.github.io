@@ -54,7 +54,8 @@ a.a-tel:hover{background:#008000}
 div.signal-font{margin:0 -1em}
 .digits{background-color:transparent}
 .map{width:100%;height:640px;overflow-x:hidden}
-.map amp-img{position:relative;width:640px;height:640px;top:50%;left:50%;margin-top:-320px;margin-left:-320px;}"
+.map amp-img{position:relative;width:640px;height:640px;top:50%;left:50%;margin-top:-320px;margin-left:-320px;}
+#facsimile{font-weight:normal;user-select:all}"
 head:
 title: "Contact C. David Maxey, M.A."
 description: "Near I-5 in the Tigard Triangle on 72nd Ave. at 217 • C. David Maxey, M.A. can be contacted by phone or email."
@@ -68,6 +69,10 @@ description: "Near I-5 in the Tigard Triangle on 72nd Ave. at 217 • C. David M
 	<section class="contact center">
 		<h4><a rel="nofollow" href="mailto:{{site.email}}">{{site.email}}</a></h4>
 		<p><small>email may not be a private way to communicate.</small></p>
+	</section><!--/sse--><!--sse-->
+	<section class="contact center">
+		<h4 id="facsimile">{{site.facsimile}}</h4>
+		<p><small>confidential fax</small></p>
 	</section><!--/sse-->
     <section id="addressmap" class="center">
         <h4><div id="address" class="anchor"></div><div id="map" class="anchor"></div><span>{{site.office.address}}</span><br><span>{{site.office.city_state}} {{site.office.zip}}</span></h4>
