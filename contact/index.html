@@ -56,7 +56,8 @@ div.signal-font{margin:0 -1em}
 .map{width:100%;height:640px;overflow-x:hidden}
 .map amp-img{position:relative;width:640px;height:640px;top:50%;left:50%;margin-top:-320px;margin-left:-320px;}
 .facsimile{font-weight:normal;user-select:all}
-.contactnumbers{font-size:2.25rem}"
+.contact h4.numbers{font-size:2.25rem}"
+.contact h4.numbers+p{margin-top:.25rem}"
 head:
 title: "Contact C. David Maxey, M.A."
 description: "Tigard near I-5 on 72nd Ave. at 217 • C. David Maxey, M.A. can be contacted by phone or email."
@@ -64,7 +65,7 @@ description: "Tigard near I-5 on 72nd Ave. at 217 • C. David Maxey, M.A. can b
 <main>
 	<h1 class="center">Contacting me</h1><!--sse-->
 	<section class="contact center">
-		<h4><div id="contact" class="anchor"></div><a class="contactnumbers" rel="nofollow" href="tel:{{site.tel}}">{{site.telephone}}</a></h4>
+		<h4 class="numbers"><div id="contact" class="anchor"></div><a rel="nofollow" href="tel:{{site.tel}}">{{site.telephone}}</a></h4>
         <p><strong>Phone with Confidential Voicemail</strong><br><small><i>I do <u>not</u> receive SMS text messages.<br>Send confidential messages with <a rel="nofollow noreferrer" href="https://signal.org/">Signal.org</a>.</i></small></p>
 	</section><!--/sse--><!--sse-->
 	<section class="contact center">
@@ -72,7 +73,7 @@ description: "Tigard near I-5 on 72nd Ave. at 217 • C. David Maxey, M.A. can b
 		<p><small>email may not be a private way to communicate.</small></p>
 	</section><!--/sse--><!--sse-->
 	<section class="contact center">
-        <h4 class="facsimile"><span class="contact-numbers">{{site.facsimile}}</span></h4>
+        <h4 class="numbers facsimile">{{site.facsimile}}</h4>
         <p><strong>Confidential Fax</strong></p>
 	</section><!--/sse-->
     <section id="addressmap" class="center">
