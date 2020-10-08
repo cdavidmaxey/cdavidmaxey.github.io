@@ -10,6 +10,10 @@ redirect_from:
 - "/Positivediscipline/"
 - "/positiveDiscipline/"
 - "/PositiveDiscipline/"
+- "/Brushing-teeth-Having-trouble-getting-them-clean/"
+- "/Sunscreen-wont-work-if-it-stays-in-the-bottle/"
+- "/Sunscreen-lotion-wont-work-if-it-stays-in-the-bottle/"
+- "/Sun-protection-Sunscreen-wont-work-if-it-stays-in-the-bottle/"
 layout: post
 published: TRUE
 alt: "family discussion over weekend breakfast"

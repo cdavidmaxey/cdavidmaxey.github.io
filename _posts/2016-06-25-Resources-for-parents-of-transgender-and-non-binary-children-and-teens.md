@@ -4,6 +4,7 @@ updated: "2020-01-03T00:00:00-08:00"
 redirect_from:
 - "/Resources-for-parents-of-trans-and-gender-expansive-children-and-teens/"
 - "/Resources-for-parents-of-trans-and-gender-non-conforming-children-and-teens/"
+- "/How-do-I-talk-with-my-little-ones-about-LGBT-topics/"
 layout: post
 published: TRUE
 alt: "child in a fairy costume doing chores"

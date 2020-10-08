@@ -1,6 +1,11 @@
 ---
 date: "2017-07-28T00:00:00-08:00"
 updated: "2020-06-14T00:00:00-08:00"
+redirect_from:
+- "/Can-I-revoke-consent-to-services-evaluations-or-Special-Education/"
+- "/Can-I-revoke-consent-to-services-evaluations-or-special-education/"
+- "/Special-Education-Rights-Reviewing-records-before-meetings/"
+- "/Special-Education-Rights-Reviewing-Records-Before-Meetings/"
 layout: post
 published: TRUE
 cursif: TRUE
