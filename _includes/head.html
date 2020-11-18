@@ -9,7 +9,8 @@
         <meta name="application-name" content="C. David Maxey, M.A.">
         <meta name="msapplication-TileColor" content="#1a237e">
         <meta name="theme-color" content="#1a237e">
-        <link rel="preconnect" href="https://cdn.ampproject.org/" crossorigin>{% if page.cursif %}
+        <link rel="preconnect" href="https://cdn.ampproject.org/" crossorigin>
+        <link as="script" href="https://cdn.ampproject.org/v0.js" rel="preload">{% if page.cursif %}
         <link rel="preload" as="font" crossorigin href="{{site.url}}/cursif.ttf">{% endif %}
         <script async src="https://cdn.ampproject.org/v0.js"></script>{% if page.layout == 'post' %}
 		<script async custom-element="amp-timeago" src="https://cdn.ampproject.org/v0/amp-timeago-0.1.js"></script>{% endif %}{% if page.youtube.id or page.youtube.body %}
@@ -18,8 +19,8 @@
 		<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>{% endif %}
 		{{page.head}}
 		<style amp-custom>{% if page.cursif %}
-			@font-face{font-family:"Cursif";src:url("{{site.url}}/cursif.ttf");font-display:swap}.cursif{font-family:Cursif,cursive,sans-serif}{% endif %}{% if page.url == '/' or page.url == '/about/' %}
-            @font-face{font-family:"Tangerine";font-style:normal;font-weight:700;src:url("{{site.url}}/tangerine.eot");src:local("Tangerine Bold"),local("Tangerine-Bold"),url("{{site.url}}/tangerine.eot?#iefix")format("embedded-opentype"),url("{{site.url}}/tangerine.woff2")format("woff2"),url("{{site.url}}/tangerine.woff")format("woff"),url("{{site.url}}/tangerine.ttf")format("truetype"),url("{{site.url}}/tangerine.svg#Tangerine")format("svg");}{% endif %}
+			@font-face{font-family:"Cursif";font-display:swap;src:url("{{site.url}}/cursif.ttf")}.cursif{font-family:Cursif,cursive,sans-serif}{% endif %}{% if page.url == '/' or page.url == '/about/' %}
+            @font-face{font-family:"Tangerine";font-display:swap;font-style:normal;font-weight:700;src:url("{{site.url}}/tangerine.eot");src:local("Tangerine Bold"),local("Tangerine-Bold"),url("{{site.url}}/tangerine.eot?#iefix")format("embedded-opentype"),url("{{site.url}}/tangerine.woff2")format("woff2"),url("{{site.url}}/tangerine.woff")format("woff"),url("{{site.url}}/tangerine.ttf")format("truetype"),url("{{site.url}}/tangerine.svg#Tangerine")format("svg")}{% endif %}
 			html{background-color:#1a237e}
 			body{background:white;font-family:-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",Arial,Helvetica,sans-serif;font-size:16px}
 			.mono{font-family:"Lucida Sans Typewriter",Monaco,"Lucida Console",Consolas,monospace}
