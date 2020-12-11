@@ -1,11 +1,11 @@
 ---
 ---
 <!doctype html>
-<html ⚡ lang="en" data-amp-auto-lightbox-disable>
+<html{% unless page.noamp %} ⚡ lang="en" data-amp-auto-lightbox-disable{% endunless %}>
 {% include head.html %}
 	<body>
 {% include navbar.html %}
-{{content}}{% unless page.url == '/new/' %}
+{{content}}{% unless page.noamp %}
 {% include footer.html %}{% endunless %}
 	</body>
 </html>
