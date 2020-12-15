@@ -11,5 +11,6 @@ Disallow: /schedule/
 Disallow: /parent/
 Disallow: /school/
 Disallow: /youth/
+Disallow: /x/
 Disallow: /A-Nation-Empowered
 Sitemap: {{site.url}}/sitemap.xml
