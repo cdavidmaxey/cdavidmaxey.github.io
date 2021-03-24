@@ -34,7 +34,7 @@ tags:
 - Apps for Kids
 - 📚 Books for Kids
 ---
-Kids have lots of questions, and they need parents to provide accurate age-appropriate information. These apps and books are resources that you can review to decide if they are appropriate for your child. If your child has had unhealthly sexual experiences, discuss these decisions with a mental health professional.
+Kids have lots of questions, and they need parents to provide accurate age-appropriate information. These apps and books are resources that you can review to decide if they are appropriate for your child. If your child has had unhealthy sexual experiences, discuss these decisions with a mental health professional.
 
 <h3><i>What Makes a Baby</i></h3>
 <div class="float right side">
@@ -62,20 +62,7 @@ Reflecting the reality of our modern time, <i>What Makes a Baby</i> by Cory Silv
 <i>Sex is a Funny Word: A Book about Bodies, Feelings, and YOU</i> by Cory Silverberg and Fiona Smyth is a kids’ book about bodies, gender, and sexuality that’s inclusive of children and families of all makeups, orientations, and gender identities.
 
 <div class="clear"></div>
-<h3><i>s.e.x.</i></h3>
-<div class="float right side">
-	<div class="booktopper">Ages 12+</div>
-	<amp-img alt="s.e.x.: the all-you-need-to-know sexuality guide to get you through your teens and twenties by Heather Corinna" width="2042" height="2560" src="{{site.cache}}/books/s-e-x.jpg" sizes="8.625rem"></amp-img>
-	<div class="merchants">
-		<a class="powells" title="Powells" rel="nofollow noreferrer" target="_blank" href="https://www.powells.com/book/-9780738218847"><svg><use xlink:href="#svg-powells"/></svg></a>
-		<a class="amazon" title="Amazon" rel="nofollow noreferrer" target="_blank" href="https://www.amazon.com/dp/0738218847"><svg><use xlink:href="#svg-amazon"/></svg></a>
-	</div>
-</div>
-
-<i>s.e.x.: the all-you-need-to-know sexuality guide to get you through your teens and twenties</i> by Heather Corinna, Founder of <a rel="nofollow noreferrer" target="_blank" href="https://www.scarleteen.com/">Scarleteen.com</a>, is an in-depth, progressive, and inclusive teen and young adult sexuality and relationships guide.
-
-<div class="clear"></div>
-<h2>Anatomy Apps</h2>
+<h2>Anatomy Apps for Kids</h2>
 <aside class="float right side center">
 	<div><a rel="nofollow" href="https://tinybop.com/apps/the-human-body"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg" alt="The Human Body"></amp-img><br>The Human Body</a><br><small>$4 (+$1 In-App)<sup>*</sup></small></div>
 	<div><small><sup>*</sup>Subject to change</small></div>
@@ -86,9 +73,9 @@ Tinybop’s <i>The Human Body</i> app provide parents with a way to introduce ki
 Note that as of the writing of this article, this app requires a one-time $1 in-app purchase to include the urogenital/reproductive system.
 
 <div class="clear"></div>
-<h2>Encyclopedic Reference Book Series for Kids</h2>
+<h2>Classic Reference Book Series for Kids</h2>
 
-Created in consultation with experts, the following three books by Robie Harris and Michael Emberley cover a wide variety of topics, making each of them great for reading over several sittings and keeping around as a reference. Using plenty of sketches and colorful drawings, the authors have created engaging books that are likely to hold your child’s attention.
+Created in consultation with experts, the following three books by Robie Harris and Michael Emberley cover a wide variety of topics, making each of them great for reading over several sittings and keeping around as an encyclopedic reference. Using plenty of sketches and colorful drawings, the authors have created engaging books that are likely to hold your child’s attention.
 
 <h3><i>It’s Perfectly Normal</i></h3>
 <div class="float right side">
@@ -140,3 +127,18 @@ After publishing <i>It’s Perfectly Normal</i>, Robie Harris and Michael Emberl
 </div>
 
 Robie Harris and Michael Emberley recommend <i>It’s Not the Stork!: A Book About Girls, Boys, Babies, Bodies, Families and Friends</i> for 4-6 year olds. Young children are curious about almost everything. This book answers those endless and perfectly normal questions that preschool, kindergarten, and early-elementary-school children ask about where they came from, how they were made, why their bodies are the same and different from other peoples’ bodies, what makes a girl a girl and a boy a boy, what the names are of all the different parts of their bodies, where babies come from, how babies are made, what a family is&mdash;and so many other questions about themselves and their bodies. Consulting with parents, teachers, librarians, nurses, doctors, social workers, psychologists, scientists and clergy, the authors worked to provide answers that are comfortable, reassuring, age-appropriate and scientifically accurate.
+
+<div class="clear"></div>
+<h2>Reference Book for Teens and Young Adults</h2>
+
+<h3><i>s.e.x.</i></h3>
+<div class="float right side">
+	<div class="booktopper">Ages 12+</div>
+	<amp-img alt="s.e.x.: the all-you-need-to-know sexuality guide to get you through your teens and twenties by Heather Corinna" width="2042" height="2560" src="{{site.cache}}/books/s-e-x.jpg" sizes="8.625rem"></amp-img>
+	<div class="merchants">
+		<a class="powells" title="Powells" rel="nofollow noreferrer" target="_blank" href="https://www.powells.com/book/-9780738218847"><svg><use xlink:href="#svg-powells"/></svg></a>
+		<a class="amazon" title="Amazon" rel="nofollow noreferrer" target="_blank" href="https://www.amazon.com/dp/0738218847"><svg><use xlink:href="#svg-amazon"/></svg></a>
+	</div>
+</div>
+
+<i>s.e.x.: the all-you-need-to-know sexuality guide to get you through your teens and twenties</i> by Heather Corinna, Founder of <a rel="nofollow noreferrer" target="_blank" href="https://www.scarleteen.com/">Scarleteen.com</a>, is an in-depth, progressive, and inclusive teen and young adult sexuality and relationships guide. <strong>This book covers topics you won’t find in books for kids.</strong>
