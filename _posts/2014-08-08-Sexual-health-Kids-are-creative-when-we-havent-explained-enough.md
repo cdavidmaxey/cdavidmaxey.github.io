@@ -142,3 +142,5 @@ Robie Harris and Michael Emberley recommend <i>It’s Not the Stork!: A Book Abo
 </div>
 
 <i>s.e.x.: the all-you-need-to-know sexuality guide to get you through your teens and twenties</i> by Heather Corinna, Founder of <a rel="nofollow noreferrer" target="_blank" href="https://www.scarleteen.com/">Scarleteen.com</a>, is an in-depth, progressive, and inclusive teen and young adult sexuality and relationships guide. <strong>This book covers topics you won’t find in books for kids.</strong>
+
+<div class="clear"></div>
