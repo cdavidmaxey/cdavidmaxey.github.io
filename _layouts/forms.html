@@ -41,9 +41,9 @@ iframe{width:100%;height:calc(100% - 50px);border:none;}
             <div>C. David Maxey, <span class="MA">M<span>.</span>A<span>.</span></span></div>
             <div><small>Licensed Psychologist Associate</small></div>
         </div>
-    </a>{% if page.categories %}
+    </a>{% if page.form-category %}
     <div class="link">></div>
-    <a class="link" href="{{site.url}}/{{page.categories}}/">{{page.categories | capitalize}}</a>{% endif %}
+    <a class="link" href="{{site.url}}/{{page.form-category}}/">{{page.form-category | capitalize}}</a>{% endif %}
 </section>
 </nav>
 <iframe src="{{page.iframe}}"></iframe>
