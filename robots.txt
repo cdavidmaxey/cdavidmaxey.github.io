@@ -7,8 +7,9 @@ Disallow: /humans.txt
 Disallow: /cv/
 Disallow: /crisis/
 Disallow: /secret/
+Disallow: /paper/
 Disallow: /schedule/
-Disallow: /parent/
+Disallow: /home/
 Disallow: /school/
 Disallow: /youth/
 Disallow: /x/
