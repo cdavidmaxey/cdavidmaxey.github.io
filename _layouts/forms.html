@@ -19,9 +19,10 @@ a.logo{margin:auto 0}
 a.logo>img,a.logo>div{display:inline-block;vertical-align:middle}
 a.logo>div{margin:0 .5rem 0 .25rem}
 a.logo>div>div:first-child{font-size:1.325em}
-@media all and (max-width:375px){a.logo>img{display:none}}
-.link{height:1.125rem;padding:1rem .375rem;display:inherit}
-.link a{padding-left:.625rem}
+@media all and (max-width:374px){a.logo>img{display:none}}
+.link{height:1.125rem;display:inherit}
+.link span{padding:1rem .375rem}
+.link a{padding:1rem .625rem}
 #name{font-size:48px;font-weight:normal;color:#000;line-height:1;margin:2rem auto}
 #name .tangerine{font-family:Tangerine,sans-serif;font-weight:700}
 #name .suffix{font-size:.395em}
@@ -42,7 +43,7 @@ iframe{width:100%;height:calc(100% - 50px);border:none;}
             <div><small>Licensed Psychologist Associate</small></div>
         </div>
     </a>{% if page.form-category %}
-    <div class="link">><a href="{{site.url}}/{{page.form-category}}/" style="padding-left: .625rem;">{{page.form-category | capitalize}}</a></div>{% endif %}
+    <div class="link"><span>></span><a href="{{site.url}}/{{page.form-category}}/">{{page.form-category | capitalize}}</a></div>{% endif %}
 </section>
 </nav>
 <iframe src="{{page.iframe}}"></iframe>
