@@ -19,6 +19,9 @@ a.logo{margin:auto 0}
 a.logo>img,a.logo>div{display:inline-block;vertical-align:middle}
 a.logo>div{margin:0 .5rem 0 .25rem}
 a.logo>div>div:first-child{font-size:1.325em}
+.link{height:1.125rem}
+a.link{padding:1rem}
+div.link{padding:1rem .375rem}
 #name{font-size:48px;font-weight:normal;color:#000;line-height:1;margin:2rem auto}
 #name .tangerine{font-family:Tangerine,sans-serif;font-weight:700}
 #name .suffix{font-size:.395em}
@@ -38,7 +41,9 @@ iframe{width:100%;height:calc(100% - 50px);border:none;}
             <div>C. David Maxey, <span class="MA">M<span>.</span>A<span>.</span></span></div>
             <div><small>Licensed Psychologist Associate</small></div>
         </div>
-    </a>
+    </a>{% if page.categories %}
+    <div class="link">></div>
+    <a class="link" href="{{site.url}}/{{page.categories}}/">{{page.categories | capitalize}}</a>{% endif %}
 </section>
 </nav>
 <iframe src="{{page.iframe}}"></iframe>
