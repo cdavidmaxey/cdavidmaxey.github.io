@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-<title>{% if page.title %}{{page.title}} | {% elsif page.form %}{{page.form.category}} &rang; {{page.form.title}} | {% endif %}C. David Maxey, M.A.</title>
+<title>{% if page.title %}{{page.title}} | {% elsif page.form %}{{page.form.category | capitalize}} &rang; {{page.form.title}} | {% endif %}C. David Maxey, M.A.</title>
 <style type="text/css">
 html{background-color:#1a237e}
 body{background:white;font-family:-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",Arial,Helvetica,sans-serif;font-size:16px}
@@ -43,8 +43,8 @@ iframe{width:100%;height:calc(100% - 50px);border:none;}
             <div>C. David Maxey, <span class="MA">M<span>.</span>A<span>.</span></span></div>
             <div><small>Licensed Psychologist Associate</small></div>
         </div>
-    </a>{% if page.form-category %}
-    <div class="link"><span>&rang;</span><a href="{{site.url}}/{{page.form-category}}/">{{page.form-category | capitalize}}</a></div>{% endif %}
+    </a>{% if page.form.category %}
+    <div class="link"><span>&rang;</span><a href="{{site.url}}/{{page.form.category}}/">{{page.form.category | capitalize}}</a></div>{% endif %}
 </section>
 </nav>
 <iframe src="{{page.iframe}}" allow-fullscreen name="MicrosoftFormsEmbed"></iframe>
