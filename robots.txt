@@ -7,6 +7,7 @@ Disallow: /humans.txt
 Disallow: /cv/
 Disallow: /crisis/
 Disallow: /secret/
+Disallow: /new/
 Disallow: /paper/
 Disallow: /schedule/
 Disallow: /home/
