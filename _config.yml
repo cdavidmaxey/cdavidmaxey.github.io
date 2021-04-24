@@ -3,7 +3,7 @@ gems:
 timezone: America/Los_Angeles
 permalink: /:title/
 paginate: 40
-paginate_path: blog/page:num/
+paginate_path: articles/page:num/
 markdown: kramdown
 url: https://cdavidmaxey.com
 cache: https://cda.vidmaxey.com

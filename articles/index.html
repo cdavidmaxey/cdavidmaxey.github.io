@@ -1,5 +1,6 @@
 ---
 redirect_from:
+- "/blog/"
 - "/blog/page2/"
 - "/blog/page3/"
 sitemap:
@@ -25,8 +26,8 @@ description: "Articles for parents and teachers about evidence-based practices, 
 			<nav class="pager buttons">{% if paginator.previous_page %}
 				<a href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}">Newer</a>{% endif %}{% for page in (1..paginator.total_pages) %}{% if page == paginator.page %}
 				<a class="active">{{page}}</a>{% elsif page == 1 %}
-				<a class="hide-mobile" href="{{site.url}}/blog/">{{page}}</a>{% else %}
-				<a class="hide-mobile" href="{{site.url}}/blog/page{{page}}/">{{page}}</a>{% endif %}{% endfor %}{% if paginator.next_page %}
+				<a class="hide-mobile" href="{{site.url}}/articles/">{{page}}</a>{% else %}
+				<a class="hide-mobile" href="{{site.url}}/articles/page{{page}}/">{{page}}</a>{% endif %}{% endfor %}{% if paginator.next_page %}
 				<a href="{{site.url}}{{paginator.next_page_path}}">Older</a>{% endif %}
 			</nav>{% endif %}
 		</main>
