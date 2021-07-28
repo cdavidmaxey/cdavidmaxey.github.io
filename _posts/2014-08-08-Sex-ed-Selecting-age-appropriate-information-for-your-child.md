@@ -1,6 +1,17 @@
 ---
 date: "2014-01-01T00:00:00-08:00"
 updated: "2016-07-12T00:00:00-08:00"
+redirect_from:
+- "/Sexual-health-Kids-are-creative-when-we-havent-explained-enough/"
+- "/Transgender-and-nonbinary-books-for-children-and-teens/"
+- "/Gender-Language-Terms-Pronouns/"
+- "/Resources-for-transgender-and-non-binary-children-and-teens/"
+- "/Resources-for-trans-and-gender-expansive-children-and-teens/"
+- "/Resources-for-trans-and-gender-non-conforming-children-and-teens/"
+- "/Resources-for-parents-of-transgender-and-non-binary-children-and-teens/"
+- "/Resources-for-parents-of-trans-and-gender-expansive-children-and-teens/"
+- "/Resources-for-parents-of-trans-and-gender-non-conforming-children-and-teens/"
+- "/How-do-I-talk-with-my-little-ones-about-LGBT-topics/"
 layout: post
 published: TRUE
 alt: "Pump up the volume by John Wilhelm"
@@ -27,14 +38,14 @@ h3{font-size:1rem;font-weight:bold;margin:1.25rem 0 .25rem}
 .booktopper+.bookborder{border-top:none}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://us.fotolia.com/id/89405292'>&copy;</a>&nbsp;John&nbsp;Wilhelm</a>"
 credits_full: "<a rel='nofollow noreferrer' target='_blank' href='https://vimeo.com/70414395'><em>The Human Body by Tinybop</em></a> by <a rel='nofollow noreferrer' target='_blank' href='https://vimeo.com/tinybop'>Tinybop</a> is embeded under <a rel='nofollow noreferrer' target='_blank' href='https://vimeo.com/terms'>Vimeo Terms of Service</a>.<br><a rel='nofollow noreferrer' target='_blank' href='https://youtu.be/lC3jImrtioY'><em>My Incredible Body: Amazing Anatomy Just for Kids (iPad/iPhone)</em></a> by <a rel='nofollow noreferrer' target='_blank' href='https://www.youtube.com/user/VisibleBody'>Visible Body</a> is licensed under <a rel='nofollow noreferrer' target='_blank' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
-title: "Sexual health: Kids are creative when we haven’t explained enough"
-description: "Kids need parents to share accurate age-approprite information about anatomy, sex, and pregnancy."
+title: "Sex ed: Selecting age-appropriate information for your child"
+description: "Kids need parents to share accurate age-appropriate information about anatomy, sex, and pregnancy."
 tags:
 - Sexual Health
 - Apps for Kids
 - 📚 Books for Kids
 ---
-Kids have lots of questions, and they need parents to provide accurate age-appropriate information. These apps and books are resources that you can review to decide if they are appropriate for your child. If your child has had unhealthy sexual experiences, discuss these decisions with a mental health professional.
+Kids have lots of questions, and they need parents to provide accurate age-appropriate information about anatomy, sex, and pregnancy. These apps and books are resources that you can review to decide if they are appropriate for your child. If your child has had unhealthy sexual experiences, discuss these decisions with a mental health professional.
 
 <h3><i>What Makes a Baby</i></h3>
 <div class="float right side">
@@ -46,7 +57,7 @@ Kids have lots of questions, and they need parents to provide accurate age-appro
 	</div>
 </div>
 
-Reflecting the reality of our modern time, <i>What Makes a Baby</i> by Cory Silverberg and Fiona Smyth teaches curious kids about conception, gestation, and birth in a way that works regardless of whether a child was adopted, conceived using reproductive technologies, born through surrogacy, or made the old fashioned way. Inclusive of every kind of family and every kind of kid, this children’s picture book doesn’t gender people or body parts, leaving parents and families the opportunity to educate their child without erasing their own experience.
+<i>What Makes a Baby</i> by Cory Silverberg and Fiona Smyth teaches curious kids about conception, gestation, and birth in a way that makes sense of how any child came to be, regardless of their family. This inclusive approach can be especially helpful to children who are interested in how these concepts apply to themselves and other children they know (e.g., from school) who have a different family makeup. 
 
 <div class="clear"></div>
 <h3><i>Sex is a Funny Word</i></h3>
@@ -59,7 +70,7 @@ Reflecting the reality of our modern time, <i>What Makes a Baby</i> by Cory Silv
 	</div>
 </div>
 
-<i>Sex is a Funny Word: A Book about Bodies, Feelings, and YOU</i> by Cory Silverberg and Fiona Smyth is a kids’ book about bodies, gender, and sexuality that’s inclusive of children and families of all makeups, orientations, and gender identities.
+<i>Sex is a Funny Word: A Book about Bodies, Feelings, and YOU</i> by Cory Silverberg and Fiona Smyth is a comic book for kids that includes children and families of all makeups, orientations, and gender identities. Much more than the “facts of life” or “the birds and the bees,” this book aims to open up conversations in a way that allows adults to convey their values and beliefs while providing information about boundaries, safety, and joy.
 
 <div class="clear"></div>
 <h2>Anatomy Apps for Kids</h2>
