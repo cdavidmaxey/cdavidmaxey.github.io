@@ -1,6 +1,6 @@
 ---
 date: "2014-01-01T00:00:00-08:00"
-updated: "2016-07-12T00:00:00-08:00"
+updated: "2021-05-21T00:00:00-08:00"
 redirect_from:
 - "/Sexual-health-Kids-are-creative-when-we-havent-explained-enough/"
 - "/Transgender-and-nonbinary-books-for-children-and-teens/"
