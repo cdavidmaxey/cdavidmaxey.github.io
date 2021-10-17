@@ -145,7 +145,7 @@ tags:
 <li>Your right to request that the school&hellip;provide copies of the records if you cannot effectively inspect and review the records unless you receive those copies; <strong class="underline">and</strong></li>
 <li>Your right to have your representative inspect and review the records.</li>
 </ol>
-<div class="citation"><small><a rel="nofollow noreferrer" target="_blank" href="https://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education: K‑21:&nbsp;2017‑2018</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
+<div class="citation"><small><a rel="nofollow noreferrer" target="_blank" href="https://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education: K‑21</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
 </div></blockquote>
 <p>Parents are important members of teams that determine Special Education eligibility and create Individualized Education Plans (IEPs); it’s important that you’re able to participate meaningfully in meetings about your child. Therefore, I encourage you to review records before meetings, by including that in your request (see the last paragraph of the example above).</p>
 <div class="float right side">
