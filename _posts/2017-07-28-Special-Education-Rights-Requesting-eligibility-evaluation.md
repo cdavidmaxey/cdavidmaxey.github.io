@@ -1,6 +1,6 @@
 ---
 date: "2017-07-28T00:00:00-08:00"
-updated: "2020-06-14T00:00:00-08:00"
+updated: "2021-10-16T00:00:00-08:00"
 redirect_from:
 - "/Can-I-revoke-consent-to-services-evaluations-or-Special-Education/"
 - "/Can-I-revoke-consent-to-services-evaluations-or-special-education/"
