@@ -5,13 +5,13 @@ redirect_from:
 - "/sleep/"
 layout: post
 published: TRUE
-alt: "child reading a book by a lamp in bed before going to sleep at bedtime"
+alt: "child reading a book in bed before going to sleep at bedtime"
 thumb:
-  src: "child-reading-a-book-by-a-lamp-in-bed-before-going-to-sleep-at-bedtime.jpg"
+  src: "child-reading-a-book-in-bed-before-going-to-sleep-at-bedtime.jpg"
   X: 1920
   Y: 1097
 image:
-  src: "child-reading-a-book-by-a-lamp-in-bed-before-going-to-sleep-at-bedtime.jpg"
+  src: "child-reading-a-book-in-bed-before-going-to-sleep-at-bedtime.jpg"
   X: 1920
   Y: 1097
 video:
@@ -42,7 +42,7 @@ sup{padding:0 .075rem}
 sup.footnote{font-weight:normal;font-size:.875em}
 .footnotes{font-size:.875em}
 .post li{text-align:left}"
-credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.dreamstime.com/stock-photo-preteen-handsome-boy-read-book-lamp-sleep-image58081725'>&copy;</a>&nbsp;Ulianna19970"
+credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.stocksy.com/3643129/boy-reads-in-bed-by-lamp-light'>&copy;</a>&nbsp;Jennifer Bogle"
 title: "Sleep schedules, routines & habits"
 description: "Recommended hours of sleep per day, screen time, bedtime routines, and habits for supporting healthy sleep."
 tags:
