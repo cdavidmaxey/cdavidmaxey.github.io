@@ -42,7 +42,6 @@ title: "Sex ed: Selecting age-appropriate information for your child"
 description: "Kids need parents to share accurate age-appropriate information about anatomy, sex, and pregnancy."
 tags:
 - Sexual Health
-- Apps for Kids
 - 📚 Books for Kids
 ---
 Kids have lots of questions, and they need parents to provide accurate age-appropriate information about anatomy, sex, and pregnancy. These apps and books are resources that you can review to decide if they are appropriate for your child. If your child has had unhealthy sexual experiences, discuss these decisions with a mental health professional.

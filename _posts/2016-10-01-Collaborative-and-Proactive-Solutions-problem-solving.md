@@ -44,10 +44,9 @@ description: "Collaborative & Proactive Solutions is an empirically-supported, n
 tags:
 - Collaborative & Proactive Solutions
 - Collaborative Problem-Solving
+- 💛 Social Emotional Learning
 - 📚 Books for Parents
 - 📚 Books for Teachers
-- 🇫🇷 français
-- 🇲🇽 Español
 ---
 <blockquote><div>
 <p>Are we treating chronically misbehaving children as though they don’t want to behave, when in many cases they simply <i>can’t</i>? That might sound like the kind of question your mom dismissed as making excuses. But it’s actually at the core of some remarkable research that is starting to revolutionize discipline&hellip;.</p>
