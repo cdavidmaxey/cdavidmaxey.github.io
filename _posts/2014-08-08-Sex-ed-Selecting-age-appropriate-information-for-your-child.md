@@ -90,10 +90,10 @@ Created in consultation with experts, the following three books by Robie Harris 
 <h3><i>It’s Perfectly Normal</i></h3>
 <div class="float right side">
 	<div class="booktopper">Ages 10+</div>
-	<amp-img alt="It's Perfectly Normal: Changing Bodies, Growing Up, Sex, and Sexual Health by Robie Harris and Michael Emberley" width="2621" height="3165" src="{{site.cache}}/books/Its-Perfectly-Normal.jpg" sizes="8.625rem"></amp-img>
+	<amp-img alt="It's Perfectly Normal: Changing Bodies, Growing Up, Sex, and Sexual Health by Robie Harris and Michael Emberley" width="2622" height="3165" src="{{site.cache}}/books/Its-Perfectly-Normal.jpg" sizes="8.625rem"></amp-img>
 	<div class="merchants">
-		<a class="powells" title="Powells" rel="nofollow noreferrer" target="_blank" href="https://www.powells.com/book/its-perfectly-normal-changing-bodies-growing-up-sex-sexual-health-9780763668723"><svg><use xlink:href="#svg-powells"/></svg></a>
-		<a class="amazon" title="Amazon" rel="nofollow noreferrer" target="_blank" href="https://www.amazon.com/dp/0763668729"><svg><use xlink:href="#svg-amazon"/></svg></a>
+		<a class="powells" title="Powells" rel="nofollow noreferrer" target="_blank" href="https://www.powells.com/book/its-perfectly-normal-changing-bodies-growing-up-sex-gender-sexual-health-9781536207217"><svg><use xlink:href="#svg-powells"/></svg></a>
+		<a class="amazon" title="Amazon" rel="nofollow noreferrer" target="_blank" href="https://www.amazon.com/dp/1536207217"><svg><use xlink:href="#svg-amazon"/></svg></a>
 	</div>
 </div>
 
