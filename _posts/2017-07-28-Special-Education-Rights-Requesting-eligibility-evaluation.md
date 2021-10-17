@@ -134,6 +134,20 @@ tags:
 	</tbody>
 </table>
 <p class="credits">Table is adapted from Oregon Administrative Rules, Chapter 581, Division 15 and is not intended to be a primary source of information.</p>
+<blockquote><div>
+<p>[Schools] must comply with a parent’s request to inspect and review records without unnecessary delay and&hellip;before any meeting regarding an IEP&hellip;.</p>
+<div class="citation"><small><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2300" title="Oregon Administrative Rules: Chapter 581 (Department of Education): Division 15 (Special Education): Rule 581-015-2300 (Access to Student Education Records)"><cite>Rule 581-015-2300 Access to Student Education Records</cite><br>Oregon Administrative Rules<br>Chapter 581 (Department of Education)<br>Division 15 (Special Education)</a></small></div>
+<p>It is&hellip;important to ensure that parents have the information they need to participate meaningfully in IEP Team meetings, which may include reviewing their child’s records.&hellip;It would be appropriate for parents to review documents related to the determination of eligibility prior to the eligibility determination&hellip;.</p>
+<div class="citation"><small><a rel="nofollow noreferrer" target="_blank" href="https://sites.ed.gov/idea/building-the-legacy-idea-2004/" title="Building the Legacy: IDEA 2004"><cite>Building&nbsp;the&nbsp;Legacy: IDEA&nbsp;2004</cite><br>U.S. Department of Education</a></small></div>
+<p>Your right to inspect and review education records includes:</p>
+<ol>
+<li>Your right to a response from the school&hellip;to your reasonable requests for explanations and interpretations of the records;</li>
+<li>Your right to request that the school&hellip;provide copies of the records if you cannot effectively inspect and review the records unless you receive those copies; <strong class="underline">and</strong></li>
+<li>Your right to have your representative inspect and review the records.</li>
+</ol>
+<div class="citation"><small><a rel="nofollow noreferrer" target="_blank" href="https://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21"><cite>Procedural&nbsp;Safeguards&nbsp;Notice: Parent&nbsp;Rights&nbsp;for&nbsp;Special&nbsp;Education: K‑21:&nbsp;2017‑2018</cite><br>Oregon&nbsp;Department of&nbsp;Education</a></small></div>
+</div></blockquote>
+<p>Parents are important members of teams that determine Special Education eligibility and create Individualized Education Plans (IEPs); it’s important that you’re able to participate meaningfully in meetings about your child. Therefore, I encourage you to review records before meetings, by including that in your request (see the last paragraph of the example above).</p>
 <div class="float right side">
 	<div>
 		<amp-img alt="The Complete IEP Guide: How to Advocate for Your Special Ed Child by Attorney Lawrence Siegel" width="414" height="532" src="{{site.cache}}/books/Complete-IEP-Guide-How-to-Advocate-for-Your-Special-Ed-Child-by-Attorney-Lawrence-Siegel.jpg" sizes="8.625rem"></amp-img>
