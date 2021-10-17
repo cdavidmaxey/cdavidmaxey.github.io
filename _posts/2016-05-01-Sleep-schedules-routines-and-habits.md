@@ -9,11 +9,11 @@ alt: "child reading a book in bed before going to sleep at bedtime"
 thumb:
   src: "child-reading-a-book-in-bed-before-going-to-sleep-at-bedtime.jpg"
   X: 1920
-  Y: 1097
+  Y: 960
 image:
   src: "child-reading-a-book-in-bed-before-going-to-sleep-at-bedtime.jpg"
   X: 1920
-  Y: 1097
+  Y: 960
 video:
   src:
   X:
