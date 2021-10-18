@@ -34,7 +34,6 @@ tags:
 ---
 <blockquote><div>
 <h3>Six Simple Principles of Play</h3>
-<p>&hellip;focusing on a few key principles of play ensure the most joyful, free, and inclusive experience for all children&hellip;</p>
 <ol type="1" start="1">
     <li><strong>Every kid</strong> has the opportunity to play&hellip;.</li>
     <li><strong>Kids get to choose</strong> to play and get to choose games that make them happy.</li>
