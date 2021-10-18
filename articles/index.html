@@ -7,6 +7,8 @@ sitemap:
   priority: 0.7
   changefreq: monthly
 published: TRUE
+style: "h1{font-size:2rem;margin:2rem 0 1rem;color:#1a237e}
+section.text{margin-bottom:2rem}"
 title: "Helping Children & Youth | C. David Maxey, M.A."
 description: "Articles for parents and teachers about evidence-based practices, psychological services, and school-based supports for children and youth"
 ---
@@ -16,6 +18,10 @@ description: "Articles for parents and teachers about evidence-based practices, 
 	<body>
 {% include navbar.html %}
 		<main>
+            <section class="text">
+                <h1 class="center">General Information Articles</h1>
+                <p>Parents sometimes have simple questions that need only a simple answer, and one of these short articles can often answer those basic questions (e.g., what is the recommended amount of sleep for children my kid’s age?). Reading one of these brief articles might also be a useful introduction or first step before we spend your valuable time in therapy addressing your specific issues (e.g., should my child repeat or skip a grade in school?). I provide these articles to quickly give you general information, so we can use our time in therapy to address more complex issues and your specific followup questions.</p>
+            </section>
 			<section class="blog">{% for post in paginator.posts %}
 				<a class="card" href="{{site.url}}{{post.url}}">
 					<amp-img src="{{site.cache}}/320/{{post.thumb.src}}" srcset="{{site.cache}}/320/{{post.thumb.src}} 320w,{{site.cache}}/640/{{post.thumb.src}} 640w,{{site.cache}}/1280/{{post.thumb.src}} 1280w" width="{{post.thumb.X}}" height="{{post.thumb.Y}}" layout="responsive" alt="{{post.alt}}"></amp-img>
