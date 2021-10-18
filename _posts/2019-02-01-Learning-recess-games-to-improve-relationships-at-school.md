@@ -22,10 +22,7 @@ youtube:
   Y:
 variables:
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.dreamstime.com/stock-photo-group-kids-play-hopscotch-school-elastic-ropes-together-street-image97428232'>&copy;</a>&nbsp;Sergey Novikov"
-style: ".bookborder{border:1px solid #000;border-bottom:none}
-.download>div{border-top:1px solid #3949ab}
-.download>div:hover{border-top:1px solid #000}
-.download+.download>div{border-top:1px solid #fff}"
+style: ".bookborder{border:1px solid #000;border-bottom:none}"
 title: "Learning recess games to improve relationships at school"
 description: "Made-up games are great for playdates, but on a playground with 20+ kids, they can cause conflicts and make others feel excluded or treated unfairly."
 tags:
