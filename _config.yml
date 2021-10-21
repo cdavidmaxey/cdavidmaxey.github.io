@@ -60,4 +60,4 @@ collections:
   timer:
     output: TRUE
     permalink: "/:name"
-alert: "<strong>Accepting New Clients:</strong> Complete an online <strong><a href='https://cdavidmaxey.com/new/' rel='nofollow'>New&nbsp;Client&nbsp;Inquiry&nbsp;Form</a></strong>.<br>Services are provided in-office or by video, as appropriate."
+alert: "<strong>Accepting New Clients:</strong> Complete an online <strong><a href='https://cdavidmaxey.com/new/' rel='nofollow'>New&nbsp;Client&nbsp;Request&nbsp;Form</a></strong>.<br>Services are provided in-office or by video, as appropriate."
