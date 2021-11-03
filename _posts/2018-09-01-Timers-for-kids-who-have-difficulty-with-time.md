@@ -49,7 +49,7 @@ Developing a sense of time can be a struggle for many children, especially child
 <amp-youtube data-videoid="5-9ugu9pBak" layout="responsive" width="560" height="315" credentials="omit" data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
 {:/nomarkdown}
 
-<h3>Online Countdown Timers</h3>
+<!--<h3>Online Countdown Timers</h3>
 Because many of the online countdown timers have distracting details (e.g., milliseconds, eyecatching graphics, ads, links, etc.), I have created a simple ad-free countdown timer that can be used with an internet browser. Feel free to use it.
 
-<div class="buttons"><a href="https://cdavidmaxey.com/timer/">Online Timer</a></div>
+<div class="buttons"><a href="https://cdavidmaxey.com/timer/">Online Timer</a></div>-->
