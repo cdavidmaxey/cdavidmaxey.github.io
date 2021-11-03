@@ -111,7 +111,7 @@ In the first chapter of Jane Nelsen’s book, <i>Positive Discipline</i>, she de
 		</div>
 	</div>
 	<div>
-		<a crel="nofollow" href="{{site.url}}/Disciplina-Positiva-en-la-Crianza-Cotidiana.pdf">
+		<a rel="nofollow" href="{{site.url}}/Disciplina-Positiva-en-la-Crianza-Cotidiana.pdf">
 			<amp-img alt="Disciplina Positiva en la Crianza Cotidiana" width="414" height="587" src="{{site.cache}}/books/Disciplina-Positiva-en-la-Crianza-Cotidiana.jpg" sizes="8.625rem"></amp-img>
         </a>
         <a class="download" rel="nofollow" href="{{site.url}}/Disciplina-Positiva-en-la-Crianza-Cotidiana.pdf" download="CDavidMaxey.com-Disciplina-Positiva-en-la-Crianza-Cotidiana.pdf">
