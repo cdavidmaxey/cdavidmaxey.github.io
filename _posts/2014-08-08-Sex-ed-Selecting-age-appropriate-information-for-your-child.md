@@ -74,7 +74,7 @@ Kids have lots of questions, and they need parents to provide accurate age-appro
 <div class="clear"></div>
 <h2>Anatomy Apps for Kids</h2>
 <aside class="float right side center">
-	<div><a rel="nofollow" href="https://tinybop.com/apps/the-human-body"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg" alt="The Human Body"></amp-img><br>The Human Body</a><br><small>$4 (+$1 In-App)<sup>*</sup></small></div>
+	<div><a rel="nofollow noreferrer" href="https://tinybop.com/apps/the-human-body"><amp-img class="humanbody" width="100" height="100" src="{{site.cache}}/x/humanbody.jpg" alt="The Human Body"></amp-img><br>The Human Body</a><br><small>$4 (+$1 In-App)<sup>*</sup></small></div>
 	<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
