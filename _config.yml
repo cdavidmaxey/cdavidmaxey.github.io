@@ -61,3 +61,4 @@ collections:
     output: TRUE
     permalink: "/:name"
 alert: "<strong>Accepting New Clients:</strong> Complete an online <strong><a href='https://cdavidmaxey.com/#new' rel='nofollow'>New&nbsp;Client&nbsp;Request</a></strong>&nbsp;form.<br>Services are provided in-office or by video call, as appropriate."
+gold-alert: FALSE
