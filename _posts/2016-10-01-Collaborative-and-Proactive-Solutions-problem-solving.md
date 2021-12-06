@@ -49,7 +49,7 @@ tags:
 - 📚 Books for Teachers
 ---
 <blockquote><div>
-<p>Are we treating chronically misbehaving children as though they don’t want to behave, when in many cases they simply <i>can’t</i>? That might sound like the kind of question your mom dismissed as making excuses. But it’s actually at the core of some remarkable research that is starting to revolutionize discipline&hellip;.</p>
+<p>Are we treating chronically misbehaving children as though they don’t want to behave, when in many cases they simply <i>can’t</i>&#8239;? That might sound like the kind of question your mom dismissed as making excuses. But it’s actually at the core of some remarkable research that is starting to revolutionize discipline&hellip;.</p>
 <p>Under Greene’s philosophy, you’d no more punish a child for yelling out in class or jumping out of his seat repeatedly than you would if he bombed a spelling test. You’d talk with the kid to figure out the reasons for the outburst (was he worried he would forget what he wanted to say?), then brainstorm alternative strategies for the next time he felt that way. The goal is to get to the root of the problem, not to discipline a kid for the way his brain is wired.</p>
 <div class="citation"><small><a rel="nofollow noreferrer" target="_blank" href="https://www.motherjones.com/politics/2015/05/schools-behavior-discipline-collaborative-proactive-solutions-ross-greene" title="What If Everything You Knew About Disciplining Kids Was Wrong?"><cite>What If Everything You Knew About Disciplining Kids Was Wrong?</cite><br>by&nbsp;Katherine&nbsp;Reynolds&nbsp;Lewis<br>Mother&nbsp;Jones&nbsp;Magazine July/August&nbsp;2015&nbsp;Issue</a></small></div></div>
 </blockquote>
