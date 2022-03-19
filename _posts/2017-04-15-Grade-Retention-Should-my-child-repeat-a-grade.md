@@ -1,6 +1,6 @@
 ---
 date: "2017-04-15T00:00:00-08:00"
-updated: "2018-06-01T00:00:00-08:00"
+updated: "2021-12-31T00:00:00-08:00"
 layout: post
 published: TRUE
 alt: "Child taller than classmates"
@@ -56,4 +56,17 @@ tags:
 		<div class="bookborder"><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
 	</a>
 </div>
-<p>If you are seriously considering grade retention after having considered the research and expert consensus against the practices of grade retention and social promotion, you should consider the NASP’s expert opinion: “When students continue to perform below grade level standards and other causes for failure are ruled out (e.g., handicapping condition, limited English proficiency), and the student is retained in grade, the retention intervention must offer more than a ‘repeat’ of the previous year’s instruction.&hellip;If it is necessary to retain a student in grade, an intensive individualized intervention plan and frequent progress monitoring should be employed to ensure the maximum benefit for the student” (2011). Additionally, you should also consider how grade retention might impact your child, socially and as a whole. A qualifed professional can administer Light’s Retention Scale, which can be a useful tool for helping you have a discussion of factors relavant to your child specifically.</p>
+<p>If you are seriously considering grade retention after having considered the research and expert consensus against the practices of grade retention and social promotion, you should consider the NASP’s expert opinion: “When students continue to perform below grade level standards and other causes for failure are ruled out (e.g., handicapping condition, limited English proficiency), and the student is retained in grade, the retention intervention must offer more than a ‘repeat’ of the previous year’s instruction.&hellip;If it is necessary to retain a student in grade, an intensive individualized intervention plan and frequent progress monitoring should be employed to ensure the maximum benefit for the student” (2011). Additionally, you should also consider how grade retention might impact your child, socially and as a whole. A qualifed professional can administer Light’s Retention Scale, which can be a useful tool for helping you have a discussion of factors specifically relevant to your child.</p>
+<blockquote><div>
+<p>The National Association of School Psychologists (NASP) opposes the use of retention as an intervention strategy to mitigate instructional loss during the COVID-19 pandemic, and it urges caution regarding the assumption that special education services are an appropriate way to address COVID-19 instructional loss.&hellip;Retention is a costly intervention with little to no evidence of improving long-term academic outcomes. The majority of studies conducted over the past four decades on the effectiveness of grade retention fail to support its efficacy in remediating academic deficits (e.g., Andrew, 2014; Fruehwirth et al., 2016; Hwang & Cappella, 2019; Jimerson, 2001). In fact, repeating a grade prior to beginning high school increases the risk that a student will drop out even when other variables, including overall academic achievement and disciplinary records, are considered (Hughes et al., 2018; Jacob & Lefgren, 2009; Stearns et al., 2016). Moreover, retained students from minoritized backgrounds drop out at disproportionately higher rates compared with their White peers (Hughes et al., 2018).</p>
+<div class="citation"><small><a rel="nofollow noreferrer" target="_blank" href="https://www.nasponline.org/resources-and-publications/resources-and-podcasts/covid-19-resource-center/return-to-school/guidance-on-the-use-of-grade-retention-and-special-education-eligibility-to-address-instructional-loss" title="NASP COVID-19 Resource Center"><cite>Guidance on the Use of Grade Retention and Special Education Eligibility to Address Instructional Loss</cite><br>National&nbsp;Association of&nbsp;School&nbsp;Psychologists&nbsp;(2021)</a></small></div>
+</div></blockquote>
+<div class="float right side">
+	<a rel="nofollow" href="{{site.url}}/NASP-Guidance-on-Grade-Retention-and-Special-Education-2021.pdf">
+		<amp-img alt="NASP Guidance on the Use of Grade Retention and Special Education Eligibility to Address Instructional Loss (2021)" width="414" height="572" src="{{site.cache}}/books/NASP-Guidance-on-Grade-Retention-and-Special-Education-2021.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
+    </a>
+    <a class="download" rel="nofollow" href="{{site.url}}/NASP-Guidance-on-Grade-Retention-and-Special-Education-2021.pdf" download="CDavidMaxey.com-NASP-Guidance-on-Grade-Retention-and-Special-Education-2021.pdf">
+		<div class="bookborder"><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
+	</a>
+</div>
+<p>The NASP has considered the impacts of COVID-19, and the NASP is maintaining their guidance against the use of grade retention.</p>
