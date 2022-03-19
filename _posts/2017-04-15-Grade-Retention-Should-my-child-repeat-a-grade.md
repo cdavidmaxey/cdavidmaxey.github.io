@@ -69,4 +69,4 @@ tags:
 		<div class="bookborder"><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
 	</a>
 </div>
-<p>The NASP has also considered the impacts of COVID-19, and the NASP is maintaining their guidance against the use of grade retention.</p>
+<p>The NASP has also considered the impacts of COVID-19, and the NASP is maintaining their guidance against the use of grade retention.</p><div class="clear"></div>
