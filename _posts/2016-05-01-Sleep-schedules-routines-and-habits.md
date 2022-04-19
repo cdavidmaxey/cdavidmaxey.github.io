@@ -148,7 +148,7 @@ tags:
 <div class="footnotes">
 	Source: National Sleep Foundation (NSF), 2015<br>
 	<sup>*</sup>The NSF recommended against sleep time duration outside of the <i>May be Appropriate</i> range.<br>
-	Note: The American Academy of Sleep Medicine (2016) made similar sleep time duration recommendations, which were endorsed by the American Academy of Pediatrics (2016): 12-16 hours for infants, 11-14 hours for toddlers, 10-13 hours for preschoolers, 9-12 hours for 6-12 year olds, and 8-10 hours for 13-18 year olds.
+	Note: The American Academy of Sleep Medicine (2016) made similar sleep time duration recommendations, which were endorsed by the American Academy of Pediatrics (2016): 12-16 hours for infants, 11-14 hours for toddlers, 10-13 hours for preschoolers, 9-12 hours for 6-12 year olds, and 8-10 hours for 13-18 year olds. The American Academy of Sleep Medicine (2015) recommends adults sleep 7 or more hours per night on a regular basis.
 </div>
 <h3>Screen Time</h3>
 <p>The American Academy of Pediatrics (AAP) suggests that all screens be turned off 30 minutes before bedtime and that TVs, computers and other screens not be allowed in children’s bedrooms.</p>
