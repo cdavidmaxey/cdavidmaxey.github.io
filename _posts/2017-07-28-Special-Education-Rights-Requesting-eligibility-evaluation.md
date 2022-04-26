@@ -98,6 +98,10 @@ tags:
 			<td class="left">speech and language disorders</td>
 		</tr>
 		<tr>
+			<td class="right"><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2127">Developmental Delay</a></td>
+			<td class="left">a child ages 3-9 years old with delays that are 1.5 standard deviations or more below the mean in two or more of the following areas: cognitive development; physical development; communication development; social or emotional development; and adaptive development</td>
+		</tr>
+		<tr>
 			<td class="right"><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2170">Specific Learning Disability</a></td>
 			<td class="left">inadequate achievement for their age or grade in basic reading skills, reading fluency skills, reading comprehension, mathematics calculation, mathematics problem-solving, written expression, oral expression, or listening comprehension (when provided with appropriate instruction and that is not primarily the result of a visual impairment, hearing impairment, motor impairment, intellectual disability, emotional disturbance, cultural factors, environmental or economic disadvantage, or limited English proficiency) with a) insufficient progress in response to intervention or b) a pattern of strengths and weaknesses in classroom performance, academic achievement, or both, relative to age, grade, or intellectual development</td>
 		</tr>
