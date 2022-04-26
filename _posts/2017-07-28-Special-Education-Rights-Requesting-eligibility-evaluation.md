@@ -99,7 +99,7 @@ tags:
 		</tr>
 		<tr>
 			<td class="right"><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2127">Developmental Delay</a></td>
-			<td class="left">a child ages 3-9 years old with delays that are 1.5 standard deviations or more below the mean in two or more of the following areas: cognitive development; physical development; communication development; social or emotional development; and adaptive development</td>
+			<td class="left">a child ages 3-9 years old with delays that are at or below the 7<sup>th</sup> percentile (i.e., 1.5 standard deviations or more below the mean) in two or more of the following areas: cognitive development; physical development; communication development; social or emotional development; and adaptive development</td>
 		</tr>
 		<tr>
 			<td class="right"><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2170">Specific Learning Disability</a></td>
@@ -107,7 +107,7 @@ tags:
 		</tr>
 		<tr>
 			<td class="right"><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2155">Intellectual Disability</a></td>
-			<td class="left">intelligence test score at or below the 2<sup>nd</sup> percentile (i.e., 2 or more standard deviations below the mean); deficits in adaptive behavior; and developmental level or educational achievement that is significantly below age or grade norms</td>
+			<td class="left">intelligence test score at or below the 2<sup>nd</sup> percentile (i.e., 2 standard deviations or more below the mean); deficits in adaptive behavior; and developmental level or educational achievement that is significantly below age or grade norms</td>
 		</tr>
 		<tr>
 			<td class="right"><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2165">Other Health Impairment</a></td>
