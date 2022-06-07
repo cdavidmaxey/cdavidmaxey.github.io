@@ -9,6 +9,7 @@ Disallow: /crisis/
 Disallow: /secret/
 Disallow: /new/
 Disallow: /paper/
+Disallow: /lemonde/
 Disallow: /schedule/
 Disallow: /home/
 Disallow: /school/
