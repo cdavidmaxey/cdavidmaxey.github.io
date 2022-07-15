@@ -23,10 +23,10 @@ Person:
   naics: 621330
   disambiguatingDescription: "C. David Maxey’s full name is Charles David Maxey, and he goes by David. Maxey is sometimes misspelled Maxcy, Maxi, Maxcey, Macksey, Maxe, or Maxie."
   image: "CDavidMaxey.jpg"
-  addressLocality: Tigard
+  addressLocality: Portland
   addressRegion: OR
   postalCode: 97223
-  streetAddress: "7145 SW Varns St Suite 105"
+  streetAddress: "6950 SW Hampton St Suite 207"
 Publisher:
   name: CDavidMaxey.com
   logo:
@@ -35,20 +35,20 @@ Publisher:
     Y: 60
 feedTitle: "C. David Maxey, M.A."
 mail:
-  address: "7145 SW Varns St Suite 105"
-  city_state: "Tigard, OR"
+  address: "6950 SW Hampton St Suite 207"
+  city_state: "Portland, OR"
   zip: "97223"
 office:
-  address: "7145 SW Varns St Suite 105"
-  address_formatted: "<div>7145 SW Varns St&nbsp;</div><div>Suite 105</div>"
-  city_state: "Tigard, OR"
+  address: "6950 SW Hampton St Suite 207"
+  address_formatted: "<div>6950 SW Hampton St&nbsp;</div><div>Suite 207</div>"
+  city_state: "Portland, OR"
   zip: "97223"
 applemaps:
-  url: "https://maps.apple.com/?q=C.+David+Maxey,+M.A.,+Licensed+Psychologist+Associate&t=m&sll=45.424516,-122.7530176"
+  url: "https://maps.apple.com/?q=C.+David+Maxey,+M.A.,+Licensed+Psychologist+Associate"
   documentation: "https://developer.apple.com/library/content/featuredarticles/iPhoneURLScheme_Reference/MapLinks/MapLinks.html"
 googlemaps:
   url: "https://g.page/cdavidmaxey"
-  url_full: "https://www.google.com/maps/search/?api=1&query=C.+David+Maxey,+M.A.,+Licensed+Psychologist+Associate&query_place_id=ChIJobOD-_sNlVQR4T-nHBAoTMw"
+  url_full: "https://www.google.com/maps/search/?api=1&query=C.+David+Maxey,+M.A.,+Licensed+Psychologist+Associate"
   documentation_url: "https://developers.google.com/maps/documentation/urls/guide"
   documentation_place_id: "https://developers.google.com/places/place-id"
   api: "https://maps.googleapis.com/maps/api/staticmap"
