@@ -62,15 +62,23 @@ tags:
         <marker orient="auto" overflow="visible" id="a"><path d="M0 0l5-5-17.5 5L5 5z" stroke="#000" transform="matrix(-.4 0 0 -.4 -4 0)"/></marker>
     </defs>
     <g font-size="12" text-anchor="middle">
-        <text text-anchor="end" x="80.2" y="231.1">Z-score</text>
-        <text y="253" x="610">Standard</text>
-        <text y="266" x="610">Deviations</text>
-        <text font-size="10" y="278" x="610">(from the mean)</text>
-        <text font-size="10" y="265" x="359.7">Average</text>
-        <text font-size="10" y="276" x="359.7">(Mean)</text>
+        <text text-anchor="end" x="80.2" y="223.1">Standard</text>
+        <text text-anchor="end" x="80.2" y="239.1">Score</text>
+        <text font-size="10" y="277" x="187.9">Exceptionally</text>
+        <text font-size="10" y="288" x="187.9">Low</text>
+        <text font-size="10" y="277" x="245.2">Below</text>
+        <text font-size="10" y="288" x="245.2">Average</text>
+        <text font-size="10" y="277" x="291.0">Low</text>
+        <text font-size="10" y="288" x="291.0">Average</text>
+        <text font-size="16" y="285.5" x="359.7">Average</text>
+        <text font-size="10" y="277" x="428.5">High</text>
+        <text font-size="10" y="288" x="428.5">Average</text>
+        <text font-size="10" y="277" x="474.3">Above</text>
+        <text font-size="10" y="288" x="474.3">Average</text>
+        <text font-size="10" y="277" x="531.6">Exceptionally</text>
+        <text font-size="10" y="288" x="531.6">High</text>
         <text text-anchor="end" x="120" y="308">Percentile</text>
-        <text text-anchor="end" x="120" y="348.589">IQ / Standard Score</text>
-        <text text-anchor="end" x="120" y="389.389">Scaled Score</text>
+        <text text-anchor="end" x="120" y="381.489">Scaled Score</text>
         <text text-anchor="end" x="120" y="430.189">T-score</text>
     </g>
     <g font-size="20" text-anchor="middle">
@@ -83,165 +91,121 @@ tags:
     <path fill="#2980b9" d="M492.9 194.9c-9.5-8.9-17.7-19-25.2-29.7-7.3-10.4-13.9-21.4-20.2-32.6-6.5-11.5-12.7-23.2-18.8-34.9 0-.2-.2-.3-.2-.4v130.5h68.6v-29.1c-1.4-1.2-2.9-2.5-4.3-3.8z"/>
     <path fill="#85c1e9" d="M559.4 224.7c-11.9-1.5-24.1-4.2-35.1-9.1-9.8-4.3-18.9-9.9-27.1-16.9v29.1H566v-2.4c-2.2-.2-4.3-.4-6.5-.7zM632.8 227.8c-12.2 0-24.4-.2-36.5-.5-10.2-.3-20.3-.8-30.3-1.9v2.4h68.7-1.9z"/>
     <path stroke="#000" d="M153.5 225.3v2.5"/>
-    <path stroke="#f5b7b1" d="M187.9 218.1v9.7"/>
     <path stroke="#000" d="M222.3 198.5v29.3"/>
-    <path stroke="#f5b7b1" d="M256.6 157.8v70"/>
     <path stroke="#000" d="M291 97.3v130.5"/>
-    <path stroke="#28b463" d="M325.3 37.9v189.9"/>
-    <path stroke="#28b463" d="M359.7 12.5v215.3"/>
-    <path stroke="#28b463" d="M394.1 37.9v189.9"/>
+    <path stroke="#1a7541" d="M359.7 12.5v215.3"/>
     <path stroke="#000" d="M428.4 97.3v130.5"/>
-    <path stroke="#aed6f1" d="M462.8 157.8v70"/>
     <path stroke="#000" d="M497.2 198.5v29.3"/>
-    <path stroke="#aed6f1" d="M531.5 218.1v9.7"/>
     <path stroke="#000" d="M565.9 225.3v2.5"/>
     <g stroke="#000">
-        <path d="M119.2 227.8v10.8"/>
         <path d="M153.5 227.8v10.8"/>
-        <path d="M187.9 227.8v10.8"/>
         <path d="M222.3 227.8v10.8"/>
-        <path d="M256.6 227.8v10.8"/>
-        <path d="M291 227.8v10.8"/>
-        <path d="M325.3 227.8v10.8"/>
+        <path d="M268.1 227.8v10.8"/>
+        <path d="M313.9 227.8v10.8"/>
         <path d="M359.7 227.8v10.8"/>
-        <path d="M394.1 227.8v10.8"/>
-        <path d="M428.4 227.8v10.8"/>
-        <path d="M462.8 227.8v10.8"/>
+        <path d="M405.6 227.8v10.8"/>
+        <path d="M451.4 227.8v10.8"/>
         <path d="M497.2 227.8v10.8"/>
-        <path d="M531.5 227.8v10.8"/>
         <path d="M565.9 227.8v10.8"/>
-        <path d="M600.2 227.8v10.8"/>
         <path d="M84.7 227.8h565.3"/>
     </g>
-    <g font-size="10" text-anchor="middle" fill="#fff">
-        <text fill="#000" y="222" x="136.35">0.1%</text>
-        <text fill="#000" y="201.6" x="170.7">0.5%</text>
-        <text fill="#000" y="224.8" x="205.1">1.7%</text>
-        <text y="213" x="239.45">4.4%</text>
-        <text y="194" x="273.8">9.2%</text>
-        <text y="160" x="308.15">15.0%</text>
-        <text y="140" x="342.5">19.1%</text>
-        <text y="140" x="376.9">19.1%</text>
-        <text y="160" x="411.25">15.0%</text>
-        <text y="194" x="445.6">9.2%</text>
-        <text y="213" x="480">4.4%</text>
-        <text fill="#000" y="224.8" x="514.45">1.7%</text>
-        <text fill="#000" y="201.6" x="548.7">0.5%</text>
-        <text fill="#000" y="222" x="583.05">0.1%</text>
-        <text font-size="36" y="210" x="361"><tspan font-weight="bold">68</tspan>.<tspan font-weight="bold">2</tspan>%</text>
-        <text font-size="24" y="110" x="361">“<tspan font-weight="bold">Average</tspan>”</text>
+    <g stroke="#999" stroke-dasharray="1,1" >
+        <path d="M222.3 257.8v46.9"/>
+        <path d="M268.1 257.8v46.9"/>
+        <path d="M313.9 257.8v46.9"/>
+        <path d="M405.6 257.8v46.9"/>
+        <path d="M451.4 257.8v46.9"/>
+        <path d="M497.2 257.8v46.9"/>
+    </g>
+    <g font-size="14" text-anchor="middle" fill="#fff">
+        <text fill="#000" y="196.6" x="200.7">2%</text>
+        <text fill="#000" y="196.6" x="518.7">2%</text>
+        <text font-size="20" y="210" x="256.65">14%</text>
+        <text font-size="20" y="210" x="462.85">14%</text>
+        <text font-size="36" y="110" x="361">68%</text>
     </g>
     <path stroke="#000" fill="none" d="M84.7 227.8c12.4 0 24.8-.2 37.2-.5 11.8-.3 23.8-.8 35.5-2.3 12.5-1.6 24.7-4.2 36.5-8.9 11.7-4.7 22.1-11.9 31.6-20.3 9.3-8.2 17.4-18.2 24.6-28.4 7.4-10.5 14.2-21.4 20.5-32.6 6.5-11.6 12.8-23.3 19-35 6.1-11.5 12.2-23 18.5-34.4 6.2-11.1 12.8-22.2 20.7-32.1 4-5.2 8.5-9.8 13.5-13.9 4.9-4 10.7-6.3 16.9-6.8 6.2-.5 12.1 2.7 17.1 6.1 5.1 3.5 9.4 8.5 13.4 13.3 8.2 10 14.8 21.3 21.2 32.5 6.2 10.9 12 22.1 17.9 33.1 6.2 11.7 12.3 23.4 18.8 34.9 6.3 11.2 12.9 22.2 20.2 32.6 7.5 10.7 15.8 20.8 25.2 29.7 9.3 8.8 19.9 15.6 31.4 20.7 11.1 4.9 23.2 7.6 35.1 9.1 12.2 1.5 24.5 2.2 36.8 2.6 12.2.4 24.4.4 36.5.5h1.9"/>
     <g stroke="#000" marker-end="url(#a)">
-        <path d="M170.7 204.7l12.1 18.5"/>
-        <path d="M548.7 204.7l-12.1 18.5"/>
+        <path d="M200.7 200.7l12.1 18.5"/>
+        <path d="M518.7 200.7l-12.1 18.5"/>
     </g>
     <g font-size="14" text-anchor="middle">
-        <text y="253" x="148.5">−3</text>
-        <text y="253" x="217.3">−2</text>
-        <text y="253" x="286.3">−1</text>
-        <text y="253" x="359.7">0</text>
-        <text y="253" x="423.4">+1</text>
-        <text y="253" x="492.2">+2</text>
-        <text y="253" x="560.9">+3</text>
+        <text y="253" x="153.5">55</text>
+        <text y="253" x="222.3">70</text>
+        <text y="253" x="268.1">80</text>
+        <text y="253" x="313.9">90</text>
+        <text y="253" x="359.7">100</text>
+        <text y="253" x="405.6">110</text>
+        <text y="253" x="451.4">120</text>
+        <text y="253" x="497.2">130</text>
+        <text y="253" x="565.9">145</text>
     </g>
     <g font-size="12" text-anchor="middle">
-        <text y="328.3" x="159.9">0.1%</text>
-        <text y="328.3" x="228.6">2.3%</text>
-        <text y="328.3" x="297.3">15.9%</text>
-        <text y="328.3" x="366.1">50%</text>
-        <text y="328.3" x="434.8">84.1%</text>
-        <text y="328.3" x="503.6">97.7%</text>
-        <text y="328.3" x="572.3">99.9%</text>
+        <text y="328.3" x="159.5">0.1%</text>
+        <text y="328.3" x="228.3">2%</text>
+        <text y="328.3" x="274.1">9%</text>
+        <text y="328.3" x="319.9">25%</text>
+        <text y="328.3" x="365.7">50%</text>
+        <text y="328.3" x="411.6">75%</text>
+        <text y="328.3" x="457.4">91%</text>
+        <text y="328.3" x="503.2">98%</text>
+        <text y="328.3" x="572.9">99.9%</text>
     </g>
     <g stroke="#000">
-        <path d="M153.9 304.7v+10"/>
-        <path d="M222.6 304.7v+10"/>
-        <path d="M291.3 304.7v+10"/>
-        <path d="M360.1 304.7v+10"/>
-        <path d="M428.8 304.7v+10"/>
-        <path d="M497.6 304.7v+10"/>
-        <path d="M566.3 304.7v+10"/>
-        <path d="M199.6 304.7v-10"/>
-        <path d="M256.6 304.7v-10"/>
-        <path d="M325.3 304.7v-10"/>
-        <path d="M394.1 304.7v-10"/>
-        <path d="M462.8 304.7v-10"/>
-        <path d="M514.6 304.7v-10"/>
+        <path d="M222.3 304.7v+10"/>
+        <path d="M268.1 304.7v+10"/>
+        <path d="M313.9 304.7v+10"/>
+        <path d="M405.6 304.7v+10"/>
+        <path d="M451.4 304.7v+10"/>
+        <path d="M497.2 304.7v+10"/>
+        <path d="M153.5 304.7v+10"/>
+        <path d="M291.0 304.7v+35"/>
+        <path d="M359.7 304.7v+10"/>
+        <path d="M428.5 304.7v+35"/>
+        <path d="M565.9 304.7v+10"/>
         <path d="M124.5 304.7h525.5"/>
     </g>
     <g font-size="12" text-anchor="middle">
-        <text y="291.5" x="205.6">1%</text>
-        <text y="291.5" x="262.6">6.7%</text>
-        <text y="291.5" x="331.3">30.9%</text>
-        <text y="291.5" x="400.1">69.1%</text>
-        <text y="291.5" x="468.8">93.3%</text>
-        <text y="291.5" x="520.6">99%</text>
+        <text y="353.3" x="297.0">16%</text>
+        <text y="353.3" x="434.5">84%</text>
     </g>
     <g stroke="#000">
-        <path d="M153.5 345.5v+10"/>
-        <path d="M222.3 345.5v+10"/>
-        <path d="M291 345.5v+10"/>
-        <path d="M359.7 345.5v+10"/>
-        <path d="M428.4 345.5v+10"/>
-        <path d="M497.2 345.5v+10"/>
-        <path d="M565.9 345.5v+10"/>
-        <path d="M124.5 345.5h525.5"/>
+        <path d="M222.3 378.4v+10"/>
+        <path d="M268.1 378.4v+10"/>
+        <path d="M313.9 378.4v+10"/>
+        <path d="M359.7 378.4v+10"/>
+        <path d="M405.6 378.4v+10"/>
+        <path d="M451.4 378.4v+10"/>
+        <path d="M497.2 378.4v+10"/>
+        <path d="M124.5 378.4h525.5"/>
     </g>
     <g text-anchor="middle" font-size="12">
-        <text x="153.5" y="367.4">55</text>
-        <text x="222.3" y="367.4">70</text>
-        <text x="291" y="367.4">85</text>
-        <text x="359.7" y="367.4">100</text>
-        <text x="428.4" y="367.4">115</text>
-        <text x="497.2" y="367.4">130</text>
-        <text x="565.9" y="367.4">145</text>
+        <text x="222.3" y="400.3">4</text>
+        <text x="268.1" y="400.3">6</text>
+        <text x="313.9" y="400.3">8</text>
+        <text x="359.7" y="400.3">10</text>
+        <text x="405.6" y="400.3">12</text>
+        <text x="451.4" y="400.3">14</text>
+        <text x="497.2" y="400.3">16</text>
     </g>
     <g stroke="#000">
-        <path d="M153.5 386.3v+10"/>
-        <path d="M222.3 386.3v+10"/>
-        <path d="M291 386.3v+10"/>
-        <path d="M359.7 386.3v+10"/>
-        <path d="M428.4 386.3v+10"/>
-        <path d="M497.2 386.3v+10"/>
-        <path d="M565.9 386.3v+10"/>
-        <path d="M124.5 386.3h525.5"/>
-    </g>
-    <g text-anchor="middle" font-size="12">
-        <text x="153.5" y="408.2">1</text>
-        <text x="222.3" y="408.2">4</text>
-        <text x="291" y="408.2">7</text>
-        <text x="359.7" y="408.2">10</text>
-        <text x="428.4" y="408.2">13</text>
-        <text x="497.2" y="408.2">16</text>
-        <text x="565.9" y="408.2">19</text>
-    </g>
-    <g stroke="#000">
-        <path d="M153.5 427.1v+10"/>
-        <path d="M187.9 427.1v+10"/>
         <path d="M222.3 427.1v+10"/>
-        <path d="M256.6 427.1v+10"/>
-        <path d="M291 427.1v+10"/>
+        <path d="M256.65 427.1v+10"/>
+        <path d="M291.0 427.1v+10"/>
         <path d="M359.7 427.1v+10"/>
-        <path d="M428.4 427.1v+10"/>
-        <path d="M462.8 427.1v+10"/>
+        <path d="M428.5 427.1v+10"/>
+        <path d="M462.85 427.1v+10"/>
         <path d="M497.2 427.1v+10"/>
-        <path d="M531.5 427.1v+10"/>
-        <path d="M565.9 427.1v+10"/>
         <path d="M124.5 427.1h525.5"/>
     </g>
     <g text-anchor="middle" font-size="12">
-        <text x="153.5" y="449">20</text>
-        <text x="187.9" y="449">25</text>
         <text x="222.3" y="449">30</text>
-        <text x="256.6" y="449">35</text>
-        <text x="291" y="449">40</text>
+        <text x="256.65" y="449">35</text>
+        <text x="291.0" y="449">40</text>
         <text x="359.7" y="449">50</text>
-        <text x="428.4" y="449">60</text>
-        <text x="462.8" y="449">65</text>
+        <text x="428.5" y="449">60</text>
+        <text x="462.85" y="449">65</text>
         <text x="497.2" y="449">70</text>
-        <text x="531.5" y="449">75</text>
-        <text x="565.9" y="449">80</text>
     </g>
 </svg></a></p>
 <p>In a school setting, students who score near the <i>top</i> of the <span class="bell-g">“Average”</span> range (up to the 84<sup>th</sup> percentile) are generally considered average, usually meaning that they don’t qualify as talented and gifted (TAG). Likewise, student who score near the <i>bottom</i> of the <span class="bell-g">“Average”</span> range (down to the 16<sup>th</sup> percentile) are generally considered average, usually meaning that there’s no reason to suspect a disability that would need specially designed instruction (SDI) through a individualized education plan (IEP) from Special Education. If your child’s performance is in the <span class="bell-g">“Average”</span> range, it is still your right to request a Special Education eligibility evaluation from your child’s school (<a href="{{site.url}}/Special-Education-Rights-Requesting-eligibility-evaluation/">see my article on requesting an evaluation</a>), and if you do, it might be helpful to clearly explain why you believe your child has a disability, because your child’s performance is not substantially impaired&ndash;it’s average. Although your school might not provide Special Education, teachers often offer struggling students informal supports, sometimes called “tiered” or “Tier 2” or “Tier 3” supports, which might include small-group instruction in class while others are doing independant work, after-school tutoring, etc. If you think that your child is not performing up to their potential, you might also consider other explainations, such as difficulties with attention or focus. Children with a diagnosis, such as ADHD, usually qualify for a Section 504 Plan that can include accommodations. Note that getting a 504 Plan is usually less involved than getting an IEP.</p>
