@@ -65,7 +65,7 @@
 			/* nav.bar */
 			nav.bar{background:#1a237e;color:white;position:fixed;width:calc(100% - env(safe-area-inset-right) - env(safe-area-inset-left));z-index: 200;padding:0 env(safe-area-inset-right) 0 env(safe-area-inset-left)}
 			nav.bar section{margin:0 auto;display:flex;flex-flow:row wrap;justify-content:flex-start;max-width:1200px}
-            nav.bar section:first-child{height:50px}
+            nav.bar section:first-child{height:70px}
 			nav.bar section:last-child a.link {padding:.75rem}
 			nav.bar a{text-decoration:none;display:block}
 			nav.bar a.active,nav.bar a:hover,nav.bar:hover a.active:hover{background:rgba(255,255,255,.1)}
@@ -74,18 +74,18 @@
 			a.logo>amp-img,a.logo>div,a.logo>svg{display:inline-block;vertical-align:middle}
 			a.logo>div{margin:0 .5rem 0 .25rem}
 			a.logo>div>div:first-child,div.logo>div:first-child{font-size:1.325em}
-            a.logo>svg{height:46px;width:46px;padding:2px}
-			nav.bar a.link{padding:1rem;height:1.125rem}
+            a.logo>svg{height:62px;width:62px;padding:4px}
+			nav.bar a.link{padding:1.625rem 1rem;height:1.125rem}
 			nav.bar a.center{flex:1;text-align:center}
 			nav.bar a.right{margin-left:auto}
 			nav.bar section:nth-child(2){display:none}
-            .digits{padding-top:3.125rem;background:#3949ab;color:white}
-            .anchor{margin-top:calc(-50px - 1rem);padding-top:calc(50px + 1rem);overflow:hidden}
+            .digits{padding-top:4.375rem;background:#1a237e;color:white}
+            .anchor{margin-top:calc(-70px - 1rem);padding-top:calc(70px + 1rem);overflow:hidden}
 			@media all and (max-width:666px){
                 nav.bar section:first-child a.link:not(.right){display:none}{% unless page.fullpageiframe %}
                 nav.bar section:last-child{display:flex}
-                .digits{padding-top:5.75rem}
-                .anchor{margin-top:calc(-50px - 2.625rem - 1rem);padding-top:calc(50px + 2.625rem + 1rem)}}{% endunless %}
+                .digits{padding-top:7rem}
+                .anchor{margin-top:calc(-70px - 2.625rem - 1rem);padding-top:calc(70px + 2.625rem + 1rem)}}{% endunless %}
 			@media all and (max-width:359px){}
 
 			/* .digits */
