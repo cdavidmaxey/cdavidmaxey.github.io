@@ -53,7 +53,7 @@ googlemaps:
   documentation_place_id: "https://developers.google.com/places/place-id"
   api: "https://maps.googleapis.com/maps/api/staticmap"
   parameters: "?zoom=15&size=640x640&scale=2&markers=scale:2|icon:https://cdavidmaxey.com/map-pin.png?v=3|6950+SW+Hampton+St+Suite+207,Portland,OR&key=AIzaSyDCxo9x_qGwB3DbswOdJaEqbsMxEcalTgA"
-  signature: "&signature=yWWy00OOGww_gz3PW_nyAXfN_oI="
+  signature: "&signature=KgbdnUm0SmuA1BqD13ZpRi5nve4="
   api_console: "https://console.developers.google.com/google/maps-apis/api-list"
   documentation_maps_static: "https://developers.google.com/maps/documentation/maps-static/intro"
 collections:
