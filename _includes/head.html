@@ -14,7 +14,8 @@
         <link rel="preload" as="font" crossorigin href="{{site.url}}/cursif.ttf">{% endif %}
         <script async src="https://cdn.ampproject.org/v0.js"></script>{% if page.layout == 'post' %}
 		<script async custom-element="amp-timeago" src="https://cdn.ampproject.org/v0/amp-timeago-0.1.js"></script>{% endif %}{% if page.youtube.id or page.youtube.body %}
-		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}{% if page.video.src %}
+		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>{% endif %}{% if page.vimeo.id or page.vimeo.body %}
+		<script async custom-element="amp-vimeo" src="https://cdn.ampproject.org/v0/amp-vimeo-0.1.js"></script>{% endif %}{% if page.video.src %}
 		<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>{% endif %}{% if page.iframe %}
 		<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>{% endif %}
 		{{page.head}}

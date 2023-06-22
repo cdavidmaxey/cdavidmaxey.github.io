@@ -26,6 +26,11 @@ youtube:
   X: 
   Y: 
   body: TRUE
+vimeo:
+  id: 
+  X: 
+  Y: 
+  body: TRUE
 variables:
 - rel=0
 - iv_load_policy=3
@@ -135,4 +140,8 @@ tags:
 <h4>Plan B (Part 2)</h4>
 {::nomarkdown}
 <amp-youtube data-videoid="ARIEXN1yf00" layout="responsive" width="16" height="9" credentials="omit" data-param-rel=0 data-param-iv_load_policy=3 data-param-modestbranding=1 data-param-disablekb=1></amp-youtube>
+{:/nomarkdown}
+<h4>Solving Problems Rather Than Modifying Behavior</h4>
+{::nomarkdown}
+<amp-vimeo data-videoid="563758117" layout="responsive" width="16" height="9" do-not-track></amp-vimeo>
 {:/nomarkdown}
