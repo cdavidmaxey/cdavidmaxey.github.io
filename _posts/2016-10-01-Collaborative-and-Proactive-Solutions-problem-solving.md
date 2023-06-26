@@ -85,6 +85,7 @@ tags:
 <p>With CPS, the emphasis isn’t on kids’ specific challenging behaviors or psychiatric diagnoses (which are simply categories of challenging behaviors). Whining, pouting, sulking, withdrawing, crying, screaming, swearing, hitting, spitting, biting, and worse are all just manners in which kids express that there are expectations they’re having difficulty meeting. This approach aims to reduce challenging episodes by working together with children to solve the problems setting challenging behavior in motion in the first place, rather than trying to modify their behavior through application of rewards and punishments. The goal is to foster a collaborative partnership between adults and kids to:</p>
 <ul>
 	<li>engage kids in solving the problems that affect their lives,</li>
+    <li>find solutions that meet both the adults’ and kid’s concerns <i>(as opposed to compromises that might only partially meet the adults’ or kid’s concerns)</i></li>
 	<li>enhance relationships,</li>
 	<li>improve communication, and</li>
 	<li>help kids and adults learn and display the skills on the more positive side of human nature (e.g., empathy, appreciating how one’s behavior is affecting others, resolving disagreements in ways that do not involve conflict, taking another’s perspective, and honesty).</li>
