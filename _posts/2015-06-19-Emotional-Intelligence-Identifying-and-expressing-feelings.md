@@ -21,6 +21,7 @@ redirect_from:
 - "/MindUp/"
 - "/mindUp/"
 - "/Social-Emotional-Learning-in-Schools-MindUP-Curriculum/"
+- "/Learning-recess-games-to-improve-relationships-at-school/"
 alt: "Inside Out"
 thumb:
   src: "inside-out.jpg"
