@@ -28,9 +28,6 @@ description: "Made-up games are great for playdates, but on a playground with 20
 tags:
 - 💛 Social Emotional Learning
 - Attention
-- 📚 Books for Teachers
-- 📚 Books for Parents
-- 📚 Books for Kids
 ---
 <blockquote><div>
 <h3>Six Simple Principles of Play</h3>
