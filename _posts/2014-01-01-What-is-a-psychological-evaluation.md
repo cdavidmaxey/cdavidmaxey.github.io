@@ -1,7 +1,7 @@
 ---
 updated:
 layout: post
-published: TRUE
+published: FALSE
 alt: "Lands End Labyrinth in Golden Gate National Recreation Area in San Francisco, California"
 thumb:
   src: "lands-end-labyrinth.jpg"
