@@ -73,7 +73,7 @@ description: "Tigard near I-5 off 72nd Ave. at 217/Kruse Way • C. David Maxey,
 <main>
 	<h1 class="center">Contact Information</h1><!--sse-->
 	<section class="contact center">
-		<h4><div id="contact" class="anchor"></div><a rel="nofollow" href="mailto:{{site.email}}">{{site.email}}</a></h4>
+		<h4 id="contact"><a rel="nofollow" href="mailto:{{site.email}}">{{site.email}}</a></h4>
 	</section>
 	<section class="contact center">
 		<h4 class="numbers"><a rel="nofollow noreferrer" href="tel:{{site.tel}}">{{site.telephone}}</a></h4>
@@ -83,18 +83,18 @@ description: "Tigard near I-5 off 72nd Ave. at 217/Kruse Way • C. David Maxey,
         <p>Fax</p>
 	</section><!--/sse-->
     <section id="addressmap" class="center">
-        <h4><div id="address" class="anchor"></div><div id="map" class="anchor"></div><span>{{site.office.address}}</span><br><span>{{site.office.city_state}} {{site.office.zip}}</span></h4>
+        <h4 id="address"><div id="map" class="anchor"></div><span>{{site.office.address}}</span><br><span>{{site.office.city_state}} {{site.office.zip}}</span></h4>
     </section>
     <section class="map">
         <a rel="nofollow noreferrer" target="_blank" href="{{site.googlemaps.url | replace: ',', '%2C' }}" aria-label="Google Maps of Office Location"><amp-img src="{{ site.googlemaps.api }}{{ site.googlemaps.parameters | replace: "|", "%7C" | replace: ",", "%2C" | replace: ":", "%3A" | replace: "/", "%2F" }}{{ site.googlemaps.key }}{{ site.googlemaps.signature }}" height="640" width="640" alt="Google Maps of Office Location"></amp-img></a>
     </section>
     <section class="contact center streetview">
-        <h4><div id="streetview" class="anchor"></div><div id="street" class="anchor"></div><span>Street View</span></h4>
+        <h4 id="streetview"><div id="street" class="anchor"></div><span>Street View</span></h4>
 		<amp-img alt="Street View of 6950 SW Hampton St, Portland, OR 97223" src="{{site.cache}}/320/street-view.jpg" srcset="{{site.cache}}/320/street-view.jpg 320w,{{site.cache}}/640/street-view.jpg 640w,{{site.cache}}/1280/street-view.jpg 1280w,{{site.cache}}/1920/street-view.jpg 1920w" layout="responsive" width="1920" height="1080"></amp-img>
 	</section>
 	<section class="contact crisis">
 		<div>
-			<h4 class="center"><div id="crisis" class="anchor"></div>Crisis Care &amp;&nbsp;Lifelines</h4>
+			<h4 id="crisis" class="center">Crisis Care &amp;&nbsp;Lifelines</h4>
 			<p class="center"><small>available all day and night</small></p>
 			<h5 class="center">In an emergency, call 9-1-1</h5>
             <section>
@@ -172,7 +172,7 @@ description: "Tigard near I-5 off 72nd Ave. at 217/Kruse Way • C. David Maxey,
 		</div>
 	</section>
 	<section class="text social">
-        <h4 class="center"><div id="social" class="anchor"></div>If&nbsp;You&nbsp;See&nbsp;Me Online or Around&nbsp;Town</h4>
+        <h4 id="social" class="center">If&nbsp;You&nbsp;See&nbsp;Me Online or Around&nbsp;Town</h4>
         <p class="center">Policy on Social Settings</p>
         <p><i>Online social networks (like Facebook and Twitter) are not professional contexts, and they are not private ways to communicate, so I do not use them to interact with people I serve professionally.</i> If you happen to see me online, please do not contact, friend, or follow me in any way. If I am contacted, I will ignore, block, or not reply to that contact. If I discover that I have accidentally connected with you, I will cancel or block that connection. Please know that <strong>I do not interact with you online to protect your child’s and family’s privacy</strong> and to maintain our professional relationship.</p>
         <p><i>If I see you around town, I will act like I don’t know you because you may not want to explain why you know me to others with you, with me, or nearby.</i> If you approach me, I usually will say hi briefly, but I urge you to consider whether that might be uncomfortable for your child or family. It is not a time for us to discuss professional matters. Please remember that <strong>unless you approach me, I will act like I don’t know you</strong> because I want to protect your child’s and family’s privacy.</p>

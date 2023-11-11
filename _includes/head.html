@@ -82,12 +82,13 @@
 			nav.bar a.right{margin-left:auto}
 			nav.bar section:nth-child(2){display:none}
             .digits{padding-top:3.125rem;background:transparent;color:white}
-            .anchor{margin-top:calc(-50px - 1rem);padding-top:calc(50px + 1rem);overflow:hidden}
+            .anchor{overflow:hidden}
+            html{scroll-padding-top:calc(50px + 1rem)}
 			@media all and (max-width:666px){
                 nav.bar section:first-child a.link:not(.right){display:none}{% unless page.fullpageiframe %}
                 nav.bar section:last-child{display:flex}
                 .digits{padding-top:5.75rem}
-                .anchor{margin-top:calc(-50px - 2.625rem - 1rem);padding-top:calc(50px + 2.625rem + 1rem)}}{% endunless %}
+                html{scroll-padding-top:calc(50px + 2.625rem + 1rem)}}{% endunless %}
 			@media all and (max-width:359px){}
 
 			/* .digits */

@@ -66,7 +66,7 @@ tags:
 <div class="citation"><small><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2110" title="Oregon Administrative Rules: Chapter 581 (Department of Education): Division 15 (Special Education): Rule 581-015-2110 (General Evaluation and Reevaluation Procedures)"><cite>Rule 581-015-2110 General Evaluation and Reevaluation Procedures</cite><br>Oregon Administrative Rules<br>Chapter 581 (Department of Education)<br>Division 15 (Special Education)</a></small></div>
 </div></blockquote>
 <p>I encourage you to know your rights, which the Oregon Department of Education reviews in their <a rel="nofollow noreferrer" target="_blank" href="https://www.oregon.gov/ode/rules-and-policies/Documents/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21">Procedural Safeguards Notice</a>. I recommend you make your request for an evaluation <i>in writing</i> with clear requests, your signature, and the date, so there are no misunderstandings that might delay the process (see Parent Request Template below).</p>
-<h2><div id="template" class="anchor"></div><div id="request" class="anchor"></div><div id="letter" class="anchor"></div>Parent Request Template</h2>
+<h2 id="template"><div id="request" class="anchor"></div><div id="letter" class="anchor"></div>Parent Request Template</h2>
 <section class="paper">
     <p>[<mark><span>full name of parent</span></mark>]<br>[<mark><span>address of parent</span></mark>]</p>
     <p>[<mark><span>date</span></mark>]</p>
