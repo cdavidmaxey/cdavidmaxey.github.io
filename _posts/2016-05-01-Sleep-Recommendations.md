@@ -3,6 +3,7 @@ date: "2016-05-01T00:00:00-08:00"
 updated:
 redirect_from:
 - "/sleep/"
+- "/Sleep-schedules-routines-and-habits/"
 layout: post
 published: TRUE
 alt: "child reading a book in bed before going to sleep at bedtime"
@@ -43,8 +44,8 @@ sup.footnote{font-weight:normal;font-size:.875em}
 .footnotes{font-size:.875em}
 .post li{text-align:left}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.stocksy.com/3643129/boy-reads-in-bed-by-lamp-light'>&copy;</a>&nbsp;Jennifer Bogle"
-title: "Sleep schedules, routines & habits"
-description: "Recommended hours of sleep per day, screen time, bedtime routines, and habits for supporting healthy sleep."
+title: "Sleep Recommendations"
+description: "Recommendations for hours of sleep per day and ending screen time before bedtime to support healthy sleep."
 tags:
 - Sleep
 - Health Habits
@@ -151,7 +152,7 @@ tags:
 	Note: The American Academy of Sleep Medicine (2016) made similar sleep time duration recommendations, which were endorsed by the American Academy of Pediatrics (2016): 12-16 hours for infants, 11-14 hours for toddlers, 10-13 hours for preschoolers, 9-12 hours for 6-12 year olds, and 8-10 hours for 13-18 year olds. The American Academy of Sleep Medicine (2015) recommended adults sleep 7 or more hours per night on a regular basis.
 </div>
 <h3>Screen Time</h3>
-<p>The American Academy of Pediatrics (AAP) suggests that all screens be turned off 30 minutes before bedtime and that TVs, computers and other screens not be allowed in children’s bedrooms.</p>
+<p>The American Academy of Pediatrics (AAP) suggests that all screens be turned off 30 minutes before bedtime and that TVs, computers and other screens not be allowed in children’s bedrooms.</p><!--
 <h3>Bedtime Routines</h3>
 <p>Bedtime routines can often be helpful to anyone of any age&mdash;obviously, the components of the routine will differ for a young child and an adult. Focus on making bedtime a positive and relaxing experience without screens (see sample routine below). </p>
 <ul>
@@ -182,4 +183,4 @@ tags:
 	<li>Let go of concerns (e.g., make a to-do list for tomorrow, make a list of gratitudes for today, practice meditation, etc.)</li>
 	<li>If the pillow, mattress, sheets, blankets, or clothing are uncomfortable, replace them.</li>
 </ul>
-<p>For serious or persistent sleep problems, seek support from a mental health professional.</p>
+<p>For serious or persistent sleep problems, seek support from a mental health professional.</p>-->
