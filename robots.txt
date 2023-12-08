@@ -15,5 +15,7 @@ Disallow: /home/
 Disallow: /school/
 Disallow: /youth/
 Disallow: /x/
+Disallow: /up
+Disallow: /Up
 Disallow: /A-Nation-Empowered
 Sitemap: {{site.url}}/sitemap.xml
