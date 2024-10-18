@@ -1,6 +1,6 @@
 ---
 date: "2016-05-01T00:00:00-08:00"
-updated:
+updated: "2024-10-16T00:00:00-08:00"
 redirect_from:
 - "/sleep/"
 - "/Sleep-schedules-routines-and-habits/"
@@ -55,101 +55,48 @@ tags:
 	<thead>
 		<tr>
 			<th rowspan="2">Age&nbsp;Group</th>
-			<th colspan="6">Hours per&nbsp;Day</th>
-		</tr>
-		<tr>
-			<th colspan="3">Recommended</th>
-			<th colspan="3">May&nbsp;be Appropriate<sup>*</sup></th>
+			<th rowspan="2" colspan="3">Recommended<br>Hours per&nbsp;Day</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>Newborn<br><span>(&le;3 months)</span></td>
-			<td>14</td>
-			<td>&#8209;</td>
-			<td>17</td>
-			<td>11</td>
-			<td>&#8209;</td>
-			<td>19</td>
-		</tr>
-		<tr>
-			<td>Infant<br><span>(4&#8209;11 months)</span></td>
+			<td>Infant<br><span>(4&#8209;12 months)</span></td>
 			<td>12</td>
 			<td>&#8209;</td>
-			<td>15</td>
-			<td>10</td>
-			<td>&#8209;</td>
-			<td>18</td>
+			<td>16</td>
 		</tr>
 		<tr>
 			<td>Toddler<br><span>(1&#8209;2 years)</span></td>
 			<td>11</td>
 			<td>&#8209;</td>
 			<td>14</td>
-			<td>9</td>
-			<td>&#8209;</td>
-			<td>16</td>
 		</tr>
 		<tr>
 			<td>Preschool<br><span>(3&#8209;5 years)</span></td>
 			<td>10</td>
 			<td>&#8209;</td>
 			<td>13</td>
-			<td>8</td>
-			<td>&#8209;</td>
-			<td>14</td>
 		</tr>
 		<tr>
-			<td>School&nbsp;Age<br><span>(6&#8209;13 years)</span></td>
+			<td>School&nbsp;Age<br><span>(6&#8209;12 years)</span></td>
 			<td>9</td>
-			<td>&#8209;</td>
-			<td>11</td>
-			<td>7</td>
 			<td>&#8209;</td>
 			<td>12</td>
 		</tr>
 		<tr>
-			<td>Teens<br><span>(14&#8209;17 years)</span></td>
+			<td>Teens<br><span>(13&#8209;18 years)</span></td>
 			<td>8</td>
 			<td>&#8209;</td>
 			<td>10</td>
-			<td>7</td>
-			<td>&#8209;</td>
-			<td>11</td>
 		</tr>
 		<tr>
-			<td>Young&nbsp;Adults<br><span>(18&#8209;25 years)</span></td>
-			<td>7</td>
-			<td>&#8209;</td>
-			<td>9</td>
-			<td>6</td>
-			<td>&#8209;</td>
-			<td>11</td>
-		</tr>
-		<tr>
-			<td>Adults<br><span>(26&#8209;64 years)</span></td>
-			<td>7</td>
-			<td>&#8209;</td>
-			<td>9</td>
-			<td>6</td>
-			<td>&#8209;</td>
-			<td>10</td>
-		</tr>
-		<tr>
-			<td>Older&nbsp;Adults<br><span>(&ge;65 years)</span></td>
-			<td>7</td>
-			<td>&#8209;</td>
-			<td>8</td>
-			<td>5</td>
-			<td>&#8209;</td>
-			<td>9</td>
+			<td>Adults<br><span>(18+ years)</span></td>
+			<td colspan="3">7 or more</td>
 		</tr>
 	</tbody>
 </table>
 <div class="footnotes">
-	Source: National Sleep Foundation (NSF), 2015<br>
-	<sup>*</sup>The NSF recommended against sleep time duration outside of the <i>May be Appropriate</i> range.<br>
-	Note: The American Academy of Sleep Medicine (2016) made similar sleep time duration recommendations, which were endorsed by the American Academy of Pediatrics (2016): 12-16 hours for infants, 11-14 hours for toddlers, 10-13 hours for preschoolers, 9-12 hours for 6-12 year olds, and 8-10 hours for 13-18 year olds. The American Academy of Sleep Medicine (2015) recommended adults sleep 7 or more hours per night on a regular basis.
+	Note: These recommendations from The American Academy of Sleep Medicine (2016) were endorsed by the American Academy of Pediatrics (2016).
 </div>
 <h3>Screen Time</h3>
 <p>The American Academy of Pediatrics (AAP) suggests that all screens be turned off 30 minutes before bedtime and that TVs, computers and other screens not be allowed in children’s bedrooms.</p><!--
