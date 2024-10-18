@@ -16,7 +16,7 @@ redirect_from:
 - "/BELL/"
 - "/What-is-a-psychological-evaluation/"
 layout: post
-published: TRUE
+published: FALSE
 alt: "swirl of numbers"
 thumb:
   src: "swirl-of-numbers.jpg"
