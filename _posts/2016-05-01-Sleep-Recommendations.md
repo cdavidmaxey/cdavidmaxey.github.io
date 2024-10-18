@@ -90,12 +90,12 @@ tags:
 		</tr>
 		<tr>
 			<td>Adults<br><span>(18+ years)</span></td>
-			<td colspan="3">7 or more</td>
+			<td colspan="3" class="center">7 or more</td>
 		</tr>
 	</tbody>
 </table>
 <div class="footnotes">
-	Note: These recommendations from The American Academy of Sleep Medicine (2016) were endorsed by the American Academy of Pediatrics (2016).
+	Note: These recommendations from the American Academy of Sleep Medicine (2016) were endorsed by the American Academy of Pediatrics (2016).
 </div>
 <h3>Screen Time</h3>
 <p>The American Academy of Pediatrics (AAP) suggests that all screens be turned off 30 minutes before bedtime and that TVs, computers and other screens not be allowed in children’s bedrooms.</p><!--
