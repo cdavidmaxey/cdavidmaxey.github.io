@@ -30,14 +30,13 @@ variables:
 - disablekb=1
 style: "table{border-collapse:collapse}
 thead{vertical-align:bottom}
-tr:not(:first-child) th{padding:0 .5em}
-td:nth-child(3n-1){padding-left:.5em;text-align:right}
-td:nth-child(3n){width:.5em;padding:0}
-td:nth-child(3n+4){padding-right:.5em;text-align:left}
+th{padding:0.1em .5em}
+td:nth-child(2){padding-left:.5em;text-align:right}
+td:nth-child(2).center{text-align:center}
+td:nth-child(3){width:.5em;padding:0}
+td:nth-child(4){padding-right:.5em;text-align:left}
 td:first-child span{font-size:.75em}
-td,thead>tr{border-bottom:1px solid black}
-@media(max-width:413px){thead>tr:not(:first-child){font-size:.75em}}
-@media(max-width:374px){thead>tr:first-child>th:first-child, td:first-child{font-size:.75em}}
+td{border-bottom:1px solid black}
 thead,tbody{border-top:2px solid black;border-bottom:2px solid black}
 sup{padding:0 .075rem}
 sup.footnote{font-weight:normal;font-size:.875em}
