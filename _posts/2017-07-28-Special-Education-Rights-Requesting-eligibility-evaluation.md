@@ -68,9 +68,9 @@ tags:
 <p>I encourage you to familiarize yourself with your rights, as reviewed by the Oregon Department of Education in their <a rel="nofollow noreferrer" target="_blank" href="https://www.oregon.gov/ode/students-and-family/SpecialEducation/publications/Documents/proceduralsafeguards/englishk21.pdf" title="Procedural Safeguards Notice: Parent Rights for Special Education: K-21">Procedural Safeguards Notice</a>. I recommend making your request for an evaluation <i>in writing</i>, including clear requests, your signature, and the date, to prevent any misunderstandings that might delay the process (see Parent Request Template below).</p>
 <h2><div id="template" class="anchor"></div><div id="request" class="anchor"></div><div id="letter" class="anchor"></div>Parent Request Template</h2>
 <section class="paper">
-    <p>[<mark><span>full name of parent</span></mark>]<br>[<mark><span>address of parent</span></mark>]</p>
-    <p>[<mark><span>date</span></mark>]</p>
-    <p>[<mark><span>name of school</span></mark>]<br>[<mark><span>address of school</span></mark>]</p>
+    <p>[<mark><span>Full Name of Parent</span></mark>]<br>[<mark><span>Address of Parent</span></mark>]</p>
+    <p>[<mark><span>Date</span></mark>]</p>
+    <p>[<mark><span>Name of School</span></mark>]<br>[<mark><span>Address of School</span></mark>]</p>
     <p>To whom it may concern,</p>
     <p>I am a parent of [<mark><span>Full Name of Your Child</span></mark>]. My child has been struggling at school. [<mark><span>Provide detailed information about your concerns, using supporting evidence such as test scores, teacher communications, work samples, etc.</span></mark>]</p>
     <p>I have been working with [<mark><span>Name of Your Child’s Teacher or Teachers</span></mark>] to help my child, and [<mark><span>I have not seen any improvement <strong class="underline">or</strong> the problems have been getting worse</span></mark>]. [<mark><span>Describe any interventions that were tried, including after-school tutoring, differentiated or small-group instruction, response to intervention (RtI), informal accommodations in the classroom, a Section 504 Plan, and evaluation for a diagnosis (e.g., through your pediatrician).</span></mark>]</p>
@@ -78,7 +78,7 @@ tags:
     <p>I look forward to working with you within the next 10 school days to develop an assessment plan to begin the evaluation process. Please ensure that I receive copies of assessment results at least two days before any meeting because I cannot effectively inspect and review the records unless I receive those copies. Thank you very much for your help.</p>
     <p>Sincerely,</p>
     <p class="cursif">Signature of Parent</p>
-    <p>[Printed Name of Parent]</p>
+    <p>[<mark><span>Printed Name of Parent</span></mark>]</p>
 </section>
 <p>Refer to the infographic flowchart below from <a rel="nofollow noreferrer" target="_blank" href="https://www.understood.org/en/school-learning/special-services/ieps/iep-roadmap-how-to-seek-out-special-education-services-for-your-child">Understood.org</a>, titled <i>IEP Roadmap: How Kids Get Special Education</i>, to follow the typical paths from an evaluation to an IEP.</p>
 <hr>
