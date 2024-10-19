@@ -14,7 +14,7 @@ Handmade-Paper.png is "Handmade paper" by Le Marquis [CC-BY-SA-3.0 (creativecomm
 
 /* DISCLAIMER NOTICE */
 
-Information on this website is of a general nature and is designed for information and educational purposes only and does not constitute medical or legal advice.
+This website is for general informational purposes only and does not constitute psychological, medical, or legal advice.
 
 /* THANKS */
 
