@@ -1,6 +1,6 @@
 ---
 date: "2017-07-28T00:00:00-08:00"
-updated: "2021-10-16T00:00:00-08:00"
+updated: "2024-10-18T00:00:00-08:00"
 redirect_from:
 - "/Can-I-revoke-consent-to-services-evaluations-or-Special-Education/"
 - "/Can-I-revoke-consent-to-services-evaluations-or-special-education/"
@@ -31,7 +31,7 @@ credits: "<a rel='nofollow noreferrer' target='_blank' href='https://creativecom
 style: "table{border-collapse:collapse}thead,tbody{border-bottom:1px solid black}th{vertical-align:bottom}td{vertical-align:top}th,td{padding:.5em}th,td.right{font-weight:bold}tr:nth-child(even){background-color:#f0f0f0}
 h2{font-size:1.5rem;font-weight:bold;text-align:center;color:#1a237e}"
 title: "Special Education: Requesting an eligibility evaluation"
-description: "Parents have the right to request an evaluation for Special Education eligibility, which is a process that can take many months from your request to an IEP."
+description: "Parents have the right to request an evaluation for Special Education eligibility, a process that can take many months from the initial request to the development of an IEP."
 tags:
 - ✏️ Special Education & 504
 ---
