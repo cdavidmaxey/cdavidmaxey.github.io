@@ -118,7 +118,7 @@ tags:
 			<td class="left">developmental disability involving impairments in communication; impairments in social interaction; patterns of behavior, interests or activities that are restricted, repetitive, or stereotypic; and unusual responses to sensory experiences</td>
 		</tr>
 		<tr>
-			<td class="right"><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2145">Emotional Disturbance</a></td>
+			<td class="right"><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2145">Emotional Behavior</a></td>
 			<td class="left">an inability to learn that cannot be explained by intellectual, sensory, or health factors; an inability to build or maintain satisfactory interpersonal relationships with peers and teachers; inappropriate types of behavior or feelings under normal circumstances; a general pervasive mood of unhappiness or depression; or a tendency to develop physical symptoms or fears associated with personal or school problems</td>
 		</tr>
 		<tr>
