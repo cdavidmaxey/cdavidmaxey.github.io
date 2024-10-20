@@ -28,7 +28,7 @@ youtube:
   Y:
 variables:
 credits: "<a rel='nofollow noreferrer' target='_blank' href='https://creativecommons.org/licenses/by/2.0/' title='Creative Commons License'><svg xmlns='http://www.w3.org/2000/svg' viewBox='5.5 -3.5 64 64' enable-background='new 5.5 -3.5 64 64'><circle fill='#fff' cx='37.785' cy='28.501' r='28.836'/><path d='M37.441-3.5c8.951 0 16.572 3.125 22.857 9.372 3.008 3.009 5.295 6.448 6.857 10.314 1.561 3.867 2.344 7.971 2.344 12.314 0 4.381-.773 8.486-2.314 12.313-1.543 3.828-3.82 7.21-6.828 10.143-3.123 3.085-6.666 5.448-10.629 7.086-3.961 1.638-8.057 2.457-12.285 2.457s-8.276-.808-12.143-2.429c-3.866-1.618-7.333-3.961-10.4-7.027-3.067-3.066-5.4-6.524-7-10.372s-2.4-7.904-2.4-12.171c0-4.229.809-8.295 2.428-12.2 1.619-3.905 3.972-7.4 7.057-10.486 6.095-6.208 13.58-9.314 22.456-9.314zm.116 5.772c-7.314 0-13.467 2.553-18.458 7.657-2.515 2.553-4.448 5.419-5.8 8.6-1.354 3.181-2.029 6.505-2.029 9.972 0 3.429.675 6.734 2.029 9.913 1.353 3.183 3.285 6.021 5.8 8.516 2.514 2.496 5.351 4.399 8.515 5.715 3.161 1.314 6.476 1.971 9.943 1.971 3.428 0 6.75-.665 9.973-1.999 3.219-1.335 6.121-3.257 8.713-5.771 4.99-4.876 7.484-10.99 7.484-18.344 0-3.543-.648-6.895-1.943-10.057-1.293-3.162-3.18-5.98-5.654-8.458-5.146-5.143-11.335-7.715-18.573-7.715zm-.401 20.915l-4.287 2.229c-.458-.951-1.019-1.619-1.685-2-.667-.38-1.286-.571-1.858-.571-2.856 0-4.286 1.885-4.286 5.657 0 1.714.362 3.084 1.085 4.113.724 1.029 1.791 1.544 3.201 1.544 1.867 0 3.181-.915 3.944-2.743l3.942 2c-.838 1.563-2 2.791-3.486 3.686-1.484.896-3.123 1.343-4.914 1.343-2.857 0-5.163-.875-6.915-2.629-1.752-1.752-2.628-4.19-2.628-7.313 0-3.048.886-5.466 2.657-7.257 1.771-1.79 4.009-2.686 6.715-2.686 3.963-.002 6.8 1.541 8.515 4.627zm18.457 0l-4.229 2.229c-.457-.951-1.02-1.619-1.686-2-.668-.38-1.307-.571-1.914-.571-2.857 0-4.287 1.885-4.287 5.657 0 1.714.363 3.084 1.086 4.113.723 1.029 1.789 1.544 3.201 1.544 1.865 0 3.18-.915 3.941-2.743l4 2c-.875 1.563-2.057 2.791-3.541 3.686-1.486.896-3.105 1.343-4.857 1.343-2.896 0-5.209-.875-6.941-2.629-1.736-1.752-2.602-4.19-2.602-7.313 0-3.048.885-5.466 2.658-7.257 1.77-1.79 4.008-2.686 6.713-2.686 3.962-.002 6.783 1.541 8.458 4.627z'/></svg></a> Ian Sane | <a rel='nofollow noreferrer' target='_blank' href='https://www.flickr.com/photos/31246066@N04/8522690591/'>Flickr</a> | unendorsed adaptation"
-style: "table{border-collapse:collapse}thead,tbody{border-bottom:1px solid black}th{vertical-align:bottom}td{vertical-align:top}th,td{padding:.5em}th,td.right{font-weight:bold}tr:nth-child(even){background-color:#f0f0f0}
+style: "table{border-collapse:collapse}thead,tbody{border-bottom:1px solid black}th{vertical-align:bottom}td{vertical-align:top}th,td{padding:.5em}th,td>div:first-child{font-weight:bold}td>div:nth-child(2){padding-left:1.5em}tr:nth-child(even){background-color:#f0f0f0}table ul{list-style-type:disc}table ol{list-style-type:decimal}table ol,table ul{margin-block-start:.5em;margin-block-end:.5em;margin-inline-start:0;margin-inline-end:0;padding-inline-start:1.5em}
 h2{font-size:1.5rem;font-weight:bold;text-align:center;color:#1a237e}"
 title: "Special Education: Requesting an eligibility evaluation"
 description: "Parents have the right to request an evaluation for Special Education eligibility, a process that can take many months from the initial request to the development of an IEP."
@@ -101,7 +101,8 @@ tags:
 		<tr>
 			<td class="left">
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2127">Developmental Delay</a></div>
-                <div>a school-age child up to 9 years old with delays that are at or below the 7<sup>th</sup> percentile (i.e., 1.5 standard deviations or more below the mean) in two or more of the following developmental areas: 
+                <div>
+                    <div>a school-age child up to 9 years old with delays that are at or below the 7<sup>th</sup> percentile (i.e., 1.5 standard deviations or more below the mean) in two or more of the following developmental areas:</div>
                     <ul>
                         <li>cognitive development</li>
                         <li>physical development</li>
@@ -109,36 +110,35 @@ tags:
                         <li>social or emotional development</li>
                         <li>adaptive development</li>
                     </ul>
-                Children at least 3 years old who are not yet school-age may also qualify with a delay that is at or below the 2<sup>nd</sup> percentile (i.e., 2 standard deviations or more below the mean) in one of the developmental areas above.
+                    <div>Children at least 3 years old who are not yet school-age may also qualify with a delay that is at or below the 2<sup>nd</sup> percentile (i.e., 2 standard deviations or more below the mean) in one of the developmental areas above.</div>
                 </div>
             </td>
 		</tr>
 		<tr>
 			<td class="left">
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2170">Specific Learning Disability</a></div>
-                <div>a disorder in one or more of the basic psychological processes involved in understanding or in using language, spoken or written, which may manifest itself in an imperfect ability to listen, think, speak, read, write, spell, or do mathematical calculations (e.g., perceptual disabilities, brain injury, dyslexia, minimal brain dysfunction, and developmental aphasia), meeting all of the following criteria:
+                <div>
+                    <div>a disorder in one or more of the basic psychological processes involved in understanding or in using language, spoken or written, which may manifest itself in an imperfect ability to listen, think, speak, read, write, spell, or do mathematical calculations (e.g., perceptual disabilities, brain injury, dyslexia, minimal brain dysfunction, and developmental aphasia), meeting all of the following criteria:</div>
                     <ol>
-                        <li>the child does not achieve adequately for the child's age or to meet Oregon grade-level standards in one or more of the following areas when provided with learning experiences and instruction appropriate for the child's age or Oregon grade-level standards:
-                            <ul>
-                                <li>basic reading skills</li>
-                                <li>reading fluency skills</li>
-                                <li>reading comprehension</li>
-                                <li>mathematics calculation</li>
-                                <li>mathematics problem-solving</li>
-                                <li>written Expression</li>
-                                <li>oral expression</li>
-                                <li>listening comprehension</li>
-                            </ul>
-                        </li>
+                        <li>the child does not achieve adequately for the child's age or to meet Oregon grade-level standards in one or more of the following areas when provided with learning experiences and instruction appropriate for the child's age or Oregon grade-level standards:</li>
+                        <ul>
+                            <li>basic reading skills</li>
+                            <li>reading fluency skills</li>
+                            <li>reading comprehension</li>
+                            <li>mathematics calculation</li>
+                            <li>mathematics problem-solving</li>
+                            <li>written Expression</li>
+                            <li>oral expression</li>
+                            <li>listening comprehension</li>
+                        </ul>
                         <li>for a student the school district evaluates using a model of strengths and weaknesses, the student exhibits a pattern of strengths and weaknesses in classroom performance, academic achievement, or both, relative to age, Oregon grade-level standards, or intellectual development, that is determined by the group to be relevant to the identification of a specific learning disability (for a student the school district evaluates using a response to intervention model, the student does not make sufficient progress to meet age or Oregon grade-level standards based on the student's response to scientific, research-based intervention)</li>
-                        <li>the pattern of strengths and weaknesses (or the rate of progress) is not primarily the result of any of the following:
-                            <ul>
-                                <li>visual, or motor impairment; deaf or hard of hearing; intellectual disability or emotional behavior disability</li>
-                                <li>cultural factors</li>
-                                <li>environmental or economic disadvantage</li>
-                                <li>limited English proficiency</li>
-                            </ul>
-                        </li>
+                        <li>the pattern of strengths and weaknesses (or the rate of progress) is not primarily the result of any of the following:</li>
+                        <ul>
+                            <li>visual, or motor impairment; deaf or hard of hearing; intellectual disability or emotional behavior disability</li>
+                            <li>cultural factors</li>
+                            <li>environmental or economic disadvantage</li>
+                            <li>limited English proficiency</li>
+                        </ul>
                     </ol>
                 </div>
             </td>
@@ -146,7 +146,8 @@ tags:
 		<tr>
 			<td class="left">
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2155">Intellectual Disability</a></div>
-                <div>significantly subaverage general intellectual functioning, meeting all of the following criteria:
+                <div>
+                    <div>significantly subaverage general intellectual functioning, meeting all of the following criteria:</div>
                     <ol>
                         <li>intelligence test score at or below the 2<sup>nd</sup> percentile (i.e., 2 standard deviations or more below the mean)</li>
                         <li>deficits in adaptive behavior coexistent with the child's impairment in intellectual functioning</li>
@@ -167,21 +168,19 @@ tags:
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2130">Autism Spectrum Disorder</a></div>
                 <div>developmental disability meeting all of the following criteria:
                     <ol>
-                        <li>persistent deficits in social communication and social interaction across multiple contexts, as evidenced by the all of the following, currently or by history (examples are illustrative, not exhaustive):
-                            <ul>
-                                <li>deficits in social-emotional reciprocity, ranging, for example, from abnormal social approach and failure of normal back-and-forth conversation; to reduced sharing of interests, emotions, or affect; to failure to initiate or respond to social interactions</li>
-                                <li>deficits in nonverbal communicative behaviors used for social interaction, ranging, for example, from poorly integrated verbal and nonverbal communication; to abnormalities in eye contact and body language or deficits in understanding and use of gestures; to a total lack of facial expressions and nonverbal communication</li>
-                                <li>deficits in developing, maintaining, and understanding relationships, ranging, for example, from difficulties adjusting behavior to suit various social contexts; to difficulties in sharing imaginative play or in making friends; to absence of interest in peers</li>
-                            </ul>
-                        </li>
-                        <li>restricted, repetitive patterns of behavior, interests, or activities, as evidenced by at least two of the following, currently or by history (examples are illustrative, not exhaustive):
-                            <ul>
-                                <li>stereotyped or repetitive motor movements, use of objects, or speech (e.g., simple motor stereotypes, lining up toys or flipping objects, echolalia, idiosyncratic phrases)</li>
-                                <li>insistence on sameness, inflexible adherence to routines, or ritualized patterns of verbal or nonverbal behavior (e.g., extreme distress at small changes, difficulties with transitions, rigid thinking patterns, greeting rituals, need to take the same route or eat the same food every day)</li>
-                                <li>highly restricted, fixated interests that are abnormal in intensity or focus (e.g., strong attachment to or preoccupation with unusual objects, excessively circumscribed or perseverative interests)</li>
-                                <li>hyper- or hypo-reactivity to sensory input or unusual interest in sensory aspects of the environment (e.g., apparent indifference to pain/temperature, adverse response to specific sounds or textures, excessive smelling or touching of objects, visual fascination with lights or movement)</li>
-                            </ul>
-                        </li>
+                        <li>persistent deficits in social communication and social interaction across multiple contexts, as evidenced by the all of the following, currently or by history (examples are illustrative, not exhaustive):</li>
+                        <ul>
+                            <li>deficits in social-emotional reciprocity, ranging, for example, from abnormal social approach and failure of normal back-and-forth conversation; to reduced sharing of interests, emotions, or affect; to failure to initiate or respond to social interactions</li>
+                            <li>deficits in nonverbal communicative behaviors used for social interaction, ranging, for example, from poorly integrated verbal and nonverbal communication; to abnormalities in eye contact and body language or deficits in understanding and use of gestures; to a total lack of facial expressions and nonverbal communication</li>
+                            <li>deficits in developing, maintaining, and understanding relationships, ranging, for example, from difficulties adjusting behavior to suit various social contexts; to difficulties in sharing imaginative play or in making friends; to absence of interest in peers</li>
+                        </ul>
+                        <li>restricted, repetitive patterns of behavior, interests, or activities, as evidenced by at least two of the following, currently or by history (examples are illustrative, not exhaustive):</li>
+                        <ul>
+                            <li>stereotyped or repetitive motor movements, use of objects, or speech (e.g., simple motor stereotypes, lining up toys or flipping objects, echolalia, idiosyncratic phrases)</li>
+                            <li>insistence on sameness, inflexible adherence to routines, or ritualized patterns of verbal or nonverbal behavior (e.g., extreme distress at small changes, difficulties with transitions, rigid thinking patterns, greeting rituals, need to take the same route or eat the same food every day)</li>
+                            <li>highly restricted, fixated interests that are abnormal in intensity or focus (e.g., strong attachment to or preoccupation with unusual objects, excessively circumscribed or perseverative interests)</li>
+                            <li>hyper- or hypo-reactivity to sensory input or unusual interest in sensory aspects of the environment (e.g., apparent indifference to pain/temperature, adverse response to specific sounds or textures, excessive smelling or touching of objects, visual fascination with lights or movement)</li>
+                        </ul>
                         <li>characteristics were generally evident before age three, but may not have become fully evident until social demands exceeded limited capacities, or may have been masked by learned strategies.</li>
                         <li>characteristics are not better described by another established or suspected eligibility for special education services. A child may not be eligible for special education services on the basis of an autism spectrum disorder if the child's primary disability is an Emotional Behavior Disability; however, a child with autism spectrum disorder as a primary disability may also have an emotional behavior disability as a secondary disability.</li>
                     </ol>
@@ -191,7 +190,8 @@ tags:
 		<tr>
 			<td class="left">
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2145">Emotional Behavior</a></div>
-                <div>exhibiting at least one of the following characteristics over a long period of time and to a marked degree that adversely affects a child's educational performance:
+                <div>
+                    <div>exhibiting at least one of the following characteristics over a long period of time and to a marked degree that adversely affects a child's educational performance:</div>
                     <ul>
                         <li>inability to learn that cannot be explained by intellectual, sensory, or health factors</li>
                         <li>inability to build or maintain satisfactory interpersonal relationships with peers and teachers</li>
@@ -205,7 +205,8 @@ tags:
 		<tr>
 			<td class="left">
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2175">Traumatic Brain Injury</a></div>
-                <div>an acquired injury to the brain caused by an external physical force that is permanent (or expected to last for more than 60 calendar days) and results in impairment in one of the follow areas:
+                <div>
+                    <div>an acquired injury to the brain caused by an external physical force that is permanent (or expected to last for more than 60 calendar days) and results in impairment in one of the follow areas:</div>
                     <ul>
                         <li>communication</li>
                         <li>behavior</li>
@@ -218,7 +219,8 @@ tags:
 		<tr>
 			<td class="left">
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2160">Orthopedic Impairment</a></div>
-                <div>motor impairment (e.g., caused by cerebral palsy, spina bifida, muscular dystrophy or traumatic injury) that results in deficits in the quality, speed, or accuracy of movement, is permanent (or expected to last for more than 60 calendar days), and meets one of the following criteria:
+                <div>
+                    <div>motor impairment (e.g., caused by cerebral palsy, spina bifida, muscular dystrophy or traumatic injury) that results in deficits in the quality, speed, or accuracy of movement, is permanent (or expected to last for more than 60 calendar days), and meets one of the following criteria:</div>
                     <ul>
                         <li>scores at or below the 2<sup>nd</sup> percentile (i.e., 2 or more standard deviations below the mean) in at least one of the following:
                             <ul>
@@ -241,7 +243,8 @@ tags:
 		<tr>
 			<td class="left">
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2150">Hearing Impairment</a></div>
-                <div>impairment in hearing, whether permanent or fluctuating, that is so severe that the child is impaired in processing linguistic information through hearing, with or without amplification, and meets one of the following criteria:
+                <div>
+                    <div>impairment in hearing, whether permanent or fluctuating, that is so severe that the child is impaired in processing linguistic information through hearing, with or without amplification, and meets one of the following criteria:</div>
                     <ul>
                         <li>hearing thresholds in at least one ear of 25 dBHL or greater at two or more consecutive frequencies at 500 Hz, 1000 Hz, 2000 Hz, 4000 Hz, 6000 Hz and 8000 Hz</li>
                         <li>hearing loss due to auditory neuropathy spectrum disorder (ANSD) or aural microtia/atresia</li>
