@@ -1,6 +1,6 @@
 ---
 date: "2017-05-15T00:00:00-08:00"
-updated: "2018-07-29T00:00:00-08:00"
+updated: "2024-10-18T00:00:00-08:00"
 layout: post
 published: TRUE
 alt: "student working at board in immersion school"
@@ -26,7 +26,7 @@ style: ".bookborder{border:1px solid #000;border-bottom:none}
 .download>.bookborder:hover{border-top:1px solid #000}"
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://www.dreamstime.com/royalty-free-stock-photo-elementary-chinese-applauding-school-teacher-young-girl-wrote-words-blackboard-image32555265'>&copy;</a>&nbsp;Hongqi&nbsp;Zhang (aka&nbsp;Michael&nbsp;Zhang)"
 title: "Academic Acceleration: Should my child skip a grade?"
-description: "Talented and Gifted (TAG) plans can include grade-skipping or many other options. Completing the Iowa Acceleration Scale can help with grade-skipping decisions."
+description: "Talented and Gifted (TAG) plans can include grade-skipping or various other options. Evaluation using the Iowa Acceleration Scale can assist with grade-skipping decisions."
 tags:
 - Academic Acceleration
 - Grade Placement
@@ -52,11 +52,11 @@ tags:
     <p class="credits"><a rel="nofollow noreferrer" target="_blank" href="https://www.accelerationinstitute.org/nation_empowered/">&copy;&nbsp;NationEmpowered.org</a></p>
 </div>
 
-TAG is the acronym commonly used in Oregon for Talented and Gifted students. Students in Oregon are identified as TAG based on multiple criteria, with school districts typically requiring scores at or above the 97<sup>th</sup> percentile on a nationally standardized test of mental ability, total reading, or total mathematics (see the <a rel="nofollow noreferrer" target="_blank" href="https://www.oregon.gov/ode/learning-options/TAG/Pages/TAG-FAQ.aspx">Oregon Department of Education FAQs</a> for more information).
+TAG is the acronym commonly used in Oregon for Talented and Gifted students. Students in Oregon are identified as TAG based on multiple criteria, with school districts typically requiring scores at or above the 97<sup>th</sup> percentile on a nationally standardized test of mental ability, total reading, or total mathematics (see the <a rel="nofollow noreferrer" target="_blank" href="https://www.oregon.gov/ode/learning-options/tag/">Oregon Department of Education TAG Resources</a> for more information).
 
 A variety of academic acceleration options are available to children who need them, regardless of whether they are identified as TAG. Working at a language immersion school, I’ve seen how the challenges of learning another language can provide some students with the academic acceleration they need. The excerpt below from <a rel="nofollow noreferrer" target="_blank" href="https://www.accelerationinstitute.org/nation_empowered/" title="A Nation Empowered: Evidence Trumps the Excuses Holding Back America’s Brightest Students"><i>A Nation Empowered</i></a> lists many options. I encourage parents who are considering their child’s needs to learn more about academic acceleration by reading both volumes of <a rel="nofollow noreferrer" target="_blank" href="https://www.accelerationinstitute.org/nation_empowered/" title="A Nation Empowered: Evidence Trumps the Excuses Holding Back America’s Brightest Students"><i>A Nation Empowered</i></a>, available as free PDF downloads.
 
-There are practical limits to a teacher’s ability to differentiate instruction (i.e., giving your child higher-level work). If your child needs extensive differentiation, you should also consider grade-skipping, which can be a good option for some students. Schools often use the Iowa Acceleration Scale to assist in decision-making and guide discussion of how grade-skipping might fit with your child.
+There are practical limits to a teacher’s ability to differentiate instruction (i.e., giving your child higher-level work). If your child needs extensive differentiation, you should consider grade-skipping, which can be a good option for some students. A psychological evaluation using the Iowa Acceleration Scale and other assessments to consider grade-skipping can greatly assist in decision-making and guide discussions on how grade-skipping might fit with your child.
 
 <blockquote><div>
 <ol>
