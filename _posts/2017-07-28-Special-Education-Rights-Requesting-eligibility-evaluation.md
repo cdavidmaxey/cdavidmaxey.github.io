@@ -118,7 +118,7 @@ tags:
 			<td class="left">
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2170">Specific Learning Disability</a></div>
                 <div>
-                    <div>a disorder in one or more of the basic psychological processes involved in understanding or in using language, spoken or written, which may manifest itself in an imperfect ability to listen, think, speak, read, write, spell, or do mathematical calculations (e.g., perceptual disabilities, brain injury, dyslexia, minimal brain dysfunction, and developmental aphasia), meeting all of the following criteria:</div>
+                    <div>a disorder in one or more of the basic psychological processes involved in understanding or in using language, spoken or written, which may manifest itself in an imperfect ability to listen, think, speak, read, write, spell, or do mathematical calculations (e.g., perceptual disabilities, brain injury, dyslexia, minimal brain dysfunction, and developmental aphasia), meeting all the following criteria:</div>
                     <ol>
                         <li>the child does not achieve adequately for the child's age or to meet Oregon grade-level standards in one or more of the following areas when provided with learning experiences and instruction appropriate for the child's age or Oregon grade-level standards:</li>
                         <ul>
@@ -147,7 +147,7 @@ tags:
 			<td class="left">
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2155">Intellectual Disability</a></div>
                 <div>
-                    <div>significantly subaverage general intellectual functioning, meeting all of the following criteria:</div>
+                    <div>significantly subaverage general intellectual functioning, meeting all the following criteria:</div>
                     <ol>
                         <li>intelligence test score at or below the 2<sup>nd</sup> percentile (i.e., 2 standard deviations or more below the mean)</li>
                         <li>deficits in adaptive behavior coexistent with the child's impairment in intellectual functioning</li>
@@ -166,9 +166,9 @@ tags:
 		<tr>
 			<td class="left">
                 <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2130">Autism Spectrum Disorder</a></div>
-                <div>developmental disability meeting all of the following criteria:
+                <div>developmental disability meeting all the following criteria:
                     <ol>
-                        <li>persistent deficits in social communication and social interaction across multiple contexts, as evidenced by the all of the following, currently or by history (examples are illustrative, not exhaustive):</li>
+                        <li>persistent deficits in social communication and social interaction across multiple contexts, as evidenced by all the following, currently or by history (examples are illustrative, not exhaustive):</li>
                         <ul>
                             <li>deficits in social-emotional reciprocity, ranging, for example, from abnormal social approach and failure of normal back-and-forth conversation; to reduced sharing of interests, emotions, or affect; to failure to initiate or respond to social interactions</li>
                             <li>deficits in nonverbal communicative behaviors used for social interaction, ranging, for example, from poorly integrated verbal and nonverbal communication; to abnormalities in eye contact and body language or deficits in understanding and use of gestures; to a total lack of facial expressions and nonverbal communication</li>
@@ -181,8 +181,8 @@ tags:
                             <li>highly restricted, fixated interests that are abnormal in intensity or focus (e.g., strong attachment to or preoccupation with unusual objects, excessively circumscribed or perseverative interests)</li>
                             <li>hyper- or hypo-reactivity to sensory input or unusual interest in sensory aspects of the environment (e.g., apparent indifference to pain/temperature, adverse response to specific sounds or textures, excessive smelling or touching of objects, visual fascination with lights or movement)</li>
                         </ul>
-                        <li>characteristics were generally evident before age three, but may not have become fully evident until social demands exceeded limited capacities, or may have been masked by learned strategies.</li>
-                        <li>characteristics are not better described by another established or suspected eligibility for special education services. A child may not be eligible for special education services on the basis of an autism spectrum disorder if the child's primary disability is an Emotional Behavior Disability; however, a child with autism spectrum disorder as a primary disability may also have an emotional behavior disability as a secondary disability.</li>
+                        <li>characteristics were generally evident before age three but may not have become fully evident until social demands exceeded limited capacities or may have been masked by learned strategies.</li>
+                        <li>characteristics are not better described by another established or suspected eligibility for special education services. A child may not be eligible for special education services based on an autism spectrum disorder if the child's primary disability is an Emotional Behavior Disability; however, a child with autism spectrum disorder as a primary disability may also have an emotional behavior disability as a secondary disability.</li>
                     </ol>
                 </div>
             </td>
