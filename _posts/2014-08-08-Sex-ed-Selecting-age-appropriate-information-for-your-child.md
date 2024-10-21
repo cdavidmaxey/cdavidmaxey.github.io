@@ -39,11 +39,11 @@ h3{font-size:1rem;font-weight:bold;margin:1.25rem 0 .25rem}
 credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='https://us.fotolia.com/id/89405292'>&copy;</a>&nbsp;John&nbsp;Wilhelm</a>"
 credits_full: "<a rel='nofollow noreferrer' target='_blank' href='https://vimeo.com/70414395'><em>The Human Body by Tinybop</em></a> by <a rel='nofollow noreferrer' target='_blank' href='https://vimeo.com/tinybop'>Tinybop</a> is embeded under <a rel='nofollow noreferrer' target='_blank' href='https://vimeo.com/terms'>Vimeo Terms of Service</a>.<br><a rel='nofollow noreferrer' target='_blank' href='https://youtu.be/lC3jImrtioY'><em>My Incredible Body: Amazing Anatomy Just for Kids (iPad/iPhone)</em></a> by <a rel='nofollow noreferrer' target='_blank' href='https://www.youtube.com/user/VisibleBody'>Visible Body</a> is licensed under <a rel='nofollow noreferrer' target='_blank' href='https://www.youtube.com/static?template=terms'>Standard YouTube License</a>."
 title: "Sex ed: Selecting age-appropriate information for your child"
-description: "Kids need parents to share accurate age-appropriate information about anatomy, sex, and pregnancy."
+description: "Children rely on parents to give them accurate age-appropriate information about anatomy, sex, and pregnancy."
 tags:
 - Sexual Health
 ---
-Kids have lots of questions, and they need parents to provide accurate age-appropriate information about anatomy, sex, and pregnancy. These apps and books are resources that you can review to decide if they are appropriate for your child. If your child has had unhealthy sexual experiences, discuss these decisions with a mental health professional.
+Children are naturally curious, have lots of questions, and rely on parents to give them accurate, age-appropriate information about anatomy, sex, and pregnancy. These apps and books are resources you can review to decide if they are appropriate for your child. If your child has had unhealthy sexual experiences, discuss these choices with a mental health professional.
 
 <h3><i>What Makes a Baby</i></h3>
 <div class="float right side">
@@ -55,7 +55,7 @@ Kids have lots of questions, and they need parents to provide accurate age-appro
 	</div>
 </div>
 
-<i>What Makes a Baby</i> by Cory Silverberg and Fiona Smyth teaches curious kids about conception, gestation, and birth in a way that makes sense of how any child came to be, regardless of their family. This inclusive approach can be especially helpful to children who are interested in how these concepts apply to themselves and other children they know (e.g., from school) who have a different family makeup. 
+<i>What Makes a Baby</i> by Cory Silverberg and Fiona Smyth helps curious children understand conception, gestation, and birth in a way that makes sense of how any child came to be, regardless of their family structure. This inclusive approach can be especially beneficial for children interested in how these concepts relate to themselves and other children they know, such as classmates with different family structures. 
 
 <div class="clear"></div>
 <h3><i>Sex is a Funny Word</i></h3>
@@ -77,12 +77,12 @@ Kids have lots of questions, and they need parents to provide accurate age-appro
 	<div><small><sup>*</sup>Subject to change</small></div>
 </aside>
 
-Tinybop’s <i>The Human Body</i> app provide parents with a way to introduce kids to puberty and the urogenital system in a matter-of-fact way, comparable to the way these apps provide information about the nervous system, respiration, the circulatory system, digestion, the skeletomuscular system, etc. Tinybop also offers many science-oriented apps for kids. 
+Tinybop’s <i>The Human Body</i> app provides parents with a way to introduce kids to puberty and the urogenital system in a matter-of-fact way, comparable to the way these apps provide information about the nervous system, respiration, the circulatory system, digestion, the skeletomuscular system, etc. Tinybop also offers many science-oriented apps for kids. 
 
 Note that as of the writing of this article, this app requires a one-time $1 in-app purchase to include the urogenital/reproductive system.
 
 <div class="clear"></div>
-<h2>Classic Reference Book Series for Kids</h2>
+<h2>Classic Reference Book Series for Children</h2>
 
 Created in consultation with experts, the following three books by Robie Harris and Michael Emberley cover a wide variety of topics, making each of them great for reading over several sittings and keeping around as an encyclopedic reference. Using plenty of sketches and colorful drawings, the authors have created engaging books that are likely to hold your child’s attention.
 
@@ -96,7 +96,7 @@ Created in consultation with experts, the following three books by Robie Harris 
 	</div>
 </div>
 
-Robie Harris and Michael Emberley recommend <i>It’s Perfectly Normal: Changing Bodies, Growing Up, Sex, and Sexual Health</i> for children ages 10 and up to provide kids with comprehensive scientifically-accurate information about sexual health, including:
+Robie Harris and Michael Emberley recommend <i>It’s Perfectly Normal: Changing Bodies, Growing Up, Sex, and Sexual Health</i> for children ages 10 and up to provide kids with comprehensive, scientifically accurate information about sexual health, including:
 <ul>
 <li>puberty,</li>
 <li>sex,</li>
@@ -122,7 +122,7 @@ Robie Harris and Michael Emberley recommend <i>It’s Perfectly Normal: Changing
 	</div>
 </div>
 
-After publishing <i>It’s Perfectly Normal</i>, Robie Harris and Michael Emberley authored <i>It’s So Amazing!: A Book about Eggs, Sperm, Birth, Babies, and Families</i> for childen ages 7 and up to provide younger kids with age-appropriate information about the topics covered in <i>It’s Perfectly Normal</i>. In writing this book, Robie Harris visited schools to ask school age kids, ages 10 to 14 or so, what should be in a book on sexual health for younger children. Kids said that even though their parents and teachers might not think so, they do wonder and want to know about almost everything that’s in <i>It’s Perfectly Normal</i>, but not all the details, and less about puberty, and more about babies and how they are made. The authors cover how babies are made in a how-things-work manner, engaging the interest in science that kids’ this age typically have. Using a comic-strip format, making the text concise, and boxing text to make it seem less dense, they have created a book that’s appealing and accessible to beginning or emerging readers. This 84-page book is organized well so that kids, who don’t want to read throough the whole book, can look at only the parts of the book they are interested in.
+After publishing <i>It’s Perfectly Normal</i>, Robie Harris and Michael Emberley authored <i>It’s So Amazing!: A Book about Eggs, Sperm, Birth, Babies, and Families</i> for children ages 7 and up to provide younger kids with age-appropriate information about the topics covered in <i>It’s Perfectly Normal</i>. In writing this book, Robie Harris visited schools to ask school-age children, ages 10 to 14 or so, what should be in a book on sexual health for younger children. Children said that even though their parents and teachers might not think so, they do wonder and want to know about almost everything that’s in <i>It’s Perfectly Normal</i>, but not all the details, and less about puberty, and more about babies and how they are made. The authors cover how babies are made in a how-things-work manner, engaging the interest in science that kids this age typically have. Using a comic-strip format, making the text concise, and boxing text to make it seem less dense, they have created a book that’s appealing and accessible to beginning or emerging readers. This 84-page book is organized well so that kids, who don’t want to read through the whole book, can look at only the parts of the book they are interested in.
 
 <div class="clear"></div>
 <h3><i>It’s Not the Stork!</i></h3>
@@ -135,7 +135,7 @@ After publishing <i>It’s Perfectly Normal</i>, Robie Harris and Michael Emberl
 	</div>
 </div>
 
-Robie Harris and Michael Emberley recommend <i>It’s Not the Stork!: A Book About Girls, Boys, Babies, Bodies, Families and Friends</i> for 4-6 year olds. Young children are curious about almost everything. This book answers those endless and perfectly normal questions that preschool, kindergarten, and early-elementary-school children ask about where they came from, how they were made, why their bodies are the same and different from other peoples’ bodies, what makes a girl a girl and a boy a boy, what the names are of all the different parts of their bodies, where babies come from, how babies are made, what a family is&mdash;and so many other questions about themselves and their bodies. Consulting with parents, teachers, librarians, nurses, doctors, social workers, psychologists, scientists and clergy, the authors worked to provide answers that are comfortable, reassuring, age-appropriate and scientifically accurate.
+Robie Harris and Michael Emberley recommend <i>It’s Not the Stork!: A Book About Girls, Boys, Babies, Bodies, Families and Friends</i> for 4-6 year olds. Young children are curious about almost everything. This book answers those endless and perfectly normal questions that preschool, kindergarten, and early-elementary-school children ask about where they came from, how they were made, why their bodies are the same and different from other people’s bodies, what makes a girl a girl and a boy a boy, what the names are of all the different parts of their bodies, where babies come from, how babies are made, what a family is&mdash;and so many other questions about themselves and their bodies. Consulting with parents, teachers, librarians, nurses, doctors, social workers, psychologists, scientists and clergy, the authors worked to provide answers that are comfortable, reassuring, age-appropriate, and scientifically accurate.
 
 <div class="clear"></div>
 <h2>Reference Book for Teens and Young Adults</h2>
@@ -150,6 +150,6 @@ Robie Harris and Michael Emberley recommend <i>It’s Not the Stork!: A Book Abo
 	</div>
 </div>
 
-<i>s.e.x.: the all-you-need-to-know sexuality guide to get you through your teens and twenties</i> by Heather Corinna, Founder of <a rel="nofollow noreferrer" target="_blank" href="https://www.scarleteen.com/">Scarleteen.com</a>, is an in-depth, progressive, and inclusive teen and young adult sexuality and relationships guide. <strong>This book covers topics you won’t find in books for kids.</strong>
+<i>s.e.x.: the all-you-need-to-know sexuality guide to get you through your teens and twenties</i> by Heather Corinna, Founder of <a rel="nofollow noreferrer" target="_blank" href="https://www.scarleteen.com/">Scarleteen.com</a>, is an in-depth, progressive, and inclusive teen and young adult sexuality and relationships guide. <strong>This book covers topics you won’t find in books for children.</strong>
 
 <div class="clear"></div>
