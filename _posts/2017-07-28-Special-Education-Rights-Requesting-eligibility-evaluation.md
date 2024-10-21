@@ -33,7 +33,7 @@ h2{font-size:1.5rem;font-weight:bold;text-align:center;color:#1a237e}"
 title: "Special Education: Requesting an eligibility evaluation"
 description: "Parents have the right to request an evaluation for Special Education eligibility, a process that can take many months from the initial request to the development of an IEP."
 tags:
-- ✏️ Special Education & 504
+- Special Education & 504
 ---
 <blockquote><div>
 <div>&hellip;A parent or public agency may initiate a request for an initial evaluation to determine if a child [has] a disability.&hellip;</div>

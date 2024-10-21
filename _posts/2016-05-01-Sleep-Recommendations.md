@@ -46,8 +46,7 @@ credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='ht
 title: "Sleep Recommendations"
 description: "Recommendations for hours of sleep per day and ending screen time before bedtime to support healthy sleep."
 tags:
-- Sleep
-- Health Habits
+- Health
 ---
 <h3>Recommended Sleep Time Duration</h3>
 <table class="center">

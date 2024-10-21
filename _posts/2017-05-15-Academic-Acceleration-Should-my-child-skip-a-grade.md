@@ -28,7 +28,6 @@ credits: "Stock&nbsp;Photo <a rel='nofollow noreferrer' target='_blank' href='ht
 title: "Academic Acceleration: Should my child skip a grade?"
 description: "Talented and Gifted (TAG) plans can include grade-skipping or various other options. Evaluation using the Iowa Acceleration Scale can assist with grade-skipping decisions."
 tags:
-- Academic Acceleration
 - Grade Placement
 ---
 <div class="float right side">

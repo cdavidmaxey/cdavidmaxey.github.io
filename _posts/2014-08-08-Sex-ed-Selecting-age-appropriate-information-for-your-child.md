@@ -41,7 +41,7 @@ credits_full: "<a rel='nofollow noreferrer' target='_blank' href='https://vimeo.
 title: "Sex ed: Selecting age-appropriate information for your child"
 description: "Children rely on parents to give them accurate age-appropriate information about anatomy, sex, and pregnancy."
 tags:
-- Sexual Health
+- Health
 ---
 Children are naturally curious, have lots of questions, and rely on parents to give them accurate, age-appropriate information about anatomy, sex, and pregnancy. These apps and books are resources you can review to decide if they are appropriate for your child. If your child has had unhealthy sexual experiences, discuss these choices with a mental health professional.
 
