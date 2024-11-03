@@ -61,7 +61,5 @@ collections:
   timer:
     output: TRUE
     permalink: "/:name"
-alert:
-  published: TRUE
-  message: "<strong>Accepting New Clients with Availability within a Week</strong> Schedule a phone call to get started."
-  gold: TRUE
+alert-none: "<strong>Accepting New Clients:</strong> Complete an online <strong><a href='https://cdavidmaxey.com/#new' rel='nofollow'>New&nbsp;Client&nbsp;Request</a></strong>&nbsp;form.<br>Services are provided in-office or by video call, as appropriate."
+gold-alert: TRUE

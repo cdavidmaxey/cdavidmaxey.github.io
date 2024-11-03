@@ -23,5 +23,5 @@
 				<!--sse--><a rel="nofollow" href="tel:{{site.tel}}">{{site.telephone}}</a><!--/sse-->
 				<!--sse--><a class="right" rel="nofollow" href="mailto:{{site.email}}">{{site.email}}</a><!--/sse-->
 			</section>
-		{% endif %}</div>{% if site.alert.published %}{% if page.url == '/' or page.url == '/about/' or page.url == '/contact/' or page.url == '/services/' %}
-        <div class="alert">{{site.alert.message}}</div>{% endif %}{% endif %}
+		{% endif %}</div>{% if site.alert %}{% if page.url == '/' or page.url == '/about/' or page.url == '/contact/' or page.url == '/services/' %}
+        <div class="alert">{{site.alert}}</div>{% endif %}{% endif %}
