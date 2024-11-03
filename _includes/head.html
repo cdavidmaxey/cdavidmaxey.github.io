@@ -276,7 +276,11 @@
 
             /* Alert */
             .alert{background:{% if site.alert.gold %}gold{% else %}#3949ab{% endif %};color:{% if site.alert.gold %}#000{% else %}#fff{% endif %};padding:1rem;text-align:center;line-height:1.3}
-            .alert a{color:#008000}
+            .alert>div{display:flex;align-items:center;max-width:1200px}
+            .alert>div>div:first-child{flex-grow:99}
+            .alert>div>div:last-child{margin:0 0 0 .5em}
+            .alert>div>div:last-child>a{border-radius:.25em;color:#008000;    border:1px solid black;padding:.5em;text-align:center;min-width: 1rem;text-decoration:none;}
+            .alert>div>div:last-child>a:hover{background:#3949ab;color:white}
             
 			{{page.style}}
 		</style>
