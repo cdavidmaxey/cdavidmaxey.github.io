@@ -62,6 +62,6 @@ collections:
     output: TRUE
     permalink: "/:name"
 alert:
-  published: TRUE
+  publish: TRUE
   message: "<strong>Accepting New Clients with Availability within a Week</strong> Schedule a phone call to get started."
   gold: TRUE
