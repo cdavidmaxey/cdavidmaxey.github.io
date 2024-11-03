@@ -65,7 +65,7 @@ alert-none: "<strong>Accepting New Clients:</strong> Complete an online <strong>
 gold-alert: TRUE
 alert:
   publish: TRUE
-  message: "<strong>Accepting New Clients:</strong> Offering appointments within a week."
+  message: "<strong>Accepting New Clients:</strong> Offering appointments within&nbsp;a&nbsp;week."
   button: "Schedule Phone&nbsp;Call"
   url: "https://schedule.cdavidmaxey.com/new-client-request-phone-call/"
   gold: TRUE
