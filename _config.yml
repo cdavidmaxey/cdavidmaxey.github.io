@@ -65,4 +65,3 @@ alert:
   publish: TRUE
   message: "<strong>Accepting New Clients with Availability within a Week</strong> Schedule a phone call to get started."
   gold: TRUE
-gold-alert: TRUE
