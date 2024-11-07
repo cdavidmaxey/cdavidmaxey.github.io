@@ -84,7 +84,9 @@ published: TRUE
 title: "C. David Maxey, M.A. | Clinical Child & Adolescent Psychology"
 description: "Psychotherapy for Children, Teens, and Young Adults in the Tigard Triangle near I-5 off 72nd Ave. at 217/Kruse Way."
 style: "#homepage{margin-bottom:2rem}
-header.office{margin:0 auto 1rem;max-width:1398px}
+#abn{font-size:2rem;font-weight:normal;color:#000;line-height:1;margin:2rem auto}
+@media(min-width:400px){#abn br:nth-child(2){display:none}}
+@media(min-width:500px){#abn br{display:none}}
 h2{text-align:center;margin:2rem auto;font-size:1.25rem;font-weight:normal}
 @media all and (min-width:699px){h2 br:nth-child(2n-1){display:none}}
 .buttons{justify-content:center;margin-bottom:1.25em}
@@ -135,17 +137,15 @@ section.eap>:last-child{margin-bottom:0}
 .email-step{list-style-type: lower-roman}"
 head: "<link rel='me' href='https://mastodon.social/@cdm'/>"
 ---
-<header class="office">
-	<amp-img alt="Office of C. David Maxey, M.A." src="{{site.cache}}/covers/1398/office.jpg" width="3495" height="1354" layout="responsive" sizes="(max-width:1398px) 100vw,1398px" srcset="{{site.cache}}/covers/768/office.jpg 768w,{{site.cache}}/covers/1398/office.jpg 1398w,{{site.cache}}/covers/2304/office.jpg 2304w,{{site.cache}}/covers/2796/office.jpg 2796w,{{site.cache}}/covers/3495/office.jpg 3495w"></amp-img>
-</header>
 <main>
-	<section class="text" id="homepage">
+	<section class="text" id="homepage"><!--
 		<h1 id="name" class="center">
 			<div><span class="gray tangerine">C.</span>&nbsp;<span class="tangerine">David Maxey</span><span class="suffix">,&nbsp;<span class="gray">M.A.</span></span></div>
 			<div class="title">Licensed Psychologist&nbsp;Associate</div>
-		</h1>
+		</h1>-->
+        <h1 id="abn">Portland<br>Psychological<br>Services</h1>
         <h2>Clinical Psychology <br>for Children, Teens and&nbsp;Young&nbsp;Adults<br><a href="{{site.url}}/contact/#address">in the Tigard Triangle near I-5 <br>off 72<sup>nd</sup> Ave. at 217/Kruse Way</a> <br>or by Telehealth Video Call</h2>        
-        <p>C. David Maxey, M.A. is a Licensed Psychologist Associate in Independent Practice (Oregon Board of Psychology License 5067). He specializes in Clinical Psychology for children, teens, and young adults (approximately ages 4 to 25) and has extensive experience providing mental health services to children and youth over the past {{ site.time | date: "%Y" | minus: 2001 }} years. His evidence-based approach to therapy is individualized to each client’s needs, rather than following to a step-by-step manual-based approach. He incorporates scientifically supported treatment modalities, including Cognitive Behavioral Therapy (CBT), Acceptance and Commitment Therapy (ACT), Trauma-Focused Cognitive Behavioral Therapy (TF-CBT), Parent Management Training (PMT), and Collaborative and Proactive Solutions (formerly known as Collaborative Problem Solving).</p>
+        <p>Portland Psychological Services is operated by C. David Maxey, M.A., Licensed Psychologist Associate in Independent Practice (Oregon Board of Psychology License 5067). He specializes in Clinical Psychology for children, teens, and young adults (approximately ages 4 to 25) and has extensive experience providing mental health services to children and youth over the past {{ site.time | date: "%Y" | minus: 2001 }} years. His evidence-based approach to therapy is individualized to each client’s needs, rather than following to a step-by-step manual-based approach. He incorporates scientifically supported treatment modalities, including Cognitive Behavioral Therapy (CBT), Acceptance and Commitment Therapy (ACT), Trauma-Focused Cognitive Behavioral Therapy (TF-CBT), Parent Management Training (PMT), and Collaborative and Proactive Solutions (formerly known as Collaborative Problem Solving).</p>
         <h3><div id="new" class="anchor"></div>New Client Process</h3>
         <div class="step">
             <div>1</div>
