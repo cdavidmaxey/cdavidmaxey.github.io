@@ -81,9 +81,6 @@ description: "Tigard near I-5 off 72nd Ave. at 217/Kruse Way • C. David Maxey,
         <h4 class="numbers facsimile">{{site.facsimile}}</h4>
         <p>Fax</p>
 	</section><!--/sse-->
-    <section id="addressmap" class="center">
-        <h4><div id="address" class="anchor"></div><div id="map" class="anchor"></div><span>{{site.office.address}}</span><br><span>{{site.office.city_state}} {{site.office.zip}}</span></h4>
-    </section>
     <section>
         <form method='POST' action='https://forms.zohopublic.com/cdavidmaxey/form/ContactForm/formperma/xcCVhk6sZb-1d5Ts0I9L4u9o1mfuCWcOflg_VHRNxpY/htmlRecords/submit' name='form' id='form' accept-charset='UTF-8' enctype='multipart/form-data'>
             <input type="text" maxlength="255" name="Name_First" fieldType=7 placeholder="" />
@@ -93,6 +90,9 @@ description: "Tigard near I-5 off 72nd Ave. at 217/Kruse Way • C. David Maxey,
             <textarea name="MultiLine" maxlength="65535" placeholder="Message" ></textarea>
             <button type="submit"><em>Submit</em></button>
         </form>
+    </section>
+    <section id="addressmap" class="center">
+        <h4><div id="address" class="anchor"></div><div id="map" class="anchor"></div><span>{{site.office.address}}</span><br><span>{{site.office.city_state}} {{site.office.zip}}</span></h4>
     </section>
     <section class="map">
         <a rel="nofollow noreferrer" target="_blank" href="{{site.googlemaps.url | replace: ',', '%2C' }}" aria-label="Google Maps of Office Location"><amp-img src="{{ site.googlemaps.api }}{{ site.googlemaps.parameters | replace: "|", "%7C" | replace: ",", "%2C" | replace: ":", "%3A" | replace: "/", "%2F" }}{{ site.googlemaps.key }}{{ site.googlemaps.signature }}" height="640" width="640" alt="Google Maps of Office Location"></amp-img></a>
