@@ -5,10 +5,10 @@ permalink: /:title/
 paginate: 40
 paginate_path: articles/page:num/
 markdown: kramdown
-url: https://cdavidmaxey.com
+url: https://portlandpsychologicalservices.com
 cache: https://cda.vidmaxey.com
 video: https://d21zrsmzxdylmx.cloudfront.net
-email: "info@cdavidmaxey.com"
+email: "info@portlandpsychologicalservices.com"
 telephone: "503-928-4182"
 tel: "+1-503-928-4182"
 facsimile: "503-926-6433"
@@ -28,12 +28,12 @@ Person:
   postalCode: 97223
   streetAddress: "6950 SW Hampton St Suite 207"
 Publisher:
-  name: CDavidMaxey.com
+  name: "Portland Psychological Services"
   logo:
     src: "wordmark.png"
     X: 333
     Y: 60
-feedTitle: "C. David Maxey, M.A."
+feedTitle: "Portland Psychological Services"
 mail:
   address: "6950 SW Hampton St Suite 207"
   city_state: "Portland, OR"
@@ -52,7 +52,7 @@ googlemaps:
   documentation_url: "https://developers.google.com/maps/documentation/urls/guide"
   documentation_place_id: "https://developers.google.com/places/place-id"
   api: "https://maps.googleapis.com/maps/api/staticmap"
-  parameters: "?zoom=15&size=640x640&scale=2&markers=scale:2|icon:https://cdavidmaxey.com/map-pin.png?v=3|6950+SW+Hampton+St+Suite+207,Portland,OR"
+  parameters: "?zoom=15&size=640x640&scale=2&markers=scale:2|icon:https://portlandpsychologicalservices.com/map-pin.png?v=3|6950+SW+Hampton+St+Suite+207,Portland,OR"
   key: "&key=AIzaSyDCxo9x_qGwB3DbswOdJaEqbsMxEcalTgA"
   signature: "&signature=KgbdnUm0SmuA1BqD13ZpRi5nve4="
   api_console: "https://console.developers.google.com/google/maps-apis/api-list"
@@ -61,8 +61,6 @@ collections:
   timer:
     output: TRUE
     permalink: "/:name"
-alert-none: "<strong>Accepting New Clients:</strong> Complete an online <strong><a href='https://cdavidmaxey.com/#new' rel='nofollow'>New&nbsp;Client&nbsp;Request</a></strong>&nbsp;form.<br>Services are provided in-office or by video call, as appropriate."
-gold-alert: TRUE
 alert:
   publish: TRUE
   message: "<strong>Accepting New Clients:</strong> Offering appointments within&nbsp;a&nbsp;week."
