@@ -39,7 +39,7 @@ tags:
 	<a rel="nofollow" href="{{site.url}}/NASP-Position-Statement-on-Grade-Retention-and-Social-Promotion-2011.pdf">
 		<amp-img alt="NASP Position Statement on Grade Retention and Social Promotion (2011)" width="414" height="582" src="{{site.cache}}/books/NASP-Position-Statement-on-Grade-Retention-and-Social-Promotion-2011.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
     </a>
-    <a class="download" rel="nofollow" href="{{site.url}}/NASP-Position-Statement-on-Grade-Retention-and-Social-Promotion-2011.pdf" download="CDavidMaxey.com-NASP-Position-Statement-on-Grade-Retention-and-Social-Promotion-2011.pdf">
+    <a class="download" rel="nofollow" href="{{site.url}}/NASP-Position-Statement-on-Grade-Retention-and-Social-Promotion-2011.pdf" download="NASP-Position-Statement-on-Grade-Retention-and-Social-Promotion-2011.pdf">
 		<div class="bookborder"><svg id="svg-download" class="fontawesome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 1792"><path d="M1344 928q0-14-9-23t-23-9h-224v-352q0-13-9.5-22.5t-22.5-9.5h-192q-13 0-22.5 9.5t-9.5 22.5v352h-224q-13 0-22.5 9.5t-9.5 22.5q0 14 9 23l352 352q9 9 23 9t23-9l351-351q10-12 10-24zm640 224q0 159-112.5 271.5t-271.5 112.5h-1088q-185 0-316.5-131.5t-131.5-316.5q0-130 70-240t188-165q-2-30-2-43 0-212 150-362t362-150q156 0 285.5 87t188.5 231q71-62 166-62 106 0 181 75t75 181q0 76-41 138 130 31 213.5 135.5t83.5 238.5z"/></svg>&ensp;Download</div>
 	</a>
 </div>
@@ -52,7 +52,7 @@ tags:
 	<a rel="nofollow" href="{{site.url}}/NASP-White-Paper-on-Grade-Retention-and-Social-Promotion-2011.pdf">
 		<amp-img alt="NASP White Paper on Grade Retention and Social Promotion (2011)" width="414" height="598" src="{{site.cache}}/books/NASP-White-Paper-on-Grade-Retention-and-Social-Promotion-2011.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
     </a>
-    <a class="download" rel="nofollow" href="{{site.url}}/NASP-White-Paper-on-Grade-Retention-and-Social-Promotion-2011.pdf" download="CDavidMaxey.com-NASP-White-Paper-on-Grade-Retention-and-Social-Promotion-2011.pdf">
+    <a class="download" rel="nofollow" href="{{site.url}}/NASP-White-Paper-on-Grade-Retention-and-Social-Promotion-2011.pdf" download="NASP-White-Paper-on-Grade-Retention-and-Social-Promotion-2011.pdf">
 		<div class="bookborder"><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
 	</a>
 </div>
@@ -65,7 +65,7 @@ tags:
 	<a rel="nofollow" href="{{site.url}}/NASP-Guidance-on-Grade-Retention-and-Special-Education-2021.pdf">
 		<amp-img alt="NASP Guidance on the Use of Grade Retention and Special Education Eligibility to Address Instructional Loss (2021)" width="414" height="572" src="{{site.cache}}/books/NASP-Guidance-on-Grade-Retention-and-Special-Education-2021.jpg" sizes="calc(8.625rem - 2px)" class="bookborder"></amp-img>
     </a>
-    <a class="download" rel="nofollow" href="{{site.url}}/NASP-Guidance-on-Grade-Retention-and-Special-Education-2021.pdf" download="CDavidMaxey.com-NASP-Guidance-on-Grade-Retention-and-Special-Education-2021.pdf">
+    <a class="download" rel="nofollow" href="{{site.url}}/NASP-Guidance-on-Grade-Retention-and-Special-Education-2021.pdf" download="NASP-Guidance-on-Grade-Retention-and-Special-Education-2021.pdf">
 		<div class="bookborder"><svg class="fontawesome"><use xlink:href="#svg-download"/></svg>&ensp;Download</div>
 	</a>
 </div>

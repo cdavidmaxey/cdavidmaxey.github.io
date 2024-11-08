@@ -335,15 +335,15 @@
 			"@context": "http://schema.org",
 			"@type": "BreadcrumbList",
 			"itemListElement":[
-				{"@type":"ListItem","position":1,"item":{"@id":"https://cdavidmaxey.com/","name":"C. David Maxey, M.A."}},
-				{"@type":"ListItem","position":2,"item":{"@id":"https://cdavidmaxey.com/articles/","name":"blog"}}{% for post in site.posts %}{% if page.id == post.id and forloop.index > site.paginate %},
-				{"@type":"ListItem","position":3,"item":{"@id":"https://cdavidmaxey.com/articles/page{{forloop.index0 | divided_by:site.paginate | plus:1}}/","name":"Page {{forloop.index0 | divided_by:site.paginate | plus:1}}"}}{% break %}{% endif %}{% endfor %}]
+				{"@type":"ListItem","position":1,"item":{"@id":"https://portlandpsychologicalservices.com/","name":"C. David Maxey, M.A."}},
+				{"@type":"ListItem","position":2,"item":{"@id":"https://portlandpsychologicalservices.com/articles/","name":"blog"}}{% for post in site.posts %}{% if page.id == post.id and forloop.index > site.paginate %},
+				{"@type":"ListItem","position":3,"item":{"@id":"https://portlandpsychologicalservices.com/articles/page{{forloop.index0 | divided_by:site.paginate | plus:1}}/","name":"Page {{forloop.index0 | divided_by:site.paginate | plus:1}}"}}{% break %}{% endif %}{% endfor %}]
 		}</script>{% endif %}{% if page.url == '/' or page.url == '/about/' %}
         <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
-		"name": "C. David Maxey, M.A.",
-		"alternateName": "CDavidMaxey.com",
+		"name": "Portland Psychological Services",
+		"alternateName": "PortlandPsychologicalServices.com",
 		"url": "{{site.url}}",
 		"logo": "{{site.url}}/favicon.png",
 		"naics": "{{site.Person.naics}}",
