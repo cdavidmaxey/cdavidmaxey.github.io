@@ -65,7 +65,7 @@ div.signal-font{margin:0 -1em}
 .contact h4.numbers{font-variant-numeric:tabular-nums}
 .contact h4.numbers+p{margin-top:.25rem}
 .social h4+p{margin-top:-.75rem}"
-head: '<script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>'
+head: '<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>'
 title: "Contact C. David Maxey, M.A."
 description: "Tigard near I-5 off 72nd Ave. at 217/Kruse Way • C. David Maxey, M.A. can be contacted by phone or email."
 ---
@@ -81,8 +81,8 @@ description: "Tigard near I-5 off 72nd Ave. at 217/Kruse Way • C. David Maxey,
         <h4 class="numbers facsimile">{{site.facsimile}}</h4>
         <p>Fax</p>
 	</section><!--/sse-->
-    <section>
-        <form method='POST' action-xhr='https://forms.zohopublic.com/cdavidmaxey/form/ContactForm/formperma/xcCVhk6sZb-1d5Ts0I9L4u9o1mfuCWcOflg_VHRNxpY/htmlRecords/submit' name='form' id='form' accept-charset='UTF-8' enctype='multipart/form-data'>
+    <amp-iframe width="300" height="300" layout="responsive" sandbox="allow-scripts allow-same-origin">
+        <form method='POST' action='https://forms.zohopublic.com/cdavidmaxey/form/ContactForm/formperma/xcCVhk6sZb-1d5Ts0I9L4u9o1mfuCWcOflg_VHRNxpY/htmlRecords/submit' name='form' id='form' accept-charset='UTF-8' enctype='multipart/form-data'>
             <input type="hidden" name="zf_referrer_name" value="portlandpsychologicalservices.com/contact">
             <input type="hidden" name="zf_redirect_url" value="https://portlandpsychologicalservices.com/contact/?sent=1">
             <input type="text" maxlength="255" name="Name_First" placeholder="First Name" />
@@ -90,9 +90,9 @@ description: "Tigard near I-5 off 72nd Ave. at 217/Kruse Way • C. David Maxey,
             <input type="email" maxlength="255" name="Email" value="" placeholder="email" />
             <input type="tel" name="PhoneNumber_countrycode" maxlength="10" value="" id="international_PhoneNumber_countrycode" placeholder="Phone" />
             <textarea name="MultiLine" maxlength="65535" placeholder="Message" ></textarea>
-            <input type="submit" />
+            <input type="submit" value="Send" />
         </form>
-    </section>
+    </amp-iframe>
     <section id="addressmap" class="center">
         <h4><div id="address" class="anchor"></div><div id="map" class="anchor"></div><span>{{site.office.address}}</span><br><span>{{site.office.city_state}} {{site.office.zip}}</span></h4>
     </section>
