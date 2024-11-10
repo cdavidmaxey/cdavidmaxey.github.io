@@ -351,7 +351,7 @@
 		"naics": "{{site.Person.naics}}",
 		"contactPoint": {"@type":"ContactPoint","telephone": "{{site.tel}}","contactType":"customer service"},
 		"telephone": "{{site.tel}}",
-		"email": "mailto:{{site.email | downcase}}",
+		"email": "mailto:{{site.email.href | downcase}}",
 		"address": {
 			"@type": "PostalAddress",
 			"addressLocality": "{{site.Person.addressLocality}}",
