@@ -59,6 +59,13 @@ googlemaps:
   signature: "&signature=CySQzaXEeqrq0Zu1WCkCCkt150E="
   api_console: "https://console.developers.google.com/google/maps-apis/api-list"
   documentation_maps_static: "https://developers.google.com/maps/documentation/maps-static/intro"
+googlestreetview:
+  url: "https://www.google.com/maps/@?api=1&map_action=pano"
+  v: "&viewpoint=45.4274652,-122.7486293"
+  h: "&heading=150"
+  y: "&fov=90"
+  pitch: "&pitch=0"
+  documentation_url: "https://developers.google.com/maps/documentation/urls/get-started#street-view-action"
 collections:
   timer:
     output: TRUE
