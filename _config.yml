@@ -58,11 +58,11 @@ googlemaps:
   zoom: "15"
   size: "640x640"
   scale: "2"
-  format: "jpg"
+  format: "png"
   maptype: "roadmap"
   markers: "scale:2|icon:https://portlandpsychologicalservices.com/map-pin.png|6950 SW Hampton St Suite 207, Portland, OR"
   key: "AIzaSyDCxo9x_qGwB3DbswOdJaEqbsMxEcalTgA"
-  signature: "8IrtHZBVStimaVp1tUIh94qdtKA="
+  signature: "kgB_0LSGZFfwUPZ0zLI1TIyEs0k="
   api_console: "https://console.developers.google.com/google/maps-apis/api-list"
   documentation_maps_static: "https://developers.google.com/maps/documentation/maps-static/intro"
 googlestreetview:
