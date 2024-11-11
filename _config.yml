@@ -50,7 +50,6 @@ applemaps:
   documentation: "https://developer.apple.com/library/content/featuredarticles/iPhoneURLScheme_Reference/MapLinks/MapLinks.html"
 googlemaps:
   url: "https://g.page/cdavidmaxey"
-  url_full: "https://www.google.com/maps/search/?api=1&query=C.+David+Maxey,+M.A.,+Licensed+Psychologist+Associate"
   documentation_url: "https://developers.google.com/maps/documentation/urls/guide"
   documentation_place_id: "https://developers.google.com/places/place-id"
   api: "https://maps.googleapis.com/maps/api/staticmap"
