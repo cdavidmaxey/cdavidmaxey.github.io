@@ -69,7 +69,7 @@ googlestreetview:
   url: "https://www.google.com/maps/@?api=1&map_action=pano"
   v_viewpoint: "45.4274652,-122.7486293"
   h_heading: "150"
-  y_fov: "90"
+  y_fov: "70"
   pitch: "0"
   documentation_url: "https://developers.google.com/maps/documentation/urls/get-started#street-view-action"
 collections:
