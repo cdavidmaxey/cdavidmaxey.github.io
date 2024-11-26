@@ -24,4 +24,4 @@
 				<!--sse--><a class="right" rel="nofollow" href="mailto:{{site.email.href | downcase}}">{{site.email.font}}</a><!--/sse-->
 			</section>
 		{% endif %}</div>{% if site.alert.publish %}{% if page.url == '/' or page.url == '/about/' or page.url == '/contact/' or page.url == '/services/' %}
-        <div class="alert"><div><div>{{site.alert.message}}</div><div><a rel="nofollow noreferrer" href="{{site.alert.url}}" target="_blank">{{site.alert.button}}</a></div></div></div>{% endif %}{% endif %}
+        <div class="alert"><div><div>{{site.alert.message}}{{site.alert.message_nbsp | replace: ' ', ' '}}</div><div><a rel="nofollow noreferrer" href="{{site.alert.url}}" target="_blank">{{site.alert.button}}</a></div></div></div>{% endif %}{% endif %}
