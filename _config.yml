@@ -77,8 +77,8 @@ collections:
     permalink: "/:name"
 alert:
   publish: TRUE
-  message: "<strong>Accepting New Clients: </strong>Appointments available on Monday and Wednesday, "
-  message_nbsp: "December 9 and 11."
+  message: "<strong>Accepting New Clients: </strong>Appointments available on Wednesday, Tuesday, and Thursday"
+  message_nbsp: "December 11, 17, and 19."
   button: "Schedule Phone&nbsp;Call"
   url: "https://schedule.portlandpsychologicalservices.com/new-client-request-phone-call/"
   gold: TRUE
