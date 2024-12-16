@@ -94,7 +94,7 @@ tags:
 	<tbody>
 		<tr>
 			<td class="left">
-                <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2135">Communication Disorder</a></div>
+                <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2135">Speech or Language Impairment</a></div>
                 <div>speech and language disorders</div>
             </td>
 		</tr>
@@ -242,7 +242,7 @@ tags:
 		</tr>
 		<tr>
 			<td class="left">
-                <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2150">Hearing Impairment</a></div>
+                <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2150">Deaf or Hard of Hearing</a></div>
                 <div>
                     <div>impairment in hearing, whether permanent or fluctuating, that is so severe that the child is impaired in processing linguistic information through hearing, with or without amplification, and meets one of the following criteria:</div>
                     <ul>
@@ -254,7 +254,7 @@ tags:
 		</tr>
 		<tr>
 			<td class="left">
-                <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2180">Vision Impairment</a></div>
+                <div><a rel="nofollow noreferrer" target="_blank" href="https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-015-2180">Visual Impairment</a></div>
                 <div>vision that, even with correction, adversely affects a child's educational performance (e.g., low vision, total blindness, limited visual acuity after correction, restricted visual field, and progressive eye conditions)</div>
             </td>
 		</tr>
