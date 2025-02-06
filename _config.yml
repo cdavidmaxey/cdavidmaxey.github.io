@@ -76,7 +76,7 @@ collections:
     output: TRUE
     permalink: "/:name"
 alert:
-  publish: TRUE
+  publish: FALSE
   message: "<strong>Accepting New Clients: </strong>Appointments available within about a week. To discuss next steps, <a rel='nofollow noreferrer' href='https://schedule.portlandpsychologicalservices.com/new-client-inquiry-phone-call/' target='_blank'>schedule&nbsp;a&nbsp;phone&nbsp;call</a> or leave a voicemail at <a href='tel:503-928-4182'>503&#8209;928&#8209;4182</a> for a callback."
   message_nbsp: ""
   button: "Schedule Phone&nbsp;Call"
