@@ -97,7 +97,7 @@ tags:
 	Note: These recommendations from the American Academy of Sleep Medicine (2016) were endorsed by the American Academy of Pediatrics (2016).
 </div>
 <h3>Screen Time</h3>
-<p>The American Academy of Pediatrics (AAP) recommends turning off all screens 30 minutes before bedtime and keeping TVs, computers, and other screens out of children's bedrooms.</p><!--
+<p>The American Academy of Pediatrics (AAP) recommends turning off all screens 30 minutes before bedtime and keeping TVs, computers, tablets, phones, handheld video games, and other screens out of children’s bedrooms.</p><!--
 <h3>Bedtime Routines</h3>
 <p>Bedtime routines can often be helpful to anyone of any age&mdash;obviously, the components of the routine will differ for a young child and an adult. Focus on making bedtime a positive and relaxing experience without screens (see sample routine below). </p>
 <ul>
