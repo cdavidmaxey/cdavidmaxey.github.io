@@ -13,8 +13,8 @@ email:
   font: "info@<span class='FacultyGlyphic'>PortlandPS</span>.com"
 telephone: "503-928-4182"
 tel: "+1-503-928-4182"
-facsimile: "503-926-6433"
-fax: "+1-503-926-6433"
+facsimile: "503-928-4182"
+fax: "+1-503-928-4182"
 Person:
   name: C. David Maxey
   givenName: David
