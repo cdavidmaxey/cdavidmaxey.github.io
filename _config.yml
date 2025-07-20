@@ -77,10 +77,10 @@ collections:
     permalink: "/:name"
 alert:
   publish: FALSE
-  message: "<strong>Accepting New Clients: </strong>Appointments available within about a week. To discuss next steps, <a rel='nofollow noreferrer' href='https://schedule.portlandpsychologicalservices.com/new-client-inquiry-phone-call/' target='_blank'>schedule&nbsp;a&nbsp;phone&nbsp;call</a> or leave a voicemail at <a href='tel:503-928-4182'>503&#8209;928&#8209;4182</a> for a callback."
+  message: "<strong>Accepting New Clients: </strong>Appointments available within about a week. To discuss next steps, <a rel='nofollow noreferrer' href='https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call' target='_blank'>schedule&nbsp;a&nbsp;phone&nbsp;call</a> or leave a voicemail at <a href='tel:503-928-4182'>503&#8209;928&#8209;4182</a> for a callback."
   message_nbsp: ""
   button: "Schedule Phone&nbsp;Call"
-  url: "https://schedule.portlandpsychologicalservices.com/new-client-inquiry-phone-call/"
+  url: "https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call"
   gold: TRUE
   examples:
     generic: "<strong>Accepting New Clients: </strong>Appointments within&nbsp;a&nbsp;week."
