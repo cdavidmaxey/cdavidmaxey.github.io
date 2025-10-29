@@ -25,7 +25,7 @@
 /* light-dark Mode */
     :root{color-scheme:light dark}
     html{background-color:light-dark(#1a237e,#000)}
-    body{background-color:light-dark(#fff,#090b2a);color:light-dark(#000,#fff)}
+    main{background-color:light-dark(#fff,#090b2a);color:light-dark(#000,#fff)}
 
 /* Link Color */
     a{text-decoration:none;color:inherit}
@@ -47,7 +47,7 @@
     span.slash{margin:0 .15em}
 
 /* main padding */
-    main{padding:0 max(16px,env(safe-area-inset-right,0)) 0 max(16px,env(safe-area-inset-left,0))}
+    main{margin:-2.625rem 0;padding:2.625rem max(16px,env(safe-area-inset-right,0)) 2.625rem max(16px,env(safe-area-inset-left,0))}
     main>section{margin:2.5rem auto 0;text-align:justify;line-height:1.25;container:clickable-main/inline-size;}
     main>section>:last-child{margin-bottom:3rem}
 
