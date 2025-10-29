@@ -1,0 +1,442 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noarchive">
+<style>
+    @font-face{font-family:"Faculty Glyphic";font-display:swap;font-style:normal;font-weight:400;src:url("https://portlandpsychologicalservices.com/FacultyGlyphic-PortlandPS.woff2")format("woff2")}
+    @font-face{font-family:"Tangerine";font-display:swap;font-style:normal;font-weight:700;src:local("Tangerine Bold"),local("Tangerine-Bold"),url("https://portlandpsychologicalservices.com/Tangerine-Bold-CDavidMaxey.woff2")format("woff2")}
+    @font-face{font-family:"Roboto Condensed";font-style:italic;font-weight:450;font-display:swap;src:url(https://portlandpsychologicalservices.com/Roboto-Condensed-450-Italic-subset.woff2)format('woff2');}
+    
+/* Fonts */    
+    body{font-family:-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",Arial,Helvetica,sans-serif}
+    .FacultyGlyphic{font-family:"Faculty Glyphic",sans-serif;font-weight:400;font-style:normal;font-optical-sizing:auto}
+    span.FacultyGlyphic{font-size:.95em}
+    .tangerine{font-family:"Tangerine",sans-serif;font-weight:700;font-style:normal;font-optical-sizing:auto}
+    .roboto{font-family:"Roboto Condensed",sans-serif;font-weight:450;font-style:italic;font-optical-sizing:auto}
+    .mono{font-family:"Lucida Sans Typewriter",Monaco,"Lucida Console",Consolas,monospace}
+    .bold{font-weight:bold}
+    .italic{font-style:italic}
+    .underline{text-decoration:underline}
+    .allcaps{text-transform:uppercase}
+
+/* light-dark Mode */
+    :root{color-scheme:light dark}
+    html{background-color:light-dark(#1a237e,#000)}
+    body{background-color:light-dark(#fff,#090b2a);color:light-dark(#000,#fff)}
+
+/* Link Color */
+    a{text-decoration:none;color:inherit}
+    main a{color:light-dark(#008000,#36f239)}
+    a:hover,label:hover{color:light-dark(#1a237e,#fff)}
+    nav#bar>.menu a:hover,footer>.footer a:hover{color:inherit}
+    
+/* Universal CSS */
+    html{overscroll-behavior:none;scroll-padding-top:calc(5.75rem + 16px + env(safe-area-inset-top))}
+    .responsive{width:100%;height:auto}
+    button{cursor:pointer;background:inherit;color:inherit;border:inherit}
+    .left{text-align:left}.center{text-align:center}.right{text-align:right}
+    .float-left{float:left}.float-right{float:right}
+
+/* Character Spacing */
+    a[href^="tel:"] span:first-child,.fax span:first-child{margin:0 0 0 .1875em}
+    a[href^="tel:"] span:last-child,.fax span:last-child{margin:0 .1875em 0 0}
+    span.slash{margin:0 .15em}
+
+/* main padding */
+    body{margin:0}
+    main{padding:0 max(16px,env(safe-area-inset-right)) 0 max(16px,env(safe-area-inset-left))}
+    main>section{margin:2.5rem auto 0;text-align:justify;line-height:1.25;container:clickable-main/inline-size;}
+    main>section>:last-child{margin-bottom:3rem}
+    .filler{position:sticky;top:0;background:#1a237e;height:env(safe-area-inset-top)}
+
+/* nav#bar */
+    nav#bar{position:sticky;z-index:10;top:env(safe-area-inset-top)}
+
+/* nav#bar>.menu */
+    nav#bar>.menu{background:#1a237e;color:#fff;padding:0 env(safe-area-inset-right) 0 env(safe-area-inset-left);}
+    nav#bar>.menu>div{display:flex;max-width:56.25rem;margin:0 auto;flex-wrap:wrap;container:clickable-nav/inline-size;}
+    nav#bar>.menu>div>*{text-decoration:none;line-height:0}
+
+/* nav#bar>.menu - :hover */
+    nav#bar>.menu>div:hover>div.active>a,
+    nav#bar>.menu>div:hover>a.active
+        {background:none}
+    nav#bar>.menu>div:hover>div.active>a:hover,
+    nav#bar>.menu>div:hover>a.active:hover,
+    nav#bar>.menu>div>div.active>a,
+    nav#bar>.menu>div>div>a:hover,
+    nav#bar>.menu>div>a.active,
+    nav#bar>.menu>div>a:hover,
+    nav#bar>.menu>div>button:hover        
+        {background:rgba(255,255,255,.1)}
+
+/* nav#bar>.menu>div>div */
+    nav#bar>.menu>div>div{order:1;padding:0;text-align:left}
+    nav#bar>.menu>div>div>a{display:inline-flex}
+    nav#bar>.menu>div>div>a>svg{height:2.625rem;width:2.625rem;padding:.25rem}
+    nav#bar>.menu>div>div>a>div{padding:.15625rem .5rem .15625rem .25rem;line-height:1.153846154;font-size:.8125rem} 
+
+/* nav#bar>.menu>div>a */
+    nav#bar>.menu>div>a{order:3;line-height:1;font-size:1rem;padding:1.0625rem 1rem;text-align:center}
+    nav#bar>.menu>div>a.wrapped{line-height:1.125;padding:.4375rem 1rem}
+
+/* nav#bar>.menu>div>button */
+    nav#bar>.menu>div>button{order:2;padding:.34375rem .625rem;line-height:0;display:none}
+    nav#bar>.menu>div>button>*{width:1.875rem;height:.3125rem;background-color:#fff;border-radius:.125rem;margin:.375rem 0;transition:.5s}
+    nav#bar .open button>:nth-child(1){transform:translate(0,.6875rem) rotate(-45deg)}
+    nav#bar .open button>:nth-child(2){opacity:0}
+    nav#bar .open button>:nth-child(3){transform:translate(0,-.6875rem) rotate(45deg)}
+    @container clickable-nav (width < 28.4375rem){
+        nav#bar>.menu>div{justify-content:space-between}
+        nav#bar>.menu.open>div{justify-content:space-evenly}
+        nav#bar>.menu>div>div{flex-basis:calc(100% - 3.125rem)}
+        nav#bar>.menu>div>a{flex-grow:1}
+        nav#bar>.menu:not(.open)>div>a{display:none}
+        nav#bar>.menu>div>button{display:block}}
+
+/* .cta (in nav#bar & footer) */
+    .cta{background:none;display:flex;justify-content:center}
+    .cta a{background:#1a237e;color:#fff;font-size:1.25rem;padding:.55em;line-height:1}
+    .cta a:hover{color:#36f239}
+    nav#bar>.cta{align-items:flex-start}
+     footer>.cta{align-items:flex-end}
+    nav#bar>.cta a{border-radius:0 0 .9375rem .9375rem}
+     footer>.cta a{border-radius:.9375rem .9375rem 0 0}
+
+/* h1 */
+    h1{font-size:2.5rem;font-weight:bold;line-height:1.15;margin:0 auto 3rem;color:light-dark(#1a237e,#fff)}
+
+/* #basics */
+    #basics>div{font-size:1.5rem;margin-bottom:1.25em}
+    #basics>div:last-child{margin-bottom:3rem}
+    #basics>.phone-email a,.zoom a{padding:.2em .4em;margin:-.2em -.4em;border-radius:.3333333333em}
+    #basics>.phone-email a:hover{background-color:#3949ab;color:white;text-decoration:none}
+    #basics>.zoom a{color:light-dark(#0b5cff,#fff);fill:light-dark(#0b5cff,#fff);}
+    #basics>.zoom a:hover{background:#0b5cff;color:white;fill:white}
+    #zoom{cursor:text;margin-bottom:-.05em;padding-right:.0625em}
+
+/* #basics .bullet */
+    #basics>.phone-email{display:flex;justify-content:center;gap:1.25em 0}
+    #basics>.phone-email .phone-with-voicemail{font-size:.6666666666em;margin-top:.3333333333em}
+    #basics>.phone-email .bullet span{padding:0 .5em}
+    @container clickable-main (width < 33.375rem){
+        #basics>.phone-email{flex-wrap:wrap}
+        #basics>.phone-email>:first-child{flex-basis:100%}
+        #basics>.phone-email .bullet{display:none}}
+
+/* .address */
+    .address{position:relative;z-index:1;font-size:min(6.25cqw,1.5rem);line-height:1;margin-top:-.5rem;margin-bottom:-2.15em;user-select:all}
+    .address>div{display:flex;justify-content:center}
+    .address>div div{border-radius:.3333333333em;color:white;background-color:#1a237e}
+    .address>div:first-child div{padding:.325em .4em .325em}
+    .address>div:last-child div {padding:0 .4em .325em;margin-top:-.1625em;border-top-left-radius:0;border-top-right-radius:0}
+
+/* .map */
+    .map{height:40rem;overflow-x:hidden;margin:0 calc(0px - max(16px,env(safe-area-inset-right))) 3rem calc(0px - max(16px,env(safe-area-inset-left)))}
+    .map img{position:relative;top:50%;left:50%;margin-top:-20rem;margin-left:-20rem;width:40rem;height:40rem}
+
+/* .streetview-label */
+    .streetview-label{position:relative;z-index:1;font-size:1.5rem;line-height:1;margin-top:-.5rem;margin-bottom:-1.2375rem;display:flex;justify-content:center;user-select:none}
+    .streetview-label>div{border-radius:.5rem;color:white;background-color:#1a237e;padding:.4875rem .6rem .4875rem}
+
+/* .streetview */
+    .streetview{line-height:0;margin:0 calc(0px - max(16px,env(safe-area-inset-right))) 3rem calc(0px - max(16px,env(safe-area-inset-left)))}
+    .streetview a{display:block;max-width:40rem;margin:0 auto}
+    
+/* main content */
+    main p{font-size:1.125rem;margin:0 auto 1.25em;max-width:43.75rem}
+    h2{font-size:1.5rem;font-weight:bold;line-height:1.15;margin:0 0 2rem}
+    h2.crisis span{display:block;font-size:.875rem;font-weight:normal;margin-top:.15rem}
+    h2.crisis+div{font-size:1.125rem;line-height:2rem;margin:-1.25rem 0 2rem}
+     h3.crisis-local{font-size: 1.125rem;margin:2rem 0 1rem}
+    div.crisis-local{max-width:18rem;margin:-.75rem auto 2.25rem}
+    div.crisis-local>div{display:flex;align-items:center;column-gap:1rem}
+    div.crisis-local>div+div{border-top:.0625rem solid black;border-image:linear-gradient(to left, #fff, #000, #fff) 1}
+    div.crisis-local a[href^="tel:"]{font-size:.875em;color:#fff;background:#3949ab;padding:.5em;border-radius:.25em;margin:.75rem 0;font-variant-numeric:tabular-nums}
+    h2.social+.subtitle{font-size:.875rem;margin-top:-1.85rem}
+
+/* footer>.footer */
+    footer>.footer{font-size:.84375rem;background:#1a237e;color:#fff;padding:0 max(1rem,env(safe-area-inset-right)) env(safe-area-inset-bottom) max(1rem,env(safe-area-inset-left));}
+    footer>.footer>div{container:clickable-footer/inline-size;}
+    footer>.footer>div>div{line-height:2.185185185}
+    footer>.footer>div>div:first-child{font-size:1.25rem;line-height:1.15;padding:1.5rem 0 1rem}
+    footer>.footer a{padding:.15rem .3rem;margin:-.15rem -.3rem;border-radius:.25rem}
+    footer>.footer a:hover{background:rgba(255,255,255,.1)}
+
+/* .footer .bullet - <br><span class="bullet">&bull;</span> */
+    .footer .bullet{padding:0 .2222222222em;display:none}
+    @container clickable-footer (width > 18.25rem){
+        .footer .phone-email br{display:none}
+        .footer .phone-email .bullet{display:inline}}
+    @container clickable-footer (width > 23rem){
+        .footer .notices-links br{display:none}
+        .footer .notices-links .bullet{display:inline}}
+    
+/*
+h1{font-size:2rem;margin:2rem 0;color:#1a237e}
+.buttons{justify-content:center;margin:.75em 0 0}
+.buttons>a{border:none}
+.buttons>a:hover{background:#3949ab;color:white}
+.contact h4,.social h4{font-size:1.5rem;margin:1.875rem 0 0;color:#1a237e}
+.social h4{margin-bottom:1rem}
+.contact h4 a{font-weight:normal;padding:.3rem .6rem;margin:-.3rem -.6rem;border-radius:.5rem}
+.contact h4 a:hover{background:#3949ab;color:white;text-decoration:none}
+.contact h4.zoom svg{height:.625em;margin-bottom:-.05em;padding-right:.0625em}
+.contact h4.zoom a,.contact h4.zoom a svg{color:#0b5cff;fill:#0b5cff}
+.contact h4.zoom a:hover,.contact h4.zoom a:hover svg{background:#0b5cff;color:white;fill:white}
+.contact.text{margin-top:1.875rem}
+.contact h4+p{line-height:1;margin:.15rem 0 .4rem}
+.contact form{width:300px;margin:.25rem auto 0}
+h6{font-size:1.125rem;margin:1rem 0 .375rem}
+table{margin:auto;border-collapse:collapse;border-top:2px solid black;border-bottom:2px solid black}
+th:nth-child(odd){border-bottom:1px dotted black;font-weight:bold}
+td:nth-child(2){padding:0 .5em;font-weight:bold}
+tr:not(:last-child) td:nth-child(odd){font-family:Lucida Sans Typewriter,Lucida Console,monaco,monospace}
+td span{padding:0 .2em}
+#addressmap h4{font-size:1.25rem;font-weight:normal;position:relative;z-index:100;padding-top:.3rem;margin-bottom:-1.7em}
+@media(min-width:400px){#addressmap h4{font-size:1.5rem}}
+#addressmap span:not(:first-child){padding:.3rem .6rem;color:white;background-color:#1a237e;border-radius:.5rem}
+#addressmap span:last-child {padding-top:0;border-top-left-radius:0;border-top-right-radius:0}
+.streetview{max-width:640px;margin:2.175rem auto 0}
+.contact.streetview h4{padding-top:0.3rem;margin-bottom:-.75rem;font-weight:normal;position:relative;z-index:100}
+.contact.streetview h4>span{color:white;background-color:#1a237e;border-radius:.5rem;padding:.3rem .6rem}
+.crisis{max-width:480px;margin:0 auto 2rem;text-align:left}
+.crisis>div{margin:0 1rem}
+h5{font-size:1rem;margin:.75rem 0 .5rem}
+.crisis section>div{border:0}
+.crisis section>div+div{border-top:1px solid black;border-image:linear-gradient(to left,#fff,#000,#fff) 1}
+.crisis section>div>div{display:flex;align-items:center;margin:0 0 0 15px}
+.crisis section>div>div>div{display:block}
+.crisis section>div>div>span{margin:.75rem 0 .75rem .75rem}
+.addspacing{line-height:2}
+.crisis section>div>div>.buttons{margin:.75rem 0;padding:.4375rem;line-height:.875rem}
+a.a-tel{font-size:.875em;color:white;background:#3949ab;font-variant-numeric:tabular-nums;border-bottom-right-radius:.25rem;border-top-right-radius:.25rem}
+a.a-tel:hover{background:#008000}
+a.a-tel+div{margin:.4375em 0 -.4375em;line-height:1;padding-top:.25em}
+.a-tel~small,.a-tel~span,.a-tel~a{margin-left:1rem}
+.am-pm{font-size:.625rem} */
+/* .subhours+span{padding-bottom:1.25em} *//*
+.svg-flag{vertical-align:bottom;margin:0 5.18px 0 -30px}
+.svg-lock{padding-right:1.2857em}
+.signal-icon{margin-bottom:-3.5px}
+.signal-icon .fontawesome{padding-left:calc(2.75rem - 1.2857em)}
+.signal-icon>a{height:2.25rem;margin-left:.5rem}
+.signal-icon>a>div,.signal-icon>div{display:inline-block;vertical-align:middle}
+.signal-icon>a>div{border-radius:.35rem;background-color:#2090ea;width:2.25rem;height:2.25rem}
+.signal-icon>a>div>div{height:2.25rem}
+.signal-icon span:first-of-type{margin:0 .09375em;color:transparent}
+.signal-icon span:last-of-type{margin:0 .09375em}
+.signal-font,.signal-font:hover{font-weight:normal;color:#1377c9;font-size:small}
+div.signal-font{margin:0 -1em}
+.digits{background-color:transparent}
+.map{width:100%;height:640px;overflow-x:hidden}
+.map amp-img{position:relative;width:640px;height:640px;top:50%;left:50%;margin-top:-320px;margin-left:-320px;}
+.facsimile{font-weight:normal;user-select:all}
+.facsimile+p{}
+.contact h4.numbers{font-variant-numeric:tabular-nums}
+.contact h4.numbers+p{margin-top:.5rem}
+.social h4+p{margin-top:-.75rem}
+#contact-form-embed{width:288px;margin:0 auto}
+.shimmer-wrapper{position:relative;padding-bottom:475px;}
+.placeholder{background:#dddddd;border-radius:4px;height:100%;position:absolute;width:100%;}
+.shimmer{overflow:hidden;position:relative;}
+.shimmer::before{content:'';position: absolute;background:linear-gradient(90deg,rgba(255,255,255,0)0%,rgba(255,255,255,0.4) 50%,rgba(255,255,255,0)100%);height:100%;width:100%;z-index:1;animation:shimmer 1s infinite;}
+@keyframes shimmer{0%{transform:translateX(-100%);}100%{transform:translateX(100%);}} */
+
+
+</style>
+<link rel="canonical" href="https://portlandpsychologicalservices.com/">
+<meta name="description" content="Clinical Psychology for Children, Teens and Young Adults in the Tigard Triangle near I-5 off 72nd Ave. at 217/Kruse Way or by Zoom Call">
+<meta name="author" content="C. David Maxey, M.A.">
+<link rel="author" href="https://portlandpsychologicalservices.com/humans.txt">
+<meta name="format-detection" content="telephone=no">    
+<link rel="icon" type="image/svg+xml" href="https://portlandpsychologicalservices.com/favicon.svg"/>
+<link rel="icon" type="image/png" href="https://portlandpsychologicalservices.com/favicon-96x96.png" sizes="96x96"/>
+<link rel="shortcut icon" href="https://portlandpsychologicalservices.com/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="180x180" href="https://portlandpsychologicalservices.com/apple-touch-icon.png"/>
+<meta name="apple-mobile-web-app-title" content="PortlandPS"/>
+<meta name="application-name" content="PortlandPS">
+<meta name="theme-color" content="#1a237e">
+<link rel="manifest" href="https://portlandpsychologicalservices.com/site.webmanifest"/>
+<script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "MedicalBusiness",
+"name": "Portland Psychological Services",
+"url": "https://portlandpsychologicalservices.com/",
+"logo": "https://portlandpsychologicalservices.com/favicon.svg",
+"photo": [
+    "https://cda.vidmaxey.com/covers/1398/office.jpg",
+    "https://cda.vidmaxey.com/1920/street-view.jpg"],
+"naics": "621330",
+"telephone": "+1-503-928-4182",
+"contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1-503-928-4182",
+    "contactType": "Phone with Voicemail"},
+"email": "mailto:info@portlandps.com",
+"address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6950 SW Hampton St Suite 207",
+    "addressLocality": "Portland",
+    "addressRegion": "OR",
+    "postalCode": "97223",
+    "addressCountry": "US"},
+"hasMap": [
+    "https://g.page/cdavidmaxey",
+    "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.4274652%2C-122.7486293&heading=150&fov=70&pitch=0"],
+"areaServed": {"@type":"AdministrativeArea","name":"Oregon"},
+"knowsLanguage": {
+    "@type": "Language",
+    "name": "English",
+    "alternateName": "en"},
+"location": [
+    {"@type":"Place","name": "Office","address":{
+        "@type": "PostalAddress",
+        "streetAddress": "6950 SW Hampton St Ste 207",
+        "addressLocality": "Portland",
+        "addressRegion": "OR",
+        "postalCode": "97223",
+        "addressCountry": "US"}},
+    {"@type":"VirtualLocation","name":"Zoom Call"}],            
+"makesOffer": {
+    "@type": "Offer",
+    "itemOffered": {
+        "@type": "Service",
+        "name": "Psychotherapy",
+        "provider": {
+            "@type": "Person",
+            "name": "C. David Maxey",
+            "additionalName": "Charles David Maxey",
+            "givenName": "David",
+            "familyName": "Maxey",
+            "disambiguatingDescription": "C. David Maxey’s full name is Charles David Maxey, and he goes by David. Maxey is sometimes misspelled Maxcy, Maxi, Maxcey, Macksey, Maxe, or Maxie.",
+            "honorificSuffix": "M.A.",
+            "hasCredential": {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Licensed Independent Psychologist Associate",
+                "credentialCategory": "License",
+                "recognizedBy": {
+                    "@type": "Organization",
+                    "name": "Oregon Board of Psychology"}},
+            "image": "https://portlandpsychologicalservices.com/CDavidMaxey.jpg"},
+        "availableChannel": [
+            "In-Person",
+            "Zoom Call"]}},
+"foundingDate": "2018",
+"founder": {
+    "@type": "Person",
+    "name": "C. David Maxey",
+    "additionalName": "Charles David Maxey",
+    "givenName": "David",
+    "familyName": "Maxey",
+    "disambiguatingDescription": "C. David Maxey’s full name is Charles David Maxey, and he goes by David. Maxey is sometimes misspelled Maxcy, Maxi, Maxcey, Macksey, Maxe, or Maxie.",
+    "honorificSuffix": "M.A.",
+    "hasCredential": {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Licensed Independent Psychologist Associate",
+        "credentialCategory": "License",
+        "recognizedBy": {
+            "@type": "Organization",
+            "name": "Oregon Board of Psychology"}},
+    "image": "https://portlandpsychologicalservices.com/CDavidMaxey.jpg"},
+"currenciesAccepted": "USD",
+"paymentAccepted": "Cash, Credit Card",
+"openingHours": ["Mo-Th 16:00-18:00"]
+}</script>
+<title>Contact Portland Psychological Services</title>
+</head>
+<body>
+<div class="filler"></div>
+<nav id="bar">
+    <div class="menu" id="menu"><div>
+        <div><a class="logo" href="https://portlandpsychologicalservices.com/"><svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.16 52.16"><defs><clipPath id="logoclip"><path d="M-5.002-4.717h62.159v61.608H-5.002zM21.853 9.83c-.87-2.465-2.51-5.413-5.4-7.733-3.054-2.116-9.778 3.52-8.374 5.32 2.257 2.464 3.039 6.444 1.288 12.321l-.253.847C5.418 30.839 5.136 37.853 5.936 42.469c.295 1.426 2.927 4.057 2.945 3 .055-1.82.568-3.623 2.22-4.275 1.392-.546 3.495-.928 6.17-.096 0 0 3.464 1.589 4.264-1.767.07-.304.095-.17.102-.52.018-.845.546-2.446 1.468-2.878 0 0 1.582-1.132-.077-2.326 0 0 2.504-.578 1.245-2.333 0 0-.965-1.46.553-1.925 0 0 .884-.132 1.76-.87 0 0 .903-.87-.615-2.676-1.1-1.308-2.746-3.938-3.4-5.698-.305-.814.222-2.034.336-2.707 0 0 .496-2.327-.711-6.52-.095-.338-.21-.687-.343-1.048m25.47 6.081s-.348-.205-.746-.186c0 0-3.65-.107-3.784 6.342-.106 5.115-3.37 5.698-4.718 5.719v-6.659c0-4.71 2.468-4.024 2.468-4.024v-.738h-7.784v.738s2.467-.685 2.467 4.024v6.659c-1.172.03-4.82-.308-4.932-5.719-.134-6.45-3.785-6.342-3.785-6.342-.398-.02-.746.186-.746.186-.354.266.368.664.786 1.026.316.273.572.789.675 1.193.373 1.463.392 3.71.392 3.71.132 2.4 1.058 4.009 1.058 4.009 1.992 3.074 5.439 3.232 6.552 3.196v5.302c0 4.71-2.467 4.024-2.467 4.024v.739h7.784v-.739s-2.468.686-2.468-4.024V29.05c1.292.004 4.46-.304 6.337-3.2 0 0 .926-1.61 1.06-4.008 0 0 .017-2.248.39-3.711.104-.404.36-.92.675-1.193.418-.362 1.14-.76.786-1.026"/></clipPath></defs><g clip-path="url(#logoclip)"><path d="M-.001 26.088c0 14.25 11.676 25.803 26.08 25.803 14.402 0 26.078-11.553 26.078-25.803C52.157 11.836 40.481.283 26.078.283S-.002 11.836-.002 26.088" fill="#fff"/></g></svg><div class="FacultyGlyphic">Portland<br>Psychological<br>Services</div></a></div><!--
+        <a href="https://portlandpsychologicalservices.com/services/">Services</a>--><!--
+        <a href="https://portlandpsychologicalservices.com/faq/">FAQ</a>-->
+        <a class="wrapped" href="https://portlandpsychologicalservices.com/about/">About <br>David</a><!--
+        <a href="https://portlandpsychologicalservices.com/articles/">Articles</a>-->
+        <a class="wrapped" href="https://portlandpsychologicalservices.com/fees/">Fees & <br>Insurance</a>
+        <a class="active" href="#" onclick="menuFunction(false)">Contact</a>
+        <button type="button" onclick="menuFunction()"><div></div><div></div><div></div></button>
+    </div></div>
+    <div class="cta">
+        <svg width="16" height="16" id="inverted-radius-left"><style>#inverted-radius-left{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-left{fill:#1a237e;}}</style><path d="M16,16 L16,0 L0,0 A16,16 0 0,1 16,16 Z"/></svg>
+        <a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a Free Call</a>
+        <svg width="16" height="16" id="inverted-radius-right"><style>#inverted-radius-right{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-right{fill:#1a237e;}}</style><path d="M0,16 L0,0 L16,0 A16,16 0 0,0 0,16 Z"/></svg>
+    </div>
+</nav>
+<main><section>
+	<h1 class="center">Contact Information</h1>
+    <div id="basics">
+        <div class="phone-email">
+            <div class="center"><a rel="nofollow noreferrer" href="tel:+1-503-928-4182">+1<span>(</span>503<span>)</span>928-4182</a><div class="phone-with-voicemail">Phone with Voicemail</div></div>
+            <div class="bullet"><span>&bull;</span></div>
+            <div><a rel="nofollow noreferrer" href="mailto:info@portlandps.com">info@<span class="FacultyGlyphic">PortlandPS</span>.com</a></div>
+        </div>
+        <div class="zoom center"><a rel="nofollow noreferrer" href="https://zoom.portlandps.com/"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 83.729943 19.03792" height=".625em" id="zoom"><title>Zoom</title><g><path stroke-width="0" d="M17.55926,18.76068H2.58896c-1.05034,0-1.98877-.62706-2.39071-1.59744s-.18172-2.0774.561-2.81999L11.1286,3.97394H3.69668C1.65505,3.97394,0,2.31888,0,.27726h13.8059c1.05025,0,1.98864.62688,2.39062,1.59726.40202.97038.18195,2.07722-.56068,2.82017L5.26644,15.064h8.59614c2.04163,0,3.69668,1.65506,3.69668,3.69668ZM83.72992,7.20854C83.72992,3.2337,80.49618,0,76.52138,0,74.39524,0,72.48173.9258,71.16119,2.39481c-1.32055-1.46902-3.23406-2.39481-5.36019-2.39481-3.97479,0-7.20854,3.2337-7.20854,7.20854v11.55214c2.04162,0,3.69668-1.65506,3.69668-3.69668v-7.85546c0-1.93643,1.57542-3.51185,3.51185-3.51185s3.51185,1.57542,3.51185,3.51185v7.85546c0,2.04162,1.65506,3.69668,3.69668,3.69668V7.20854c0-1.93643,1.57542-3.51185,3.51185-3.51185s3.51185,1.57542,3.51185,3.51185v7.85546c0,2.04162,1.65506,3.69668,3.69668,3.69668V7.20854h.00004ZM56.74412,9.51896c0,5.25718-4.26178,9.51896-9.51896,9.51896s-9.51896-4.26178-9.51896-9.51896S41.96799,0,47.22516,0s9.51896,4.26178,9.51896,9.51896ZM53.04743,9.51896c0-3.21556-2.60672-5.82228-5.82228-5.82228s-5.82228,2.60672-5.82228,5.82228,2.60672,5.82228,5.82228,5.82228,5.82228-2.60672,5.82228-5.82228ZM36.22752,9.51896c0,5.25718-4.26178,9.51896-9.51896,9.51896s-9.51896-4.26178-9.51896-9.51896S21.45139,0,26.70856,0s9.51896,4.26178,9.51896,9.51896ZM32.53083,9.51896c0-3.21556-2.60672-5.82228-5.82228-5.82228s-5.82228,2.60672-5.82228,5.82228,2.60672,5.82228,5.82228,5.82228,5.82228-2.60672,5.82228-5.82228Z"/></g></svg>.<span class="FacultyGlyphic">PortlandPS</span>.com</a></div>
+    </div>
+    <div id="address"></div>
+    <div id="map"></div>
+    <div class="address center">
+        <div>
+            <div>6950 SW Hampton St Suite 207</div>
+        </div>
+        <div>
+            <svg width="8" height="8" id="inverted-radius-left"><style>#inverted-radius-left{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-left{fill:#1a237e;}}</style><path d="M8,8 L8,0 L0,0 A8,8 0 0,1 8,8 Z"/></svg>
+            <div>Portland, OR 97223</div>
+            <svg width="8" height="8" id="inverted-radius-right"><style>#inverted-radius-right{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-right{fill:#1a237e;}}</style><path d="M0,8 L0,0 L8,0 A8,8 0 0,0 0,8 Z"/></svg>
+        </div>
+    </div>
+    <div class="map">
+        <a rel="nofollow noreferrer" target="_blank" href="{{site.googlemaps.url}}" aria-label="Google Maps of 6950 SW Hampton St Ste 207, Portland, OR 97223"><img src="https://placecats.com/1280/1280" fetchpriority="high" height="1280" width="1280" alt="Google Maps for 6950 SW Hampton St Ste 207, Portland, OR 97223"></a><!--{{site.googlemaps.api}}{{site.googlemaps.center | url_encode | prepend: '?center='}}{{site.googlemaps.zoom | prepend: '&zoom='}}{{site.googlemaps.size | prepend: '&size='}}{{site.googlemaps.scale | prepend: '&scale='}}{{site.googlemaps.format | prepend: '&format='}}{{site.googlemaps.maptype | prepend: '&maptype='}}{{site.googlemaps.markers | url_encode | prepend: '&markers='}}{{site.googlemaps.key | prepend: '&key='}}{{site.googlemaps.signature | prepend: '&signature='}}-->
+    </div>
+    <div id="streetview"></div>
+    <div id="street"></div>
+    <div class="streetview-label center">
+        <div>Street View</div>
+    </div>
+    <div class="streetview">
+        <a rel="nofollow noreferrer" target="_blank" href="{{site.googlestreetview.url}}{{site.googlestreetview.v_viewpoint | url_encode | prepend: '&viewpoint='}}{{site.googlestreetview.h_heading | prepend: '&heading='}}{{site.googlestreetview.y_fov | prepend: '&fov='}}{{site.googlestreetview.pitch | prepend: '&pitch='}}" aria-label="Google Maps Streetview of 6950 SW Hampton St Ste 207, Portland, OR 97223"><img alt="Street View of 6950 SW Hampton St Ste 207, Portland, OR 97223" src="https://cda.vidmaxey.com/1080/street-view.jpg" fetchpriority="low" srcset="https://cda.vidmaxey.com/320/street-view.jpg 320w,https://cda.vidmaxey.com/640/street-view.jpg 640w,https://cda.vidmaxey.com/1280/street-view.jpg 1280w,https://cda.vidmaxey.com/1920/street-view.jpg 1920w" class="responsive" width="1920" height="1080"></a>
+	</div>
+    <div id="crisis"></div>
+    <h2 class="crisis center">Crisis Care <span>available all day and night</span></h2>
+    <div class="center">Call or text 988 nationwide. <br>In an emergency, call 911.</div>
+    <h3 class="crisis-local center">Portland-Area Crisis&nbsp;Services</h3>
+    <div class="crisis-local left">
+        <div>
+            <a class="center" rel="nofollow noreferrer" href="tel:+1-503-291-9111">503&#8209;291&#8209;9111</a>
+            <a rel="nofollow noreferrer" href="https://www.washingtoncountyor.gov/behavioral-health/crisis-services">Washington County</a>
+        </div>
+        <div>
+            <a class="center" rel="nofollow noreferrer" href="tel:+1-503-988-4888">503&#8209;988&#8209;4888</a>
+            <a rel="nofollow noreferrer" href="https://www.multco.us/behavioral-health/mental-health-crisis-intervention">Multnomah County</a>
+        </div>
+        <div>
+            <a class="center" rel="nofollow noreferrer" href="tel:+1-503-655-8585">503&#8209;655&#8209;8585</a>
+            <a rel="nofollow noreferrer" href="https://www.clackamas.us/behavioralhealth/urgentmentalhealth">Clackamas County</a>
+        </div>
+    </div>
+    <div id="social"></div>
+    <h2 class="social center">Policy on Social&nbsp;Settings</h2>
+    <p class="subtitle center">If You See Me Online or&nbsp;Around&nbsp;Town</p>
+    <p><i>Online social networks (like Facebook and Twitter) are neither professional contexts nor private ways to communicate. Therefore, I do not use them to interact with people I serve professionally.</i> If you happen to see me online, please do not contact, friend, or follow me in any way. If I am contacted, I will ignore, block, or not reply to that contact. If I discover that I have accidentally connected with you, I will cancel or block that connection. Please understand that <strong>I do not interact with you online to protect your child’s and family’s privacy</strong> and to maintain our professional relationship.</p>
+    <p><i>If I see you around town, I will act as if I don’t know you because you may not want to explain why you know me to others with you, with me, or nearby.</i> If you approach me, I will usually say a brief hello, but I urge you to consider whether that might be uncomfortable for your child or family. It is not a time for us to discuss professional matters. Please remember that <strong>unless you approach me, I will act as if I don’t know you</strong> to protect your child’s and family’s privacy.</p>
+    <p><i>Please do not write online reviews or post about me on your social networks.</i> Mental health providers cannot respond online because we are bound to protect confidentiality. Instead please contact me directly. Please appreciate that <strong>online reviews and posts pose risks to your child’s and family’s privacy now and in the future</strong> as information on the internet tends to live on forever and can be connected to you, even if you wish to remain anonymous.</p>
+</section></main>
+<footer>
+    <nav class="cta">
+        <svg width="16" height="16" id="inverted-radius-left"><style>#inverted-radius-left{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-left{fill:#1a237e;}}</style><path d="M16,0 L16,16 L0,16 A16,16 0 0,0 16,0 Z"/></svg>
+        <a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a Free Call</a>
+        <svg width="16" height="16" id="inverted-radius-right"><style>#inverted-radius-right{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-right{fill:#1a237e;}}</style><path d="M0,0 L0,16 L16,16 A16,16 0 0,1 0,0 Z"/></svg>
+    </nav>
+    <nav class="footer center"><div>
+        <div class="FacultyGlyphic">Portland Psychological&nbsp;Services</div>
+        <div class="phone-email"><a href="tel:+1-503-928-4182">+1<span>(</span>503<span>)</span>928-4182</a><br><span class="bullet">&bull;</span><a href="mailto:info@PortlandPS.com">info@PortlandPS.com</a></div>
+        <div class="notices-links"><a href="https://portlandpsychologicalservices.com/good-faith-estimate-notice/">Good&nbsp;Faith&nbsp;Estimate&nbsp;Notice</a><br><span class="bullet">&bull;</span><a href="https://portlandpsychologicalservices.com/notice/">Privacy&nbsp;Practices&nbsp;Notice</a></div>
+        <div id="copyright-notice">&copy;&nbsp;2025 <span class="FacultyGlyphic">Portland&nbsp;Psychological&nbsp;Services</span></div>
+    </div></nav>
+</footer>
+<script>function menuFunction(state){var x = document.getElementById("menu");x.classList.toggle("open",state);}</script>
+</body>
+</html>

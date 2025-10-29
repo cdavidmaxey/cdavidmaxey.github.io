@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noarchive">
+<style>
+    @font-face{font-family:"Faculty Glyphic";font-display:swap;font-style:normal;font-weight:400;src:url("https://portlandpsychologicalservices.com/FacultyGlyphic-PortlandPS.woff2")format("woff2")}
+    
+/* Fonts */    
+    body{font-family:-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",Arial,Helvetica,sans-serif}
+    .FacultyGlyphic{font-family:"Faculty Glyphic",sans-serif;font-weight:400;font-style:normal;font-optical-sizing:auto}
+    span.FacultyGlyphic{font-size:.95em}
+    .mono{font-family:"Lucida Sans Typewriter",Monaco,"Lucida Console",Consolas,monospace}
+    .bold{font-weight:bold}
+    .italic{font-style:italic}
+    .underline{text-decoration:underline}
+    .allcaps{text-transform:uppercase}
+
+/* light-dark Mode */
+    :root{color-scheme:light dark}
+    html{background-color:light-dark(#1a237e,#000)}
+    body{background-color:light-dark(#fff,#090b2a);color:light-dark(#000,#fff)}
+
+/* Link Color */
+    a{text-decoration:none;color:inherit}
+    main a{color:light-dark(#008000,#36f239)}
+    a:hover,label:hover{color:light-dark(#1a237e,#fff)}
+    nav#bar>.menu a:hover,footer>.footer a:hover{color:inherit}
+    
+/* Universal CSS */
+    html{overscroll-behavior:none;scroll-padding-top:calc(5.75rem + 16px + env(safe-area-inset-top))}
+    .responsive{width:100%;height:auto}
+    button{cursor:pointer;background:inherit;color:inherit;border:inherit}
+    .left{text-align:left}.center{text-align:center}.right{text-align:right}
+    .float-left{float:left}.float-right{float:right}
+
+/* Character Spacing */
+    a[href^="tel:"] span:first-child,.fax span:first-child{margin:0 0 0 .1875em}
+    a[href^="tel:"] span:last-child,.fax span:last-child{margin:0 .1875em 0 0}
+    span.slash{margin:0 .15em}
+
+/* main padding */
+    body{margin:0}
+    main{padding:0 max(16px,env(safe-area-inset-right)) 0 max(16px,env(safe-area-inset-left))}
+    main>section{margin:2.5rem auto 0;text-align:justify;line-height:1.25;container:clickable-main/inline-size;}
+    main>section>:last-child{margin-bottom:3rem}
+    .filler{position:sticky;top:0;background:#1a237e;height:env(safe-area-inset-top)}
+
+/* nav#bar */
+    nav#bar{position:sticky;z-index:10;top:env(safe-area-inset-top)}
+
+/* nav#bar>.menu */
+    nav#bar>.menu{background:#1a237e;color:#fff;padding:0 env(safe-area-inset-right) 0 env(safe-area-inset-left);}
+    nav#bar>.menu>div{display:flex;max-width:56.25rem;margin:0 auto;flex-wrap:wrap;container:clickable-nav/inline-size;}
+    nav#bar>.menu>div>*{text-decoration:none;line-height:0}
+
+/* nav#bar>.menu - :hover */
+    nav#bar>.menu>div:hover>div.active>a,
+    nav#bar>.menu>div:hover>a.active
+        {background:none}
+    nav#bar>.menu>div:hover>div.active>a:hover,
+    nav#bar>.menu>div:hover>a.active:hover,
+    nav#bar>.menu>div>div.active>a,
+    nav#bar>.menu>div>div>a:hover,
+    nav#bar>.menu>div>a.active,
+    nav#bar>.menu>div>a:hover,
+    nav#bar>.menu>div>button:hover        
+        {background:rgba(255,255,255,.1)}
+
+/* nav#bar>.menu>div>div */
+    nav#bar>.menu>div>div{order:1;padding:0;text-align:left}
+    nav#bar>.menu>div>div>a{display:inline-flex}
+    nav#bar>.menu>div>div>a>svg{height:2.625rem;width:2.625rem;padding:.25rem}
+    nav#bar>.menu>div>div>a>div{padding:.15625rem .5rem .15625rem .25rem;line-height:1.153846154;font-size:.8125rem} 
+
+/* nav#bar>.menu>div>a */
+    nav#bar>.menu>div>a{order:3;line-height:1;font-size:1rem;padding:1.0625rem 1rem;text-align:center}
+    nav#bar>.menu>div>a.wrapped{line-height:1.125;padding:.4375rem 1rem}
+
+/* nav#bar>.menu>div>button */
+    nav#bar>.menu>div>button{order:2;padding:.34375rem .625rem;line-height:0;display:none}
+    nav#bar>.menu>div>button>*{width:1.875rem;height:.3125rem;background-color:#fff;border-radius:.125rem;margin:.375rem 0;transition:.5s}
+    nav#bar .open button>:nth-child(1){transform:translate(0,.6875rem) rotate(-45deg)}
+    nav#bar .open button>:nth-child(2){opacity:0}
+    nav#bar .open button>:nth-child(3){transform:translate(0,-.6875rem) rotate(45deg)}
+    @container clickable-nav (width < 28.4375rem){
+        nav#bar>.menu>div{justify-content:space-between}
+        nav#bar>.menu.open>div{justify-content:space-evenly}
+        nav#bar>.menu>div>div{flex-basis:calc(100% - 3.125rem)}
+        nav#bar>.menu>div>a{flex-grow:1}
+        nav#bar>.menu:not(.open)>div>a{display:none}
+        nav#bar>.menu>div>button{display:block}}
+
+/* .cta (in nav#bar & footer) */
+    .cta{background:none;display:flex;justify-content:center}
+    .cta a{background:#1a237e;color:#fff;font-size:1.25rem;padding:.55em;line-height:1}
+    .cta a:hover{color:#36f239}
+    nav#bar>.cta{align-items:flex-start}
+     footer>.cta{align-items:flex-end}
+    nav#bar>.cta a{border-radius:0 0 .9375rem .9375rem}
+     footer>.cta a{border-radius:.9375rem .9375rem 0 0}
+
+/* h1 */
+    h1{font-size:2.5rem;font-weight:bold;line-height:1.15;margin:0 auto 3rem;color:light-dark(#1a237e,#fff)}
+
+/* main content */
+    main p{margin:0 auto 1.25em;max-width:43.75rem;font-size:1.125em}
+    main ul{margin:0 auto 1.25em;max-width:calc(43.75rem - 1.5rem);padding:0;padding-left:1.5rem}
+    p+ul{margin-top:-1rem}
+    li+li{margin-top:.25em}
+    ul{font-size:1.125em}
+    h2{font-size:1.5rem;font-weight:bold;margin:2em 0 .6666666666em}
+    h2 span{font-weight:normal;font-size:.875em}
+    
+/* .insurances */
+    .insurances{max-width:27.375rem;margin:0 auto 1.25em;font-size:1.125em;container:insurances/inline-size}
+    .insurances>div{display:flex;justify-content:space-between}
+    .insurances>div>*{height:calc(46cqw * 100 / 438);width:auto}
+    .insurances>div+div{margin-top:calc(25cqw * 100 / 438)}
+    
+/* .creditcards */
+    .creditcards{max-width:20rem;margin:0 auto 1.25em;font-size:1.125em;container:creditcards/inline-size}
+    .creditcards>div{display:flex;justify-content:space-between}
+    .creditcards>div>*{height:calc(46cqw * 100 / 320);width:auto}
+    .creditcards>div+div{margin-top:calc(25cqw * 100 / 320)}
+    .fsahsa{margin:-.8625em 0 1.40625rem;line-height:1.25;font-size:.833333rem}
+
+/* Zelle Logos */
+    #zelleemail{user-select:all}
+    .svg-zelle{cursor:text}
+    .svg-zelle svg{height:1.0625em;width:2.46em;margin-bottom:-.2em}
+    
+/* footer>.footer */
+    footer>.footer{font-size:.84375rem;background:#1a237e;color:#fff;padding:0 max(1rem,env(safe-area-inset-right)) env(safe-area-inset-bottom) max(1rem,env(safe-area-inset-left));}
+    footer>.footer>div{container:clickable-footer/inline-size;}
+    footer>.footer>div>div{line-height:2.185185185}
+    footer>.footer>div>div:first-child{font-size:1.25rem;line-height:1.15;padding:1.5rem 0 1rem}
+    footer>.footer a{padding:.15rem .3rem;margin:-.15rem -.3rem;border-radius:.25rem}
+    footer>.footer a:hover{background:rgba(255,255,255,.1)}
+
+/* .footer .bullet - <br><span class="bullet">&bull;</span> */
+    .footer .bullet{padding:0 .1875rem;display:none}
+    @container clickable-footer (width > 18.25rem){
+        .footer .phone-email br{display:none}
+        .footer .phone-email .bullet{display:inline}}
+    @container clickable-footer (width > 23rem){
+        .footer .notices-links br{display:none}
+        .footer .notices-links .bullet{display:inline}}
+</style>
+<link rel="canonical" href="https://portlandpsychologicalservices.com/fees/">
+<meta name="description" content="Clinical Psychology for Children, Teens and Young Adults in the Tigard Triangle near I-5 off 72nd Ave. at 217/Kruse Way or by Zoom Call">
+<meta name="author" content="C. David Maxey, M.A.">
+<link rel="author" href="https://portlandpsychologicalservices.com/humans.txt">
+<meta name="format-detection" content="telephone=no">    
+<link rel="icon" type="image/svg+xml" href="https://portlandpsychologicalservices.com/favicon.svg"/>
+<link rel="icon" type="image/png" href="https://portlandpsychologicalservices.com/favicon-96x96.png" sizes="96x96"/>
+<link rel="shortcut icon" href="https://portlandpsychologicalservices.com/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="180x180" href="https://portlandpsychologicalservices.com/apple-touch-icon.png"/>
+<meta name="apple-mobile-web-app-title" content="PortlandPS"/>
+<meta name="application-name" content="PortlandPS">
+<meta name="theme-color" content="#1a237e">
+<link rel="manifest" href="https://portlandpsychologicalservices.com/site.webmanifest"/>
+<title>Fees & Insurance | Portland Psychological Services</title>
+</head>
+<body>
+<nav id="bar">
+    <div class="menu" id="menu"><div>
+        <div><a class="logo" href="https://portlandpsychologicalservices.com/"><svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.16 52.16"><defs><clipPath id="logoclip"><path d="M-5.002-4.717h62.159v61.608H-5.002zM21.853 9.83c-.87-2.465-2.51-5.413-5.4-7.733-3.054-2.116-9.778 3.52-8.374 5.32 2.257 2.464 3.039 6.444 1.288 12.321l-.253.847C5.418 30.839 5.136 37.853 5.936 42.469c.295 1.426 2.927 4.057 2.945 3 .055-1.82.568-3.623 2.22-4.275 1.392-.546 3.495-.928 6.17-.096 0 0 3.464 1.589 4.264-1.767.07-.304.095-.17.102-.52.018-.845.546-2.446 1.468-2.878 0 0 1.582-1.132-.077-2.326 0 0 2.504-.578 1.245-2.333 0 0-.965-1.46.553-1.925 0 0 .884-.132 1.76-.87 0 0 .903-.87-.615-2.676-1.1-1.308-2.746-3.938-3.4-5.698-.305-.814.222-2.034.336-2.707 0 0 .496-2.327-.711-6.52-.095-.338-.21-.687-.343-1.048m25.47 6.081s-.348-.205-.746-.186c0 0-3.65-.107-3.784 6.342-.106 5.115-3.37 5.698-4.718 5.719v-6.659c0-4.71 2.468-4.024 2.468-4.024v-.738h-7.784v.738s2.467-.685 2.467 4.024v6.659c-1.172.03-4.82-.308-4.932-5.719-.134-6.45-3.785-6.342-3.785-6.342-.398-.02-.746.186-.746.186-.354.266.368.664.786 1.026.316.273.572.789.675 1.193.373 1.463.392 3.71.392 3.71.132 2.4 1.058 4.009 1.058 4.009 1.992 3.074 5.439 3.232 6.552 3.196v5.302c0 4.71-2.467 4.024-2.467 4.024v.739h7.784v-.739s-2.468.686-2.468-4.024V29.05c1.292.004 4.46-.304 6.337-3.2 0 0 .926-1.61 1.06-4.008 0 0 .017-2.248.39-3.711.104-.404.36-.92.675-1.193.418-.362 1.14-.76.786-1.026"/></clipPath></defs><g clip-path="url(#logoclip)"><path d="M-.001 26.088c0 14.25 11.676 25.803 26.08 25.803 14.402 0 26.078-11.553 26.078-25.803C52.157 11.836 40.481.283 26.078.283S-.002 11.836-.002 26.088" fill="#fff"/></g></svg><div class="FacultyGlyphic">Portland<br>Psychological<br>Services</div></a></div><!--
+        <a href="https://portlandpsychologicalservices.com/services/">Services</a>--><!--
+        <a href="https://portlandpsychologicalservices.com/faq/">FAQ</a>-->
+        <a class="wrapped" href="https://portlandpsychologicalservices.com/about/">About <br>David</a><!--
+        <a href="https://portlandpsychologicalservices.com/articles/">Articles</a>-->
+        <a class="active wrapped" href="#" onclick="menuFunction(false)">Fees & <br>Insurance</a>
+        <a href="https://portlandpsychologicalservices.com/contact/">Contact</a>
+        <button type="button" onclick="menuFunction()"><div></div><div></div><div></div></button>
+    </div></div>
+    <div class="cta">
+        <svg width="16" height="16" id="inverted-radius-left"><style>#inverted-radius-left{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-left{fill:#1a237e;}}</style><path d="M16,16 L16,0 L0,0 A16,16 0 0,1 16,16 Z"/></svg>
+        <a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a Free Call</a>
+        <svg width="16" height="16" id="inverted-radius-right"><style>#inverted-radius-right{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-right{fill:#1a237e;}}</style><path d="M0,16 L0,0 L16,0 A16,16 0 0,0 0,16 Z"/></svg>
+    </div>
+</nav>
+<main><section>
+    <h1 class="center">Fees & Insurance</h1>
+    <div id="insurance"></div>
+    <h2 class="center">In-Network Insurance</h2>
+    <p class="left"><span class="FacultyGlyphic">Portland Psychological Services</span> is in&#8209;network with the following insurance companies.</p>
+    <div class="insurances">
+        <div>
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 593.96 186.38" id="uhc"><style>#uhc{fill:#002677;}@media(prefers-color-scheme:dark){#uhc{fill:#fff;}}</style><title>United Healthcare</title><path d="M29.85,177.83h0a57.47,57.47,0,0,0,18.8,3.11c28.3,0,48-20.52,48-59.54V5.13L107.41,0V123.42c0,39.8-20.52,63-49.58,63A51.08,51.08,0,0,1,29.85,177.83ZM17.57,166h0c6.52,2.17,13.05,3.57,18.8,3.57,23.79,0,39.64-14.92,39.64-48.65V14L86.58,9V121.87c0,35.29-17.87,53.32-42.74,53.32C34.66,175.19,25.34,171.77,17.57,166ZM10.1,155.45h0a56.88,56.88,0,0,0,15.7,2.79c18.5,0,29.85-10.1,29.85-36.68V23l10.41-5V120c0,29.85-13.67,43.37-33.26,43.37A37,37,0,0,1,10.1,155.45Zm35.76-31.09V27.05L0,47.72v79c0,15.08,9.48,25.18,23.47,25.18S45.86,141.61,45.86,124.36Z"/><path d="M166.45,26.88V63.16c0,13.4,7.93,23.86,23.08,23.86,13,0,22.79-9.58,22.79-24.15v-35a7,7,0,0,1,6.85-7.24l1.36-.09V17.1H197.75v3.43l1.47.09a7,7,0,0,1,6.84,7.24V61.79c0,11.05-5.77,17.8-14.77,17.8s-14.47-7.14-14.47-17.89V26.88c0-3.81,2.05-6,6.36-6.26l1.37-.09V17.1H158.63v3.43l1.47.09C164.3,20.92,166.45,23,166.45,26.88Z"/><path d="M197.22,104.27l1.46.1c3.62.19,6.36,1.66,6.36,5.77v21.32H179.42V110.14c0-4.11,2.74-5.48,6.36-5.77l1.37-.1v-3.42H161.23v3.42l1.47.1c3.62.19,6.35,1.66,6.35,5.77V160c0,4.11-2.73,5.58-6.35,5.77l-1.47.1v3.42h25.92v-3.42l-1.37-.1c-3.62-.29-6.36-1.66-6.36-5.77V136.74H205V160c0,4.11-2.74,5.58-6.36,5.77l-1.46.1v3.42h25.91v-3.42l-1.37-.1c-3.61-.29-6.35-1.66-6.35-5.77V110.14c0-4.11,2.74-5.48,6.35-5.77l1.37-.1v-3.42H197.22Z"/><path d="M220.44,37.15v3.23l1.95.09c3,.2,4.89,1.67,4.89,5.77V76.37c0,4.1-2.05,5.57-5.38,5.76l-1.46.1v3.33h23.17V82.23l-1.37-.1c-3.32-.19-5.37-1.66-5.37-5.76v-16c.19-11.74,5.28-18.78,11.24-18.78,4.6,0,7.63,3.13,7.63,9.19V76.37c0,4.1-2.06,5.57-5.38,5.76l-1.47.1v3.33h23.18V82.23l-1.37-.1c-3.32-.19-5.38-1.66-5.38-5.76V49.67c0-7.63-4.69-14-14-14-6.55,0-12.23,3.92-14.47,10.86V35.88Z"/><path d="M354.21,86.54c9.88,0,15.46-6.75,17.71-14.38L367.71,71c-2,5.28-5.38,9.38-12.22,9.38-7.92,0-13.3-7.53-13.3-19.46H372.6V58.08c0-12.62-7.43-22.79-19.36-22.79-12.81,0-21.32,12.23-21.32,25.62S340.13,86.54,354.21,86.54Zm-1.07-45.67c5.38,0,8.8,5,9.19,15.25H342.38C343.36,46.64,347.27,40.87,353.14,40.87Z"/><path d="M306.1,74.6c0,7.63,4.6,11.94,11.93,11.94,6.85,0,11.35-5,13.4-12.13l-3.52-1c-1.37,4.11-3.62,6.65-6.75,6.65-4.11,0-5.48-3-5.48-6.55V41.84h13.4V36.76h-13.4V21.7H310.8c-1.86,11.34-7.63,15.45-13.7,16.72v3.42h9Z"/><path d="M285.57,28a6.46,6.46,0,0,0,0-12.91,6.32,6.32,0,0,0-6.26,6.36A6.37,6.37,0,0,0,285.57,28Z"/><path d="M281.07,46.24V76.37c0,4.1-2.06,5.57-5.38,5.76l-1.47.1v3.33H297.4V82.23l-1.37-.1c-3.33-.19-5.38-1.66-5.38-5.76V35.88l-16.92,1.27v3.23l2.45.09C279.21,40.57,281.07,42.14,281.07,46.24Z"/><path d="M397.54,86.54c6.45,0,11.44-3.33,13.59-9v8h16.33V82.23l-1.37-.1c-3.32-.19-5.38-1.66-5.38-5.76V15.83L404.09,17.3v3.23l2.15.09c3,.1,4.89,1.67,4.89,5.77V44c-2.15-5.48-7.14-8.71-13.59-8.71-12.82,0-20.05,12.23-20.05,25.62S384.72,86.54,397.54,86.54Zm1.66-45.67c7.23,0,11.93,7.82,11.93,20s-4.7,20-11.93,20c-6.85,0-11.35-7.72-11.35-20S392.35,40.87,399.2,40.87Z"/><path d="M543.11,119.23c-5.67,0-10.56,3.72-12.71,10.37v-10L514,120.9v3.22l1.95.1c3,.2,4.89,1.66,4.89,5.77v30.12c0,4.11-2,5.57-5.38,5.77L514,166v3.32h23.17V166l-1.37-.1c-3.32-.2-5.37-1.66-5.37-5.77V143.68c.19-12.22,5.47-19.85,11.93-19.85a3.92,3.92,0,0,1,3.22,1.27,5.08,5.08,0,0,0-2.73,4.6,5.21,5.21,0,0,0,5.18,5.18c2.84,0,5.18-2.35,5.18-5.67C553.18,123.05,548.59,119.23,543.11,119.23Z"/><path d="M574.6,119c-12.81,0-21.32,12.22-21.32,25.62s8.21,25.62,22.3,25.62c9.87,0,15.45-6.75,17.7-14.37l-4.21-1.18c-2,5.28-5.38,9.39-12.22,9.39-7.92,0-13.3-7.53-13.3-19.46H594v-2.84C594,129.21,586.53,119,574.6,119Zm-10.86,20.83c1-9.49,4.89-15.26,10.76-15.26,5.38,0,8.8,5,9.19,15.26Z"/><path d="M505.65,161.19V135.66c0-10.46-6.55-16.62-17.6-16.62-9.48,0-17.89,6.26-17.89,13.4a5.18,5.18,0,1,0,10.36.19,5.27,5.27,0,0,0-2.64-4.59c1.76-2.45,4.89-3.92,8.7-3.92,6,0,9.59,4.5,9.59,12v2.25l-14.48,6c-9.68,4-13,7.53-13,13.88,0,7.34,5.28,12,13.59,12a14.79,14.79,0,0,0,13.79-9.58v1.47c0,5,3.52,8,9.39,8a20.28,20.28,0,0,0,6.16-.88V166C507.51,166.47,505.65,164.9,505.65,161.19Zm-9.58-11.05c-.49,8.6-4.79,14.37-10.76,14.37-4.3,0-7-2.93-7-7.43,0-4,2.15-7.14,6.26-8.9L496.17,143Z"/><path d="M368.35,157.18c-1.37,4.1-3.61,6.65-6.74,6.65-4.11,0-5.48-3-5.48-6.55V125.59h13.4V120.5h-13.4V105.44h-4.89c-1.86,11.35-7.63,15.46-13.69,16.73v3.42h9v32.76c0,7.63,4.59,11.93,11.93,11.93,6.84,0,11.34-5,13.39-12.13Z"/><path d="M306.35,161.19V135.66c0-10.46-6.55-16.62-17.6-16.62-9.48,0-17.89,6.26-17.89,13.4a5.18,5.18,0,1,0,10.36.19,5.3,5.3,0,0,0-2.64-4.59c1.76-2.45,4.89-3.92,8.7-3.92,6,0,9.59,4.5,9.59,12v2.25l-14.48,6c-9.68,4-13,7.53-13,13.88,0,7.34,5.28,12,13.59,12a14.79,14.79,0,0,0,13.79-9.58v1.47c0,5,3.52,8,9.39,8a20.28,20.28,0,0,0,6.16-.88V166C308.21,166.47,306.35,164.9,306.35,161.19Zm-9.58-11.05c-.49,8.6-4.79,14.37-10.76,14.37-4.3,0-7-2.93-7-7.43,0-4,2.15-7.14,6.26-8.9L296.87,143Z"/><path d="M449.23,164.12c-7.92,0-13.3-7.53-13.3-19.46,0-12.13,5.28-19.85,13.2-19.85,3.52,0,6.26,1.17,7.92,3.32a5.42,5.42,0,0,0-2.44,4.5,5.21,5.21,0,0,0,5.18,5.18c2.93,0,5.18-2.34,5.18-5.67,0-5.87-5.86-13.1-16.33-13.1-14.57,0-23,12.22-23,25.62s8.21,25.62,22.3,25.62c9.68,0,15.15-6.45,17.31-13.79l-4.21-1.27C459.2,160.21,455.88,164.12,449.23,164.12Z"/><path d="M331.1,160.11V99.58L314.47,101v3.23l2.15.1c3,.1,4.89,1.66,4.89,5.77v50c0,4.11-2.05,5.57-5.38,5.77l-1.46.1v3.32h23.17V166l-1.37-.1C333.15,165.68,331.1,164.22,331.1,160.11Z"/><path d="M416.76,160.11v-26.7c0-7.62-4.69-14-14-14-6.56,0-12.23,3.91-14.48,10.85V99.58L371.68,101v3.23l2.15.1c3,.1,4.89,1.66,4.89,5.77v50c0,4.11-2.05,5.57-5.38,5.77l-1.47.1v3.32h23.18V166l-1.37-.1c-3.32-.2-5.38-1.66-5.38-5.77v-16c.2-11.73,5.28-18.77,11.25-18.77,4.6,0,7.63,3.13,7.63,9.19v25.62c0,4.11-2.06,5.57-5.38,5.77l-1.47.1v3.32h23.18V166l-1.37-.1C418.81,165.68,416.76,164.22,416.76,160.11Z"/><path d="M246.31,119C233.5,119,225,131.26,225,144.66s8.22,25.62,22.3,25.62c9.88,0,15.45-6.75,17.7-14.37l-4.21-1.18c-1.95,5.28-5.38,9.39-12.22,9.39-7.92,0-13.3-7.53-13.3-19.46h30.41v-2.84C265.67,129.21,258.24,119,246.31,119Zm-10.85,20.83c1-9.49,4.88-15.26,10.75-15.26,5.38,0,8.8,5,9.19,15.26Z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 708 205.2" id="optum"><style>#optum{fill:#ff612b;}@media(prefers-color-scheme:dark){#optum{fill:#fff;}}</style><title>Optum</title><path d="M526.3,158.6V38.5h38.1l0.2,14.3c7.6-11,18.8-16.1,31.8-16.1c16.4,0,28,7.6,34.3,19.5c7.6-13,22-19.5,36.7-19.5 c26.2,0,40.6,19.7,40.6,44.6v77.3h-38.8V87.2c0-11.7-7.4-18.6-16.4-18.6s-16.4,6.9-16.4,18.6v71.5h-38.8V87.2 c0-11.7-7.4-18.6-16.4-18.6c-9,0-16.4,6.9-16.4,18.6v71.5H526.3z M513.3,112.9c0,30.9-24.6,48.4-56,48.4c-31.4,0-56-17.5-56-48.4 V38.5h39v73.3c0,10.5,6.9,17.3,17,17.3s17-6.7,17-17.3V38.5h39V112.9z M390.7,69.5V38.5h-32V7.8h-38.8v107.8 c0,29.8,17.7,44.8,46.2,44.8c8.3,0,17-0.9,24.6-4v-30.7c-5.6,1.8-10.5,2.5-14.8,2.5c-10.3,0-17.3-4.7-17.3-15.7v-43H390.7z M270.9,98.6c0,17.3-12.5,30-28,30c-15.7,0-28.2-12.8-28.2-30c0-17,12.5-29.8,28.2-29.8C258.3,68.8,270.9,81.6,270.9,98.6z M214.6,205.2v-59.1c9.9,9.2,22.9,14.6,37.2,14.6c32.5,0,58-27.6,58-62.1c0-34.3-25.5-61.8-58-61.8c-15,0-28.2,5.8-38.3,15.7 l-0.2-13.9h-37.6v166.7H214.6z M122.8,80.2c0,24.6-18.1,43-40.8,43s-40.8-18.4-40.8-43c0-24.6,18.1-43,40.8-43 S122.8,55.6,122.8,80.2z M82,0C36.1,0,0,35.6,0,80.2s36.1,80.2,82,80.2c45.9,0,82-35.6,82-80.2S127.9,0,82,0z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="135 165.4 483.011 255.6" id="umr"><style>#umr-line{fill:#6abd48;}#umr-letters{fill:#2d383e;}@media(prefers-color-scheme:dark){#umr-line,#umr-letters{fill:#fff;}}</style><title>UMR</title><path id="umr-line" d="M149.6,368.7L135,404.9c144.3-50.9,450.9-108.4,471.3,16.1C645,350.3,610.3,280.3,149.6,368.7"/><path id="umr-letters" d="M576.8,295.1c-17.3-19.1-26.9-44-31.4-52.8c-0.8-1.6-1.8-3.5-2.5-4.8c16-6.3,28.6-17.7,28.6-36.8 c0-12.8-6.5-22.5-15.1-27.9c-8.4-5.4-20.4-7.4-37.2-7.4H397.9l-31,79.9c-0.8,2.1-2.1,2.8-2.8,2.8c-1.3,0-2.2-2.6-2.2-2.6 c-11.2-26.7-22.9-53.1-33.3-80.1h-98.8l0,8.4c14.2,0.6,19,3.4,19,11c0,20.4,0,78.6,0,78.6c0,35.7-6.7,53.4-28.7,53.4 c-19.2,0-30.5-14.4-30-46.6v-72.4c0-23.4,1.7-22.7,15.9-24v-8.4h-69.4v8.4c15.1,1.3,16.8,2.8,16.8,26.2v72.8 c0,25.3,5.6,39.4,16.5,49.3c10.2,9.3,23.6,14.4,40.6,14.3c15.1-0.1,31.5-5.8,41-16.2c12.1-13.4,15.8-33.1,15.8-51.7 c0,0,0-75.7,0-82.7c0-5.8,2-11,9.9-11.6c1.1-0.1,2.8-0.1,4.9,0.1c7.6,1.3,8.9,5.9,8.8,17.2c-0.3,24,0,90.8,0,108.3 c-0.1,4.8-0.6,8-2.4,10.2c-2.4,2.6-6.7,3.5-11.5,4.1l-0.6,11.7c15.8-2.4,31.3-4.4,45.8-6.3v-9.6c-13.2-0.4-13-4.2-13-10.6 c0-2.7,0.1-93.1,0.1-93.1c0-0.7-0.1-1.7,0.8-2.1c0.7-0.3,1.6-0.1,1.9,0.5c0,0,38.5,101.6,38.5,101.6c3.8-0.5,7.9-1,11.5-1.4 l37.7-99.1c0,0,0.5-1.6,1.8-1.7c0.6,0,1.7,0.5,1.7,2.1c0,0,0,77.7,0,81.3c0,10-1.5,12.9-13,14v10.2c20.9-2,40-3.3,57.5-4.1v-9 c-9.8-1.2-12.6-3.6-12.6-16.9c0-2.7,0-87.4,0-89.4c0-11.7,2.4-15,8-16.9c6.1-1.6,12.3-1.3,14.7-0.9c7.5,1.4,11.7,3.5,11.5,21 c0,0,0,79.3,0,80.8c0,16.8-1.8,20.7-12.3,21.9v8.8c23.4-0.8,43.8-0.5,61.3,0.7l-0.5-9.5c-1.5-0.1-4.2-0.5-4.2-0.5 c-9.9-1.5-11.7-6.3-11.7-26.4v-26h3.3c4.1,0,8.3,3.2,10.2,7.8c5.4,12.1,15.7,30.7,22.2,40c8.6,12.6,17.2,23,46.8,25l5.6,0.1v-15.2 C585.8,301.7,580.5,299.2,576.8,295.1 M523.4,229.7c-3.9,2.6-8.7,3.5-14.9,3.6h0c-0.8,0-6.3,0-6.3,0v-47.8c0-8.6,1.2-10.4,11-10.4 c9.1,0,23.8,8.1,23.8,28.7C537,214.3,533,222.8,523.4,229.7z"/></svg>
+        </div>
+    </div>
+    <p>If you have a different insurance, you can receive a receipt (sometimes called a “superbill”) that you can submit to your insurance to use your out&#8209;of&#8209;network benefits.</p>
+    <div id="fees"></div>
+    <h2 class="center">Fees & Insurance</h2>
+    <p>Fees for psychotherapy are $275 for the first appointment and $175 for regular 45&#8209;minute appointments. When using in&#8209;network insurance, the contracted rates may be slightly lower and can be reviewed with you upon request.</p>
+    <ul>
+        <li>When using in&#8209;network insurance, claims will be submitted to your insurance for you.</li>
+        <li>When using out&#8209;of&#8209;network insurance, you can send your insurance a specific type of receipt called a “superbill” that can provide to you upon request&mdash;it includes all the information insurance companies typically need to reimburse you (e.g., dates of service, billing codes, etc.).</li>
+        <li>If you <i>don’t have insurance or you are not using insurance</i>, you have the right to receive a <a href="https://portlandpsychologicalservices.com/good-faith-estimate-notice/">“Good Faith Estimate”</a> explaining how much your health care will cost.</li>
+    </ul>
+    <h2 class="center">Payment</h2>
+    <p>Payment is required at the time of service for psychotherapy appointments and prior to evaluations.</p>
+    <div class="creditcards">
+        <div>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -100 1000 524.68" id="visa-logo"><style>#visa-logo{fill:#1434cb;}@media(prefers-color-scheme:dark){#visa-logo{fill:#fff;}}</style><title>Visa</title><path d="m651.19.5c-70.93,0-134.32,36.77-134.32,104.69,0,77.9,112.42,83.28,112.42,122.42,0,16.48-18.88,31.23-51.14,31.23-45.77,0-79.98-20.61-79.98-20.61l-14.64,68.55s39.41,17.41,91.73,17.41c77.55,0,138.58-38.57,138.58-107.66,0-82.32-112.89-87.54-112.89-123.86,0-12.91,15.5-27.05,47.66-27.05,36.29,0,65.89,14.99,65.89,14.99l14.33-66.2S696.61.5,651.18.5h0ZM2.22,5.5L.5,15.49s29.84,5.46,56.72,16.36c34.61,12.49,37.07,19.77,42.9,42.35l63.51,244.83h85.14L379.93,5.5h-84.94l-84.28,213.17-34.39-180.7c-3.15-20.68-19.13-32.48-38.68-32.48,0,0-135.41,0-135.41,0Zm411.87,0l-66.63,313.53h81L494.85,5.5h-80.76Zm451.76,0c-19.53,0-29.88,10.46-37.47,28.73l-118.67,284.8h84.94l16.43-47.47h103.48l9.99,47.47h74.95L934.12,5.5h-68.27Zm11.05,84.71l25.18,117.65h-67.45l42.28-117.65h0Z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="25.92 0 116.48 106.44" id="mastercard"><style>@media(prefers-color-scheme:light){#mastercard-letters{fill:#000;}}</style><title>Mastercard</title><path id="mastercard-bg" d="M0 0h168.32v106.44H0z" fill="none"/><path id="mastercard-letters" fill="#fff" d="M47 97.55v-6a3.49 3.49 0 00-3.68-3.78 3.71 3.71 0 00-3.36 1.7 3.52 3.52 0 00-3.16-1.7 3.27 3.27 0 00-2.88 1.4V88h-1.97v9.57h1.94v-5.5a2.3 2.3 0 012.42-2.54c1.38 0 2.16.9 2.16 2.52v5.51h1.94v-5.49a2.31 2.31 0 012.42-2.54c1.42 0 2.18.9 2.18 2.52v5.51zM78.16 88h-3.48v-2.9h-1.95V88h-2v1.74h2v4.53c0 2.22.78 3.54 3.24 3.54a4.89 4.89 0 002.6-.74l-.6-1.7a3.84 3.84 0 01-1.84.54c-1 0-1.46-.64-1.46-1.6v-4.59h3.48zm17.76-.24a3 3 0 00-2.6 1.4V88h-1.9v9.57h1.92v-5.4c0-1.58.76-2.6 2.12-2.6a3.39 3.39 0 011.3.24L97.4 88a4.45 4.45 0 00-1.48-.26zm-26.85 1a7.16 7.16 0 00-3.9-1c-2.42 0-3.9 1.14-3.9 3 0 1.56 1.08 2.5 3.22 2.8l1 .14c1.14.16 1.76.56 1.76 1.1 0 .74-.84 1.22-2.26 1.22a5 5 0 01-3.18-1l-1 1.5a7.14 7.14 0 004.14 1.24c2.76 0 4.29-1.28 4.29-3.1s-1.17-2.51-3.24-2.81l-1-.14c-.9-.12-1.7-.4-1.7-1s.76-1.18 1.9-1.18a6.17 6.17 0 013 .82zm29 4a4.77 4.77 0 005 5 5 5 0 003.44-1.14l-1-1.5a4.21 4.21 0 01-2.5.86c-3.93-.378-3.93-6.112 0-6.49a4.21 4.21 0 012.5.86l1-1.5a5 5 0 00-3.44-1.14 4.77 4.77 0 00-5 5zm-13.46-5c-2.8 0-4.73 2-4.73 5a4.71 4.71 0 004.87 5 5.82 5.82 0 003.92-1.34l-1-1.42a4.56 4.56 0 01-2.78 1A2.81 2.81 0 0182 93.55h7.15v-.8c0-3-1.82-5-4.51-5zm0 1.78a2.44 2.44 0 012.52 2.42H82a2.56 2.56 0 012.64-2.42zM58.7 92.77V88h-1.92v1.16a3.79 3.79 0 00-3.1-1.4c-6.7 0-6.7 10.05 0 10.05a3.79 3.79 0 003.1-1.4v1.16h1.92zm-7.75 0a3 3 0 013-3.24c3.93.378 3.93 6.112 0 6.49a3 3 0 01-3-3.24zm73.89-5a3 3 0 00-2.6 1.4V88h-1.9v9.57h1.92v-5.4c0-1.58.76-2.6 2.12-2.6a3.39 3.39 0 011.3.24l.64-1.8a4.45 4.45 0 00-1.48-.26zm-7.37 5.02V88h-1.92v1.16a3.79 3.79 0 00-3.1-1.4c-6.7 0-6.7 10.05 0 10.05a3.79 3.79 0 003.1-1.4v1.16h1.92zm-7.75 0a3 3 0 013-3.24c3.93.378 3.93 6.112 0 6.49a3 3 0 01-3-3.24zm27.07 0v-8.65h-1.92v5a3.79 3.79 0 00-3.1-1.4c-6.7 0-6.7 10.05 0 10.05a3.79 3.79 0 003.1-1.4v1.16h1.92zm-7.75 0a3 3 0 013-3.24c3.709.57 3.675 5.925-.04 6.45a3 3 0 01-3-3.23z"/><path fill="#ff5f00" d="M68.41 15.14h31.5v56.61h-31.5z"/><path d="M70.41 43.45a35.94 35.94 0 0113.75-28.3 36 36 0 100 56.61 35.94 35.94 0 01-13.75-28.31z" fill="#eb001b"/><path d="M142.41 43.45a36 36 0 01-58.25 28.3 36 36 0 000-56.61 36 36 0 0158.25 28.3z" fill="#f79e1b"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.4 42.4" id="amex"><style>#amex{fill:#006fcf;}@media(prefers-color-scheme:dark){#amex{fill:#fff;}}</style><title>American Express</title><path d="M34.8 10.4l1.4-3.7h6.2V0H0v42.4h42.4v-6.7h-5.9l-2.2-2.6-2.2 2.5H15.5V22.3H10l6.9-15.5h6.7l1.6 3.5V6.8h8.3zm-4.6 2.5v-1.5l.6 1.5 2.8 7.4h2.6l2.8-7.4.5-1.5v8.8h2.9V8.9h-4.8l-2.2 5.7-.6 1.6-.6-1.6L32 8.9h-4.8v11.2h3zM24 20.1h3.3l-5-11.3h-3.9l-5 11.3h3.3l.9-2.2h5.5zm-4.2-7.4l.6-1.4.6 1.4 1.2 2.9h-3.5zm-2 9.6v11.3h9.4v-2.5h-6.6v-2H27v-2.4h-6.4v-2h6.6v-2.4zm20 11.1h3.7l-5.3-5.6 5.3-5.6h-3.7l-3.4 3.7-3.4-3.7h-3.8l5.3 5.7-5.3 5.6h3.6l3.4-3.7zm1.4-5.5l3.2 3.3v-6.5z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121.46 77.68" id="discover"><title>Discover</title><path d="M1.333 4.001v69.675A2.67 2.67 0 004 76.342h73.976c20.713 0 37.504-16.79 37.504-37.503 0-20.714-16.79-37.504-37.504-37.504H4A2.67 2.67 0 001.333 4" fill="#fff"/><path d="M14.109 42.81c-1.012.914-2.326 1.313-4.405 1.313h-.865V33.208h.865c2.079 0 3.341.372 4.405 1.335 1.114.992 1.782 2.526 1.782 4.108 0 1.585-.668 3.169-1.782 4.16zm-3.76-12.4H5.621v16.507h4.7c2.5 0 4.306-.589 5.89-1.906 1.883-1.559 2.996-3.907 2.996-6.335 0-4.872-3.639-8.265-8.86-8.265M20.69 46.917h3.22V30.411h-3.22v16.506M31.782 36.745c-1.933-.716-2.5-1.186-2.5-2.078 0-1.04 1.011-1.83 2.399-1.83.965 0 1.757.396 2.596 1.338l1.685-2.207c-1.385-1.21-3.041-1.83-4.85-1.83-2.92 0-5.148 2.029-5.148 4.73 0 2.273 1.037 3.437 4.061 4.525 1.26.446 1.901.742 2.225.942.643.418.966 1.013.966 1.706 0 1.338-1.064 2.328-2.5 2.328-1.535 0-2.773-.766-3.514-2.2l-2.08 2.002c1.483 2.177 3.264 3.142 5.714 3.142 3.346 0 5.694-2.224 5.694-5.418 0-2.624-1.085-3.811-4.748-5.15M37.545 38.676c0 4.85 3.81 8.612 8.712 8.612 1.386 0 2.572-.272 4.036-.96v-3.79c-1.287 1.287-2.427 1.806-3.887 1.806-3.242 0-5.543-2.35-5.543-5.693 0-3.168 2.374-5.668 5.394-5.668 1.535 0 2.699.548 4.036 1.857v-3.788c-1.413-.717-2.575-1.013-3.96-1.013-4.877 0-8.788 3.837-8.788 8.637M75.82 41.497l-4.402-11.086h-3.516l7.004 16.93h1.733l7.13-16.93h-3.49L75.82 41.497M85.224 46.917h9.131v-2.794h-5.913v-4.456h5.694V36.87h-5.694v-3.663h5.913v-2.797h-9.131v16.506M100.644 38.01h-.941v-5h.99c2.007 0 3.097.84 3.097 2.447 0 1.66-1.09 2.554-3.146 2.554zm6.46-2.726c0-3.09-2.13-4.873-5.843-4.873h-4.774v16.506h3.216v-6.63h.42l4.457 6.63h3.959l-5.197-6.954c2.426-.494 3.762-2.151 3.762-4.679M109.057 31.475h-.06v-.38h.063c.172 0 .262.061.262.186 0 .13-.091.194-.265.194zm.613-.198c0-.29-.201-.449-.552-.449h-.467v1.455h.346v-.564l.408.564h.425l-.479-.6c.204-.055.319-.204.319-.406" fill="#231f20"/><path d="M109.182 32.596c-.556 0-1.01-.464-1.01-1.041 0-.58.45-1.043 1.01-1.043.554 0 1.005.473 1.005 1.043 0 .572-.45 1.041-1.005 1.041zm.005-2.312c-.706 0-1.267.564-1.267 1.268 0 .705.567 1.27 1.267 1.27.689 0 1.254-.571 1.254-1.27 0-.695-.565-1.268-1.254-1.268" fill="#231f20"/><path d="M68.818 38.647a8.74 8.74 0 01-17.48 0 8.74 8.74 0 1117.48 0" fill="#f36719"/><path d="M115.48 38.839c0 20.713-16.79 37.503-37.504 37.503H4a2.67 2.67 0 01-2.667-2.666V4A2.67 2.67 0 014 1.335h73.976c20.713 0 37.504 16.79 37.504 37.504zM117.456 0H4a4 4 0 00-4 4v69.675a4 4 0 004 4h113.456a4 4 0 004-4V4a4 4 0 00-4-4" fill="#f36719"/></svg>
+        </div>
+    </div>
+    <div class="center fsahsa"><a rel="nofollow noreferrer" target="_blank" href="https://www.healthcare.gov/glossary/flexible-spending-account-fsa/" title="Flexible Spending Account (FSA)">FSA</a> and <a rel="nofollow noreferrer" target="_blank" href="https://www.healthcare.gov/glossary/health-savings-account-hsa/" title="Health Savings Account (HSA)">HSA</a> cards may be accepted for&nbsp;some&nbsp;fees.</div>
+    <p>Keeping a credit card stored on file is required. Card payments are accepted for the first and regular appointments with an additional $5 convenience fee, which can be avoided by paying at the time of service with cash, check, or <span class="svg-zelle"><svg viewBox="0 0 718.975 310.5" version="1.1" xmlns="http://www.w3.org/2000/svg" id="svg-zelle"><style>#svg-zelle{fill:#6d1ed4;}@media(prefers-color-scheme:dark){#svg-zelle{fill:#fff;}}</style><title>Zelle</title><path d="M 70,43 4.273,42.395 V 86 H 113.2 L 0,231.1 V 268 h 70 v 42.5 h 42 V 268 h 71.4 c 0.6,-1.7 0.81,-6.284 -2.99,-10.484 -6.3,-7 -11.31,-14.316 -15.91,-23.516 -2.1,-4.1 -3.695,-9.01 -4.295,-9.41 -14.06,-0.645 -94.949,-0.478 -94.905,-0.99 L 178.6,77.61 V 43 H 112 V 0 H 70 Z M 373.3,22.7 c -1,0.4 -1.3,22.5 -1.3,106.2 0,113.1 -0.1,111.2 4.9,120.9 4.5,8.7 15.5,16.5 27.8,19.7 6.8,1.8 26.8,2 34.5,0.4 9.9,-2.1 11.8,-5.1 7.9,-12.8 -2.5,-4.8 -5.8,-15.3 -6.6,-21.1 -1.1,-6.9 -2.5,-8 -10.9,-7.8 -4,0.1 -7.8,-0.2 -8.5,-0.6 C 417,225 417,224.3 417,123 c 0,-65.1 -0.3,-97.8 -1,-99.1 -1,-1.8 -2.3,-1.9 -21.3,-1.8 -11.1,0 -20.8,0.3 -21.4,0.6 z M 465,23 c -1.3,0.8 -1.5,13.6 -1.5,105.2 0,98.7 0.1,104.7 1.9,111.6 3.4,13.6 11.1,21.9 25.7,28 5.6,2.3 8.1,2.7 19.4,3 15.1,0.4 22.8,-0.7 30.5,-4.6 7.6,-3.7 7.8,-6.3 1.3,-15.8 -2.6,-3.8 -6.6,-10.3 -8.8,-14.4 l -4,-7.5 -7.3,-0.1 c -9.1,-0.2 -10,-0.6 -11.7,-4.9 C 509.2,220.6 509,205.7 509,123 509,57.9 508.7,25.2 508,23.9 507,22.1 505.7,22 486.7,22 475.6,22 465.8,22.5 465,23 Z"/><path d="m 247.5,85.5 c -0.5,0.2 -4.4,1.1 -8.5,2 -25.7,5.9 -48.4,25.6 -58,50.6 -5.3,13.8 -7.2,24.5 -7.3,40.4 -0.1,22.3 4.4,38.7 14.7,54.3 11.6,17.5 28.6,29.4 50.6,35.4 7.5,2 10.8,2.3 28,2.3 17,0 20.5,-0.3 27.6,-2.2 17.6,-4.9 32.6,-13 44.7,-24.5 7.7,-7.2 7.6,-9.2 -0.2,-15.2 -3.2,-2.5 -9,-7.9 -12.8,-12.1 -4.8,-5.1 -7.7,-7.5 -9.2,-7.5 -1.4,0 -4.6,2 -7.7,5 -10.7,9.7 -24.2,14.3 -41.9,14.2 -16.2,-0.1 -28,-4.3 -35.5,-12.9 -3.8,-4.3 -8.6,-14.1 -9.6,-19.6 l -0.6,-3.7 h 62.3 c 34.3,0 63,-0.4 63.7,-0.9 3.3,-2.1 4.1,-16.6 1.7,-32.4 -5.7,-37.8 -28.3,-63.2 -63.8,-71.7 -6.3,-1.5 -11.5,-2 -22.7,-1.9 -8,0 -14.9,0.2 -15.5,0.4 z m 26.7,38.6 c 7.3,1.5 16.3,6.5 20.5,11.3 3.9,4.4 7.9,12.3 8.9,17.4 l 0.7,3.2 h -81.5 l 0.7,-3.2 c 3,-13.5 14.6,-24.8 29,-28.4 6.4,-1.6 15,-1.7 21.7,-0.3 z M 611,86.4 c -35.5,7.9 -59.5,32.9 -67,69.8 -4.5,21.8 -2,47.2 6.5,65.4 11.6,25.2 32.7,41.5 61.5,47.4 9.1,1.9 12.7,2.1 27,1.7 12.1,-0.4 18.6,-1.1 24.2,-2.6 17.1,-4.5 32.1,-12.7 43.6,-23.7 8.8,-8.5 8.8,-8.9 -0.7,-16.8 -4.4,-3.6 -10.3,-9.3 -13.1,-12.6 -6.5,-7.5 -8.2,-7.6 -15.5,-1 -10.9,9.9 -23.9,14.3 -42,14.2 -25.4,-0.1 -40.2,-11 -45,-33 l -0.7,-2.595 h 126.7 c 4.3,-3.1 2.7,-35.905 -2.5,-51.105 -1,-3 -3.7,-9 -5.9,-13.2 C 696.4,105.9 677.7,92 651.7,86.5 643.4,84.7 618.9,84.7 611,86.4 Z m 31.2,37.7 c 6.8,1.5 13.8,5 18.8,9.5 4.2,3.9 11,16.2 11,20 v 2.4 h -81.2 l 0.7,-2.8 c 5.2,-21.4 27.2,-34.1 50.7,-29.1 z"/></svg></span> (<i>sent through your bank’s app</i> to <span id="zelleemail">info@<span class='FacultyGlyphic'>PortlandPS</span>.com</span>).</p>
+</section></main>
+<footer>
+    <nav class="cta">
+        <svg width="16" height="16" id="inverted-radius-left"><style>#inverted-radius-left{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-left{fill:#1a237e;}}</style><path d="M16,0 L16,16 L0,16 A16,16 0 0,0 16,0 Z"/></svg>
+        <a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a Free Call</a>
+        <svg width="16" height="16" id="inverted-radius-right"><style>#inverted-radius-right{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-right{fill:#1a237e;}}</style><path d="M0,0 L0,16 L16,16 A16,16 0 0,1 0,0 Z"/></svg>
+    </nav>
+    <nav class="footer center"><div>
+        <div class="FacultyGlyphic">Portland Psychological&nbsp;Services</div>
+        <div class="phone-email"><a href="tel:+1-503-928-4182">+1<span>(</span>503<span>)</span>928-4182</a><br><span class="bullet">&bull;</span><a href="mailto:info@PortlandPS.com">info@PortlandPS.com</a></div>
+        <div class="notices-links"><a href="https://portlandpsychologicalservices.com/good-faith-estimate-notice/">Good&nbsp;Faith&nbsp;Estimate&nbsp;Notice</a><br><span class="bullet">&bull;</span><a href="https://portlandpsychologicalservices.com/notice/">Privacy&nbsp;Practices&nbsp;Notice</a></div>
+        <div id="copyright-notice">&copy;&nbsp;2025 <span class="FacultyGlyphic">Portland&nbsp;Psychological&nbsp;Services</span></div>
+    </div></nav>
+</footer>
+<script>function menuFunction(state){var x = document.getElementById("menu");x.classList.toggle("open",state);}</script>
+</body>
+</html>
