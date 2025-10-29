@@ -101,16 +101,15 @@
         nav#bar>.menu>div>button{display:block}}
 
 /* .cta (in nav#bar & footer) */
-    .cta{background:none;text-align:center}
-    .cta>*{display:inline-block;line-height:0}
+    .cta{background:none;display:flex;overflow:hidden;justify-content:center}
     .cta a{background:#1a237e;color:#fff;font-size:1.25rem;padding:.55em;line-height:1}
     .cta a:hover{color:#36f239}
-    nav#bar>.cta>*{vertical-align:top}
-     footer>.cta>*{vertical-align:bottom}
+    nav#bar>.cta{align-items:start}
+     footer>.cta{align-items:end}
     nav#bar>.cta a{border-radius:0 0 .9375rem .9375rem}
      footer>.cta a{border-radius:.9375rem .9375rem 0 0}
-    [class^="inverted-radius-"]{height:1rem;width:auto;fill:#1a237e}
-    
+    [class^="inverted-radius-"]{width:1rem;height:auto;fill:#1a237e}
+
 /* h1 */
     h1{font-size:2.5rem;font-weight:normal;line-height:1.15;margin:0 auto 3rem}
     h1+.subtitle{font-size:1.125rem;margin:-2rem auto 3rem;line-height:1.2}
@@ -282,7 +281,9 @@
         <button type="button" onclick="menuFunction()"><div></div><div></div><div></div></button>
     </div></div>
     <div class="cta">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-top-left"><path d="M16,16 L16,0 L0,0 A16,16 0 0,1 16,16 Z"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a Free Call</a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-top-right"><path d="M0,16 L0,0 L16,0 A16,16 0 0,0 0,16 Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-top-left"><path d="M16,16 L16,0 L0,0 A16,16 0 0,1 16,16 Z"/></svg>
+        <a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a Free Call</a>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-top-right"><path d="M0,16 L0,0 L16,0 A16,16 0 0,0 0,16 Z"/></svg>
     </div>
 </nav>
 <main><div>
@@ -322,7 +323,9 @@
 </div></main>
 <footer>
     <nav class="cta">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-bottom-left"><path d="M16,0 L16,16 L0,16 A16,16 0 0,0 16,0 Z"/></svg><a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a Free Call</a><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-bottom-right"><path d="M0,0 L0,16 L16,16 A16,16 0 0,1 0,0 Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-bottom-left"><path d="M16,0 L16,16 L0,16 A16,16 0 0,0 16,0 Z"/></svg>
+        <a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a Free Call</a>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-bottom-right"><path d="M0,0 L0,16 L16,16 A16,16 0 0,1 0,0 Z"/></svg>
     </nav>
     <nav class="footer center"><div>
         <div class="FacultyGlyphic">Portland Psychological&nbsp;Services</div>
