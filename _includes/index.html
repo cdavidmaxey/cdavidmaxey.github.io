@@ -34,7 +34,7 @@
     nav#bar>.menu a:hover,footer>.footer a:hover{color:inherit}
     
 /* Universal CSS */
-    html{overscroll-behavior:none;-moz-text-size-adjust:none;-webkit-text-size-adjust:none;text-size-adjust:none;scroll-padding-top:calc(5.75rem + 16px + env(safe-area-inset-top))}
+    html{overscroll-behavior:none;-moz-text-size-adjust:none;-webkit-text-size-adjust:none;text-size-adjust:none;scroll-padding-top:calc(5.75rem + 16px + max(0,env(safe-area-inset-top)))}
     .responsive{width:100%;height:auto}
     button{cursor:pointer;background:inherit;color:inherit;border:inherit}
     .left{text-align:left}.center{text-align:center}.right{text-align:right}
@@ -50,17 +50,16 @@
     main{padding:0 max(16px,env(safe-area-inset-right)) 0 max(16px,env(safe-area-inset-left))}
     main>section{margin:2.5rem auto 0;text-align:justify;line-height:1.25;container:clickable-main/inline-size;}
     main>section>:last-child{margin-bottom:3rem}
-    .filler{position:sticky;top:0;background:#1a237e;height:env(safe-area-inset-top)}
 
 /* header */
     header{background:light-dark(#1a237e,#1a237e);line-height:0}
     header>div{margin:0 auto;max-width:87.375rem}
 
 /* nav#bar */
-    nav#bar{position:sticky;z-index:10;top:env(safe-area-inset-top)}
+    nav#bar{position:sticky;z-index:10;top:max(0,env(safe-area-inset-top))}
 
 /* nav#bar>.menu */
-    nav#bar>.menu{background:#1a237e;color:#fff;padding:0 env(safe-area-inset-right) 0 env(safe-area-inset-left);}
+    nav#bar>.menu{background:#1a237e;color:#fff;padding:0 max(0,env(safe-area-inset-right)) 0 max(0,env(safe-area-inset-left));}
     nav#bar>.menu>div{display:flex;max-width:56.25rem;margin:0 auto;flex-wrap:wrap;container:clickable-nav/inline-size;}
     nav#bar>.menu>div>*{text-decoration:none;line-height:0}
 
@@ -149,7 +148,7 @@
     #zoom{cursor:text;margin-bottom:-.05em;padding-right:.0625em}
     
 /* footer>.footer */
-    footer>.footer{font-size:.84375rem;background:#1a237e;color:#fff;padding:0 max(1rem,env(safe-area-inset-right)) env(safe-area-inset-bottom) max(1rem,env(safe-area-inset-left));}
+    footer>.footer{font-size:.84375rem;background:#1a237e;color:#fff;padding:0 max(1rem,env(safe-area-inset-right)) max(0,env(safe-area-inset-bottom)) max(1rem,env(safe-area-inset-left));}
     footer>.footer>div{container:clickable-footer/inline-size;}
     footer>.footer>div>div{line-height:2.185185185}
     footer>.footer>div>div:first-child{font-size:1.25rem;line-height:1.15;padding:1.5rem 0 1rem}
