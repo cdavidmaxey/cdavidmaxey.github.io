@@ -48,8 +48,8 @@
 
 /* main padding */
     main{margin:-5rem 0;padding:5rem max(16px,env(safe-area-inset-right,0)) 5rem max(16px,env(safe-area-inset-left,0))}
-    main>section{margin:2.5rem auto 0;text-align:justify;line-height:1.25;container:clickable-main/inline-size;}
-    main>section>:last-child{margin-bottom:3rem}
+    main>div{margin:2.5rem auto 0;text-align:justify;line-height:1.25;container:clickable-main/inline-size;}
+    main>div>:last-child{margin-bottom:3rem}
 
 /* header */
     header{background:light-dark(#1a237e,#1a237e);line-height:0}
@@ -101,7 +101,7 @@
         nav#bar>.menu>div>button{display:block}}
 
 /* .cta (in nav#bar & footer) */
-    .cta{background:none;display:flex;justify-content:center;line-height:0}
+    .cta{background:none;display:flex;justify-content:center}
     .cta a{background:#1a237e;color:#fff;font-size:1.25rem;padding:.55em;line-height:1}
     .cta a:hover{color:#36f239}
     nav#bar>.cta{align-items:start}
@@ -148,6 +148,7 @@
     #zoom{cursor:text;margin-bottom:-.05em;padding-right:.0625em}
     
 /* footer>.footer */
+    footer{z-index:10}
     footer>.footer{font-size:.84375rem;background:#1a237e;color:#fff;padding:0 max(1rem,env(safe-area-inset-right,0)) env(safe-area-inset-bottom,0) max(1rem,env(safe-area-inset-left,0));}
     footer>.footer>div{container:clickable-footer/inline-size;}
     footer>.footer>div>div{line-height:2.185185185}
@@ -283,7 +284,7 @@
         <svg width="16" height="16" id="inverted-radius-right"><style>#inverted-radius-right{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-right{fill:#1a237e;}}</style><path d="M0,16 L0,0 L16,0 A16,16 0 0,0 0,16 Z"/></svg>
     </div>
 </nav>
-<main><section>
+<main><div>
     <h1 class="FacultyGlyphic center">Portland <br>Psychological <br>Services</h1>
     <div class="subtitle center">for Children, Teens &&nbsp;Young&nbsp;Adults<br>(approximately ages&nbsp;4&nbsp;to&nbsp;25)</div>
     <div class="providedby center">Services Provided By</div>
@@ -317,12 +318,12 @@
     <h2 class="center">Prioritizing Skill‑Building &&nbsp;Improvements <br><span>To Get&nbsp;Your&nbsp;Child Out&nbsp;of&nbsp;Therapy</span></h2>
     <p>Therapy and psychological evaluation can be great investments in your child’s future, particularly when the goal is building skills to put your child on a path to thriving and no longer needing therapy. I definitely get to know my clients well, but we’re not deeply exploring your child’s inner self for years and years&mdash;there are people who can do that with your child; that’s just not me.</p>
     <p><a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a free call</a> to get started.</p>
-</section></main>
+</div></main>
 <footer>
     <nav class="cta">
         <svg width="16" height="16" id="inverted-radius-left"><style>#inverted-radius-left{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-left{fill:#1a237e;}}</style><path d="M16,0 L16,16 L0,16 A16,16 0 0,0 16,0 Z"/></svg>
         <a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a Free Call</a>
-        <svg width="16" height="16" id="inverted-radius-right"><style>#inverted-radius-right{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-right{fill:#1a237e;}}</style><path stroke="none" d="M0,0 L0,16 L16,16 A16,16 0 0,1 0,0 Z"/></svg></nav>
+        <svg width="16" height="16" id="inverted-radius-right"><style>#inverted-radius-right{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-right{fill:#1a237e;}}</style><path d="M0,0 L0,16 L16,16 A16,16 0 0,1 0,0 Z"/></svg></nav>
     <nav class="footer center"><div>
         <div class="FacultyGlyphic">Portland Psychological&nbsp;Services</div>
         <div class="phone-email"><a href="tel:+1-503-928-4182">+1<span>(</span>503<span>)</span>928-4182</a><br><span class="bullet">&bull;</span><a href="mailto:info@PortlandPS.com">info@PortlandPS.com</a></div>

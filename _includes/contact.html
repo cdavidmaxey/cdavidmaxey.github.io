@@ -47,8 +47,8 @@
 /* main padding */
     body{margin:0}
     main{margin:-2.625rem 0;padding:2.625rem max(16px,env(safe-area-inset-right,0)) 2.625rem max(16px,env(safe-area-inset-left,0))}
-    main>section{margin:2.5rem auto 0;text-align:justify;line-height:1.25;container:clickable-main/inline-size;}
-    main>section>:last-child{margin-bottom:3rem}
+    main>div{margin:2.5rem auto 0;text-align:justify;line-height:1.25;container:clickable-main/inline-size;}
+    main>div>:last-child{margin-bottom:3rem}
 
 /* nav#bar */
     nav#bar{position:sticky;z-index:10;top:0;top:env(safe-area-inset-top,0)}
@@ -96,8 +96,8 @@
         nav#bar>.menu>div>button{display:block}}
 
 /* .cta (in nav#bar & footer) */
-    .cta{background:none;display:flex;justify-content:center;line-height:1}
-    .cta a{background:#1a237e;color:#fff;font-size:1.25rem;padding:.55em}
+    .cta{background:none;display:flex;justify-content:center}
+    .cta a{background:#1a237e;color:#fff;font-size:1.25rem;padding:.55em;line-height:1}
     .cta a:hover{color:#36f239}
     nav#bar>.cta{align-items:flex-start}
      footer>.cta{align-items:flex-end}
@@ -291,7 +291,7 @@
         <svg width="16" height="16" id="inverted-radius-right"><style>#inverted-radius-right{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-right{fill:#1a237e;}}</style><path d="M0,16 L0,0 L16,0 A16,16 0 0,0 0,16 Z"/></svg>
     </div>
 </nav>
-<main><section>
+<main><div>
 	<h1 class="center">Contact Information</h1>
     <div id="basics">
         <div class="phone-email">
@@ -348,7 +348,7 @@
     <p><i>Online social networks (like Facebook and Twitter) are neither professional contexts nor private ways to communicate. Therefore, I do not use them to interact with people I serve professionally.</i> If you happen to see me online, please do not contact, friend, or follow me in any way. If I am contacted, I will ignore, block, or not reply to that contact. If I discover that I have accidentally connected with you, I will cancel or block that connection. Please understand that <strong>I do not interact with you online to protect your child’s and family’s privacy</strong> and to maintain our professional relationship.</p>
     <p><i>If I see you around town, I will act as if I don’t know you because you may not want to explain why you know me to others with you, with me, or nearby.</i> If you approach me, I will usually say a brief hello, but I urge you to consider whether that might be uncomfortable for your child or family. It is not a time for us to discuss professional matters. Please remember that <strong>unless you approach me, I will act as if I don’t know you</strong> to protect your child’s and family’s privacy.</p>
     <p><i>Please do not write online reviews or post about me on your social networks.</i> Mental health providers cannot respond online because we are bound to protect confidentiality. Instead please contact me directly. Please appreciate that <strong>online reviews and posts pose risks to your child’s and family’s privacy now and in the future</strong> as information on the internet tends to live on forever and can be connected to you, even if you wish to remain anonymous.</p>
-</section></main>
+</div></main>
 <footer>
     <nav class="cta">
         <svg width="16" height="16" id="inverted-radius-left"><style>#inverted-radius-left{fill:#1a237e;}@media(prefers-color-scheme:dark){#inverted-radius-left{fill:#1a237e;}}</style><path d="M16,0 L16,16 L0,16 A16,16 0 0,0 16,0 Z"/></svg>
