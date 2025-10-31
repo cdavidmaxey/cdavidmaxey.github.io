@@ -30,7 +30,7 @@
     a{text-decoration:none;color:inherit}
     main a{color:light-dark(#008000,#36f239)}
     a:hover,label:hover{color:light-dark(#1a237e,#fff)}
-    nav#bar>.menu a:hover,footer>.footer a:hover{color:inherit}
+    #bar>.menu a:hover,footer>.footer a:hover{color:inherit}
     
 /* Universal CSS */
     html{overscroll-behavior:none;-moz-text-size-adjust:none;-webkit-text-size-adjust:none;text-size-adjust:none;scroll-padding-top:calc(5.75rem + 16px + env(safe-area-inset-top,0))}
@@ -52,60 +52,60 @@
 
 /* header */
     header{background:light-dark(#1a237e,#1a237e);line-height:0}
-    header>div{margin:0 auto;max-width:87.375rem}
+    header>div{margin:0 auto;max-width:122.8125rem;container:header/inline-size}
 
-/* nav#bar */
-    nav#bar{position:sticky;z-index:10;top:0;top:env(safe-area-inset-top,0)}
+/* #bar */
+    #bar{position:sticky;z-index:10;top:0;top:env(safe-area-inset-top,0)}
 
-/* nav#bar>.menu */
-    nav#bar>.menu{background:#1a237e;color:#fff;padding:0 env(safe-area-inset-right,0) 0 env(safe-area-inset-left,0);}
-    nav#bar>.menu>div{display:flex;max-width:56.25rem;margin:0 auto;flex-wrap:wrap;container:clickable-nav/inline-size;}
-    nav#bar>.menu>div>*{text-decoration:none;line-height:0}
+/* #bar>.menu */
+    #bar>.menu{background:#1a237e;color:#fff;padding:0 env(safe-area-inset-right,0) 0 env(safe-area-inset-left,0);}
+    #bar>.menu>div{display:flex;max-width:56.25rem;margin:0 auto;flex-wrap:wrap;container:clickable-nav/inline-size;}
+    #bar>.menu>div>*{text-decoration:none;line-height:0}
 
-/* nav#bar>.menu - :hover */
-    nav#bar>.menu>div:hover>div.active>a,
-    nav#bar>.menu>div:hover>a.active
+/* #bar>.menu - :hover */
+    #bar>.menu>div:hover>div.active>a,
+    #bar>.menu>div:hover>a.active
         {background:none}
-    nav#bar>.menu>div:hover>div.active>a:hover,
-    nav#bar>.menu>div:hover>a.active:hover,
-    nav#bar>.menu>div>div.active>a,
-    nav#bar>.menu>div>div>a:hover,
-    nav#bar>.menu>div>a.active,
-    nav#bar>.menu>div>a:hover,
-    nav#bar>.menu>div>button:hover        
+    #bar>.menu>div:hover>div.active>a:hover,
+    #bar>.menu>div:hover>a.active:hover,
+    #bar>.menu>div>div.active>a,
+    #bar>.menu>div>div>a:hover,
+    #bar>.menu>div>a.active,
+    #bar>.menu>div>a:hover,
+    #bar>.menu>div>button:hover        
         {background:rgba(255,255,255,.1)}
 
-/* nav#bar>.menu>div>div */
-    nav#bar>.menu>div>div{order:1;padding:0;text-align:left}
-    nav#bar>.menu>div>div>a{display:inline-flex}
-    nav#bar>.menu>div>div>a>svg{height:2.625rem;width:2.625rem;padding:.25rem}
-    nav#bar>.menu>div>div>a>div{padding:.15625rem .5rem .15625rem .25rem;line-height:1.153846154;font-size:.8125rem} 
+/* #bar>.menu>div>div */
+    #bar>.menu>div>div{order:1;padding:0;text-align:left}
+    #bar>.menu>div>div>a{display:inline-flex}
+    #bar>.menu>div>div>a>svg{height:2.625rem;width:2.625rem;padding:.25rem}
+    #bar>.menu>div>div>a>div{padding:.15625rem .5rem .15625rem .25rem;line-height:1.153846154;font-size:.8125rem} 
 
-/* nav#bar>.menu>div>a */
-    nav#bar>.menu>div>a{order:3;line-height:1;font-size:1rem;padding:1.0625rem 1rem;text-align:center}
-    nav#bar>.menu>div>a.wrapped{line-height:1.125;padding:.4375rem 1rem}
+/* #bar>.menu>div>a */
+    #bar>.menu>div>a{order:3;line-height:1;font-size:1rem;padding:1.0625rem 1rem;text-align:center}
+    #bar>.menu>div>a.wrapped{line-height:1.125;padding:.4375rem 1rem}
 
-/* nav#bar>.menu>div>button */
-    nav#bar>.menu>div>button{order:2;padding:.34375rem .625rem;line-height:0;display:none}
-    nav#bar>.menu>div>button>*{width:1.875rem;height:.3125rem;background-color:#fff;border-radius:.125rem;margin:.375rem 0;transition:.5s}
-    nav#bar .open button>:nth-child(1){transform:translate(0,.6875rem) rotate(-45deg)}
-    nav#bar .open button>:nth-child(2){opacity:0}
-    nav#bar .open button>:nth-child(3){transform:translate(0,-.6875rem) rotate(45deg)}
+/* #bar>.menu>div>button */
+    #bar>.menu>div>button{order:2;padding:.34375rem .625rem;line-height:0;display:none}
+    #bar>.menu>div>button>*{width:1.875rem;height:.3125rem;background-color:#fff;border-radius:.125rem;margin:.375rem 0;transition:.5s}
+    #bar .open button>:nth-child(1){transform:translate(0,.6875rem) rotate(-45deg)}
+    #bar .open button>:nth-child(2){opacity:0}
+    #bar .open button>:nth-child(3){transform:translate(0,-.6875rem) rotate(45deg)}
     @container clickable-nav (width < 28.4375rem){
-        nav#bar>.menu>div{justify-content:space-between}
-        nav#bar>.menu.open>div{justify-content:space-evenly}
-        nav#bar>.menu>div>div{flex-basis:calc(100% - 3.125rem)}
-        nav#bar>.menu>div>a{flex-grow:1}
-        nav#bar>.menu:not(.open)>div>a{display:none}
-        nav#bar>.menu>div>button{display:block}}
+        #bar>.menu>div{justify-content:space-between}
+        #bar>.menu.open>div{justify-content:space-evenly}
+        #bar>.menu>div>div{flex-basis:calc(100% - 3.125rem)}
+        #bar>.menu>div>a{flex-grow:1}
+        #bar>.menu:not(.open)>div>a{display:none}
+        #bar>.menu>div>button{display:block}}
 
-/* .cta (in nav#bar & footer) */
+/* .cta (in #bar & footer) */
     .cta{background:none;display:flex;justify-content:center}
     .cta a{background:#1a237e;color:#fff;font-size:1.25rem;padding:.55em;line-height:1}
     .cta a:hover{color:#36f239}
-    nav#bar>.cta{align-items:start}
+    #bar>.cta{align-items:start}
      footer>.cta{align-items:end}
-    nav#bar>.cta a{border-radius:0 0 .9375rem .9375rem}
+    #bar>.cta a{border-radius:0 0 .9375rem .9375rem}
      footer>.cta a{border-radius:.9375rem .9375rem 0 0}
     [class^="inverted-radius-"]{width:1rem;height:auto;fill:#1a237e}
 
@@ -182,8 +182,8 @@
 <title>C. David Maxey, M.A., Licensed Independent Psychologist Associate</title>
 </head>
 <body>
-<header><div><img alt="Office of C. David Maxey, M.A." src="https://cda.vidmaxey.com/covers/1398/office.jpg" fetchpriority="high" width="3495" height="1354" class="responsive" sizes="(max-width:87.375rem) 100vw,87.375rem" srcset="https://cda.vidmaxey.com/covers/768/office.jpg 768w,https://cda.vidmaxey.com/covers/1398/office.jpg 1398w,https://cda.vidmaxey.com/covers/2304/office.jpg 2304w,https://cda.vidmaxey.com/covers/2796/office.jpg 2796w,https://cda.vidmaxey.com/covers/3495/office.jpg 3495w"></div></header>
-<nav id="bar">
+<header><div><img alt="Office of C. David Maxey, M.A." src="https://cda.vidmaxey.com/covers/1280/office.jpg" fetchpriority="high" width="1280" height="512" class="responsive" sizes="100cqw" srcset="https://cda.vidmaxey.com/covers/320/office.jpg 320w,https://cda.vidmaxey.com/covers/640/office.jpg 640w,https://cda.vidmaxey.com/covers/1280/office.jpg 1280w,https://cda.vidmaxey.com/covers/1920/office.jpg 1920w,https://cda.vidmaxey.com/covers/2560/office.jpg 2560w,https://cda.vidmaxey.com/covers/3840/office.jpg 3840w,https://cda.vidmaxey.com/covers/3930/office.jpg 3930w"></div></header>
+<nav role="navigation" id="bar">
     <div class="menu" id="menu"><div>
         <div><a class="logo" href="https://portlandpsychologicalservices.com/"><svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.16 52.16"><defs><clipPath id="logoclip"><path d="M-5.002-4.717h62.159v61.608H-5.002zM21.853 9.83c-.87-2.465-2.51-5.413-5.4-7.733-3.054-2.116-9.778 3.52-8.374 5.32 2.257 2.464 3.039 6.444 1.288 12.321l-.253.847C5.418 30.839 5.136 37.853 5.936 42.469c.295 1.426 2.927 4.057 2.945 3 .055-1.82.568-3.623 2.22-4.275 1.392-.546 3.495-.928 6.17-.096 0 0 3.464 1.589 4.264-1.767.07-.304.095-.17.102-.52.018-.845.546-2.446 1.468-2.878 0 0 1.582-1.132-.077-2.326 0 0 2.504-.578 1.245-2.333 0 0-.965-1.46.553-1.925 0 0 .884-.132 1.76-.87 0 0 .903-.87-.615-2.676-1.1-1.308-2.746-3.938-3.4-5.698-.305-.814.222-2.034.336-2.707 0 0 .496-2.327-.711-6.52-.095-.338-.21-.687-.343-1.048m25.47 6.081s-.348-.205-.746-.186c0 0-3.65-.107-3.784 6.342-.106 5.115-3.37 5.698-4.718 5.719v-6.659c0-4.71 2.468-4.024 2.468-4.024v-.738h-7.784v.738s2.467-.685 2.467 4.024v6.659c-1.172.03-4.82-.308-4.932-5.719-.134-6.45-3.785-6.342-3.785-6.342-.398-.02-.746.186-.746.186-.354.266.368.664.786 1.026.316.273.572.789.675 1.193.373 1.463.392 3.71.392 3.71.132 2.4 1.058 4.009 1.058 4.009 1.992 3.074 5.439 3.232 6.552 3.196v5.302c0 4.71-2.467 4.024-2.467 4.024v.739h7.784v-.739s-2.468.686-2.468-4.024V29.05c1.292.004 4.46-.304 6.337-3.2 0 0 .926-1.61 1.06-4.008 0 0 .017-2.248.39-3.711.104-.404.36-.92.675-1.193.418-.362 1.14-.76.786-1.026"/></clipPath></defs><g clip-path="url(#logoclip)"><path d="M-.001 26.088c0 14.25 11.676 25.803 26.08 25.803 14.402 0 26.078-11.553 26.078-25.803C52.157 11.836 40.481.283 26.078.283S-.002 11.836-.002 26.088" fill="#fff"/></g></svg><div class="FacultyGlyphic">Portland<br>Psychological<br>Services</div></a></div><!--
         <a href="https://portlandpsychologicalservices.com/services/">Services</a>--><!--
@@ -192,7 +192,7 @@
         <a href="https://portlandpsychologicalservices.com/articles/">Articles</a>-->
         <a class="wrapped" href="https://portlandpsychologicalservices.com/fees/">Fees & <br>Insurance</a>
         <a href="https://portlandpsychologicalservices.com/contact/">Contact</a>
-        <button type="button" onclick="menuFunction()"><div></div><div></div><div></div></button>
+        <button type="button" aria-label="Menu" id="menubutton" onclick="menuFunction()"><div></div><div></div><div></div></button>
     </div></div>
     <div class="cta">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-top-left"><path d="M16,16 L16,0 L0,0 A16,16 0 0,1 16,16 Z"/></svg>
