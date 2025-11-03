@@ -10,7 +10,7 @@
     @font-face{font-family:"Roboto Condensed";font-style:italic;font-weight:450;font-display:swap;src:url(https://portlandpsychologicalservices.com/Roboto-Condensed-450-Italic-subset.woff2)format('woff2');}
 
 /* Fonts */    
-    body{font-family:-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",Arial,Helvetica,sans-serif;font-weight:normal;font-style:normal;font-optical-sizing:auto}
+    body{font-family:-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,Helvetica,sans-serif;font-weight:normal;font-style:normal;font-optical-sizing:auto}
     .FacultyGlyphic{font-family:"Faculty Glyphic",sans-serif;font-weight:400;font-style:normal;font-optical-sizing:auto}
     span.FacultyGlyphic{font-size:.95em}
     .tangerine{font-family:"Tangerine",sans-serif;font-weight:700;font-style:normal;font-optical-sizing:auto}
@@ -35,18 +35,21 @@
 /* Universal CSS */
     html{overscroll-behavior:none;-moz-text-size-adjust:none;-webkit-text-size-adjust:none;text-size-adjust:none;scroll-padding-top:calc(5.75rem + 16px + env(safe-area-inset-top,0))}
     .responsive{width:100%;height:auto}
+    html,body{margin:0}
     button{cursor:pointer;background:inherit;color:inherit;border:inherit}
     .left{text-align:left}.center{text-align:center}.right{text-align:right}
     .float-left{float:left}.float-right{float:right}
 
 /* Character Spacing */
-    a[href^="tel:"] span:first-child,.fax span:first-child{margin:0 0 0 .1875em}
-    a[href^="tel:"] span:last-child,.fax span:last-child{margin:0 .1875em 0 0}
+    a[href^="tel:"]{user-select:all}
+    a[href^="tel:"] span:first-child{margin:0 .1875em}
+    a[href^="tel:"] span:first-child::before{content:"("}
+    a[href^="tel:"] span:first-child::after {content:")"}
+    a[href^="tel:"] span:last-child::after  {content:"‑"}
     span.slash{margin:0 .15em}
 
 /* main padding */
-    body{margin:0}
-    main{margin:-2.625rem 0;padding:2.625rem max(16px,env(safe-area-inset-right,0)) 2.625rem max(16px,env(safe-area-inset-left,0))}
+    main{position:relative;margin:-2.625rem 0;padding:2.625rem max(16px,env(safe-area-inset-right,0)) 2.625rem max(16px,env(safe-area-inset-left,0))}
     main>div{margin:2.5rem auto 0;text-align:justify;line-height:1.25;container:clickable-main/inline-size;}
     main>div>:last-child{margin-bottom:3rem}
 
@@ -132,7 +135,6 @@
     p.headline{font-size:1.375rem;margin-bottom:4rem}
 
 /* main content */
-    main{position:relative}
     h2{font-size:1.5rem;font-weight:bold;margin:2em 0 .6666666666em}
     h2 span{font-weight:normal;font-size:.875em}
     main p,
@@ -241,15 +243,15 @@
     <nav class="cta">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-bottom-left"><path d="M16,0 L16,16 L0,16 A16,16 0 0,0 16,0 Z"/></svg>
         <a rel="nofollow noreferrer" target="_blank" href="https://scheduler.cdavidmaxey.com/#/new-client-inquiry-phone-call">Schedule a Free Call</a>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-bottom-right"><path d="M0,0 L0,16 L16,16 A16,16 0 0,1 0,0 Z"/></svg></nav>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="inverted-radius-bottom-right"><path d="M0,0 L0,16 L16,16 A16,16 0 0,1 0,0 Z"/></svg>
     </nav>
     <nav class="footer center"><div>
         <div class="FacultyGlyphic">Portland Psychological&nbsp;Services</div>
-        <div class="phone-email"><a href="tel:+1-503-928-4182">+1<span>(</span>503<span>)</span>928-4182</a><br><span class="bullet">&bull;</span><a href="mailto:info@PortlandPS.com">info@PortlandPS.com</a></div>
+        <div class="phone-email"><a href="tel:+1-503-928-4182">+1<span>503</span><span>928</span>4182</a><br><span class="bullet">&bull;</span><a href="mailto:info@PortlandPS.com">info@PortlandPS.com</a></div>
         <div class="notices-links"><a href="https://portlandpsychologicalservices.com/good-faith-estimate-notice/">Good&nbsp;Faith&nbsp;Estimate&nbsp;Notice</a><br><span class="bullet">&bull;</span><a href="https://portlandpsychologicalservices.com/notice/">Privacy&nbsp;Practices&nbsp;Notice</a></div>
         <div id="copyright-notice">&copy;&nbsp;2025 <span class="FacultyGlyphic">Portland&nbsp;Psychological&nbsp;Services</span></div>
     </div></nav>
 </footer>
-<script>function menuFunction(state){var x = document.getElementById("menu");x.classList.toggle("open",state);}</script>
+<script>function menuFunction(state){var m = document.getElementById("menu");m.classList.toggle("open",state);}</script>
 </body>
 </html>
