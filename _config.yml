@@ -2,8 +2,7 @@ gems:
   - jekyll-redirect-from
 timezone: America/Los_Angeles
 permalink: /:title/
-paginate: 40
-paginate_path: articles/page:num/
+relatedlimit: 10
 markdown: kramdown
 url: https://portlandpsychologicalservices.com
 cache: https://cda.vidmaxey.com

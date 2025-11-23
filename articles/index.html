@@ -35,20 +35,13 @@ description: "Articles for parents and teachers about evidence-based practices, 
                 <h1 class="center">General Information Articles</h1>
                 <p>Sometimes, parents need straightforward answers to simple questions (e.g., what is the recommended amount of sleep for children my kid’s age?) or an introduction to an issue we’ll discuss in more detail during our appointment (e.g., should my child repeat or skip a grade in school?). In such cases, I might refer parents to one of these articles for general informational purposes. Please note, these articles do not constitute psychological, medical, or legal advice.</p>
             </section>
-			<section class="blog">{% for post in paginator.posts %}
+			<section class="blog">{% for post in site.posts %}
 				<a class="card" href="{{site.url}}{{post.url}}">
 					<amp-img src="{{site.cache}}/320/{{post.thumb.src}}" srcset="{{site.cache}}/320/{{post.thumb.src}} 320w,{{site.cache}}/640/{{post.thumb.src}} 640w,{{site.cache}}/1280/{{post.thumb.src}} 1280w" width="{{post.thumb.X}}" height="{{post.thumb.Y}}" layout="responsive" alt="{{post.alt}}"></amp-img>
 					<header>{{post.title}}</header>
 					<p>{{post.description}}</p>
 				</a>{% endfor %}
-			</section>{% if paginator.total_pages > 1 %}
-			<nav class="pager buttons">{% if paginator.previous_page %}
-				<a href="{{site.url}}{{paginator.previous_page_path | remove: 'index.html'}}">Newer</a>{% endif %}{% for page in (1..paginator.total_pages) %}{% if page == paginator.page %}
-				<a class="active">{{page}}</a>{% elsif page == 1 %}
-				<a class="hide-mobile" href="{{site.url}}/articles/">{{page}}</a>{% else %}
-				<a class="hide-mobile" href="{{site.url}}/articles/page{{page}}/">{{page}}</a>{% endif %}{% endfor %}{% if paginator.next_page %}
-				<a href="{{site.url}}{{paginator.next_page_path}}">Older</a>{% endif %}
-			</nav>{% endif %}
+			</section>
 		</main>
 {% include footer.html %}
 	</body>
